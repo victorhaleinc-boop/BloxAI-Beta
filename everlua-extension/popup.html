@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { width: 330px; margin: 0; color: #eef0ff; background: #0b0d16; font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .shell { position: relative; overflow: hidden; padding: 16px; background: radial-gradient(340px 170px at 85% -15%, rgba(99,102,241,.35), transparent 66%), linear-gradient(155deg,#131625 0%,#0b0d16 66%); }
+    .shell::after { content:""; position:absolute; inset:0; pointer-events:none; opacity:.34; background-image: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px); background-size: 22px 22px; }
+    .top, .card, .actions, .foot { position: relative; z-index: 1; }
+    .top { display:flex; align-items:center; justify-content:space-between; margin-bottom: 15px; }
+    .brand { display:flex; align-items:center; gap:9px; font-size:15px; font-weight:800; letter-spacing:-.03em; }
+    .brand-mark { display:block; width:29px; height:29px; border-radius:9px; object-fit:cover; box-shadow:0 6px 18px rgba(99,102,241,.32); }
+    .ver { padding:4px 7px; border:1px solid rgba(255,255,255,.12); border-radius:999px; color:#aeb4d6; background:rgba(255,255,255,.045); font-size:10px; font-weight:700; letter-spacing:.03em; }
+    .card { padding:13px; border:1px solid rgba(154,164,255,.20); border-radius:14px; background:rgba(18,21,36,.76); box-shadow: inset 0 1px rgba(255,255,255,.035), 0 12px 28px rgba(0,0,0,.22); backdrop-filter: blur(10px); }
+    .status { display:flex; align-items:center; gap:8px; font-size:12px; font-weight:750; }
+    .dot { width:9px; height:9px; border-radius:50%; background:#64748b; box-shadow:0 0 0 4px rgba(100,116,139,.12); }
+    .dot.on { background:#34d399; box-shadow:0 0 0 4px rgba(52,211,153,.12), 0 0 12px rgba(52,211,153,.8); }
+    .dot.warn { background:#fbbf24; box-shadow:0 0 0 4px rgba(251,191,36,.12), 0 0 12px rgba(251,191,36,.65); }
+    .sub { margin:6px 0 12px 17px; color:#9ca3c7; font-size:11px; line-height:1.45; }
+    .metrics { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+    .metric { padding:9px; border:1px solid rgba(255,255,255,.065); border-radius:10px; background:rgba(255,255,255,.035); }
+    .metric b { display:block; color:#f8f9ff; font-size:16px; line-height:1.05; }
+    .metric span { display:block; margin-top:3px; color:#8f96b5; font-size:10px; font-weight:650; text-transform:uppercase; letter-spacing:.07em; }
+    #servers { max-height:58px; margin:11px 0 0; padding-top:10px; overflow:auto; border-top:1px solid rgba(255,255,255,.07); color:#aeb4ca; font:10.5px/1.55 ui-monospace, SFMono-Regular, Consolas, monospace; white-space:pre-line; }
+    .actions { display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:12px; }
+    button { min-height:34px; border:1px solid transparent; border-radius:9px; padding:8px 10px; color:#e8eaff; font:700 11px/1 Inter, ui-sans-serif, sans-serif; cursor:pointer; transition:transform .14s ease, filter .14s ease, background .14s ease; }
+    button:hover { transform:translateY(-1px); filter:brightness(1.08); }
+    .primary { color:#fff; background:linear-gradient(135deg,#6366f1,#8b5cf6); box-shadow:0 7px 18px rgba(99,102,241,.28); }
+    .ghost { background:rgba(255,255,255,.055); border-color:rgba(255,255,255,.10); }
+    .wide { grid-column:span 2; }
+    .foot { margin-top:13px; color:#737b9f; font-size:10px; line-height:1.5; text-align:center; }
+    code { padding:1px 4px; border-radius:4px; color:#bbc1e7; background:rgba(255,255,255,.07); }
+
+    /* EverLua's popup matches the in-chat white/lavender surface. */
+    :root { color-scheme: light; }
+    body { color:#1b2740; background:#f7f8ff; }
+    .shell { background:radial-gradient(320px 180px at 92% -12%, rgba(113,101,255,.21), transparent 65%), linear-gradient(145deg,#ffffff,#f6f7ff); }
+    .shell::after { opacity:.28; background-image:linear-gradient(rgba(91,101,190,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(91,101,190,.045) 1px,transparent 1px); }
+    .brand { color:#17233d; }
+    .ver { color:#71809c; background:rgba(255,255,255,.7); border-color:rgba(86,98,180,.17); }
+    .card { border-color:rgba(96,106,208,.18); background:rgba(255,255,255,.78); box-shadow:inset 0 1px rgba(255,255,255,.9),0 12px 28px rgba(59,70,126,.10); }
+    .status { color:#26344f; }
+    .sub { color:#71809a; }
+    .metric { border-color:rgba(89,101,181,.14); background:rgba(247,248,255,.90); }
+    .metric b { color:#1a2740; }
+    .metric span { color:#7b86a1; }
+    #servers { color:#71809a; border-top-color:rgba(89,101,181,.12); }
+    .ghost { color:#42516f; background:rgba(245,247,255,.95); border-color:rgba(89,101,181,.17); }
+    .foot { color:#7a86a1; }
+    code { color:#52617f; background:rgba(94,106,183,.09); }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div class="brand"><img class="brand-mark" src="icon.png" alt="" />EverLua Beta</div>
+      <span id="ver" class="ver"></span>
+    </header>
+    <section class="card">
+      <div class="status"><span id="dot" class="dot"></span><span id="state">Checking bridge…</span></div>
+      <div id="tools" class="sub"></div>
+      <div class="metrics"><div class="metric"><b id="tool-count">—</b><span>Available tools</span></div><div class="metric"><b id="server-count">—</b><span>Connected servers</span></div></div>
+      <div id="servers"></div>
+    </section>
+    <section class="actions">
+      <button class="primary wide" id="settings">Open EverLua controls</button>
+      <button class="ghost" id="reconnect">Reconnect bridge</button>
+      <button class="ghost" id="restart">Restart Roblox MCP</button>
+    </section>
+    <footer class="foot">Run <code>start.bat</code>, open Roblox Studio, then choose an AI provider.</footer>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>
