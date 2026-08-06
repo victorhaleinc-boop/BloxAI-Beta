@@ -1,0 +1,5 @@
+# Runtime output and local build packages
+logs/
+__pycache__/
+dist/
+.codex-remote-attachments/
