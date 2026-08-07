@@ -32,6 +32,8 @@ Copy-Item -LiteralPath $extensionSource -Destination $extensionStage -Recurse -F
 Remove-Item -LiteralPath (Join-Path $extensionStage "test-parser.js") -Force -ErrorAction SilentlyContinue
 Remove-Item -LiteralPath (Join-Path $extensionStage "test-ui-kits.js") -Force -ErrorAction SilentlyContinue
 Remove-Item -LiteralPath (Join-Path $extensionStage "ui-builder") -Recurse -Force -ErrorAction SilentlyContinue
+Remove-Item -LiteralPath (Join-Path $extensionStage "everlua-extension") -Recurse -Force -ErrorAction SilentlyContinue
+Remove-Item -LiteralPath (Join-Path $extensionStage "core\completion-guard.js") -Force -ErrorAction SilentlyContinue
 
 @"
 EverLua Beta $Version release build
