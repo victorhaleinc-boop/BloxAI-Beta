@@ -440,6 +440,14 @@
       const gen = P.isGenerating();
       if (gen) lastActiveAt = Date.now(); // actively generating ⇒ never time out
       const d = P.readAssistant();
+      // This marker is the explicit completion protocol. Check it before the
+      // reply-identity/start gate: ChatGPT can render a finished reply while
+      // reporting a stale turn identity, which previously kept the loop alive
+      // even though the user could already see [[EVERLUA_DONE]].
+      if (/\[\[EVERLUA_DONE\]\]/i.test(d.reply || "")) {
+        diag("completion.marker", { replyLen: (d.reply || "").length, gen });
+        return { kind: "text", text: d.reply, item: d.item };
+      }
       // Sites virtualize their lists, so the absolute assistant count can DROP
       // even as a new reply is added. A count increase still proves a new turn
       // appeared; the generating flag is the reliable "reply has begun" signal.
@@ -488,16 +496,6 @@
           await sleep(200);
           continue;
         }
-      }
-
-      // [[EVERLUA_DONE]] is an explicit terminal protocol marker. ChatGPT can
-      // briefly leave a voice/response control mounted after the visible reply
-      // is complete; waiting for that stale control makes the bar incorrectly
-      // keep saying the agent is working. Once this marker is in the new reply,
-      // no command-recovery or generation-state delay is useful or safe.
-      if (/\[\[EVERLUA_DONE\]\]/i.test(d.reply || "")) {
-        diag("completion.marker", { replyLen: (d.reply || "").length, gen });
-        return { kind: "text", text: d.reply, item: d.item };
       }
 
       // Track text stability (independent of the generating flag). Compare the
