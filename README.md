@@ -4,7 +4,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/victorhaleinc-boop/EverLua-Beta?style=social)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
-![License](https://img.shields.io/badge/license-proprietary-purple)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
 **EverLua** is a free browser extension that turns ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio AI agent.
 Control Roblox Studio with AI directly from your browser - read/edit scripts, run Luau, generate assets, all from a normal AI chat. No API key, no terminal, no coding needed.
@@ -17,7 +17,11 @@ Eight AI providers are supported: **ChatGPT** (chatgpt.com), **DeepSeek** (chat.
 
 ## ⚠️ EverLua is Free Beware of Paid Copycats
 
-EverLua is free to download and use. There is no official paid version, no subscription, and no sign-in required to use the extension. EverLua Beta is proprietary software: please download it only from the official release page and do not copy, repackage, or redistribute it.
+EverLua is free and open source under GPLv3. There is no official paid version,
+subscription, or sign-in required to use the extension. Forks and redistributions
+must retain the copyright and GPL notices. The EverLua name and logo remain
+trademarks and may not be used to present a fork as the official project; see
+[TRADEMARKS.md](TRADEMARKS.md).
 
 If you come across a site or extension using the EverLua name that asks for payment or account creation, it is **not** this project. The only official links are the ones listed at the top of this README.
 

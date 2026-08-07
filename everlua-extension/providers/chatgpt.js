@@ -1,1 +1,208 @@
-(function(_0xf27d7f,_0x50b094){const _0x39619c=a0_0x3520,_0x51d4ea=_0xf27d7f();while(!![]){try{const _0x3e4901=-parseInt(_0x39619c(0x235))/0x1*(-parseInt(_0x39619c(0x20e))/0x2)+parseInt(_0x39619c(0x21c))/0x3*(-parseInt(_0x39619c(0x1e3))/0x4)+-parseInt(_0x39619c(0x20a))/0x5*(-parseInt(_0x39619c(0x22c))/0x6)+parseInt(_0x39619c(0x21b))/0x7+-parseInt(_0x39619c(0x202))/0x8+parseInt(_0x39619c(0x1f2))/0x9*(-parseInt(_0x39619c(0x211))/0xa)+parseInt(_0x39619c(0x234))/0xb;if(_0x3e4901===_0x50b094)break;else _0x51d4ea['push'](_0x51d4ea['shift']());}catch(_0x4365c3){_0x51d4ea['push'](_0x51d4ea['shift']());}}}(a0_0x1708,0x76888));function a0_0x1708(){const _0x5a7120=['w2rHDgeTDgvZDgLKpsjZDg9Wlwj1DhrVBIjD','y2fSBa','Dg9Nz2XLqxr0CMLIDxrL','CMvTB3zLqwXSuMfUz2vZ','CxvLCNLtzwXLy3rVCKfSBa','yNv0Dg9U','ywrKuMfUz2u','z2v0qxr0CMLIDxrL','nZm2mtiWogTYqNbIAW','BwfW','C2HPzNrlzxK','zgvSzxrL','CMvHzg9UBhK','ywrK','Bwv0yuTLEq','yxjPys1SywjLBa','mZyXnvD3sNPNyq','zgLZCgf0y2HfDMvUDa','y2HHDgDWDa','zM9JDxm','odqYntq2uK9QCvzj','rw50zxi','w2rHDgeTBwvZC2fNzs1HDxrOB3iTCM9Szt0IDxnLCIjD','mJy5mgfNtw9lvq','Dg9mB3DLCKnHC2u','Cgf0Ag5HBwu','B25vC2vYtwvZC2fNzq','zMLUza','zxjYB3i','B25cBg9JA2vKqxr0zw1WDa','y29UDgvUDevKAxrHyMXL','zgLZywjSzwq','y3jLyxrLuMfUz2u','mJe1mtCWmKLLrKTjsG','mZC1mg5pAxLmDa','DhjPBq','y29UDgfPBNm','DxnLCG','Dhj1zq','DMfSDwu','Bwf0y2HLCW','Dgv4DenVBNrLBNq','DgfNtMfTzq','AxntDgfYDgvK','zwrPDg9Y','CxvLCNLtzwXLy3rVCG','z2v0','y2XHC3nmAxn0','w2rHDgeTDgvZDgLKpsjZzw5Klwj1DhrVBIjD','DhvYBG','ntq0mM5cthDQvG','z2v0q2XPzw50uMvJDhm','ENmTDg9VBc1OAwrL','BM93','CgfYzw50rwXLBwvUDa','zMLSDgvY','C3rVCa','q2HHDeDqva','mtm0odiZnZbNu0PpB1e','muHVD1HqqG','zM9YrwfJAa','DgvZDa','vevyvefsrue','Aw5UzxjuzxH0','C2vSzwn0tM9KzunVBNrLBNrZ','zMfSC2u','zgf0ys1TzxnZywDLlwLK','zxHLy0nVBw1HBMq','Aw5Zzxj0tgLUzujYzwfR','Aw5Zzxj0vgv4Da','y2XPy2S','w2rHDgeTBwvZC2fNzs1HDxrOB3iTCM9Szv0','A2v5zg93BG','z2v0u2vSzwn0Aw9U','z2v0t3DUuhjVCgvYDhLezxnJCMLWDg9Y','A2v5','ChjLlgnVzgu','mtKZmNrlB1zfza','q2HHDeDqvcbJB21WB3nLCIbUB3qGzM91BMq','yxjPys1KAxnHyMXLza','y2XVC2vZDa','i3bYB21WDc10zxH0yxjLyq','C3bSAxq','ywrKrxzLBNrmAxn0zw5LCG','w2rHDgeTBwvZC2fNzs1HDxrOB3iTCM9Szt0IyxnZAxn0yw50iL0','w2nVBNrLBNrLzgL0ywjSzt0IDhj1zsjDlcb0zxH0yxjLyq','B25cBg9JA2vKvxnLCK1LC3nHz2u','DgL0Bgu','AxndB21WB3nPBMC','w3jVBgu9iMfSzxj0iL0Sw2rHDgeTDgvZDgLKkJ0IzxjYB3iIxsXBy2XHC3mQpsjLCNjVCIjDlfTJBgfZCYO9iNrVyxn0iL0','y3rYBeTLEq','Aw5WDxq','mJaWotDiq2HNt0e','C2vUza','C2vSzwn0qwXS','y29SBgfWC2u','DgfYz2v0','i3PZlxjVB3q','ywX0s2v5','BgvUz3rO'];a0_0x1708=function(){return _0x5a7120;};return a0_0x1708();}function a0_0x3520(_0x58960a,_0x981af0){_0x58960a=_0x58960a-0x1e1;const _0x170898=a0_0x1708();let _0x3520e9=_0x170898[_0x58960a];if(a0_0x3520['tFgsZD']===undefined){var _0x210654=function(_0x4efbf9){const _0x1f98ae='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x317d86='',_0x3a6f85='';for(let _0x4c1ba7=0x0,_0x487d95,_0x8d7db8,_0x1b8410=0x0;_0x8d7db8=_0x4efbf9['charAt'](_0x1b8410++);~_0x8d7db8&&(_0x487d95=_0x4c1ba7%0x4?_0x487d95*0x40+_0x8d7db8:_0x8d7db8,_0x4c1ba7++%0x4)?_0x317d86+=String['fromCharCode'](0xff&_0x487d95>>(-0x2*_0x4c1ba7&0x6)):0x0){_0x8d7db8=_0x1f98ae['indexOf'](_0x8d7db8);}for(let _0x7227ad=0x0,_0x5a40dd=_0x317d86['length'];_0x7227ad<_0x5a40dd;_0x7227ad++){_0x3a6f85+='%'+('00'+_0x317d86['charCodeAt'](_0x7227ad)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3a6f85);};a0_0x3520['YcuQqC']=_0x210654,a0_0x3520['JWPoLI']={},a0_0x3520['tFgsZD']=!![];}const _0x197970=_0x170898[0x0],_0x226333=_0x58960a+_0x197970,_0x422cb9=a0_0x3520['JWPoLI'][_0x226333];return!_0x422cb9?(_0x3520e9=a0_0x3520['YcuQqC'](_0x3520e9),a0_0x3520['JWPoLI'][_0x226333]=_0x3520e9):_0x3520e9=_0x422cb9,_0x3520e9;}const ZSProvider=((()=>{'use strict';const _0x4fffdf=a0_0x3520;const _0x317d86=_0x597911=>new Promise(_0x472a14=>setTimeout(_0x472a14,_0x597911));let _0x3a6f85=()=>{},_0x4c1ba7=![];const _0x487d95={'turn':_0x4fffdf(0x241),'assistant':_0x4fffdf(0x1ea),'user':_0x4fffdf(0x210),'editor':_0x4fffdf(0x1e7),'send':_0x4fffdf(0x22a),'stop':_0x4fffdf(0x1fa),'error':_0x4fffdf(0x1ef)},_0x8d7db8={'GEN_IDLE_MS':0x5dc,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2710,'RESPONSE_TIMEOUT_MS':0x493e0},_0x1b8410=()=>[...document[_0x4fffdf(0x1fe)](_0x487d95[_0x4fffdf(0x22b)])]['filter'](_0x272875=>!_0x272875[_0x4fffdf(0x1e6)](_0x4fffdf(0x1f7))),_0x7227ad=_0x1a132d=>!!_0x1a132d&&_0x1a132d[_0x4fffdf(0x222)](_0x487d95['assistant']),_0x5a40dd=_0x5357fb=>!!_0x5357fb&&_0x5357fb[_0x4fffdf(0x222)](_0x487d95[_0x4fffdf(0x21f)]),_0xa2d463=()=>_0x1b8410()[_0x4fffdf(0x231)](_0x7227ad),_0x1a72ab=()=>_0x1b8410(),_0x14f2fc=()=>_0xa2d463()['length'],_0x3d3703=()=>_0x1b8410()['filter'](_0x5a40dd)[_0x4fffdf(0x1f9)],_0x160fde=()=>{const _0x53a6a0=_0xa2d463();return _0x53a6a0[_0x53a6a0['length']-0x1]||null;},_0x145a67=new WeakMap();let _0x1e3265=0x0;const _0x57029c=()=>{const _0x39ed77=_0x4fffdf,_0x38d9b1=_0x160fde();if(!_0x38d9b1)return null;const _0x25e16d=_0x38d9b1['getAttribute'](_0x39ed77(0x23c));if(_0x25e16d)return _0x25e16d;if(!_0x145a67['has'](_0x38d9b1))_0x145a67['set'](_0x38d9b1,++_0x1e3265);return _0x145a67[_0x39ed77(0x228)](_0x38d9b1);},_0x3fcfa2=(_0x519cac,_0x2520aa)=>{const _0x176caf=_0x4fffdf;if(!_0x519cac)return'';const _0x59bbe1=_0x519cac['cloneNode'](!![]);return _0x59bbe1[_0x176caf(0x1fe)]('.zs-chip'+(_0x2520aa?','+_0x2520aa:''))[_0x176caf(0x236)](_0x4997e5=>_0x4997e5['remove']()),_0x59bbe1['textContent']||'';},_0xcab8ca=_0x5d3b35=>{const _0x57aded=_0x4fffdf,_0x26ec60=_0x3fcfa2(_0x5d3b35);return/^(?:json|javascript|typescript|python|lua|text)\s*$/i[_0x57aded(0x237)](_0x26ec60)?'':_0x26ec60;},_0x430b5f=(_0x4c79de,_0x47eb3a)=>_0x3fcfa2(_0x4c79de,_0x47eb3a),_0x1bfa76=()=>{const _0x362462=_0x160fde();return{'present':!!_0x362462,'reply':_0xcab8ca(_0x362462)['trim'](),'thinking':'','item':_0x362462};},_0x20325c=()=>_0x1bfa76()['reply'][_0x4fffdf(0x1f9)],_0x5227a1=()=>({'asst':_0x14f2fc(),'user':_0x3d3703(),'gen':_0xd532bb()});function _0x3798ad(){const _0x56688d=_0x4fffdf,_0x33b2f0=document[_0x56688d(0x227)](_0x487d95[_0x56688d(0x226)]);if(_0x33b2f0&&!_0x33b2f0[_0x56688d(0x1e6)](_0x56688d(0x1f7)))return _0x33b2f0;return[...document['querySelectorAll'](_0x56688d(0x1eb))][_0x56688d(0x215)](_0x5738d6=>!_0x5738d6[_0x56688d(0x1e6)]('#zs-root')&&/chat with chatgpt|ask anything/i[_0x56688d(0x237)](_0x5738d6[_0x56688d(0x201)]('aria-label')||_0x5738d6[_0x56688d(0x201)]('placeholder')||''))||null;}const _0x1897b9=()=>{const _0x5c29c9=_0x4fffdf,_0x231044=_0x3798ad();return _0x231044?_0x231044['value']!=null?_0x231044[_0x5c29c9(0x221)]:_0x231044[_0x5c29c9(0x239)]||_0x231044['textContent']||'':'';},_0x1a2dc7=()=>_0x1b8410()[_0x4fffdf(0x1f9)]===0x0,_0x4de1a7=()=>_0x1a2dc7(),_0x54e637=()=>{const _0x3f52d2=_0x4fffdf,_0x73e2bf=_0x3798ad();return _0x73e2bf&&(_0x73e2bf[_0x3f52d2(0x1e6)]('form')||_0x73e2bf['parentElement']);};function _0x2f84be(){const _0x39bef4=_0x4fffdf,_0x4c7104=_0x54e637();if(!_0x4c7104||!_0x4c7104[_0x39bef4(0x230)])return null;return{'parent':_0x4c7104[_0x39bef4(0x230)],'before':_0x4c7104,'inside':![]};}const _0x1b7708=_0x54e637,_0x1b2bc6=_0x54e637;function _0x238eea(){const _0x54a5b5=_0x4fffdf,_0x253299=_0x3798ad();if(!_0x253299)return;_0x253299[_0x54a5b5(0x218)]=_0x4c1ba7?_0x54a5b5(0x23b):'true',_0x253299[_0x54a5b5(0x1fc)](_0x54a5b5(0x206),_0x4c1ba7);}function _0x452364(_0x484b37){_0x4c1ba7=!!_0x484b37,_0x238eea();}function _0x2879f6(_0x443c25,_0x549f0a){const _0x5763a0=_0x4fffdf;if(_0x443c25[_0x5763a0(0x221)]!=null&&_0x443c25[_0x5763a0(0x224)]===_0x5763a0(0x238)){const _0xe6211a=Object[_0x5763a0(0x244)](HTMLTextAreaElement['prototype'],_0x5763a0(0x221))['set'];_0xe6211a[_0x5763a0(0x1fb)](_0x443c25,_0x549f0a);}else{_0x443c25[_0x5763a0(0x20d)]();const _0x247891=window[_0x5763a0(0x243)](),_0x5ed241=document[_0x5763a0(0x21a)]();_0x5ed241[_0x5763a0(0x23a)](_0x443c25),_0x5ed241[_0x5763a0(0x1f5)](![]),_0x247891[_0x5763a0(0x1fd)](),_0x247891[_0x5763a0(0x200)](_0x5ed241),document[_0x5763a0(0x23d)](_0x5763a0(0x1f4),![],null),document[_0x5763a0(0x23d)](_0x5763a0(0x205),![],null);const _0x5bcf98=String(_0x549f0a)[_0x5763a0(0x1e8)]('\x0a');_0x5bcf98[_0x5763a0(0x236)]((_0x2db61d,_0x2d97c4)=>{const _0x3b727b=_0x5763a0;if(_0x2db61d)document[_0x3b727b(0x23d)](_0x3b727b(0x23f),![],_0x2db61d);if(_0x2d97c4<_0x5bcf98[_0x3b727b(0x1f9)]-0x1)document[_0x3b727b(0x23d)](_0x3b727b(0x23e),![],null);});}_0x443c25[_0x5763a0(0x20b)](new InputEvent(_0x5763a0(0x1f1),{'bubbles':!![],'inputType':_0x5763a0(0x23f),'data':_0x549f0a}));}async function _0x371d0e(_0x3d4a38){const _0x445167=_0x4fffdf,_0x5c3868=()=>[...document[_0x445167(0x1fe)](_0x487d95[_0x445167(0x232)])]['some'](_0x69b55=>{const _0x4925c4=_0x445167,_0x454ec7=((_0x69b55[_0x4925c4(0x201)](_0x4925c4(0x209))||'')+'\x20'+(_0x69b55['getAttribute'](_0x4925c4(0x1ed))||'')+'\x20'+(_0x69b55[_0x4925c4(0x239)]||''))[_0x4925c4(0x212)]();return!!_0x69b55[_0x4925c4(0x22d)]()[_0x4925c4(0x1f9)]&&/stop (?:generating|response)|stop$/i['test'](_0x454ec7[_0x4925c4(0x21d)]());});while(_0x5c3868())await _0x317d86(0x96);const _0x52b05d=_0x3798ad();if(!_0x52b05d)throw new Error(_0x445167(0x1e4));const _0x37bf38=_0x4c1ba7;_0x37bf38&&(_0x4c1ba7=![],_0x238eea());_0x2879f6(_0x52b05d,_0x3d4a38),await _0x317d86(0x50);let _0x4b122c=null;while(!![]){_0x4b122c=document[_0x445167(0x227)](_0x487d95[_0x445167(0x1f3)]);if(_0x4b122c&&!_0x4b122c[_0x445167(0x219)]&&_0x4b122c[_0x445167(0x201)](_0x445167(0x1e5))!==_0x445167(0x220))break;await _0x317d86(0x64);}_0x4b122c[_0x445167(0x240)](),_0x37bf38&&(_0x4c1ba7=!![],_0x238eea());}const _0xd532bb=()=>[...document[_0x4fffdf(0x1fe)](_0x487d95[_0x4fffdf(0x232)])]['some'](_0x472c15=>{const _0x30b45e=_0x4fffdf,_0xe19dbc=((_0x472c15[_0x30b45e(0x201)](_0x30b45e(0x209))||'')+'\x20'+(_0x472c15[_0x30b45e(0x201)](_0x30b45e(0x1ed))||'')+'\x20'+(_0x472c15[_0x30b45e(0x239)]||''))[_0x30b45e(0x212)]();return!!_0x472c15[_0x30b45e(0x22d)]()[_0x30b45e(0x1f9)]&&/stop (?:generating|response)|stop$/i[_0x30b45e(0x237)](_0xe19dbc[_0x30b45e(0x21d)]());}),_0x3b8f93=_0xd532bb,_0x17e3b6=_0xd532bb,_0x3afc21=()=>{const _0x165e1c=_0x4fffdf,_0x5f1f1e=document[_0x165e1c(0x227)](_0x487d95[_0x165e1c(0x232)]);if(_0x5f1f1e)_0x5f1f1e[_0x165e1c(0x240)]();},_0xb1fe4f=()=>{if(_0x4c1ba7)_0x238eea();return{'ready':!!_0x3798ad()};},_0x2a2628=async()=>({'ready':!!_0x3798ad()}),_0x5978f2=()=>null,_0x5b06b7=()=>![],_0x3f2990=()=>![],_0x275d91=()=>![],_0x255642=()=>[...document[_0x4fffdf(0x1fe)](_0x4fffdf(0x1ff))][_0x4fffdf(0x215)](_0x32447c=>/^(continue|continue generating)$/i['test']((_0x32447c['innerText']||'')[_0x4fffdf(0x21d)]()))||null,_0x168042=()=>{const _0x5e368c=_0x255642();if(_0x5e368c)return _0x5e368c['click'](),!![];return![];},_0x44ea4a=()=>[...document['querySelectorAll'](_0x487d95[_0x4fffdf(0x216)])][_0x4fffdf(0x203)](_0x4f3c63=>_0x4f3c63[_0x4fffdf(0x239)]||_0x4f3c63[_0x4fffdf(0x223)]||'')[_0x4fffdf(0x215)](_0x3bb41a=>/error|try again|limit|too many/i['test'](_0x3bb41a))||'',_0x194535=_0x230241=>/too long|context limit|maximum length/i[_0x4fffdf(0x237)](_0x230241||''),_0x396798=_0x44f33e=>/try again|too many requests|rate limit|busy/i[_0x4fffdf(0x237)](_0x44f33e||''),_0x3e4aa2=()=>_0x1a2dc7()||location[_0x4fffdf(0x213)]==='/'?'':location[_0x4fffdf(0x213)];function _0x48652e(_0xd2ae83){const _0x4b78bb=_0x4fffdf,_0xb1cfd2=()=>{const _0xab4735=a0_0x3520;if(_0xd2ae83['isBlocked']()){if(_0xd2ae83[_0xab4735(0x1ec)])_0xd2ae83[_0xab4735(0x1ec)](_0x14f2fc());return;}if(!_0xd2ae83[_0xab4735(0x225)]()){if(_0x1a2dc7())_0xd2ae83[_0xab4735(0x217)]();return;}_0xd2ae83[_0xab4735(0x214)](_0x14f2fc());};document['addEventListener'](_0x4b78bb(0x240),_0x115ad3=>{const _0x3afc85=_0x4b78bb,_0xeae124=_0x115ad3[_0x3afc85(0x1f6)]&&_0x115ad3[_0x3afc85(0x1f6)][_0x3afc85(0x1e6)]&&_0x115ad3[_0x3afc85(0x1f6)][_0x3afc85(0x1e6)](_0x3afc85(0x1ff));if(!_0xeae124)return;if(_0xeae124[_0x3afc85(0x222)](_0x487d95[_0x3afc85(0x232)])){_0xd2ae83['onNativeStop']();return;}if(!_0xeae124[_0x3afc85(0x222)](_0x487d95[_0x3afc85(0x1f3)])||_0xeae124['disabled']||_0xeae124[_0x3afc85(0x201)](_0x3afc85(0x1e5))===_0x3afc85(0x220))return;_0xb1cfd2();},!![]),document[_0x4b78bb(0x1e9)](_0x4b78bb(0x242),_0x324ad9=>{const _0x1b57da=_0x4b78bb;if(_0x324ad9[_0x1b57da(0x1e1)]!==_0x1b57da(0x20f)||_0x324ad9[_0x1b57da(0x204)]||_0x324ad9[_0x1b57da(0x1f8)]||_0x324ad9[_0x1b57da(0x1f0)]||_0x324ad9[_0x1b57da(0x208)]||_0x324ad9[_0x1b57da(0x1ee)])return;const _0x47d089=_0x3798ad();if(!_0x47d089||!(_0x324ad9['target']===_0x47d089||_0x47d089[_0x1b57da(0x21e)](_0x324ad9['target'])))return;const _0x3f297d=_0x1897b9()[_0x1b57da(0x21d)]();if(!_0x3f297d)return;const _0x4c42b8=Date['now']()+0x4b0,_0x330649=()=>{const _0x45f2c1=_0x1b57da,_0x31b6ab=document[_0x45f2c1(0x227)](_0x487d95[_0x45f2c1(0x1f3)]),_0x2e52f7=_0x1897b9()[_0x45f2c1(0x21d)]()!==_0x3f297d||_0x31b6ab&&(_0x31b6ab['disabled']||_0x31b6ab['getAttribute'](_0x45f2c1(0x1e5))===_0x45f2c1(0x220));if(_0x2e52f7){_0xb1cfd2();return;}if(Date[_0x45f2c1(0x22f)]()<_0x4c42b8)setTimeout(_0x330649,0x50);};setTimeout(_0x330649,0x50);},!![]);}const _0x5b7d33=_0x513162=>{const _0x3a6cb4=_0x4fffdf;if(!_0x513162)return null;const _0x2be49b=[..._0x513162[_0x3a6cb4(0x1fe)](_0x3a6cb4(0x1e2))][_0x3a6cb4(0x215)](_0x56c63c=>/"(?:command|tool)"\s*:|###\s*(?:lua|mcp_tool)/i[_0x3a6cb4(0x237)](_0x56c63c['textContent']||''));if(_0x2be49b)return _0x2be49b[_0x3a6cb4(0x229)][_0x3a6cb4(0x207)](_0x3a6cb4(0x22e)),{'parent':_0x2be49b[_0x3a6cb4(0x230)],'ref':_0x2be49b};return null;};return{'id':_0x4fffdf(0x20c),'displayName':_0x4fffdf(0x233),'supportsVision':![],'timings':_0x8d7db8,'chipAtItemLevel':!![],'chipAnchor':_0x3f52a0=>_0x3f52a0,'chipAppend':!![],'reliableCounts':!![],'init'({diag:_0x2066c8}={}){if(_0x2066c8)_0x3a6f85=_0x2066c8;},'allItems':_0x1a72ab,'isUserItem':_0x5a40dd,'isAssistantItem':_0x7227ad,'itemText':_0xcab8ca,'classifyText':_0x430b5f,'assistantCount':_0x14f2fc,'userCount':_0x3d3703,'lastAssistant':_0x160fde,'lastAssistantId':_0x57029c,'readAssistant':_0x1bfa76,'streamLen':_0x20325c,'snapshot':_0x5227a1,'getEditor':_0x3798ad,'editorText':_0x1897b9,'chatIsEmpty':_0x1a2dc7,'isFreshChat':_0x4de1a7,'composerFrame':_0x54e637,'barAnchor':_0x1b7708,'barMount':_0x2f84be,'coverTarget':_0x1b2bc6,'setInputLock':_0x452364,'typeAndSend':_0x371d0e,'stopGeneration':_0x3afc21,'isGenerating':_0xd532bb,'isBusyNow':_0x17e3b6,'isHardGenerating':_0x3b8f93,'enforceComposer':_0xb1fe4f,'ensureComposerReady':_0x2a2628,'modeWarning':_0x5978f2,'captchaPresent':_0x5b06b7,'overlayBlocking':_0x3f2990,'turnHalted':_0x275d91,'findContinueBtn':_0x255642,'clickContinueBtn':_0x168042,'scanError':_0x44ea4a,'isTooLongMsg':_0x194535,'isBusyMsg':_0x396798,'attachImages':async()=>{},'clearAttachments':()=>{},'conversationKey':_0x3e4aa2,'installSendHooks':_0x48652e,'findToolBlockSpot':_0x5b7d33};})());
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/chatgpt.js - ChatGPT web provider (chatgpt.com).
+// Uses the user's normal signed-in ChatGPT page; no API key is required.
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {};
+  let locked = false;
+  const S = {
+    turn: '[data-message-author-role]', assistant: '[data-message-author-role="assistant"]',
+    user: '[data-message-author-role="user"]', editor: '#prompt-textarea',
+    send: '[data-testid="send-button"]', stop: '[data-testid="stop-button"]',
+    error: '[role="alert"],[data-testid*="error"],[class*="error"],[class*="toast"]',
+  };
+  const timings = { GEN_IDLE_MS: 1500, REASON_IDLE_MS: 12000, WARMUP_MS: 45000, REASON_NOREPLY_MS: 90000, STABLE_MS: 10000, RESPONSE_TIMEOUT_MS: 300000 };
+  const turns = () => [...document.querySelectorAll(S.turn)].filter((e) => !e.closest('#zs-root'));
+  const isAssistantItem = (item) => !!item && item.matches(S.assistant);
+  const isUserItem = (item) => !!item && item.matches(S.user);
+  const assistantItems = () => turns().filter(isAssistantItem);
+  const allItems = () => turns();
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => turns().filter(isUserItem).length;
+  const lastAssistant = () => { const a = assistantItems(); return a[a.length - 1] || null; };
+  const ids = new WeakMap(); let idSeq = 0;
+  // ChatGPT frequently replaces a rendered message node during a syntax/highlight
+  // pass. Its data-message-id survives that replacement; a WeakMap-only identity
+  // does not, which made the previous command look like a fresh reply and could
+  // execute it twice after a tool result was sent.
+  const lastAssistantId = () => {
+    const item = lastAssistant();
+    if (!item) return null;
+    const stableId = item.getAttribute('data-message-id');
+    if (stableId) return stableId;
+    if (!ids.has(item)) ids.set(item, ++idSeq);
+    return ids.get(item);
+  };
+  const withoutOwnUi = (root, exclude) => {
+    if (!root) return "";
+    const copy = root.cloneNode(true);
+    // `.zs-tool-hide` is only a presentation class: EverLua puts it on
+    // ChatGPT's raw command <pre> after it has rendered a polished tool card.
+    // Do NOT remove it from this clone. This reader is also the command parser,
+    // and removing the source block made ChatGPT commands look like an unnamed
+    // "command" and then settle as "not run".
+    copy.querySelectorAll('.zs-chip' + (exclude ? ',' + exclude : '')).forEach((e) => e.remove());
+    // The rendered command block is deliberately hidden after EverLua adds its
+    // compact tool card. `innerText` omits hidden elements, leaving only the
+    // code-block chrome (for example, "JSON") and making a valid
+    // {"command":"list_commands"} reply look like ordinary text. `textContent`
+    // preserves the command source regardless of its presentation state.
+    return copy.textContent || "";
+  };
+  const itemText = (item) => {
+    const text = withoutOwnUi(item);
+    // ChatGPT paints a code-block language header (usually just `JSON`) before
+    // CodeMirror mounts the block's actual contents. A bare header is not a
+    // reply: treating it as one let startup finish before
+    // {"command":"list_commands"} arrived on the next render.
+    return /^(?:json|javascript|typescript|python|lua|text)\s*$/i.test(text) ? "" : text;
+  };
+  const classifyText = (item, exclude) => withoutOwnUi(item, exclude);
+  const readAssistant = () => { const item = lastAssistant(); return { present: !!item, reply: itemText(item).trim(), thinking: "", item }; };
+  const streamLen = () => readAssistant().reply.length;
+  const snapshot = () => ({ asst: assistantCount(), user: userCount(), gen: isGenerating() });
+  function getEditor() {
+    const preferred = document.querySelector(S.editor);
+    if (preferred && !preferred.closest('#zs-root')) return preferred;
+    return [...document.querySelectorAll('[contenteditable="true"], textarea')].find((e) => !e.closest('#zs-root') && /chat with chatgpt|ask anything/i.test(e.getAttribute('aria-label') || e.getAttribute('placeholder') || '')) || null;
+  }
+  const editorText = () => { const e = getEditor(); return e ? (e.value != null ? e.value : e.innerText || e.textContent || "") : ""; };
+  const chatIsEmpty = () => turns().length === 0;
+  const isFreshChat = () => chatIsEmpty();
+  const composerFrame = () => { const e = getEditor(); return e && (e.closest('form') || e.parentElement); };
+  function barMount() {
+    const frame = composerFrame();
+    if (!frame || !frame.parentElement) return null;
+    // Place EverLua directly above ChatGPT's composer form. Returning the
+    // explicit mount contract keeps the bar in-flow; returning a bare element
+    // made the core reject the mount and left Start invisible.
+    return { parent: frame.parentElement, before: frame, inside: false };
+  }
+  const barAnchor = composerFrame;
+  const coverTarget = composerFrame;
+  function applyLock() { const e = getEditor(); if (!e) return; e.contentEditable = locked ? 'false' : 'true'; e.toggleAttribute('readonly', locked); }
+  function setInputLock(on) { locked = !!on; applyLock(); }
+  function setEditorText(editor, text) {
+    if (editor.value != null && editor.tagName === 'TEXTAREA') {
+      const setter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, 'value').set;
+      setter.call(editor, text);
+    } else {
+      // ChatGPT uses a React-managed contenteditable. Assigning textContent
+      // paints text but does not always update the editor's internal state,
+      // leaving EverLua waiting for a reply that was never actually sent.
+      editor.focus();
+      const selection = window.getSelection();
+      const range = document.createRange();
+      range.selectNodeContents(editor); range.collapse(false);
+      selection.removeAllRanges(); selection.addRange(range);
+      document.execCommand('selectAll', false, null);
+      document.execCommand('delete', false, null);
+      const lines = String(text).split('\n');
+      lines.forEach((line, index) => {
+        if (line) document.execCommand('insertText', false, line);
+        if (index < lines.length - 1) document.execCommand('insertLineBreak', false, null);
+      });
+    }
+    editor.dispatchEvent(new InputEvent('input', { bubbles: true, inputType: 'insertText', data: text }));
+  }
+  async function typeAndSend(text) {
+    // ChatGPT keeps some non-generation controls mounted with the same test id,
+    // so only an explicitly labelled visible Stop control means it is busy.
+    const isActuallyGenerating = () => [...document.querySelectorAll(S.stop)].some((b) => {
+      const label = `${b.getAttribute('aria-label') || ''} ${b.getAttribute('title') || ''} ${b.innerText || ''}`.toLowerCase();
+      return !!b.getClientRects().length && /stop (?:generating|response)|stop$/i.test(label.trim());
+    });
+    // Do not type a follow-up into the composer while ChatGPT is generating.
+    // This is state-driven, not a fixed delay: send as soon as the real Stop
+    // control disappears and the composer can accept the next message.
+    while (isActuallyGenerating()) await sleep(150);
+    const editor = getEditor(); if (!editor) throw new Error('ChatGPT composer not found');
+    const wasLocked = locked; if (wasLocked) { locked = false; applyLock(); }
+    setEditorText(editor, text); await sleep(80);
+    // React enables ChatGPT's button on its next render after a programmatic
+    // contenteditable update. Checking immediately leaves the tool result in
+    // the composer and falsely aborts an otherwise healthy EverLua session.
+    let send = null;
+    // The Send button itself is the authoritative readiness signal. A goal
+    // check may be queued while ChatGPT is still rendering a long reply, so do
+    // not abandon it after an arbitrary timeout: send immediately when the
+    // button becomes available.
+    while (true) {
+      send = document.querySelector(S.send);
+      if (send && !send.disabled && send.getAttribute('aria-disabled') !== 'true') break;
+      await sleep(100);
+    }
+    send.click();
+    if (wasLocked) { locked = true; applyLock(); }
+  }
+  // `data-testid="stop-button"` is also used by voice controls, so require a
+  // visible, explicitly labelled generation-stop control before reporting busy.
+  const isGenerating = () => [...document.querySelectorAll(S.stop)].some((b) => {
+    const label = `${b.getAttribute('aria-label') || ''} ${b.getAttribute('title') || ''} ${b.innerText || ''}`.toLowerCase();
+    return !!b.getClientRects().length && /stop (?:generating|response)|stop$/i.test(label.trim());
+  });
+  const isHardGenerating = isGenerating;
+  const isBusyNow = isGenerating;
+  const stopGeneration = () => { const b = document.querySelector(S.stop); if (b) b.click(); };
+  const enforceComposer = () => { if (locked) applyLock(); return { ready: !!getEditor() }; };
+  const ensureComposerReady = async () => ({ ready: !!getEditor() });
+  const modeWarning = () => null;
+  const captchaPresent = () => false;
+  const overlayBlocking = () => false;
+  const turnHalted = () => false;
+  const findContinueBtn = () => [...document.querySelectorAll('button')].find((b) => /^(continue|continue generating)$/i.test((b.innerText || '').trim())) || null;
+  const clickContinueBtn = () => { const b = findContinueBtn(); if (b) { b.click(); return true; } return false; };
+  const scanError = () => [...document.querySelectorAll(S.error)].map((e) => e.innerText || e.textContent || '').find((t) => /error|try again|limit|too many/i.test(t)) || '';
+  const isTooLongMsg = (t) => /too long|context limit|maximum length/i.test(t || '');
+  const isBusyMsg = (t) => /try again|too many requests|rate limit|busy/i.test(t || '');
+  // ChatGPT keeps the root URL (/) on its blank welcome screen. Treat that as
+  // no conversation, otherwise a stale started-session record hides EverLua's
+  // Start button before the first prompt has ever been sent.
+  const conversationKey = () => (chatIsEmpty() || location.pathname === '/') ? '' : location.pathname;
+  function installSendHooks(handlers) {
+    const onUserSubmit = () => {
+      if (handlers.isBlocked()) { if (handlers.onBlockedUserMessage) handlers.onBlockedUserMessage(assistantCount()); return; }
+      if (!handlers.isStarted()) { if (chatIsEmpty()) handlers.onBlockedAttempt(); return; }
+      handlers.onUserMessage(assistantCount());
+    };
+    document.addEventListener('click', (e) => {
+      const b = e.target && e.target.closest && e.target.closest('button'); if (!b) return;
+      if (b.matches(S.stop)) { handlers.onNativeStop(); return; }
+      if (!b.matches(S.send) || b.disabled || b.getAttribute('aria-disabled') === 'true') return;
+      onUserSubmit();
+    }, true);
+    // ChatGPT sends with Enter as well as its visible Send button. The old
+    // click-only hook meant keyboard-submitted messages received an AI reply
+    // but never started EverLua's command loop, leaving tool JSON as "not run".
+    document.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter' || e.shiftKey || e.altKey || e.ctrlKey || e.metaKey || e.isComposing) return;
+      const editor = getEditor();
+      if (!editor || !(e.target === editor || editor.contains(e.target))) return;
+      const submittedText = editorText().trim();
+      if (!submittedText) return;
+      // ChatGPT processes Enter after the current event turn. The old zero-ms
+      // check often ran first, saw the still-populated composer, and abandoned
+      // the EverLua loop even though ChatGPT sent the message a moment later.
+      // Confirm acceptance over a short window by watching the composer clear
+      // or the Send button become disabled.
+      const deadline = Date.now() + 1200;
+      const confirmSent = () => {
+        const send = document.querySelector(S.send);
+        const accepted = editorText().trim() !== submittedText ||
+          (send && (send.disabled || send.getAttribute('aria-disabled') === 'true'));
+        if (accepted) { onUserSubmit(); return; }
+        if (Date.now() < deadline) setTimeout(confirmSent, 80);
+      };
+      setTimeout(confirmSent, 80);
+    }, true);
+  }
+  const findToolBlockSpot = (item) => {
+    if (!item) return null;
+    const block = [...item.querySelectorAll('pre,code')].find((e) => /"(?:command|tool)"\s*:|###\s*(?:lua|mcp_tool)/i.test(e.textContent || ''));
+    if (block) { block.classList.add('zs-tool-hide'); return { parent: block.parentElement, ref: block }; }
+    return null;
+  };
+  return { id:'chatgpt', displayName:'ChatGPT', supportsVision:false, timings, chipAtItemLevel:true, chipAnchor:(i) => i, chipAppend:true, reliableCounts:true, init({diag:d}={}) { if (d) diag=d; }, allItems,isUserItem,isAssistantItem,itemText,classifyText,assistantCount,userCount,lastAssistant,lastAssistantId,readAssistant,streamLen,snapshot,getEditor,editorText,chatIsEmpty,isFreshChat,composerFrame,barAnchor,barMount,coverTarget,setInputLock,typeAndSend,stopGeneration,isGenerating,isBusyNow,isHardGenerating,enforceComposer,ensureComposerReady,modeWarning,captchaPresent,overlayBlocking,turnHalted,findContinueBtn,clickContinueBtn,scanError,isTooLongMsg,isBusyMsg,attachImages:async()=>{},clearAttachments:()=>{},conversationKey,installSendHooks,findToolBlockSpot };
+})();

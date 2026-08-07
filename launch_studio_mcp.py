@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: LicenseRef-EverLua-Proprietary
+# SPDX-License-Identifier: GPL-3.0-only
 # launch_studio_mcp.py
 # ──────────────────────────────────────────────────────────────────────────
 #  Robust launcher for Roblox's StudioMCP.exe (the Studio MCP studio server).

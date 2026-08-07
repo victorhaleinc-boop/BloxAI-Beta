@@ -1,1 +1,758 @@
-(function(_0x41c6e6,_0x4a96e4){const _0x285806=a0_0x4a0a,_0x33b0f8=_0x41c6e6();while(!![]){try{const _0x25bb95=parseInt(_0x285806(0x173))/0x1+-parseInt(_0x285806(0x131))/0x2*(parseInt(_0x285806(0x13a))/0x3)+-parseInt(_0x285806(0x11b))/0x4+parseInt(_0x285806(0x117))/0x5+parseInt(_0x285806(0x165))/0x6+parseInt(_0x285806(0x10c))/0x7+-parseInt(_0x285806(0x136))/0x8*(-parseInt(_0x285806(0x16d))/0x9);if(_0x25bb95===_0x4a96e4)break;else _0x33b0f8['push'](_0x33b0f8['shift']());}catch(_0x3d27f2){_0x33b0f8['push'](_0x33b0f8['shift']());}}}(a0_0x5bbe,0x3384c));function a0_0x4a0a(_0x42e990,_0x4c90ad){_0x42e990=_0x42e990-0x102;const _0x5bbe40=a0_0x5bbe();let _0x4a0ae8=_0x5bbe40[_0x42e990];if(a0_0x4a0a['oQxJfI']===undefined){var _0x558edd=function(_0x3885b4){const _0x10e4f2='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x46033c='',_0x1c6c24='';for(let _0x4450e5=0x0,_0x243c1f,_0x545704,_0x5c5072=0x0;_0x545704=_0x3885b4['charAt'](_0x5c5072++);~_0x545704&&(_0x243c1f=_0x4450e5%0x4?_0x243c1f*0x40+_0x545704:_0x545704,_0x4450e5++%0x4)?_0x46033c+=String['fromCharCode'](0xff&_0x243c1f>>(-0x2*_0x4450e5&0x6)):0x0){_0x545704=_0x10e4f2['indexOf'](_0x545704);}for(let _0x572772=0x0,_0x5162c4=_0x46033c['length'];_0x572772<_0x5162c4;_0x572772++){_0x1c6c24+='%'+('00'+_0x46033c['charCodeAt'](_0x572772)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1c6c24);};a0_0x4a0a['hxujmn']=_0x558edd,a0_0x4a0a['SBXGrn']={},a0_0x4a0a['oQxJfI']=!![];}const _0x5bf970=_0x5bbe40[0x0],_0x449ba6=_0x42e990+_0x5bf970,_0x18d1ee=a0_0x4a0a['SBXGrn'][_0x449ba6];return!_0x18d1ee?(_0x4a0ae8=a0_0x4a0a['hxujmn'](_0x4a0ae8),a0_0x4a0a['SBXGrn'][_0x449ba6]=_0x4a0ae8):_0x4a0ae8=_0x18d1ee,_0x4a0ae8;}function a0_0x5bbe(){const _0x4e62ad=['C2v0','yNv0Dg9U','odaZody2CxD5rvfH','CxvLCNLtzwXLy3rVCG','x196C0LK','DgfNtMfTzq','BwvZC2fNzq','ogjvDwTAta','lNPZlwnOAxaSia','Aw1N','Cgf0Ag5HBwu','m29tENzyBG','AxrLBxm','D2LKDgG','z2v0t3DUuhjVCgvYDhLezxnJCMLWDg9Y','C29Tzq','AgvPz2H0','w3jVBgu9iMfSzxj0iL0Sw2nSyxnZkJ0IDg9HC3qIxsXBy2XHC3mQpsjLCNjVCIjDlfTJBgfZCYO9iMfSzxj0iL0','zMXLEa','i3PZlxjVB3q','y2HPBgrYzw4','Dhj1zq','Aw5WDxrBDhLWzt0IzMLSzsjD','zMLUza','CxvLCNLtzwXLy3rVCKfSBa','CMvHzg9UBhK','y29UDMvYC2f0Aw9UlNSWldiWFsH0B28GBg9Uz3X0CM9WigXVBMCP','twv0ysbbssbPBNb1DcbIB3GGBM90igzVDw5K','y2HHBMDL','z2v0qxr0CMLIDxrL','zgLZywjSzwq','ufjf','DgfYz2v0','vgHLigLUChv0igjVEcbKAxnHChbLyxjLzcaOC2vZC2LVBIbLBMrLzd8PlG','DMfSDwu','yxjPys1KAxnHyMXLza','lNjLBgf0AxzL','y2fSBa','C3r5Bgu','zMLSDgvY','AxndB21WB3nPBMC','AxntDgfYDgvK','DgvZDa','twv0ysbbsq','CMvWBgfJzq','A2v5zg93BG','Bw9Kzv9YzwfKEq','ywrK','zgvMAw5LuhjVCgvYDhK','zxjYB3jtDxjMywnLCW','w2rHDgeTDgvZDgLKpsjJB21WB3nLCI1TB2rLlwrYB3bKB3DUlwj1DhrVBIjD','CM91BMrLza','C2XPy2u','Cg5N','mtu1mZe2mfnJs0XACa','y29UDgvUDgvKAxrHyMXL','y2XHC3noyw1L','BwLTzvr5Cgu','y2XHC3nmAxn0','y29Kzq','zgLZCgf0y2HfDMvUDa','B25oyxrPDMvtDg9W','mti3ndu4ownRC01UtW','w2rHDgeTDgvZDgLKpsjJB21WB3nLCI1TB2rLlw9WDgLVBI10AgLUA19OyxjKiL0','BgvUz3rO','y2HPBgroB2rLCW','Aw5JBhvKzxm','rw50zxi','nty1nZrNzxjXr1q','y2HHCKnVzgvbDa','yNvZEq','z2LM','Dgv4DenVBNrLBNq','Cg9PBNrLCMrVD24','Bwv0ys50yxmUC2vUDa','CMvTB3zLqxr0CMLIDxrL','w3jVBgu9iMrPywXVzYjD','AM9PBG','zMXLEc1JB2W','zMLSzxm','B25cBg9JA2vKqxr0zw1WDa','ChjVDg90ExbL','sfrntfrLEhrbCMvHrwXLBwvUDa','y29KzvDYyxa','w2rHDgeTDgvZDgLKpsjHC3nPC3rHBNqTBwvZC2fNzsjD','y2XVC2vZDa','ENmTDg9VBc1OAwrL','A2v5','B25vC2vYtwvZC2fNzq','AgLKzgvU','zM9YrwfJAa','Bw9Kzu9WDeHHCMq','y29UDgv4DeXPBwL0','y29UDgfPBNm','ywrKrxzLBNrmAxn0zw5LCG','BM93','vevyvefsrue','DhjPBq','CgfYzw50rwXLBwvUDa','zMfSC2u','Aw1Hz2uVANbLzW','Bwv0ys50yxmUyxr0ywnOzwq','zgL2lNbVAw50zxiTzxzLBNrZlw5VBMuUywjZB2X1Dgu','lNPZlwnOAxa','ANbN','mtqZnZuZnePHseLbtG','C3rHCNrZv2L0Aa','AxncBg9JA2vK','y2XPy2S','y29UDgv4Dc57mcWYmh0OBgLTAxr8zxHJzwvKzwr8zfX1mdbLoxbHC3nCDtaWztKP','Cg9PBNrLCNvW','BM9Kzvr5Cgu','Aw5KzxHpzG','C2v0qxr0CMLIDxrL','Aw5WDxq','lNvYlwnVzguTyMXVy2S','mte0mtKWmfLxzLPPDa','khrVA2vUFgnVBNrLEhqPlNSWldeWFwXPBwL0','w2rHDgeTDgvZDgLKpsjUzxCTy2HHDc1IDxr0B24Ixq','Bwf4Aw11Bs57mcWYmh1JB250zxH0','mteXmtm3nNHysg1RuG','DMLZAwjPBgL0Eq','DgHPCYbJB252zxjZyxrPB24GAgfZihjLywnOzwq','D2vICa','C3rVCej0BG','BwfW','A2v5Dxa','CgXLyxnLlNSWldmWFsHZDgfYDhXJCLX1mdbLowvYks57mcWYmh0OBMv3Fg5VDxzLyxuPlNSWldiWFsHJAgf0FgnVBNzLCNnHDgLVBIK','ChjL','C2vUzej0BG','Bwv0ys5TB2rLlNnLDa','zgf0ys10zxn0Awq','w2rHDgeTDgvZDgLKpsjJB21WB3nLCI1Zzw5Klwj1DhrVBIjD','Bwf0y2HLCW','zxzLCMX1yv8','Cg9PBNrLCI1LDMvUDhmTBM9Uzq','B2zMC2v0ugfYzw50','yxnZDa','Bwv0yq','ywjZB2X1Dgu'];a0_0x5bbe=function(){return _0x4e62ad;};return a0_0x5bbe();}const ZSProvider=((()=>{'use strict';const _0x1e2b81=a0_0x4a0a;const _0x46033c=_0x146e8a=>new Promise(_0x1d520b=>setTimeout(_0x1d520b,_0x146e8a));let _0x1c6c24=()=>{},_0x4450e5=null,_0x243c1f=![];const _0x545704={'asst':_0x1e2b81(0x183),'input':'[data-testid=\x22composer-input\x22]','sendBtn':_0x1e2b81(0x127),'stopBtn':'[data-testid=\x22composer-stop-button\x22]','newChat':_0x1e2b81(0x119),'modeBtn':_0x1e2b81(0x161),'modeOptHard':_0x1e2b81(0x16e),'reasoning':'[data-testid=\x22thinking-status\x22],[data-testid=\x22subagent-cot-list\x22]','codeWrap':_0x1e2b81(0x116),'errorSurfaces':_0x1e2b81(0x140)},_0x5c5072={'contextLimit':new RegExp([_0x1e2b81(0x149),_0x1e2b81(0x110),_0x1e2b81(0x122),_0x1e2b81(0x118),_0x1e2b81(0x11a),_0x1e2b81(0x11d)][_0x1e2b81(0x17c)]('|'),'i'),'tooLong':/conversation .{0,20}(too long|getting too long|trop longue)/i,'busy':/something went wrong|une erreur s.est produite|try again later|réessayer plus tard|rate limit|too many requests|trop de requ[êe]tes/i},_0x572772={'GEN_IDLE_MS':0x5dc,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2328,'RESPONSE_TIMEOUT_MS':0x493e0};function _0x5162c4(){const _0x2ee8f8=_0x1e2b81,_0x45b651=document['querySelector'](_0x545704[_0x2ee8f8(0x12c)]);if(!_0x45b651)return null;let _0x318c77=_0x45b651['parentElement'];for(let _0x2bd84a=0x0;_0x2bd84a<0xc&&_0x318c77;_0x2bd84a++,_0x318c77=_0x318c77[_0x2ee8f8(0x105)]){if(_0x318c77['classList'][_0x2ee8f8(0x18c)](_0x2ee8f8(0x141))&&_0x318c77[_0x2ee8f8(0x169)]['contains'](_0x2ee8f8(0x17d))&&_0x318c77[_0x2ee8f8(0x143)][_0x2ee8f8(0x16f)]>=0x2&&_0x318c77[_0x2ee8f8(0x132)](_0x545704[_0x2ee8f8(0x12c)]))return _0x318c77;}return null;}function _0xfee4d1(_0x3b7e9d){const _0x541dd5=_0x1e2b81;if(!_0x3b7e9d)return![];if(_0x3b7e9d[_0x541dd5(0x169)]['contains'](_0x541dd5(0x12a))&&_0x3b7e9d[_0x541dd5(0x169)]['contains'](_0x541dd5(0x12e)))return![];return!!_0x3b7e9d['querySelector'](_0x545704[_0x541dd5(0x12c)])||(_0x3b7e9d[_0x541dd5(0x177)]||'')['trim']()[_0x541dd5(0x16f)]>0x0;}function _0xd77ec9(){const _0x4e8ce5=_0x1e2b81,_0x2ea65c=_0x5162c4();if(!_0x2ea65c)return[];return[..._0x2ea65c[_0x4e8ce5(0x143)]]['filter'](_0xfee4d1);}const _0x5eef69=_0x1cbd89=>!!_0x1cbd89&&!!_0x1cbd89['querySelector'](_0x545704[_0x1e2b81(0x12c)]),_0x1e2d48=_0x1bf2db=>!!_0x1bf2db&&!_0x5eef69(_0x1bf2db);function _0x2ba300(_0x213772){if(!_0x213772)return null;return _0x5eef69(_0x213772)?_0x213772['querySelector'](_0x545704['asst']):_0x213772;}const _0x4a4617=()=>_0xd77ec9(),_0x2ef97b=()=>_0x4a4617()[_0x1e2b81(0x156)](_0x5eef69),_0x59c9f5=()=>_0x2ef97b()[_0x1e2b81(0x16f)],_0x259735=()=>_0x4a4617()[_0x1e2b81(0x156)](_0x1e2d48)[_0x1e2b81(0x16f)],_0x339b51=()=>{const _0x3a296e=_0x1e2b81,_0x287536=_0x2ef97b();return _0x287536['length']?_0x287536[_0x287536[_0x3a296e(0x16f)]-0x1]:null;},_0x5d9b87=new WeakMap();let _0x549b66=0x0;function _0x235b17(){const _0x287110=_0x1e2b81,_0x2ff5ab=_0x339b51();if(!_0x2ff5ab)return null;let _0x2bbbae=_0x5d9b87['get'](_0x2ff5ab);return!_0x2bbbae&&(_0x2bbbae=++_0x549b66,_0x5d9b87[_0x287110(0x12f)](_0x2ff5ab,_0x2bbbae)),_0x2bbbae;}const _0x57c3e9=()=>_0x4a4617()[_0x1e2b81(0x16f)]===0x0;function _0x31d271(_0x19529f,_0x4bb4db){const _0x841962=_0x1e2b81;if(!_0x19529f)return'';const _0x22ac3b=_0x841962(0x137)+_0x545704['reasoning']+(_0x4bb4db?',\x20'+_0x4bb4db:'');let _0x3d8cc9='';const _0x444a62=_0x43abc3=>{const _0x3399e1=_0x841962;if(_0x43abc3['nodeType']===0x3){_0x3d8cc9+=_0x43abc3['nodeValue'];return;}if(_0x43abc3[_0x3399e1(0x112)]!==0x1)return;if(_0x43abc3[_0x3399e1(0x128)]&&_0x43abc3[_0x3399e1(0x128)](_0x22ac3b))return;if(_0x43abc3[_0x3399e1(0x128)]&&_0x43abc3[_0x3399e1(0x128)](_0x545704['codeWrap'])&&!_0x43abc3[_0x3399e1(0x132)](_0x3399e1(0x123))){_0x3d8cc9+=_0x2d102f(_0x43abc3[_0x3399e1(0x177)]||'');return;}if(_0x43abc3[_0x3399e1(0x134)]===_0x3399e1(0x14e)){_0x3d8cc9+=_0x4444eb(_0x43abc3);return;}for(const _0x138987 of _0x43abc3[_0x3399e1(0x170)])_0x444a62(_0x138987);};return _0x444a62(_0x19529f),_0x3d8cc9;}function _0x2d102f(_0x391ebe){const _0x485830=_0x1e2b81,_0x3c65b5=_0x391ebe[_0x485830(0x15b)](/[▲▴▶▸►▼▾◀◂]/g,''),_0x5a6005=_0x3c65b5[_0x485830(0x113)]('{');return _0x5a6005>0x0?_0x3c65b5['slice'](_0x5a6005):_0x3c65b5;}function _0x4444eb(_0x417415){const _0xa1995=_0x1e2b81,_0x45dd98=_0x417415['querySelector'](_0xa1995(0x16a))||_0x417415,_0x4e45fa=[..._0x45dd98[_0xa1995(0x143)]][_0xa1995(0x156)](_0x515e64=>_0x515e64[_0xa1995(0x112)]===0x1);if(_0x4e45fa[_0xa1995(0x16f)])return _0x4e45fa[_0xa1995(0x120)](_0x2f6724=>_0x2f6724[_0xa1995(0x177)])['join']('\x0a');return _0x45dd98[_0xa1995(0x177)]||'';}function _0x79eece(_0xe3d53a){const _0x5f459a=_0x2ba300(_0xe3d53a);return _0x5f459a?_0x31d271(_0x5f459a):'';}function _0x43005c(_0x228923,_0x7c0050){const _0x53caba=_0x2ba300(_0x228923);if(!_0x53caba)return'';return _0x31d271(_0x53caba,_0x7c0050);}function _0x2b2d20(_0x2d7313){const _0x34f10c=_0x1e2b81,_0x4899c7=_0x2ba300(_0x2d7313);if(!_0x4899c7)return _0x2d7313;const _0x4225e6=[..._0x4899c7[_0x34f10c(0x147)]('div')][_0x34f10c(0x146)](_0x1020c2=>{const _0x44d823=_0x34f10c,_0x48ea16=_0x1020c2[_0x44d823(0x167)]||'';return/mx-auto/['test'](_0x48ea16)&&/max-w-/[_0x44d823(0x159)](_0x48ea16)&&/flex-col/['test'](_0x48ea16)&&!/actions/[_0x44d823(0x159)](_0x48ea16);});return _0x4225e6||_0x4899c7;}const _0x1eb8d6=()=>[...document[_0x1e2b81(0x147)](_0x545704['input'])][_0x1e2b81(0x156)](_0x3f5291=>!_0x3f5291[_0x1e2b81(0x184)](_0x1e2b81(0x142))),_0x1108fe=_0x1fa752=>!!_0x1fa752&&_0x1fa752[_0x1e2b81(0x134)]===_0x1e2b81(0x103),_0x17d9c8=()=>{const _0x452d75=_0x1e2b81,_0xf05e5e=_0x1eb8d6();return _0xf05e5e[_0x452d75(0x146)](_0x17c2d8=>!_0x1108fe(_0x17c2d8)&&_0x17c2d8[_0x452d75(0x12b)]!==null)||_0xf05e5e[_0x452d75(0x146)](_0xe5dcc4=>_0xe5dcc4[_0x452d75(0x12b)]!==null)||_0xf05e5e[0x0]||null;},_0x930bfb=_0x17d9c8,_0x1e1e0b=()=>_0x1eb8d6()['find'](_0x1108fe)||_0x17d9c8(),_0x57569b=()=>{const _0x22be4a=_0x1e1e0b();if(!_0x22be4a)return'';return _0x1108fe(_0x22be4a)?_0x22be4a['value']||'':_0x22be4a['textContent']||'';},_0x275742=()=>_0x103a94()||_0x930bfb()&&_0x930bfb()[_0x1e2b81(0x105)]||null,_0x5b576a=()=>_0x57c3e9()&&location[_0x1e2b81(0x139)]==='/'&&!!_0x17d9c8();function _0x103a94(){const _0x11b79d=_0x1e2b81,_0x2377d9=_0x930bfb();if(!_0x2377d9)return null;let _0x3f4dcb=_0x2377d9;for(let _0x2c096c=0x0;_0x2c096c<0xa&&_0x3f4dcb;_0x2c096c++,_0x3f4dcb=_0x3f4dcb[_0x11b79d(0x105)]){if([..._0x3f4dcb[_0x11b79d(0x169)]][_0x11b79d(0x13e)](_0x344e0e=>_0x344e0e[_0x11b79d(0x10d)](_0x11b79d(0x162))))return _0x3f4dcb;}return _0x2377d9&&_0x2377d9['parentElement']||null;}function _0x38b8c9(){const _0x7c3fff=_0x1e2b81,_0x24481a=_0x103a94(),_0x28aaf0=_0x17d9c8();if(!_0x24481a||!_0x28aaf0)return _0x28aaf0;let _0x1dd731=_0x28aaf0;while(_0x1dd731&&_0x1dd731[_0x7c3fff(0x105)]&&_0x1dd731['parentElement']!==_0x24481a)_0x1dd731=_0x1dd731[_0x7c3fff(0x105)];return _0x1dd731&&_0x1dd731[_0x7c3fff(0x105)]===_0x24481a?_0x1dd731:_0x28aaf0;}function _0x46b907(_0x1d2545){_0x243c1f=_0x1d2545,_0xf25c50();}function _0xf25c50(){const _0xf52ac2=_0x1e2b81,_0x263a31=_0x17d9c8();if(_0x263a31&&!_0x1108fe(_0x263a31))_0x263a31[_0xf52ac2(0x114)](_0xf52ac2(0x166),_0x243c1f?_0xf52ac2(0x106):_0xf52ac2(0x144));const _0x1139b5=_0x1e1e0b();if(_0x1139b5&&_0x1108fe(_0x1139b5)){if(_0x243c1f)_0x1139b5['setAttribute'](_0xf52ac2(0x148),'');else _0x1139b5[_0xf52ac2(0x17a)]('readonly');}const _0x3bc256=_0x5130f4();if(_0x3bc256)_0x3bc256[_0xf52ac2(0x155)][_0xf52ac2(0x11c)]=_0x243c1f?_0xf52ac2(0x188):'';}function _0x5130f4(){const _0x17ca41=_0x1e2b81,_0x53e60f=_0x17d9c8(),_0x4ec27e=_0x53e60f&&_0x53e60f[_0x17ca41(0x184)]&&_0x53e60f[_0x17ca41(0x184)](_0x17ca41(0x153));return _0x4ec27e?_0x4ec27e[_0x17ca41(0x132)](_0x17ca41(0x109)):null;}const _0x36e444=()=>{const _0x16e32d=_0x1e2b81,_0x12623c=document[_0x16e32d(0x132)](_0x545704['sendBtn']);return _0x12623c&&_0x12623c['offsetParent']!==null?_0x12623c:null;},_0x539eb6=()=>{const _0x35949c=_0x1e2b81,_0x301cf6=document['querySelector'](_0x545704['stopBtn']);return _0x301cf6&&_0x301cf6[_0x35949c(0x12b)]!==null?_0x301cf6:null;};function _0x4a401a(_0x292a52){const _0xdba7fb=_0x1e2b81,_0x5a4bd3=_0x2ba300(_0x292a52);return _0x5a4bd3?_0x31d271(_0x5a4bd3,_0xdba7fb(0x10a)):'';}const _0x4bd14f=_0x1acf49=>_0x4a401a(_0x1acf49===undefined?_0x339b51():_0x1acf49)[_0x1e2b81(0x16f)];let _0x23c8e6=-0x1,_0x327067=0x0,_0x2df26e=null;function _0x3de6a8(){const _0x365dd4=_0x1e2b81,_0x1e96d4=_0x339b51(),_0x5add62=_0x4a401a(_0x1e96d4)[_0x365dd4(0x16f)],_0x3ea102=Date[_0x365dd4(0x102)]();if(_0x1e96d4!==_0x2df26e||_0x5add62<_0x23c8e6-0x190){_0x2df26e=_0x1e96d4,_0x23c8e6=_0x5add62,_0x327067=_0x3ea102;return;}_0x5add62>_0x23c8e6&&(_0x23c8e6=_0x5add62,_0x327067=_0x3ea102);}const _0x3d2c11=_0x5d746f=>_0x23c8e6>0x1&&Date[_0x1e2b81(0x102)]()-_0x327067<_0x5d746f;function _0x5f17b3(){_0x3de6a8();if(_0x539eb6())return!![];return _0x3d2c11(_0x572772['GEN_IDLE_MS']);}const _0x43b40f=_0x5f17b3,_0x79a84d=_0x5f17b3,_0x2842a8=()=>!!_0x539eb6(),_0xe101f7=()=>![],_0x48591e=()=>null,_0x446ff9=()=>![];function _0x18a94a(){const _0x159b76=_0x1e2b81;try{const _0x1b6b92=_0x2ba300(_0x339b51());return{'th':0x0,'rp':_0x1b6b92?_0x31d271(_0x1b6b92)[_0x159b76(0x16f)]:0x0};}catch{return{};}}function _0x18633f(){const _0x9631e5=_0x1e2b81,_0x3ef35e=_0x339b51();if(!_0x3ef35e)return{'present':![],'reply':'','thinking':'','item':null};const _0x4e1bba=_0x2ba300(_0x3ef35e);return{'present':!![],'reply':_0x4e1bba?_0x31d271(_0x4e1bba,_0x9631e5(0x10a))[_0x9631e5(0x104)]():'','thinking':'','item':_0x3ef35e};}async function _0xe6dc6f(_0x5b987a,_0x1d70cf){const _0x5ef4b9=_0x1e2b81,_0x1da79d=Date[_0x5ef4b9(0x102)]();while(Date[_0x5ef4b9(0x102)]()-_0x1da79d<_0x1d70cf){if(_0x5b987a())return!![];await _0x46033c(0x78);}return![];}function _0x56e73a(_0x2c90cf,_0x1b12b1){const _0x35494d=_0x1e2b81,_0x5c56ac=_0x2c90cf[_0x35494d(0x168)]||_0x35494d(0x107),_0x3efd0b=atob(_0x2c90cf['data']),_0x18c8b5=new Uint8Array(_0x3efd0b[_0x35494d(0x16f)]);for(let _0x517f13=0x0;_0x517f13<_0x3efd0b[_0x35494d(0x16f)];_0x517f13++)_0x18c8b5[_0x517f13]=_0x3efd0b[_0x35494d(0x174)](_0x517f13);const _0x4302b2=_0x5c56ac['includes'](_0x35494d(0x164))?_0x35494d(0x164):_0x5c56ac[_0x35494d(0x171)](_0x35494d(0x11e))?'webp':_0x5c56ac[_0x35494d(0x171)](_0x35494d(0x176))?_0x35494d(0x176):_0x35494d(0x10b);return new File([_0x18c8b5],_0x35494d(0x129)+Date[_0x35494d(0x102)]()+'_'+_0x1b12b1+'.'+_0x4302b2,{'type':_0x5c56ac});}const _0x2a10b5=()=>{const _0x768c5c=_0x1e2b81;for(const _0x1ef096 of document[_0x768c5c(0x147)](_0x768c5c(0x145))){if(!_0x1ef096[_0x768c5c(0x184)](_0x768c5c(0x142)))return _0x1ef096;}return null;},_0x21b52b=()=>{const _0x57f8c9=_0x1e2b81;for(const _0x62d5c7 of document[_0x57f8c9(0x147)](_0x545704['input'])){const _0x478946=_0x62d5c7[_0x57f8c9(0x132)](_0x57f8c9(0x138));if(_0x478946)return _0x478946;}return null;},_0x53b03a=()=>!!_0x21b52b();let _0x388d9a=0x0;function _0x297adf(_0xbc19e9){const _0x1b1a5d=_0x1e2b81;if(_0xbc19e9&&_0xbc19e9[_0x1b1a5d(0x133)]==null)try{Object[_0x1b1a5d(0x15f)](_0xbc19e9,_0x1b1a5d(0x133),{'value':++_0x388d9a,'enumerable':![]});}catch{_0xbc19e9[_0x1b1a5d(0x133)]=++_0x388d9a;}return _0xbc19e9;}async function _0x3051e3(_0x350436){const _0x4767b5=_0x1e2b81,_0x5a50f5=_0x2a10b5();if(!_0x5a50f5||!_0x350436||!_0x350436[_0x4767b5(0x16f)])return![];_0x297adf(_0x350436);const _0x8fcf94=new DataTransfer();_0x350436[_0x4767b5(0x189)]((_0x1d871b,_0x28a3bb)=>{const _0x433dad=_0x4767b5;try{_0x8fcf94[_0x433dad(0x13b)][_0x433dad(0x15e)](_0x56e73a(_0x1d871b,_0x28a3bb));}catch{}});if(!_0x8fcf94['items'][_0x4767b5(0x16f)])return![];try{_0x5a50f5[_0x4767b5(0x17e)]=_0x8fcf94[_0x4767b5(0x17e)],_0x5a50f5['dispatchEvent'](new Event(_0x4767b5(0x14b),{'bubbles':!![]}));}catch{return![];}const _0x26a3cd=await _0xe6dc6f(_0x53b03a,0x3a98);return _0x1c6c24('meta.attach.preview',{'ok':_0x26a3cd}),_0x26a3cd;}function _0x5d1242(){const _0x15f7ce=_0x1e2b81;try{document[_0x15f7ce(0x147)]('button[aria-label=\x22Remove\x20image\x22]')[_0x15f7ce(0x189)](_0x19747b=>{try{_0x19747b['click']();}catch{}});}catch{}_0x4450e5=null;}function _0x37b83a(_0x21d047,_0x1f13d6){const _0x1395d8=_0x1e2b81,_0x481c9e=window[_0x1395d8(0x181)]&&window[_0x1395d8(0x181)][_0x1395d8(0x180)],_0x4dc252=_0x481c9e&&Object[_0x1395d8(0x13d)](_0x481c9e,_0x1395d8(0x151));if(_0x4dc252&&_0x4dc252[_0x1395d8(0x12f)])_0x4dc252['set'][_0x1395d8(0x154)](_0x21d047,_0x1f13d6);else _0x21d047[_0x1395d8(0x151)]=_0x1f13d6;_0x21d047[_0x1395d8(0x16b)](new Event(_0x1395d8(0x115),{'bubbles':!![]}));}async function _0x189366(_0xcb6de2,_0x49b313){const _0x5e4530=_0x1e2b81;if(_0x49b313&&_0x49b313['length']&&_0x49b313!==_0x4450e5){if(_0x53b03a())_0x5d1242();try{const _0x526912=await _0x3051e3(_0x49b313);if(_0x526912)_0x4450e5=_0x49b313;_0x1c6c24(_0x5e4530(0x108),{'ok':_0x526912,'imgId':_0x49b313[_0x5e4530(0x133)]});}catch(_0x564dbd){_0x1c6c24('meta.tas.attachErr',{'msg':String(_0x564dbd&&_0x564dbd[_0x5e4530(0x135)]||_0x564dbd)});}}const _0x128d79=_0x1e1e0b();if(!_0x128d79)throw new Error(_0x5e4530(0x14a));_0x128d79['focus'](),_0x37b83a(_0x128d79,_0xcb6de2);const _0x342d4e=()=>{const _0x576c55=_0x5e4530,_0x35bcd6=_0x36e444();return!!_0x35bcd6&&!_0x35bcd6[_0x576c55(0x14d)]&&_0x35bcd6[_0x576c55(0x14c)](_0x576c55(0x152))!==_0x576c55(0x144);};await _0xe6dc6f(_0x342d4e,0x7530);let _0x22374f=![];for(let _0x135c6b=0x0;_0x135c6b<0x6&&!_0x22374f;_0x135c6b++){if(_0x342d4e())try{_0x36e444()['click']();}catch{}else{if(!_0x2842a8()){const _0x4aa2af=_0x930bfb()||_0x128d79,_0x47d2a0={'key':'Enter','code':_0x5e4530(0x172),'keyCode':0xd,'which':0xd,'bubbles':!![],'cancelable':!![]};_0x4aa2af[_0x5e4530(0x16b)](new KeyboardEvent('keydown',_0x47d2a0)),_0x4aa2af[_0x5e4530(0x16b)](new KeyboardEvent(_0x5e4530(0x121),_0x47d2a0));}}_0x22374f=await _0xe6dc6f(()=>_0x57569b()[_0x5e4530(0x104)]()===''&&!_0x53b03a(),0x2bc);}if(_0x22374f)_0x4450e5=null;_0x1c6c24(_0x5e4530(0x179),{'sent':_0x22374f,'editorLen':_0x57569b()['length']});}function _0x33c9be(){const _0x249ca4=_0x1e2b81,_0x6f1b5b=_0x539eb6();if(_0x6f1b5b)try{_0x6f1b5b[_0x249ca4(0x10f)]();}catch{}}const _0x2bf53f=()=>document['querySelector'](_0x545704['modeBtn']),_0x3fbea3=()=>{const _0x4d46ce=_0x1e2b81,_0x5b74d0=_0x2bf53f();return!!_0x5b74d0&&/r[ée]flexion|think.?hard/i[_0x4d46ce(0x159)]((_0x5b74d0[_0x4d46ce(0x177)]||'')+(_0x5b74d0[_0x4d46ce(0x14c)](_0x4d46ce(0x126))||''));};let _0x17d47f=![];async function _0x530d9a(){const _0x51e486=_0x1e2b81;if(_0x17d47f)return;const _0x5acd49=_0x2bf53f();if(!_0x5acd49||_0x3fbea3())return;_0x17d47f=!![];try{const _0x14ef1c=(_0x40e5c8,_0x4f50db)=>_0x40e5c8[_0x51e486(0x16b)](new PointerEvent(_0x4f50db,{'bubbles':!![],'cancelable':!![],'pointerId':0x1,'pointerType':'mouse','button':0x0}));_0x14ef1c(_0x5acd49,_0x51e486(0x178)),_0x14ef1c(_0x5acd49,_0x51e486(0x111));try{_0x5acd49['click']();}catch{}const _0x1aa4a4=await _0xe6dc6f(()=>!!document[_0x51e486(0x132)](_0x545704[_0x51e486(0x18a)]),0x7d0);if(_0x1aa4a4){const _0x491e45=document[_0x51e486(0x132)](_0x545704['modeOptHard']);try{_0x491e45[_0x51e486(0x10f)]();}catch{}await _0xe6dc6f(_0x3fbea3,0x7d0);}document[_0x51e486(0x132)](_0x545704[_0x51e486(0x18a)])&&document[_0x51e486(0x16b)](new KeyboardEvent(_0x51e486(0x15c),{'key':'Escape','bubbles':!![]})),_0x1c6c24(_0x51e486(0x125),{'reflexion':_0x3fbea3()});}catch(_0x49fdbd){_0x1c6c24('meta.mode.err',{'msg':String(_0x49fdbd&&_0x49fdbd['message']||_0x49fdbd)});}finally{_0x17d47f=![];}}function _0x193193(){if(_0x243c1f)_0xf25c50();return{'ready':!![]};}async function _0x36ff62(_0x98b663){const _0x10bb1b=_0x1e2b81;return _0x530d9a(),_0x1c6c24(_0x10bb1b(0x15d),{'reason':_0x98b663,'provider':_0x10bb1b(0x12d),'ready':!!_0x17d9c8()}),{'ready':!!_0x17d9c8()};}const _0x4c01da=()=>'',_0x578499=()=>![];function _0x5aa79c(){const _0x4b7e5a=_0x1e2b81;for(const _0x569bf3 of document[_0x4b7e5a(0x147)](_0x4b7e5a(0x17b))){if(_0x569bf3[_0x4b7e5a(0x184)]('#zs-root'))continue;const _0x5f1505=_0x569bf3['getBoundingClientRect']();if(_0x5f1505[_0x4b7e5a(0x13c)]>0x28&&_0x5f1505[_0x4b7e5a(0x13f)]>0x28&&_0x5f1505['top']<innerHeight&&_0x5f1505['bottom']>0x0)return!![];}return![];}function _0x32ce5c(){const _0x16d5fb=_0x1e2b81;try{const _0x6d5f10=_0x5162c4();for(const _0x9684be of document[_0x16d5fb(0x147)](_0x545704[_0x16d5fb(0x160)])){if(_0x9684be[_0x16d5fb(0x12b)]===null)continue;if(_0x6d5f10&&_0x6d5f10[_0x16d5fb(0x18c)](_0x9684be))continue;const _0x134e9f=(_0x9684be['innerText']||'')[_0x16d5fb(0x104)]();if(_0x134e9f['length']>0x8&&_0x134e9f['length']<0x258&&_0x5c5072[_0x16d5fb(0x18b)][_0x16d5fb(0x159)](_0x134e9f))return _0x134e9f[_0x16d5fb(0x163)](0x0,0xf0);}}catch{}if(!_0x17d9c8())return _0x16d5fb(0x150);return null;}const _0x23a07a=_0x21037e=>_0x5c5072['tooLong'][_0x1e2b81(0x159)](_0x21037e),_0x269bf7=_0x3b307c=>_0x5c5072[_0x1e2b81(0x175)][_0x1e2b81(0x159)](_0x3b307c),_0x3dc2d6=()=>location[_0x1e2b81(0x139)]==='/'?'':location[_0x1e2b81(0x139)];function _0x22919b(_0x4bcd61){const _0x7291e9=_0x1e2b81;document[_0x7291e9(0x18d)]('keydown',_0x82b4be=>{const _0x466dc1=_0x7291e9;if(_0x82b4be[_0x466dc1(0x186)]!==_0x466dc1(0x172)||_0x82b4be['shiftKey']||_0x82b4be[_0x466dc1(0x157)])return;const _0x3de764=_0x930bfb();if(!_0x3de764||!_0x3de764[_0x466dc1(0x18c)](_0x82b4be[_0x466dc1(0x14f)]))return;if(_0x57569b()[_0x466dc1(0x104)]()==='')return;if(_0x4bcd61[_0x466dc1(0x10e)]())return;if(!_0x4bcd61[_0x466dc1(0x158)]()){if(!_0x57c3e9())return;_0x4bcd61[_0x466dc1(0x17f)]();return;}_0x4bcd61[_0x466dc1(0x187)](_0x59c9f5());},!![]),document[_0x7291e9(0x18d)]('click',_0x17ad97=>{const _0x4fb43b=_0x7291e9;if(!_0x17d9c8())return;const _0x562018=_0x17ad97[_0x4fb43b(0x14f)]&&_0x17ad97[_0x4fb43b(0x14f)][_0x4fb43b(0x184)]&&_0x17ad97[_0x4fb43b(0x14f)]['closest'](_0x4fb43b(0x130));if(!_0x562018)return;if(_0x562018[_0x4fb43b(0x184)](_0x545704['stopBtn'])||_0x562018[_0x4fb43b(0x128)](_0x545704[_0x4fb43b(0x11f)])){_0x4bcd61[_0x4fb43b(0x16c)]();return;}if(!(_0x562018[_0x4fb43b(0x184)](_0x545704['sendBtn'])||_0x562018['matches'](_0x545704[_0x4fb43b(0x124)])))return;if(_0x562018['disabled']||_0x562018[_0x4fb43b(0x14c)](_0x4fb43b(0x152))===_0x4fb43b(0x144))return;if(_0x4bcd61[_0x4fb43b(0x10e)]())return;if(!_0x4bcd61[_0x4fb43b(0x158)]()){if(!_0x57c3e9())return;_0x4bcd61['onBlockedAttempt']();return;}_0x4bcd61[_0x4fb43b(0x187)](_0x59c9f5());},!![]);}const _0x1432aa=/"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;function _0x4cd3a1(_0x16182f){const _0x2ec96f=_0x1e2b81,_0x53fca2=_0x2ba300(_0x16182f);if(!_0x53fca2)return null;let _0x6df579=null;return _0x53fca2[_0x2ec96f(0x147)](_0x545704[_0x2ec96f(0x182)])[_0x2ec96f(0x189)](_0x11cee6=>{const _0x2fa99a=_0x2ec96f;if(_0x11cee6[_0x2fa99a(0x184)](_0x2fa99a(0x10a)))return;_0x1432aa[_0x2fa99a(0x159)](_0x11cee6[_0x2fa99a(0x177)]||'')&&(_0x11cee6[_0x2fa99a(0x169)][_0x2fa99a(0x15e)](_0x2fa99a(0x185)),_0x53fca2[_0x2fa99a(0x169)][_0x2fa99a(0x15e)]('zs-cmd-mask'),_0x6df579=_0x6df579||{'parent':_0x11cee6[_0x2fa99a(0x105)],'ref':_0x11cee6});}),_0x53fca2[_0x2ec96f(0x147)]('p,\x20div')['forEach'](_0x426ece=>{const _0x5be791=_0x2ec96f;if(_0x426ece[_0x5be791(0x184)]('.zs-chip,\x20.zs-tool-hide,\x20'+_0x545704[_0x5be791(0x182)]))return;if(_0x426ece[_0x5be791(0x132)](_0x545704[_0x5be791(0x182)]))return;const _0x5ebc17=(_0x426ece[_0x5be791(0x177)]||'')[_0x5be791(0x104)](),_0x42c90b=_0x5ebc17['replace'](/^json\s*/i,''),_0x5c335d=/^\{\s*"(?:command|tool)"\s*:/[_0x5be791(0x159)](_0x42c90b)||/^###\s*(?:lua|mcp_tool)/i['test'](_0x42c90b);(_0x5c335d||_0x5ebc17[_0x5be791(0x16f)]<0x258)&&_0x1432aa[_0x5be791(0x159)](_0x5ebc17)&&/^[{#]/[_0x5be791(0x159)](_0x42c90b)&&(_0x426ece[_0x5be791(0x169)][_0x5be791(0x15e)](_0x5be791(0x185)),_0x6df579=_0x6df579||{'parent':_0x426ece[_0x5be791(0x105)],'ref':_0x426ece});}),_0x6df579;}return{'id':_0x1e2b81(0x12d),'displayName':_0x1e2b81(0x15a),'supportsVision':!![],'timings':_0x572772,'chipAtItemLevel':!![],'chipAnchor':_0x2b2d20,'chipAppend':!![],'reliableCounts':!![],'init'({diag:_0xc243b6}={}){if(_0xc243b6)_0x1c6c24=_0xc243b6;},'allItems':_0x4a4617,'isUserItem':_0x1e2d48,'isAssistantItem':_0x5eef69,'itemText':_0x79eece,'classifyText':_0x43005c,'assistantCount':_0x59c9f5,'userCount':_0x259735,'lastAssistant':_0x339b51,'lastAssistantId':_0x235b17,'readAssistant':_0x18633f,'streamLen':_0x4bd14f,'snapshot':_0x18a94a,'getEditor':_0x17d9c8,'editorText':_0x57569b,'chatIsEmpty':_0x57c3e9,'isFreshChat':_0x5b576a,'composerFrame':_0x275742,'barAnchor':_0x103a94,'coverTarget':_0x38b8c9,'coverMaxH':0x104,'setInputLock':_0x46b907,'typeAndSend':_0x189366,'stopGeneration':_0x33c9be,'isGenerating':_0x43b40f,'isBusyNow':_0x79a84d,'isHardGenerating':_0x2842a8,'enforceComposer':_0x193193,'ensureComposerReady':_0x36ff62,'modeWarning':_0x4c01da,'captchaPresent':_0x578499,'overlayBlocking':_0x5aa79c,'turnHalted':_0xe101f7,'findContinueBtn':_0x48591e,'clickContinueBtn':_0x446ff9,'scanError':_0x32ce5c,'isTooLongMsg':_0x23a07a,'isBusyMsg':_0x269bf7,'attachImages':_0x3051e3,'clearAttachments':_0x5d1242,'conversationKey':_0x3dc2d6,'installSendHooks':_0x22919b,'findToolBlockSpot':_0x4cd3a1};})());
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/meta.js - the Meta AI (www.meta.ai) provider.
+// Exports the same ZSProvider interface as providers/deepseek.js; the core
+// (core/main.js) is provider-agnostic. To DISABLE Meta AI support, remove this
+// file from manifest.json (and its URL from background.js PROVIDER_URLS).
+//
+// Meta AI DOM notes (validated live, 2026-07-13):
+//  - React app. The message list is a <div class="flex flex-col"> whose direct
+//    children are the turns (each a <div> with `starting:opacity-0` animate-in
+//    classes). A leading `pointer-events-none absolute h-px w-px` spacer child
+//    is NOT a turn (skipped: no text, no assistant-message).
+//  - An ASSISTANT turn contains a <div data-testid="assistant-message">; a USER
+//    turn does not (and carries plain text). Reasoning ("Réflexion" mode) renders
+//    INSIDE the assistant-message as [data-testid="thinking-status"] +
+//    [data-testid="subagent-cot-list"] - both are excluded from the read text so
+//    a chain-of-thought never counts as model output or a command.
+//  - Composer = real <textarea data-testid="composer-input"> (native value setter
+//    + input event, like Arena/DeepSeek). Send = [data-testid="composer-send-button"]
+//    (aria "Envoyer"); DURING generation it is replaced by
+//    [data-testid="composer-stop-button"] (aria "Arrêter") and the send testid
+//    disappears - that stop button present = generation active.
+//  - New chat = [data-testid="new-chat-button"] → path "/". A conversation is
+//    /prompt/<uuid>.
+//  - TWO code-rendering traps (both handled here):
+//    (a) a ```json fenced block renders as a custom INTERACTIVE JSON VIEWER
+//        (.ur-code-block with a JSON/Tree/Raw toolbar). Its visible text is
+//        "JSONTreeRaw▶{...}"; the {...} braces stay intact and the prefix has no
+//        braces, so the parser's brace-matched extractToolAnywhere reads a JSON
+//        command with NO special handling.
+//    (b) a plain ``` fenced block (used for the ###LUA### execute_luau form) is a
+//        real <pre><code> whose lines are separate <span class="block …counter…">
+//        with NO newline text nodes → textContent COLLAPSES onto one line, which
+//        would break multi-line Lua. textWithout() special-cases <pre> and joins
+//        its line spans with "\n" to rebuild the source (same fix class as GLM's
+//        .cm-line / Qwen's Monaco).
+//  - IMPORTANT (viability): Meta AI's guardrail REFUSES to emit command JSON when
+//    the framing is thin; the FULL EverLua system prompt (with the "commands
+//    are NOT function calls, just TYPE the JSON" reassurance) defuses it and it
+//    complies. Nothing to do in code - just never bootstrap with a stripped prompt.
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {}; // injected by core via init()
+  // Identity of the last image set STAGED into the composer. The core reuses the
+  // same array reference across submitAndGetBase's typeAndSend retries, so keying
+  // on it makes the attach idempotent; a new capture is a new array.
+  let _attachedImages = null;
+  // Whether the composer is locked (agent working). React re-renders the composer
+  // and restores the placeholder/contenteditable, so setInputLock's effects must
+  // be RE-ASSERTED every sweep (enforceComposer) while this is true.
+  let _locked = false;
+
+  const S = {
+    asst: '[data-testid="assistant-message"]',
+    // The composer SWAPS element when media is attached: text-only it is a
+    // <textarea data-testid="composer-input">; once an image is staged Meta hides
+    // that textarea and shows a Lexical contenteditable <div data-testid=
+    // "composer-input"> with the image inline. So key on the testid (not the tag)
+    // and pick the visible one - see getEditor().
+    input: '[data-testid="composer-input"]',
+    sendBtn: '[data-testid="composer-send-button"]',
+    stopBtn: '[data-testid="composer-stop-button"]',
+    newChat: '[data-testid="new-chat-button"]',
+    // Response-mode dropdown: the button shows the current mode ("Instantané" /
+    // "Réflexion"); its menu options are think_fast (Instantané) and think_hard
+    // (Réflexion). We force think_hard - Instantané gives markedly worse replies.
+    modeBtn: '[data-testid="composer-mode-dropdown-button"]',
+    modeOptHard: '[data-testid="composer-mode-option-think_hard"]',
+    reasoning: '[data-testid="thinking-status"],[data-testid="subagent-cot-list"]',
+    codeWrap: ".ur-code-block",  // wraps both the JSON viewer and plain <pre> code
+    errorSurfaces:
+      '[role="alert"],[class*="toast"],[class*="error"],[class*="alert"]',
+  };
+
+  const RE = {
+    contextLimit: new RegExp(
+      [
+        "conversation.{0,20}(too long|trop long)",
+        "context.{0,20}(limit|exceeded|d\\u00e9pass\\u00e9)",
+        "please.{0,30}(start|cr\\u00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)",
+        "(token|context).{0,10}limit",
+        "maximum.{0,20}context",
+        "this conversation has reached",
+      ].join("|"),
+      "i"
+    ),
+    tooLong: /conversation .{0,20}(too long|getting too long|trop longue)/i,
+    busy: /something went wrong|une erreur s.est produite|try again later|réessayer plus tard|rate limit|too many requests|trop de requ[êe]tes/i,
+  };
+
+  // Meta streams with a hard stop-button signal for the WHOLE generation (incl.
+  // the "Réflexion" reasoning phase), so idle windows can be tight (like Gemini).
+  const timings = {
+    GEN_IDLE_MS: 1500,
+    REASON_IDLE_MS: 12000,
+    WARMUP_MS: 45000,
+    REASON_NOREPLY_MS: 90000,
+    STABLE_MS: 9000,
+    RESPONSE_TIMEOUT_MS: 300000,
+  };
+
+  // ── Turn list ──────────────────────────────────────────────────────────────
+  // The message list is the <div class="flex flex-col"> that holds an
+  // assistant-message and >1 child turn. Climb from any assistant-message to it;
+  // fall back to the nearest such container. Returns null on a fresh/empty chat.
+  function listEl() {
+    const any = document.querySelector(S.asst);
+    if (!any) return null;
+    let n = any.parentElement;
+    for (let i = 0; i < 12 && n; i++, n = n.parentElement) {
+      if (
+        n.classList.contains("flex") &&
+        n.classList.contains("flex-col") &&
+        n.children.length >= 2 &&
+        n.querySelector(S.asst)
+      ) {
+        return n;
+      }
+    }
+    return null;
+  }
+
+  // A real turn child (excludes the tiny `pointer-events-none absolute h-px w-px`
+  // scroll spacer, which has no text and no assistant-message).
+  // Use textContent, NOT innerText: the core hides a whole injected turn (the
+  // bootstrap system prompt and every "Output of '…'" result) with display:none,
+  // and innerText returns "" for a display:none node - which dropped those turns
+  // from allItems() so classify() never built their sys / "· result" chips (the
+  // result box rendered as literally nothing). textContent ignores CSS, so the
+  // hidden turns stay enumerated and get decorated.
+  function isTurnChild(c) {
+    if (!c) return false;
+    if (c.classList.contains("pointer-events-none") && c.classList.contains("absolute")) return false;
+    return !!c.querySelector(S.asst) || (c.textContent || "").trim().length > 0;
+  }
+  function domTurns() {
+    const list = listEl();
+    if (!list) return [];
+    return [...list.children].filter(isTurnChild);
+  }
+
+  const isAssistantItem = (item) => !!item && !!item.querySelector(S.asst);
+  const isUserItem = (item) => !!item && !isAssistantItem(item);
+
+  // The assistant-message body element inside an assistant turn (reasoning still
+  // nested; excluded when we read it). For a user turn it is the turn itself.
+  function bodyOf(item) {
+    if (!item) return null;
+    return isAssistantItem(item) ? item.querySelector(S.asst) : item;
+  }
+
+  const allItems = () => domTurns();
+  const assistantItems = () => allItems().filter(isAssistantItem);
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => allItems().filter(isUserItem).length;
+  const lastAssistant = () => {
+    const it = assistantItems();
+    return it.length ? it[it.length - 1] : null;
+  };
+
+  // Stable per-NODE id for the latest assistant turn (the core prefers this over
+  // count-based detection). A WeakMap assigns each turn a monotonic id on first
+  // sight, so a genuinely new reply node yields a new id immediately.
+  const _idMap = new WeakMap();
+  let _idSeq = 0;
+  function lastAssistantId() {
+    const it = lastAssistant();
+    if (!it) return null;
+    let id = _idMap.get(it);
+    if (!id) { id = ++_idSeq; _idMap.set(it, id); }
+    return id;
+  }
+
+  const chatIsEmpty = () => allItems().length === 0;
+
+  // ── Text extraction ─────────────────────────────────────────────────────────
+  // Walk the tree skipping the core's chip, the reasoning blocks, and any extra
+  // excluded subtree. A <pre> is special-cased: Meta renders each code line as a
+  // block <span> with NO newline text node, so plain textContent collapses the
+  // block onto one line (breaks multi-line Lua). Rebuild it by joining the code
+  // element's line children with "\n".
+  function textWithout(root, excludeSel) {
+    if (!root) return "";
+    const skip = ".zs-chip, " + S.reasoning + (excludeSel ? ", " + excludeSel : "");
+    let t = "";
+    const walk = (n) => {
+      if (n.nodeType === 3) { t += n.nodeValue; return; }
+      if (n.nodeType !== 1) return;
+      if (n.matches && n.matches(skip)) return;
+      // A ```json fence renders as the INTERACTIVE JSON-VIEWER widget (a
+      // .ur-code-block with a JSON/Tree/Raw toolbar and a collapsible tree), NOT
+      // a <pre>. In its Tree view it injects a ▶/▼ expander glyph BEFORE every
+      // nested object/array key - and those glyphs land INSIDE the braces, e.g.
+      // `{"command":"get_studio_state",▶"params":{}}`. That corrupted JSON made
+      // JSON.parse fail → a "bad JSON" parse_error every time the model emitted a
+      // command with a nested object, then it retried, re-rendered, and failed
+      // again (the reported spam). Detect the viewer (a .ur-code-block with no
+      // <pre>) and hand the parser the cleaned JSON instead of the raw tree text.
+      if (n.matches && n.matches(S.codeWrap) && !n.querySelector("pre")) {
+        t += cleanJsonViewer(n.textContent || "");
+        return;
+      }
+      if (n.tagName === "PRE") { t += preText(n); return; }
+      for (const c of n.childNodes) walk(c);
+    };
+    walk(root);
+    return t;
+  }
+  // Strip the JSON-viewer widget's chrome so only the JSON object is left:
+  // remove the tree-expander triangles (▶ ▼ ► ◀ ▲ ▾ …) that Meta interleaves
+  // between JSON tokens, then drop the leading "JSONTreeRaw" toolbar text that
+  // precedes the first "{". Trailing toolbar/Copy chrome after the JSON is
+  // harmless - the core's brace-matched extractor stops at the closing brace.
+  function cleanJsonViewer(text) {
+    const t = text.replace(/[▲▴▶▸►▼▾◀◂]/g, "");
+    const i = t.indexOf("{");
+    return i > 0 ? t.slice(i) : t;
+  }
+  // Rebuild a <pre>'s source: join the code element's per-line block children
+  // with "\n". A single-line block (no element children) falls back to textContent.
+  function preText(pre) {
+    const code = pre.querySelector("code") || pre;
+    const lines = [...code.children].filter((c) => c.nodeType === 1);
+    if (lines.length) return lines.map((l) => l.textContent).join("\n");
+    return code.textContent || "";
+  }
+
+  function itemText(item) {
+    const b = bodyOf(item);
+    return b ? textWithout(b) : "";
+  }
+  function classifyText(item, excludeSel) {
+    const b = bodyOf(item);
+    if (!b) return "";
+    return textWithout(b, excludeSel);
+  }
+
+  // ── Chip anchor ─────────────────────────────────────────────────────────────
+  // Anchor the chip inside the assistant-message body so it sits under the reply.
+  // React reconciles the turn subtree on stream updates; ensureOwnedChip rebuilds
+  // the chip after each wipe (same as the other providers).
+  function chipAnchor(item) {
+    const body = bodyOf(item);
+    if (!body) return item;
+    // Anchor into the reply's CENTERED content column (mx-auto max-w-3xl flex-col),
+    // not the full-width assistant-message: the latter stretched the chip across
+    // the whole turn and dropped it BELOW the like/copy action bar. This column
+    // caps the chip to the text width, left-aligns it (with align-self:flex-start
+    // in overlay.css), and sits before the actions group so the chip reads right
+    // under the reply text.
+    const col = [...body.querySelectorAll("div")].find((e) => {
+      const c = e.className || "";
+      return /mx-auto/.test(c) && /max-w-/.test(c) && /flex-col/.test(c) && !/actions/.test(c);
+    });
+    return col || body;
+  }
+
+  // ── Composer ────────────────────────────────────────────────────────────────
+  // Meta's composer is a Lexical contenteditable <div data-testid="composer-input">,
+  // MIRRORED by a hidden <textarea data-testid="composer-input"> that acts as the
+  // controlled input: writing to that textarea via the native value setter drives
+  // the visible editor (text appears, send enables) and clears it cleanly - even
+  // with an image staged inline (validated live 2026-07-13). So we treat the
+  // textarea as the source of truth for READ/WRITE, and the visible div for
+  // geometry (barAnchor) and user-event targeting (installSendHooks).
+  const editorEls = () => [...document.querySelectorAll(S.input)].filter((e) => !e.closest("#zs-root"));
+  const isTextareaEditor = (e) => !!e && e.tagName === "TEXTAREA";
+  // getEditor() = the ON-SCREEN editor (the Lexical div). The core anchors the
+  // "Agent is working…" cover and the .zs-typing mask to P.getEditor(), so it MUST
+  // be the visible node (the hidden mirror textarea has a 0x0 rect and put the
+  // cover off-screen). Layout (barAnchor) and event targeting use this too.
+  const getEditor = () => {
+    const all = editorEls();
+    return all.find((e) => !isTextareaEditor(e) && e.offsetParent !== null) ||
+           all.find((e) => e.offsetParent !== null) || all[0] || null;
+  };
+  const visibleEditor = getEditor; // alias (kept for call-site clarity)
+  // writeEl() = the controlled mirror textarea we WRITE to: setting its value via
+  // the native setter drives the visible Lexical editor and clears it cleanly.
+  // Falls back to the on-screen editor if Meta ever drops the textarea.
+  const writeEl = () => editorEls().find(isTextareaEditor) || getEditor();
+  const editorText = () => {
+    const e = writeEl();
+    if (!e) return "";
+    return isTextareaEditor(e) ? (e.value || "") : (e.textContent || "");
+  };
+  // No <form> around the composer; the rounded card is the closest stable frame.
+  const composerFrame = () => barAnchor() || (visibleEditor() && visibleEditor().parentElement) || null;
+
+  // A fresh chat: root path "/" with the composer present and no turns.
+  const isFreshChat = () => chatIsEmpty() && location.pathname === "/" && !!getEditor();
+
+  // Meta is a React app that reconciles the composer subtree, so we do NOT insert
+  // #zs-bar into it. barAnchor() returns the rounded composer card; the core
+  // keeps the bar in #zs-root and hugs the card's top edge.
+  function barAnchor() {
+    const ed = visibleEditor();
+    if (!ed) return null;
+    let n = ed;
+    for (let i = 0; i < 10 && n; i++, n = n.parentElement) {
+      if ([...n.classList].some((c) => c.startsWith("rounded"))) return n;
+    }
+    return (ed && ed.parentElement) || null;
+  }
+
+  // The element the "Agent is working…" cover is sized to: the text-entry band
+  // ONLY, never the controls row. The rounded composer card has two children -
+  // [0] the scroller band that holds the editor, [1] the controls row (attach /
+  // Réflexion-Instantané mode toggle / send). Return band [0] (the card child that
+  // contains the editor) so the cover leaves the controls - and the ZS bar above -
+  // uncovered and usable. Falls back to the editor if the structure changes.
+  function coverTarget() {
+    const card = barAnchor();
+    const ed = getEditor();
+    if (!card || !ed) return ed;
+    let n = ed;
+    while (n && n.parentElement && n.parentElement !== card) n = n.parentElement;
+    return (n && n.parentElement === card) ? n : ed;
+  }
+
+  // ── Input lock ──────────────────────────────────────────────────────────────
+  // Block the user from typing while the agent works. We drive the composer via
+  // the mirror textarea, so locking the on-screen Lexical div's `contenteditable`
+  // stops user edits without affecting our own writes. Also mark the textarea
+  // readonly as a belt-and-braces (the native setter ignores readonly).
+  function setInputLock(on) {
+    _locked = on;
+    applyLock();
+  }
+  // Apply the lock state to the live composer nodes. Called by setInputLock AND
+  // re-asserted every sweep (enforceComposer) because Meta's React re-renders the
+  // composer and would otherwise restore the placeholder / editability mid-lock.
+  function applyLock() {
+    const div = getEditor();
+    if (div && !isTextareaEditor(div)) div.setAttribute("contenteditable", _locked ? "false" : "true");
+    const ta = writeEl();
+    if (ta && isTextareaEditor(ta)) { if (_locked) ta.setAttribute("readonly", ""); else ta.removeAttribute("readonly"); }
+    // Hide Meta's own composer placeholder ("Demandez à Meta AI…") while locked:
+    // it is an absolute, pointer-events-none sibling overlapping the editor and
+    // would otherwise show THROUGH the core's "Agent is working…" cover (double
+    // text).
+    const ph = placeholderEl();
+    if (ph) ph.style.visibility = _locked ? "hidden" : "";
+  }
+  // Meta's Lexical placeholder = a `div.pointer-events-none.absolute` inside the
+  // editor's nearest `.relative` container.
+  function placeholderEl() {
+    const div = getEditor();
+    const rel = div && div.closest && div.closest(".relative");
+    return rel ? rel.querySelector("div.pointer-events-none.absolute") : null;
+  }
+
+  // ── Buttons / generation detection ──────────────────────────────────────────
+  const sendButton = () => {
+    const b = document.querySelector(S.sendBtn);
+    return b && b.offsetParent !== null ? b : null;
+  };
+  const stopButton = () => {
+    const b = document.querySelector(S.stopBtn);
+    return b && b.offsetParent !== null ? b : null;
+  };
+
+  function streamText(item) {
+    const b = bodyOf(item);
+    return b ? textWithout(b, ".zs-chip") : "";
+  }
+  const streamLen = (item) => streamText(item === undefined ? lastAssistant() : item).length;
+
+  let _streamMax = -1, _streamAt = 0, _streamItem = null;
+  function sampleStream() {
+    const item = lastAssistant();
+    const len = streamText(item).length;
+    const now = Date.now();
+    if (item !== _streamItem || len < _streamMax - 400) {
+      _streamItem = item; _streamMax = len; _streamAt = now; return;
+    }
+    if (len > _streamMax) { _streamMax = len; _streamAt = now; }
+  }
+  const grewWithin = (ms) => _streamMax > 1 && Date.now() - _streamAt < ms;
+
+  function genActive() {
+    sampleStream();
+    // The stop button is Meta's authoritative "still working" signal and stays up
+    // through the ENTIRE Réflexion reasoning phase (which can run minutes, sometimes
+    // with a stray reply fragment emitted BEFORE the reasoning even starts). Trust it
+    // outright: present = generating, no timer cap. When it is gone, fall back to the
+    // stream-growth idle window. Previously genActive only trusted the button for a
+    // 10s growth window, so a long reasoning phase read as "generation ended" ~40s
+    // early, the loop abandoned the turn, lastGenAt went stale, and the eventual
+    // command landed orphaned ("not run").
+    if (stopButton()) return true;
+    return grewWithin(timings.GEN_IDLE_MS);
+  }
+  const isGenerating = genActive;
+  const isBusyNow = genActive;
+  const isHardGenerating = () => !!stopButton();
+
+  // Meta exposes no per-turn "stopped"/"continue" markers.
+  const turnHalted = () => false;
+  const findContinueBtn = () => null;
+  const clickContinueBtn = () => false;
+
+  function snapshot() {
+    try {
+      const b = bodyOf(lastAssistant());
+      return { th: 0, rp: b ? textWithout(b).length : 0 };
+    } catch { return {}; }
+  }
+
+  function readAssistant() {
+    const item = lastAssistant();
+    if (!item) return { present: false, reply: "", thinking: "", item: null };
+    const b = bodyOf(item);
+    return { present: true, reply: b ? textWithout(b, ".zs-chip").trim() : "", thinking: "", item };
+  }
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // ── Image attachment (validated live 2026-07-13) ────────────────────────────
+  // Meta's composer holds ONE hidden multi-file input[type=file] (accepts image
+  // png/jpeg/webp/gif …). Setting its .files + dispatching `change` stages the
+  // image: the composer SWAPS to a Lexical contenteditable and the image mounts
+  // inline as <span class="inline-image-node"> … <img alt="<filename>">, with a
+  // per-image button[aria-label="Remove image"]. Meta keeps a local blob preview
+  // and only uploads on SEND (like Arena), so "attach done" = the preview img is
+  // present. NOTE: the end-to-end send-with-image path is wired from the DOM
+  // contract but not yet exercised live (the test account's message quota was
+  // exhausted) - verify with a real screen_capture round-trip.
+  function fileFromImage(img, i) {
+    const mime = img.mimeType || "image/jpeg";
+    const bin = atob(img.data);
+    const arr = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) arr[j] = bin.charCodeAt(j);
+    const ext = mime.includes("png") ? "png" : mime.includes("webp") ? "webp" : mime.includes("gif") ? "gif" : "jpg";
+    return new File([arr], `everlua_${Date.now()}_${i}.${ext}`, { type: mime });
+  }
+  const fileInputEl = () => {
+    for (const inp of document.querySelectorAll('input[type="file"]')) {
+      if (!inp.closest("#zs-root")) return inp;
+    }
+    return null;
+  };
+  // The staged preview is an <img> INSIDE a composer-input (the contenteditable).
+  // A SENT image lands in the chat turn instead, so scoping to composer-input
+  // naturally excludes history.
+  const pendingPreview = () => {
+    for (const ci of document.querySelectorAll(S.input)) {
+      const img = ci.querySelector("img");
+      if (img) return img;
+    }
+    return null;
+  };
+  const hasPendingAttachment = () => !!pendingPreview();
+  let _imgSeq = 0;
+  function tagImages(images) {
+    if (images && images.__zsId == null) {
+      try { Object.defineProperty(images, "__zsId", { value: ++_imgSeq, enumerable: false }); }
+      catch { images.__zsId = ++_imgSeq; }
+    }
+    return images;
+  }
+  async function attachImages(images) {
+    const inp = fileInputEl();
+    if (!inp || !images || !images.length) return false;
+    tagImages(images);
+    const dt = new DataTransfer();
+    images.forEach((img, i) => { try { dt.items.add(fileFromImage(img, i)); } catch {} });
+    if (!dt.items.length) return false;
+    try {
+      inp.files = dt.files;
+      inp.dispatchEvent(new Event("change", { bubbles: true }));
+    } catch { return false; }
+    const ok = await waitFor(hasPendingAttachment, 15000);
+    diag("meta.attach.preview", { ok });
+    return ok;
+  }
+  function clearAttachments() {
+    try {
+      document.querySelectorAll('button[aria-label="Remove image"]').forEach((b) => { try { b.click(); } catch {} });
+    } catch {}
+    _attachedImages = null;
+  }
+
+  // ── Sending ─────────────────────────────────────────────────────────────────
+  function setTextareaValue(el, v) {
+    const proto = window.HTMLTextAreaElement && window.HTMLTextAreaElement.prototype;
+    const setter = proto && Object.getOwnPropertyDescriptor(proto, "value");
+    if (setter && setter.set) setter.set.call(el, v);
+    else el.value = v;
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  }
+
+  async function typeAndSend(text, images) {
+    // Images FIRST: staging swaps in the inline image; the mirror textarea still
+    // drives the composed text alongside it. Idempotent across the core's up-to-4
+    // retries via the _attachedImages identity guard.
+    if (images && images.length && images !== _attachedImages) {
+      if (hasPendingAttachment()) clearAttachments();
+      try {
+        const ok = await attachImages(images);
+        if (ok) _attachedImages = images;
+        diag("meta.tas.attached", { ok, imgId: images.__zsId });
+      } catch (e) { diag("meta.tas.attachErr", { msg: String((e && e.message) || e) }); }
+    }
+    // Write via the mirror textarea (the controlled input that drives Lexical).
+    const editor = writeEl();
+    if (!editor) throw new Error("Meta AI input box not found");
+    editor.focus();
+    setTextareaValue(editor, text);
+    const sendReady = () => {
+      const b = sendButton();
+      return !!b && !b.disabled && b.getAttribute("aria-disabled") !== "true";
+    };
+    await waitFor(sendReady, 30000);
+    // Click and CONFIRM the send took (the composer clears - text AND any staged
+    // image - the instant Meta accepts it). Re-click / fall back to Enter until it
+    // clears so a swallowed click can't strand the message.
+    let sent = false;
+    for (let i = 0; i < 6 && !sent; i++) {
+      if (sendReady()) {
+        try { sendButton().click(); } catch {}
+      } else if (!isHardGenerating()) {
+        // Fallback: Enter on the on-screen editor (the send button click is the
+        // primary path; this only covers a swallowed click).
+        const target = visibleEditor() || editor;
+        const o = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+        target.dispatchEvent(new KeyboardEvent("keydown", o));
+        target.dispatchEvent(new KeyboardEvent("keyup", o));
+      }
+      sent = await waitFor(() => editorText().trim() === "" && !hasPendingAttachment(), 700);
+    }
+    if (sent) _attachedImages = null;
+    diag("meta.tas.sent", { sent, editorLen: editorText().length });
+  }
+
+  function stopGeneration() {
+    const b = stopButton();
+    if (b) { try { b.click(); } catch {} }
+  }
+
+  // ── Response mode (Instantané vs Réflexion) ─────────────────────────────────
+  // A fresh account defaults to "Instantané" (think_fast), which gives markedly
+  // worse replies; "Réflexion" (think_hard) reasons before answering. Meta REMEMBERS
+  // the last-used mode across chats, so we only need to flip it once when it is on
+  // Instantané - after that new chats open on Réflexion by themselves. The dropdown
+  // is a Radix menu that ignores a plain .click() (it opens on pointerdown), so we
+  // dispatch real pointer events to open it, then click the think_hard option.
+  const modeBtn = () => document.querySelector(S.modeBtn);
+  const isReflexion = () => {
+    const b = modeBtn();
+    return !!b && /r[ée]flexion|think.?hard/i.test((b.textContent || "") + (b.getAttribute("data-testid") || ""));
+  };
+  let _modeInFlight = false;
+  async function ensureThinkMode() {
+    if (_modeInFlight) return;
+    const b = modeBtn();
+    if (!b || isReflexion()) return; // absent or already Réflexion → nothing to do
+    _modeInFlight = true;
+    try {
+      const fire = (el, t) =>
+        el.dispatchEvent(new PointerEvent(t, { bubbles: true, cancelable: true, pointerId: 1, pointerType: "mouse", button: 0 }));
+      fire(b, "pointerdown"); fire(b, "pointerup"); try { b.click(); } catch {}
+      const opened = await waitFor(() => !!document.querySelector(S.modeOptHard), 2000);
+      if (opened) {
+        const opt = document.querySelector(S.modeOptHard);
+        try { opt.click(); } catch {}
+        await waitFor(isReflexion, 2000);
+      }
+      // Close the menu if it is still open (Radix closes on select, but be safe).
+      if (document.querySelector(S.modeOptHard)) {
+        document.dispatchEvent(new KeyboardEvent("keydown", { key: "Escape", bubbles: true }));
+      }
+      diag("meta.mode.set", { reflexion: isReflexion() });
+    } catch (e) {
+      diag("meta.mode.err", { msg: String((e && e.message) || e) });
+    } finally {
+      _modeInFlight = false;
+    }
+  }
+
+  // ── Composer readiness ──────────────────────────────────────────────────────
+  function enforceComposer() { if (_locked) applyLock(); return { ready: true }; }
+  async function ensureComposerReady(reason) {
+    // Force Réflexion before the session runs (Instantané is much weaker). Fire and
+    // forget - readiness never blocks on it (the mode flip is best-effort).
+    ensureThinkMode();
+    diag("mode_ready", { reason, provider: "meta", ready: !!getEditor() });
+    return { ready: !!getEditor() };
+  }
+  const modeWarning = () => "";
+  const captchaPresent = () => false;
+  function overlayBlocking() {
+    for (const d of document.querySelectorAll('[role="dialog"]')) {
+      if (d.closest("#zs-root")) continue;
+      const r = d.getBoundingClientRect();
+      if (r.width > 40 && r.height > 40 && r.top < innerHeight && r.bottom > 0) return true;
+    }
+    return false;
+  }
+
+  // ── Error / limit detection (site chrome only, never model output) ───────────
+  function scanError() {
+    try {
+      const list = listEl();
+      for (const el of document.querySelectorAll(S.errorSurfaces)) {
+        if (el.offsetParent === null) continue;
+        if (list && list.contains(el)) continue; // inside a chat turn ⇒ model content
+        const t = (el.innerText || "").trim();
+        if (t.length > 8 && t.length < 600 && RE.contextLimit.test(t)) return t.slice(0, 240);
+      }
+    } catch {}
+    if (!getEditor()) return "The input box disappeared (session ended?).";
+    return null;
+  }
+  const isTooLongMsg = (text) => RE.tooLong.test(text);
+  const isBusyMsg = (text) => RE.busy.test(text);
+
+  // /  = a fresh chat with no conversation id yet → "" (never persisted as
+  // "started"). A real conversation is /prompt/<uuid>.
+  const conversationKey = () => (location.pathname === "/" ? "" : location.pathname);
+
+  // ── User-send interception ──────────────────────────────────────────────────
+  function installSendHooks(handlers) {
+    document.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key !== "Enter" || e.shiftKey || e.isComposing) return;
+        // The user types in the on-screen Lexical div, so match the event target
+        // against THAT (getEditor() is the hidden mirror textarea).
+        const editor = visibleEditor();
+        if (!editor || !editor.contains(e.target)) return;
+        if (editorText().trim() === "") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return; // existing conversation → not ours to gate
+          handlers.onBlockedAttempt();
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+
+    document.addEventListener(
+      "click",
+      (e) => {
+        if (!getEditor()) return;
+        const btn = e.target && e.target.closest && e.target.closest("button");
+        if (!btn) return;
+        if (btn.closest(S.stopBtn) || btn.matches(S.stopBtn)) { handlers.onNativeStop(); return; }
+        if (!(btn.closest(S.sendBtn) || btn.matches(S.sendBtn))) return;
+        if (btn.disabled || btn.getAttribute("aria-disabled") === "true") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return;
+          handlers.onBlockedAttempt();
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+  }
+
+  // ── Tool-block location for camouflage ───────────────────────────────────────
+  // Meta renders a command block as a .ur-code-block (the JSON viewer widget OR a
+  // plain <pre>). Hide every such wrapper carrying a command shape, plus any bare
+  // top-level block holding an inline command. React recreates the rendered
+  // subtree on stream settle and on the next send, so also mark the assistant body
+  // (its identity survives) with .zs-cmd-mask; the overlay.css rule keeps recreated
+  // code wrappers hidden.
+  const CMD_SHAPE = /"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;
+  function findToolBlockSpot(item /*, chip */) {
+    const b = bodyOf(item);
+    if (!b) return null;
+    let hidAny = null;
+    // 1. Code wrappers (JSON viewer or <pre>) carrying a command.
+    b.querySelectorAll(S.codeWrap).forEach((cw) => {
+      if (cw.closest(".zs-chip")) return;
+      if (CMD_SHAPE.test(cw.textContent || "")) {
+        cw.classList.add("zs-tool-hide");
+        b.classList.add("zs-cmd-mask");
+        hidAny = hidAny || { parent: cw.parentElement, ref: cw };
+      }
+    });
+    // 2. Bare blocks with an inline command (no code wrapper). In long
+    // conversations Meta stops fencing the emitted JSON, so the raw
+    // {"command": …} renders as a plain paragraph - seen live 2026-07-16.
+    // The command may sit a level or two below the body, so walk p/div
+    // descendants and hide the TOPMOST matching block (document order puts
+    // parents first; skip anything under an already-hidden ancestor).
+    b.querySelectorAll("p, div").forEach((el) => {
+      if (el.closest(".zs-chip, .zs-tool-hide, " + S.codeWrap)) return;
+      if (el.querySelector(S.codeWrap)) return;
+      const t = (el.textContent || "").trim();
+      // A block that STARTS with the command JSON / marker is a command no
+      // matter its size (execute_luau payloads run thousands of chars); the
+      // 600-char cap only guards blocks where the shape appears mid-text.
+      const t0 = t.replace(/^json\s*/i, "");
+      const startsAsCmd = /^\{\s*"(?:command|tool)"\s*:/.test(t0) || /^###\s*(?:lua|mcp_tool)/i.test(t0);
+      if ((startsAsCmd || t.length < 600) && CMD_SHAPE.test(t) && /^[{#]/.test(t0)) {
+        el.classList.add("zs-tool-hide");
+        hidAny = hidAny || { parent: el.parentElement, ref: el };
+      }
+    });
+    return hidAny;
+  }
+
+  return {
+    id: "meta",
+    displayName: "Meta AI",
+    // Meta's composer accepts image uploads (hidden multi-file input → inline
+    // Lexical preview → uploaded on send; see attachImages). Vision-capable, so
+    // screen_capture is exposed (main.js BLOCKED_TOOLS gate). The send-with-image
+    // path is wired from the live DOM contract but not yet exercised end-to-end.
+    supportsVision: true,
+    timings,
+    // React reconciles a turn's content subtree on every update, wiping a chip
+    // placed inside it. Anchor chips at the turn-element level instead.
+    chipAtItemLevel: true,
+    chipAnchor,
+    chipAppend: true,
+    // Turn elements are not virtualized away, so assistantCount() reliably
+    // increases for every reply - the core's watcher uses this.
+    reliableCounts: true,
+    init({ diag: d } = {}) { if (d) diag = d; },
+    // turns
+    allItems, isUserItem, isAssistantItem, itemText, classifyText,
+    assistantCount, userCount, lastAssistant, lastAssistantId, readAssistant,
+    streamLen, snapshot,
+    // composer / state
+    getEditor, editorText, chatIsEmpty, isFreshChat, composerFrame, barAnchor,
+    // The "Agent is working…" cover is sized to coverTarget() so it blankets the
+    // whole text-entry band (blocking clicks that would otherwise focus the editor
+    // and let the user type behind it) WITHOUT covering the controls row - the
+    // attach button, the Réflexion/Instantané mode toggle, and the send button must
+    // stay visible & usable - nor the ZS bar anchored above. coverMaxH lifts the
+    // core's 200px clamp so a grown (multi-line, up to the zs-typing 140px cap)
+    // band is still fully covered.
+    coverTarget,
+    coverMaxH: 260,
+    setInputLock, typeAndSend, stopGeneration,
+    isGenerating, isBusyNow, isHardGenerating,
+    enforceComposer, ensureComposerReady, modeWarning, captchaPresent, overlayBlocking,
+    turnHalted, findContinueBtn, clickContinueBtn,
+    scanError, isTooLongMsg, isBusyMsg,
+    // actions
+    attachImages, clearAttachments, conversationKey, installSendHooks, findToolBlockSpot,
+  };
+})();

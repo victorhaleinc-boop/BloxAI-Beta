@@ -1,1 +1,99 @@
-function a0_0x1a4e(_0xe393d0,_0x457055){_0xe393d0=_0xe393d0-0x1eb;const _0x40f80c=a0_0x40f8();let _0x1a4ec2=_0x40f80c[_0xe393d0];if(a0_0x1a4e['dxyEgt']===undefined){var _0x2eb874=function(_0x39837b){const _0x201397='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x368058='',_0x13c749='';for(let _0x26f075=0x0,_0x49d49d,_0x34e348,_0x4eec03=0x0;_0x34e348=_0x39837b['charAt'](_0x4eec03++);~_0x34e348&&(_0x49d49d=_0x26f075%0x4?_0x49d49d*0x40+_0x34e348:_0x34e348,_0x26f075++%0x4)?_0x368058+=String['fromCharCode'](0xff&_0x49d49d>>(-0x2*_0x26f075&0x6)):0x0){_0x34e348=_0x201397['indexOf'](_0x34e348);}for(let _0x5c8612=0x0,_0x198648=_0x368058['length'];_0x5c8612<_0x198648;_0x5c8612++){_0x13c749+='%'+('00'+_0x368058['charCodeAt'](_0x5c8612)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x13c749);};a0_0x1a4e['WwIZMm']=_0x2eb874,a0_0x1a4e['zKsxfZ']={},a0_0x1a4e['dxyEgt']=!![];}const _0x8eb837=_0x40f80c[0x0],_0x33b71f=_0xe393d0+_0x8eb837,_0x4c771b=a0_0x1a4e['zKsxfZ'][_0x33b71f];return!_0x4c771b?(_0x1a4ec2=a0_0x1a4e['WwIZMm'](_0x1a4ec2),a0_0x1a4e['zKsxfZ'][_0x33b71f]=_0x1a4ec2):_0x1a4ec2=_0x4c771b,_0x1a4ec2;}function a0_0x40f8(){const _0x4671ea=['y29UDgvUDa','C3rYAw5NAwz5','w0rptKvD','CgfYC2u','yM9KEq','y3jLyxrLrwXLBwvUDa','mtKWntKYmuHNDev0CW','CMvHza','DgvZDa','DgHLBG','BM93','zMv0y2G','C2XPy2u','mJmWmJGYn0DpquDTtG','nxDvrwTisW','zg9JDw1LBNrfBgvTzw50','DhjPBq','C3rYAw5N','yxbWzw5Kq2HPBgq','C2nYAxb0','og9prvzcsa','Dgv4Da','yxbWBgLJyxrPB24VANnVBG','CMvZCg9UC2vFAwq','odaXntiYrNHMBvfb','zgf0ytO','DxjS','yw5ZD2vY','mtmXnZGYn1DYD1HMva','mJa5mtyWnZbXA0PxALy','y2HVAwnLCW','mNbhuLrIqG','zgvJB2rL','y2XVBMu','mZGYmtm0yuj6DfHH','z2v0uMvHzgvY','x196C1f3zw5ozxq','CMvZCg9UC2uUy3jLyxrLza','CMLK','zg9Uzq','ndqWmtmYoeDQDgLNBG','DhLWzq'];a0_0x40f8=function(){return _0x4671ea;};return a0_0x40f8();}(function(_0x37b2fd,_0x76e753){const _0xfdc7d4=a0_0x1a4e,_0x21fc2f=_0x37b2fd();while(!![]){try{const _0x24d7e5=parseInt(_0xfdc7d4(0x1ed))/0x1+-parseInt(_0xfdc7d4(0x1f4))/0x2*(-parseInt(_0xfdc7d4(0x20c))/0x3)+parseInt(_0xfdc7d4(0x1fd))/0x4+parseInt(_0xfdc7d4(0x20d))/0x5*(parseInt(_0xfdc7d4(0x1f7))/0x6)+-parseInt(_0xfdc7d4(0x1f1))/0x7+parseInt(_0xfdc7d4(0x213))/0x8*(parseInt(_0xfdc7d4(0x205))/0x9)+-parseInt(_0xfdc7d4(0x1f2))/0xa;if(_0x24d7e5===_0x76e753)break;else _0x21fc2f['push'](_0x21fc2f['shift']());}catch(_0x2dd279){_0x21fc2f['push'](_0x21fc2f['shift']());}}}(a0_0x40f8,0xa25dd),((()=>{'use strict';const _0x54dae6=a0_0x1a4e;if(window[_0x54dae6(0x1f9)])return;window[_0x54dae6(0x1f9)]=!![];const _0x368058='zs-qwen-net',_0x13c749=()=>{const _0x5cd228=_0x54dae6;let _0x5c8612=document['getElementById'](_0x368058);return!_0x5c8612&&(_0x5c8612=document[_0x5cd228(0x204)](_0x5cd228(0x212)),_0x5c8612[_0x5cd228(0x1fe)]=_0x5cd228(0x1eb),_0x5c8612['id']=_0x368058,(document[_0x5cd228(0x203)]||document[_0x5cd228(0x20e)])[_0x5cd228(0x211)](_0x5c8612)),_0x5c8612;},_0x26f075=_0x198648=>{const _0x548a0e=_0x54dae6;try{_0x13c749()['textContent']=JSON[_0x548a0e(0x200)](_0x198648);}catch{}};function _0x49d49d(_0x59e7da,_0x3e35f6){const _0x22d6e7=_0x54dae6,_0x3b7a1c=_0x59e7da[_0x22d6e7(0x20f)]();if(!_0x3b7a1c['startsWith'](_0x22d6e7(0x1ee)))return _0x3e35f6;const _0xac5a0a=_0x3b7a1c[_0x22d6e7(0x20b)](0x5)[_0x22d6e7(0x20f)]();if(!_0xac5a0a||_0xac5a0a===_0x22d6e7(0x201)){if(_0xac5a0a===_0x22d6e7(0x201))_0x3e35f6['done']=!![];return _0x3e35f6;}let _0x584b8f;try{_0x584b8f=JSON[_0x22d6e7(0x202)](_0xac5a0a);}catch{return _0x3e35f6;}const _0x581312=_0x584b8f[_0x22d6e7(0x1fa)];_0x581312&&_0x581312[_0x22d6e7(0x1ec)]&&(_0x3e35f6[_0x22d6e7(0x1fb)]=_0x581312[_0x22d6e7(0x1ec)],_0x3e35f6['text']='',_0x3e35f6[_0x22d6e7(0x1fc)]=![]);const _0x33c854=_0x584b8f[_0x22d6e7(0x1f3)]&&_0x584b8f[_0x22d6e7(0x1f3)][0x0]&&_0x584b8f[_0x22d6e7(0x1f3)][0x0]['delta'];if(_0x33c854){if(_0x33c854['phase']===_0x22d6e7(0x1f0)&&typeof _0x33c854['content']===_0x22d6e7(0x210))_0x3e35f6[_0x22d6e7(0x214)]+=_0x33c854[_0x22d6e7(0x1ff)];}return _0x3e35f6;}async function _0x34e348(_0x1a6e9e){const _0x2ec0e2=_0x54dae6,_0x4e109d=_0x1a6e9e[_0x2ec0e2(0x203)][_0x2ec0e2(0x1f8)](),_0x16d41f=new TextDecoder();let _0x3c1efb='';const _0x10681e={'rid':null,'text':'','done':![]};try{while(!![]){const {done:_0x5042a3,value:_0x56c90f}=await _0x4e109d[_0x2ec0e2(0x206)]();if(_0x5042a3)break;_0x3c1efb+=_0x16d41f[_0x2ec0e2(0x1f5)](_0x56c90f,{'stream':!![]});let _0x959c2c;while((_0x959c2c=_0x3c1efb['indexOf']('\x0a'))>=0x0){_0x49d49d(_0x3c1efb[_0x2ec0e2(0x20b)](0x0,_0x959c2c),_0x10681e),_0x3c1efb=_0x3c1efb[_0x2ec0e2(0x20b)](_0x959c2c+0x1);}_0x26f075({'rid':_0x10681e['rid'],'text':_0x10681e[_0x2ec0e2(0x214)],'done':_0x10681e['done'],'t':Date[_0x2ec0e2(0x209)]()});}if(_0x3c1efb)_0x49d49d(_0x3c1efb,_0x10681e);}catch{}_0x10681e[_0x2ec0e2(0x1fc)]=!![],_0x26f075({'rid':_0x10681e['rid'],'text':_0x10681e[_0x2ec0e2(0x214)],'done':_0x10681e['done'],'t':Date[_0x2ec0e2(0x209)]()});}const _0x4eec03=window['fetch'];window[_0x54dae6(0x20a)]=function(..._0x500050){const _0x3ab73e=_0x54dae6,_0x4261cb=_0x500050[0x0]&&_0x500050[0x0][_0x3ab73e(0x1ef)]||_0x500050[0x0],_0x567952=_0x4eec03['apply'](this,_0x500050);try{typeof _0x4261cb===_0x3ab73e(0x210)&&/\/chat\/completions/i[_0x3ab73e(0x207)](_0x4261cb)&&_0x567952[_0x3ab73e(0x208)](_0x12b461=>{const _0x5bf4f4=_0x3ab73e;try{if(_0x12b461&&_0x12b461[_0x5bf4f4(0x203)])_0x34e348(_0x12b461[_0x5bf4f4(0x1f6)]());}catch{}});}catch{}return _0x567952;};})()));
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/qwen-net.js - Qwen network tap (runs in the MAIN world).
+//
+// WHY THIS EXISTS: Qwen renders assistant replies (and the fenced code blocks
+// that carry EverLua commands) in a Monaco editor that DISPOSES off-screen
+// blocks - collapsing them to their first line - and can drop the final complete
+// frame for short/fast blocks. Reading the command back from the DOM is therefore
+// unreliable (a `{"command":...}` becomes just `{`, a 50-line execute_luau becomes
+// just `###LUA###`), which made the agent loop hang (opener with no closer) and
+// fail to parse. The streamed API response, by contrast, carries the assistant's
+// RAW markdown verbatim. This script taps it and republishes the reconstructed
+// text so providers/qwen.js can read commands from a source Monaco can't corrupt.
+//
+// It wraps window.fetch in the PAGE world (a content script's isolated-world
+// fetch wrap would not see the app's calls), accumulates the `answer`-phase delta
+// content per streamed response, and publishes the latest response's full text +
+// done flag into a DOM node (#zs-qwen-net, JSON textContent) that the isolated
+// content script can read. Registered as a content script with "world": "MAIN",
+// run_at "document_start" so the wrap is installed before Qwen's app uses fetch.
+(() => {
+  "use strict";
+  if (window.__zsQwenNet) return;
+  window.__zsQwenNet = true;
+
+  const NODE_ID = "zs-qwen-net";
+  const node = () => {
+    let n = document.getElementById(NODE_ID);
+    if (!n) {
+      n = document.createElement("script");
+      n.type = "application/json";
+      n.id = NODE_ID;
+      (document.body || document.documentElement).appendChild(n);
+    }
+    return n;
+  };
+  const publish = (obj) => { try { node().textContent = JSON.stringify(obj); } catch {} };
+
+  // Parse the SSE lines we have so far, folding `answer`-phase content into `acc`.
+  // Returns the updated accumulator { rid, text, done }.
+  function foldLine(line, acc) {
+    const s = line.trim();
+    if (!s.startsWith("data:")) return acc;
+    const js = s.slice(5).trim();
+    if (!js || js === "[DONE]") { if (js === "[DONE]") acc.done = true; return acc; }
+    let o;
+    try { o = JSON.parse(js); } catch { return acc; }
+    // A new response starts a fresh answer (reset text so we never mix two turns).
+    const created = o["response.created"];
+    if (created && created.response_id) { acc.rid = created.response_id; acc.text = ""; acc.done = false; }
+    const d = o.choices && o.choices[0] && o.choices[0].delta;
+    if (d) {
+      if (d.phase === "answer" && typeof d.content === "string") acc.text += d.content;
+      // Do NOT treat delta.status==="finished" as the turn's end. Qwen (fe 0.2.73)
+      // now emits `status:"finished"` ~12s BEFORE the SSE stream actually closes,
+      // and the rest of the answer (including a command's closing marker, e.g.
+      // ###END_LUA###) keeps streaming afterwards. Trusting it flipped `done` early,
+      // so the content script fired the still-incomplete command mid-stream and
+      // injected a "Bad JSON / unclosed" feedback while Qwen was still writing.
+      // The true end is the stream closing (`[DONE]`, or the reader ending in
+      // consume(), which sets acc.done there) - rely on that instead.
+    }
+    return acc;
+  }
+
+  async function consume(resp) {
+    const reader = resp.body.getReader();
+    const dec = new TextDecoder();
+    let buf = "";
+    const acc = { rid: null, text: "", done: false };
+    try {
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buf += dec.decode(value, { stream: true });
+        let idx;
+        while ((idx = buf.indexOf("\n")) >= 0) {
+          foldLine(buf.slice(0, idx), acc);
+          buf = buf.slice(idx + 1);
+        }
+        publish({ rid: acc.rid, text: acc.text, done: acc.done, t: Date.now() });
+      }
+      if (buf) foldLine(buf, acc);
+    } catch {}
+    acc.done = true;
+    publish({ rid: acc.rid, text: acc.text, done: acc.done, t: Date.now() });
+  }
+
+  const origFetch = window.fetch;
+  window.fetch = function (...args) {
+    const url = (args[0] && args[0].url) || args[0];
+    const p = origFetch.apply(this, args);
+    try {
+      if (typeof url === "string" && /\/chat\/completions/i.test(url)) {
+        p.then((res) => { try { if (res && res.body) consume(res.clone()); } catch {} });
+      }
+    } catch {}
+    return p;
+  };
+})();

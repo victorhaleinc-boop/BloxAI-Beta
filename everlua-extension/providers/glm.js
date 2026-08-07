@@ -1,1 +1,612 @@
-function a0_0x3cd5(){const _0x380e9e=['ENnqBgfJzwHVBgrLCG','mta1nZG5quneDhfp','z2v0qxr0CMLIDxrL','C2vUzc1TzxnZywDLlwj1DhrVBG','yxr0ywnOlM5VrMLSzuLUChv0','ndi4mdi0swTVDMPR','y2XPy2S','Aw5WDxq','A2v5','mte3mZaZovDItMLYyG','Cg5N','yNvZEq','ndvPqNLQEui','lM1LC3nHz2vjBNb1DenVBNrHAw5LCG','z2XTlNnLBMq','ENmTDg9VBc1OAwrL','lMnOAxaTC2nYB2XSid4GyNv0Dg9U','zM9JDxm','AxntDgfYDgvK','y29KzvDYyxa','mJzfrwnxu3C','BM9KzvzHBhvL','C3jJ','yw55sxrLBq','AxndB21WB3nPBMC','mZiZntKYsgXRzgjH','y2fSBa','B25cBg9JA2vKqxr0zw1WDa','ywrKrxzLBNrmAxn0zw5LCG','yxr0ywnOlNnLDezPBgvZ','Aw5JBhvKzxm','lNvZzxiTBwvZC2fNzq','zMLSzxm','Cgf0Ag5HBwu','lMnTlwvKAxrVCIWGlMnTlwnVBNrLBNq','DgvZDa','DgfYz2v0','r0vox0LetevFtvm','DgHPBMTPBMC','CMvHzg9UBhK','CgfYzw50rwXLBwvUDa','yxr0ywnOBwvUDa','zgLZCgf0y2HfDMvUDa','A2v5Dxa','y29UDgv4Dc57mcWYmh0OBgLTAxr8zxHJzwvKzwr8zfX1mdbLoxbHC3nCDtaWztKP','lcaUENmTy2HPCcWG','y2XVC2vZDa','z2v0t3DUuhjVCgvYDhLezxnJCMLWDg9Y','zxjYB3jtDxjMywnLCW','Aw5UzxjuzxH0','ANbN','zgf0yxnLDa','DxnLCKL0zw0','lMnOyxqTyxnZAxn0yw50','nJuYodG0qLjAB0nn','Dgv4DenVBNrLBNq','yxr0ywnOlM5Vq2HPCa','CxvLCNLtzwXLy3rVCKfSBa','C2v0','nvPdDgfZEG','A2v5zg93BG','BgvUz3rO','Aw1Hz2uVANbLzW','Dg9Vtg9UzW','lNvZzxiTBwvZC2fNzsWGlMnOyxqTyxnZAxn0yw50','zgLZywjSzwq','B2zMC2v0ugfYzw50','iK5VihjLC3bVBNnLlcbWBgvHC2uGDhj5igfNywLUigXHDgvYiIaTihrOyxqNCYbHihOUywKGAxnZDwuSig5VDcb0AguGzxH0zw5ZAw9UlIa','lMnOyxqTDxnLCIa+igrPDJPOyxmOAw1Nw2rHDgeTy3K9iMLTywDLiL0P','lMnVChKTy29Kzs1IDxr0B24','mKDVD1ndBW','Bw9Kzv9YzwfKEq','uhjLzMvYihrOzsbhte0Tns4Yig1VzgvSigfUzcbYzxrYEsbPBIbHig1VBwvUDcaOB3iGB2zMlxbLywSPigLMigL0igHHChbLBNmU','y29UDMvYC2f0Aw9UlNSWldiWFsH0B28GBg9Uz3X0CM9WigXVBMCP','i3PZlxjVB3q','lNrOAw5RAw5NlwnOywLUlwnVBNrHAw5LCG','zMLUza','w3jVBgu9iMfSzxj0iL0Sw2nSyxnZkJ0IDg9HC3qIxsXBy2XHC3mQpsjLCNjVCIjDlfTJBgfZCYO9iMfSzxj0iL0Sw2nSyxnZkJ0IBw9KywWIxq','BM93','y2XHC3nmAxn0','Bwf0y2G','y29TCg9Zzxi','Aw5WDxrBDhLWzt0IzMLSzsjD','z2XT','AM9PBG','lM1HCMTKB3DUlxbYB3nL','B25vC2vYtwvZC2fNzq','CxvLCNLtzwXLy3rVCG','ChjVDg90ExbL','mteYndmYofDOtgLxCG','zM9YBsWGlNjLBgf0AxzL','zwrPDg9Y','yxnZAxn0yw50sxrLBq','y29UDgfPBNm','i2nOyxqTAw5WDxq','DMfSDwu','CMvTB3zLqxr0CMLIDxrL','sfrntfrLEhrbCMvHrwXLBwvUDa','nLjTCKPfBG','BM9Kzvr5Cgu','lMnOAxaTC2nYB2XSigLTzW','y2HPBgroB2rLCW','rw50zxi','zgf0yq','AxncBg9JA2vK','C2v0qxr0CMLIDxrL','zM9YrwfJAa','Bwf0y2HLCW','AxrLBxm','ENmTy2HPCa','y2XHC3noyw1L','C3zN','CgXHy2vOB2XKzxi','C2vUzej0BG','lMnTlwXPBMu','mtyWywfVExL4','ywrK','r0Xn','ENmTy21Klw1HC2S','lMzSzxGTy29Sw2nSyxnZkJ0ICM91BMrLzcjD','yNv0Dg9U','mtqZmJa5qxzArgvY','Bwf4Aw11Bs57mcWYmh1JB250zxH0','DhjPBq','khrVA2vUFgnVBNrLEhqPlNSWldeWFwXPBwL0'];a0_0x3cd5=function(){return _0x380e9e;};return a0_0x3cd5();}function a0_0x104f(_0x5f3029,_0x3ebc22){_0x5f3029=_0x5f3029-0x1b4;const _0x3cd53f=a0_0x3cd5();let _0x104f4d=_0x3cd53f[_0x5f3029];if(a0_0x104f['pcAjKt']===undefined){var _0x251849=function(_0x3216cc){const _0x574082='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x417518='',_0x47a2ab='';for(let _0x2dc7d9=0x0,_0x28e1a9,_0x123088,_0x264e65=0x0;_0x123088=_0x3216cc['charAt'](_0x264e65++);~_0x123088&&(_0x28e1a9=_0x2dc7d9%0x4?_0x28e1a9*0x40+_0x123088:_0x123088,_0x2dc7d9++%0x4)?_0x417518+=String['fromCharCode'](0xff&_0x28e1a9>>(-0x2*_0x2dc7d9&0x6)):0x0){_0x123088=_0x574082['indexOf'](_0x123088);}for(let _0x473811=0x0,_0xa4f4ea=_0x417518['length'];_0x473811<_0xa4f4ea;_0x473811++){_0x47a2ab+='%'+('00'+_0x417518['charCodeAt'](_0x473811)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x47a2ab);};a0_0x104f['qSCClE']=_0x251849,a0_0x104f['jiNNMZ']={},a0_0x104f['pcAjKt']=!![];}const _0x2728b9=_0x3cd53f[0x0],_0x56f07c=_0x5f3029+_0x2728b9,_0x3bb1eb=a0_0x104f['jiNNMZ'][_0x56f07c];return!_0x3bb1eb?(_0x104f4d=a0_0x104f['qSCClE'](_0x104f4d),a0_0x104f['jiNNMZ'][_0x56f07c]=_0x104f4d):_0x104f4d=_0x3bb1eb,_0x104f4d;}(function(_0x1287d5,_0x495165){const _0x2a6210=a0_0x104f,_0x491b64=_0x1287d5();while(!![]){try{const _0x811d27=-parseInt(_0x2a6210(0x1b9))/0x1*(parseInt(_0x2a6210(0x1fe))/0x2)+-parseInt(_0x2a6210(0x21a))/0x3*(parseInt(_0x2a6210(0x1bd))/0x4)+parseInt(_0x2a6210(0x1f3))/0x5*(parseInt(_0x2a6210(0x1ee))/0x6)+parseInt(_0x2a6210(0x1c1))/0x7+parseInt(_0x2a6210(0x1d1))/0x8*(parseInt(_0x2a6210(0x1c4))/0x9)+parseInt(_0x2a6210(0x22b))/0xa*(-parseInt(_0x2a6210(0x1b4))/0xb)+parseInt(_0x2a6210(0x211))/0xc*(parseInt(_0x2a6210(0x1cc))/0xd);if(_0x811d27===_0x495165)break;else _0x491b64['push'](_0x491b64['shift']());}catch(_0x6212d6){_0x491b64['push'](_0x491b64['shift']());}}}(a0_0x3cd5,0x21abf));const ZSProvider=((()=>{'use strict';const _0x881253=a0_0x104f;const _0x417518=_0x3c1ff3=>new Promise(_0x246f29=>setTimeout(_0x246f29,_0x3c1ff3));let _0x47a2ab=()=>{};const _0x2dc7d9={'userItem':_0x881253(0x1d7),'assistantItem':_0x881253(0x1ed),'anyItem':_0x881253(0x1f8),'thinking':_0x881253(0x203),'editor':_0x881253(0x216),'composer':_0x881253(0x1c5),'sendBtn':'#send-message-button','copyCodeBtn':_0x881253(0x1fd),'codeWrap':'div[class*=\x22rounded-xl\x22]','errorSurfaces':_0x881253(0x205),'attachment':_0x881253(0x1fc)},_0x28e1a9={'contextLimit':new RegExp([_0x881253(0x201),_0x881253(0x1e4),'please.{0,30}(start|cr\x5cu00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)',_0x881253(0x1b7),_0x881253(0x1b5),'\x5cu4e0a\x5cu4e0b\x5cu6587.{0,10}(\x5cu8d85\x5cu51fa|\x5cu8fc7\x5cu957f|\x5cu9650\x5cu5236)'][_0x881253(0x20c)]('|'),'i'),'tooLong':/conversation .{0,20}(too long|getting too long|trop longue)/i,'busy':/something went wrong|une erreur s.est produite|try again later|réessayer plus tard|server is busy|系统繁忙|请稍后再试/i},_0x123088={'GEN_IDLE_MS':0x5dc,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2328,'RESPONSE_TIMEOUT_MS':0x493e0},_0x264e65=_0x1f0312=>!!_0x1f0312&&_0x1f0312[_0x881253(0x223)]&&_0x1f0312[_0x881253(0x223)](_0x2dc7d9[_0x881253(0x1ec)]),_0x473811=_0x4879d4=>!!_0x4879d4&&_0x4879d4['matches']&&_0x4879d4[_0x881253(0x223)](_0x2dc7d9[_0x881253(0x214)]);function _0xa4f4ea(_0x473518,_0x508ece){const _0xb0f015=_0x881253;if(!_0x473518)return'';const _0x52db3b=_0x2dc7d9[_0xb0f015(0x1de)]+_0xb0f015(0x1e5)+_0x2dc7d9[_0xb0f015(0x1e1)]+(_0x508ece?',\x20'+_0x508ece:'');let _0x1c5e4d='';const _0x53b41c=_0x3d31fb=>{const _0x123224=_0xb0f015;if(_0x3d31fb['nodeType']===0x3){_0x1c5e4d+=_0x3d31fb[_0x123224(0x1cd)];return;}if(_0x3d31fb[_0x123224(0x21b)]!==0x1)return;if(_0x3d31fb[_0x123224(0x223)]&&_0x3d31fb[_0x123224(0x223)](_0x52db3b))return;if(_0x3d31fb[_0x123224(0x223)]&&_0x3d31fb[_0x123224(0x223)](_0x123224(0x1da))){const _0x3e919f=_0x3d31fb[_0x123224(0x1f1)](_0x123224(0x22a));if(_0x3e919f[_0x123224(0x1f5)]){_0x1c5e4d+='\x0a'+[..._0x3e919f]['map'](_0x16303a=>_0x16303a[_0x123224(0x1ef)])[_0x123224(0x20c)]('\x0a');return;}}for(const _0x402258 of _0x3d31fb[_0x123224(0x21d)])_0x53b41c(_0x402258);};return _0x53b41c(_0x473518),_0x1c5e4d;}const _0x1badbc=_0xb4d681=>_0x473811(_0xb4d681)?_0xa4f4ea(_0xb4d681):_0xa4f4ea(_0xb4d681),_0x5f38e5=(_0x438396,_0x16b7d3)=>_0xa4f4ea(_0x438396,_0x16b7d3),_0x4c1c6d=()=>[...document['querySelectorAll'](_0x2dc7d9[_0x881253(0x1cf)])],_0x494dbb=()=>[...document[_0x881253(0x1f1)](_0x2dc7d9['assistantItem'])],_0x3d09a8=()=>_0x494dbb()[_0x881253(0x1f5)],_0x10772e=()=>document[_0x881253(0x1f1)](_0x2dc7d9[_0x881253(0x1ec)])['length'],_0x40500f=()=>{const _0x5cdada=_0x881253;for(const _0x11ddff of document[_0x5cdada(0x1f1)](_0x2dc7d9[_0x5cdada(0x213)])){if(!_0x11ddff[_0x5cdada(0x1e6)](_0x5cdada(0x202)))return _0x11ddff;}return null;},_0x29567f=()=>{const _0x4542c0=_0x881253,_0x22e77c=_0x40500f();if(!_0x22e77c)return'';return _0x22e77c[_0x4542c0(0x217)]!=null?_0x22e77c[_0x4542c0(0x217)]:_0x22e77c[_0x4542c0(0x1ef)]||'';},_0x519fd3=()=>{const _0x10cae4=_0x881253,_0xd4b5a3=_0x494dbb();return _0xd4b5a3[_0x10cae4(0x1f5)]?_0xd4b5a3[_0xd4b5a3[_0x10cae4(0x1f5)]-0x1]:null;};function _0xaf8c54(){const _0xf6435d=_0x881253;let _0x141a3c=_0x519fd3();while(_0x141a3c){const _0x2205c1=(_0x141a3c[_0xf6435d(0x226)]||'')['toString']()[_0xf6435d(0x208)](/message-([0-9a-f-]{20,})/);if(_0x2205c1)return _0x2205c1[0x1];_0x141a3c=_0x141a3c[_0xf6435d(0x1e0)];}return null;}function _0x1b1cad(_0x140836){const _0x3177c7=_0x881253;if(!_0x140836)return _0x140836;const _0x3681fb=_0x140836['querySelector'](_0x3177c7(0x20d));return _0x3681fb&&_0x3681fb[_0x3177c7(0x1e0)]||_0x140836;}function _0xedb457(_0x805bd5){const _0x2a2972=_0x881253,_0x557e91=_0x1b1cad(_0x805bd5);return _0x557e91&&_0x557e91[_0x2a2972(0x20f)](':scope\x20>\x20div[aria-hidden=\x22true\x22]')||null;}const _0x1b187f=()=>_0x4c1c6d()[_0x881253(0x1f5)]===0x0,_0x2a5bbd=()=>_0x1b187f()&&/^\/?$/[_0x881253(0x1db)](location[_0x881253(0x1d9)])&&!!_0x40500f(),_0x4da9ff=()=>document['querySelector'](_0x2dc7d9[_0x881253(0x209)])||(_0x40500f()?_0x40500f()[_0x881253(0x1e6)](_0x881253(0x212)):null);function _0x28e70c(){const _0x44c375=_0x881253,_0x44f09f=_0x40500f();return _0x44f09f&&_0x44f09f[_0x44c375(0x1e6)](_0x44c375(0x22f))||null;}function _0x8e465e(_0x4a5cde){const _0x15ee1d=_0x881253,_0x3063d3=_0x40500f();if(!_0x3063d3)return;if(_0x4a5cde){if(!_0x3063d3[_0x15ee1d(0x1eb)][_0x15ee1d(0x1b8)])_0x3063d3[_0x15ee1d(0x1eb)][_0x15ee1d(0x1b8)]=_0x3063d3[_0x15ee1d(0x1ba)]('placeholder')||'';_0x3063d3[_0x15ee1d(0x221)](_0x15ee1d(0x1df),''),_0x3063d3[_0x15ee1d(0x221)](_0x15ee1d(0x228),'⏳\x20Agent\x20working…\x20please\x20wait');}else{_0x3063d3[_0x15ee1d(0x218)](_0x15ee1d(0x1df));if(_0x3063d3[_0x15ee1d(0x1eb)][_0x15ee1d(0x1b8)]!=null)_0x3063d3[_0x15ee1d(0x221)](_0x15ee1d(0x228),_0x3063d3[_0x15ee1d(0x1eb)][_0x15ee1d(0x1b8)]);}}const _0x317864=()=>{const _0x1e5f3f=_0x881253,_0xfca4f7=_0x4da9ff();return _0xfca4f7&&_0xfca4f7[_0x1e5f3f(0x20f)](_0x2dc7d9['sendBtn'])||document['querySelector'](_0x2dc7d9[_0x1e5f3f(0x229)]);};function _0x2d596b(){const _0x21083b=_0x881253,_0x1ff323=_0x4da9ff();if(!_0x1ff323)return null;return[..._0x1ff323[_0x21083b(0x1f1)](_0x21083b(0x230))][_0x21083b(0x204)](_0x3d6556=>_0x3d6556['id']!==_0x21083b(0x1bb)&&/rounded-full/[_0x21083b(0x1db)](_0x3d6556[_0x21083b(0x226)])&&/bg-black|bg-white/[_0x21083b(0x1db)](_0x3d6556[_0x21083b(0x226)])&&!_0x3d6556[_0x21083b(0x20f)](_0x21083b(0x227)))||null;}function _0x1d7e7c(_0x261e79){const _0xed019f=_0x881253;if(!_0x261e79)return'';const _0x344851=_0x261e79[_0xed019f(0x20f)](_0x2dc7d9['thinking']);return(_0x344851?_0x344851[_0xed019f(0x1ef)]||'':'')+'\x0a'+_0xa4f4ea(_0x261e79);}const _0x14c922=_0x9ff446=>_0x1d7e7c(_0x9ff446===undefined?_0x519fd3():_0x9ff446)[_0x881253(0x1f5)];let _0x3559be=-0x1,_0x11b5b2=0x0,_0x4fcb6f=null;function _0x458d72(){const _0x345b05=_0x881253,_0xba872c=_0x519fd3(),_0x263f21=_0x1d7e7c(_0xba872c)[_0x345b05(0x1f5)],_0x2b7cdd=Date[_0x345b05(0x206)]();if(_0xba872c!==_0x4fcb6f||_0x263f21<_0x3559be-0x190){_0x4fcb6f=_0xba872c,_0x3559be=_0x263f21,_0x11b5b2=_0x2b7cdd;return;}_0x263f21>_0x3559be&&(_0x3559be=_0x263f21,_0x11b5b2=_0x2b7cdd);}const _0x5c5c78=_0x105937=>_0x3559be>0x1&&Date['now']()-_0x11b5b2<_0x105937;function _0x4a0214(){const _0x4ad1dc=_0x881253;_0x458d72();if(_0x2d596b())return!![];return _0x5c5c78(_0x123088[_0x4ad1dc(0x1dd)]);}const _0x9883c0=_0x4a0214,_0x4e0da1=_0x4a0214,_0x3ed391=()=>!!_0x2d596b(),_0x413bd8=()=>![],_0x584e3b=()=>null,_0x19ceb8=()=>![];function _0x572291(){const _0x544031=_0x881253;try{const _0x105399=_0x519fd3();if(!_0x105399)return{'th':0x0,'rp':0x0};const _0x54416f=_0x105399[_0x544031(0x20f)](_0x2dc7d9['thinking']);return{'th':_0x54416f?(_0x54416f[_0x544031(0x1ef)]||'')[_0x544031(0x1b6)]()[_0x544031(0x1f5)]:0x0,'rp':_0xa4f4ea(_0x105399)[_0x544031(0x1f5)]};}catch{return{};}}function _0x421e1(){const _0x5ceb28=_0x881253,_0xb7c369=_0x519fd3();if(!_0xb7c369)return{'present':![],'reply':'','thinking':'','item':null};const _0x53530c=_0xb7c369[_0x5ceb28(0x20f)](_0x2dc7d9[_0x5ceb28(0x1de)]);return{'present':!![],'reply':_0xa4f4ea(_0xb7c369)[_0x5ceb28(0x1b6)](),'thinking':_0x53530c?(_0x53530c[_0x5ceb28(0x1ef)]||'')['trim']():'','item':_0xb7c369};}async function _0x57b370(_0x6f7ca7,_0x40e018){const _0x24774a=_0x881253,_0x1e0ec6=Date[_0x24774a(0x206)]();while(Date[_0x24774a(0x206)]()-_0x1e0ec6<_0x40e018){if(_0x6f7ca7())return!![];await _0x417518(0x78);}return![];}function _0xf182e8(_0x2de720,_0x41d7ce){const _0x4e643d=_0x881253,_0x57830c=window[_0x4e643d(0x219)]&&window[_0x4e643d(0x219)][_0x4e643d(0x210)],_0x47e3a7=_0x57830c&&Object[_0x4e643d(0x1e7)](_0x57830c,_0x4e643d(0x217));if(_0x47e3a7&&_0x47e3a7[_0x4e643d(0x1f2)])_0x47e3a7['set'][_0x4e643d(0x1d2)](_0x2de720,_0x41d7ce);else _0x2de720[_0x4e643d(0x217)]=_0x41d7ce;_0x2de720[_0x4e643d(0x1e2)](new Event(_0x4e643d(0x1bf),{'bubbles':!![]}));}function _0x1f6864(){if(_0x4e0da1())return![];const _0x2a1498=_0x317864();if(_0x2a1498&&!_0x2a1498['disabled'])return _0x2a1498['click'](),!![];return![];}async function _0x178187(_0x7a8503,_0x2f28f7){const _0x21b5d4=_0x881253,_0x5aa837=_0x40500f();if(!_0x5aa837)throw new Error('GLM\x20input\x20box\x20not\x20found');_0x5aa837[_0x21b5d4(0x1c9)](),_0xf182e8(_0x5aa837,_0x7a8503);if(_0x2f28f7&&_0x2f28f7['length']&&!_0x5b54ab())try{await _0xdeaa3f(_0x2f28f7);}catch{}let _0x26b596=Date['now']();const _0x8308c4=await _0x57b370(()=>{const _0x5eaf1a=_0x21b5d4,_0x5c993c=_0x317864();if(_0x5c993c&&!_0x5c993c['disabled'])return!![];if(Date[_0x5eaf1a(0x206)]()-_0x26b596>0x2bc){_0x26b596=Date['now']();if(_0x29567f()!==_0x7a8503)_0xf182e8(_0x5aa837,_0x7a8503);else _0x5aa837['dispatchEvent'](new Event(_0x5eaf1a(0x1bf),{'bubbles':!![]}));}return![];},0x1f40);_0x47a2ab(_0x21b5d4(0x1c6),{'enabled':_0x8308c4,'busy':_0x4e0da1()});if(!_0x1f6864()&&!_0x4e0da1()){const _0x6c2af1={'key':_0x21b5d4(0x21e),'code':_0x21b5d4(0x21e),'keyCode':0xd,'which':0xd,'bubbles':!![],'cancelable':!![]};_0x5aa837['dispatchEvent'](new KeyboardEvent(_0x21b5d4(0x1f4),_0x6c2af1)),_0x5aa837[_0x21b5d4(0x1e2)](new KeyboardEvent(_0x21b5d4(0x1e3),_0x6c2af1));}}function _0x5b6ef4(){const _0xa3a5eb=_0x881253,_0x52961e=_0x2d596b();if(_0x52961e)try{_0x52961e[_0xa3a5eb(0x1be)]();}catch{}}function _0x4740f3(){return{'ready':!!_0x40500f()};}async function _0x27f70c(_0x174fa2){const _0x2a1f52=_0x881253;return _0x47a2ab(_0x2a1f52(0x1ff),{'reason':_0x174fa2,'provider':_0x2a1f52(0x20b)}),{'ready':!!_0x40500f()};}function _0x2ab874(){const _0x35e1dc=_0x881253;try{for(const _0x52bfa2 of document['querySelectorAll'](_0x2dc7d9[_0x35e1dc(0x1e8)])){if(_0x52bfa2[_0x35e1dc(0x1fa)]===null)continue;if(_0x52bfa2['closest'](_0x2dc7d9[_0x35e1dc(0x1cf)]))continue;const _0xd72858=(_0x52bfa2[_0x35e1dc(0x1e9)]||'')['trim']();if(_0xd72858['length']>0x8&&_0xd72858[_0x35e1dc(0x1f5)]<0x258&&_0x28e1a9['contextLimit'][_0x35e1dc(0x1db)](_0xd72858))return _0xd72858['slice'](0x0,0xf0);}}catch{}if(!_0x40500f())return'The\x20input\x20box\x20disappeared\x20(session\x20ended?).';return null;}const _0x41f59f=_0xa7526a=>_0x28e1a9[_0x881253(0x1f7)]['test'](_0xa7526a),_0x547e6f=_0x3e835f=>_0x28e1a9[_0x881253(0x1c3)][_0x881253(0x1db)](_0x3e835f);function _0x1be47d(_0x48fd6e,_0x11553a){const _0x14e648=_0x881253,_0x102eb9=_0x48fd6e['mimeType']||_0x14e648(0x1f6),_0x3292a0=atob(_0x48fd6e[_0x14e648(0x21f)]),_0x3580b9=new Uint8Array(_0x3292a0['length']);for(let _0x5a4106=0x0;_0x5a4106<_0x3292a0[_0x14e648(0x1f5)];_0x5a4106++)_0x3580b9[_0x5a4106]=_0x3292a0['charCodeAt'](_0x5a4106);const _0x3efd96=_0x102eb9[_0x14e648(0x1d6)](_0x14e648(0x1c2))?_0x14e648(0x1c2):_0x14e648(0x1ea);return new File([_0x3580b9],'everlua_'+Date[_0x14e648(0x206)]()+'_'+_0x11553a+'.'+_0x3efd96,{'type':_0x102eb9});}const _0x4216c2=()=>{const _0x12b55b=_0x881253,_0x3c195a=_0x28e70c()||document;return _0x3c195a[_0x12b55b(0x20f)](_0x12b55b(0x1c8));},_0x5b54ab=()=>!!_0x4216c2(),_0x5e8ca0=()=>{const _0x577a55=_0x881253,_0x241188=_0x28e70c()||document,_0x376e97=_0x241188[_0x577a55(0x20f)]('.chip-scroll\x20img[data-cy=\x22image\x22]')||_0x241188[_0x577a55(0x20f)](_0x577a55(0x21c));return!!(_0x376e97&&/^https?:\/\//[_0x577a55(0x1db)](_0x376e97[_0x577a55(0x1ba)](_0x577a55(0x1ce))||''));};async function _0xdeaa3f(_0xc0b185){const _0x3dee37=_0x881253;if(!_0xc0b185||!_0xc0b185['length'])return![];const _0x2aa605=new DataTransfer();_0xc0b185[_0x3dee37(0x222)]((_0x54cd20,_0x7203bc)=>{const _0x1bbbf6=_0x3dee37;try{_0x2aa605[_0x1bbbf6(0x224)][_0x1bbbf6(0x22c)](_0x1be47d(_0x54cd20,_0x7203bc));}catch{}});if(!_0x2aa605[_0x3dee37(0x224)][_0x3dee37(0x1f5)])return![];const _0x1ecd22=document['querySelector'](_0x3dee37(0x20a));if(!_0x1ecd22)return _0x47a2ab(_0x3dee37(0x1bc)),![];_0x47a2ab(_0x3dee37(0x1d5),{'count':_0x2aa605[_0x3dee37(0x224)][_0x3dee37(0x1f5)]});try{_0x1ecd22[_0x3dee37(0x1d8)]=_0x2aa605[_0x3dee37(0x1d8)],_0x1ecd22['dispatchEvent'](new Event('change',{'bubbles':!![]}));}catch(_0x5a4623){return _0x47a2ab('attach.setFilesThrew',{'msg':String(_0x5a4623&&_0x5a4623['message']||_0x5a4623)}),![];}if(!await _0x57b370(_0x4216c2,0x3a98))return _0x47a2ab(_0x3dee37(0x1f0)),![];const _0x43a67d=await _0x57b370(_0x5e8ca0,0x7530);return _0x47a2ab('attach.uploadDone',{'ok':_0x43a67d}),_0x43a67d;}function _0x3a6ffc(){const _0x2fcf4f=_0x881253;try{const _0x593502=_0x28e70c()||document;_0x593502[_0x2fcf4f(0x1f1)](_0x2fcf4f(0x1c8))['forEach'](_0x333543=>{const _0x3c5053=_0x2fcf4f,_0x5c700a=[..._0x333543[_0x3c5053(0x1f1)](_0x3c5053(0x230))],_0x5b1089=_0x5c700a['find'](_0x2ece80=>/invisible|text-icon/[_0x3c5053(0x1db)](_0x2ece80[_0x3c5053(0x226)]))||_0x5c700a[_0x5c700a[_0x3c5053(0x1f5)]-0x1];if(_0x5b1089)try{_0x5b1089[_0x3c5053(0x1be)]();}catch{}});}catch{}}const _0x3a11b7=()=>/^\/?$/[_0x881253(0x1db)](location[_0x881253(0x1d9)])?'':location[_0x881253(0x1d9)];function _0x1a4c37(_0x2af339){const _0x581be8=_0x881253;document[_0x581be8(0x1d4)](_0x581be8(0x1f4),_0x9ea718=>{const _0x452a5a=_0x581be8;if(_0x9ea718[_0x452a5a(0x1c0)]!==_0x452a5a(0x21e)||_0x9ea718['shiftKey']||_0x9ea718[_0x452a5a(0x1d0)])return;const _0x1cfe11=_0x40500f();if(!_0x1cfe11||!_0x1cfe11[_0x452a5a(0x215)](_0x9ea718['target']))return;if(_0x29567f()[_0x452a5a(0x1b6)]()==='')return;if(_0x2af339['isBlocked']())return;if(!_0x2af339[_0x452a5a(0x1ca)]()){if(!_0x1b187f())return;_0x2af339['onBlockedAttempt']();return;}_0x2af339[_0x452a5a(0x20e)](_0x3d09a8());},!![]),document[_0x581be8(0x1d4)](_0x581be8(0x1be),_0x16038c=>{const _0x5e8da3=_0x581be8;if(!_0x40500f())return;const _0xb06df1=_0x16038c[_0x5e8da3(0x1dc)],_0x2671f1=_0xb06df1&&_0xb06df1['closest']&&_0xb06df1['closest'](_0x5e8da3(0x230));if(_0x2671f1&&_0x4da9ff()&&_0x4da9ff()['contains'](_0x2671f1)&&_0x2671f1['id']!=='send-message-button'&&/rounded-full/[_0x5e8da3(0x1db)](_0x2671f1[_0x5e8da3(0x226)])&&/bg-black|bg-white/[_0x5e8da3(0x1db)](_0x2671f1[_0x5e8da3(0x226)])&&!_0x2671f1[_0x5e8da3(0x20f)]('svg')){_0x2af339['onNativeStop']();return;}const _0x46fdc5=_0xb06df1&&_0xb06df1[_0x5e8da3(0x1e6)]&&_0xb06df1[_0x5e8da3(0x1e6)](_0x2dc7d9[_0x5e8da3(0x229)]);if(!_0x46fdc5)return;if(_0x46fdc5[_0x5e8da3(0x1f9)])return;if(_0x2af339[_0x5e8da3(0x220)]())return;if(!_0x2af339[_0x5e8da3(0x1ca)]()){if(!_0x1b187f())return;_0x2af339[_0x5e8da3(0x1d3)]();return;}_0x2af339[_0x5e8da3(0x20e)](_0x3d09a8());},!![]);}const _0x3c726b=/"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;function _0x4f17cf(_0x532da8){const _0x43efaa=_0x881253;if(!_0x532da8)return null;let _0x56d619=null;for(const _0x2a84aa of _0x532da8['querySelectorAll'](_0x2dc7d9['copyCodeBtn'])){if(_0x2a84aa[_0x43efaa(0x1e6)](_0x2dc7d9['thinking']))continue;const _0x2ada26=_0x2a84aa[_0x43efaa(0x1e6)](_0x2dc7d9[_0x43efaa(0x1cb)]);if(!_0x2ada26||_0x2ada26['closest']('.zs-chip'))continue;_0x3c726b[_0x43efaa(0x1db)](_0x2ada26[_0x43efaa(0x1ef)]||'')&&(_0x2ada26[_0x43efaa(0x207)][_0x43efaa(0x22c)]('zs-tool-hide'),_0x532da8[_0x43efaa(0x207)][_0x43efaa(0x22c)](_0x43efaa(0x22e)),_0x56d619=_0x56d619||{'parent':_0x2ada26[_0x43efaa(0x1e0)],'ref':_0x2ada26});}const _0x3cbc17=_0x532da8[_0x43efaa(0x20f)](_0x43efaa(0x20d))||_0x532da8;return[..._0x3cbc17['children']][_0x43efaa(0x222)](_0x264700=>{const _0x1c594c=_0x43efaa;if(_0x264700[_0x1c594c(0x207)][_0x1c594c(0x215)](_0x1c594c(0x225))||_0x264700[_0x1c594c(0x1e6)](_0x2dc7d9[_0x1c594c(0x1de)])||_0x264700[_0x1c594c(0x20f)](_0x2dc7d9['copyCodeBtn']))return;const _0x2b2726=_0x264700['textContent']||'';_0x2b2726[_0x1c594c(0x1f5)]<0x258&&_0x3c726b[_0x1c594c(0x1db)](_0x2b2726)&&(_0x264700['classList']['add'](_0x1c594c(0x1c7)),_0x56d619=_0x56d619||{'parent':_0x264700[_0x1c594c(0x1e0)],'ref':_0x264700});}),_0x56d619;}return{'id':_0x881253(0x20b),'displayName':_0x881253(0x22d),'supportsVision':!![],'timings':_0x123088,'thinkingSel':_0x2dc7d9[_0x881253(0x1de)],'unstableWarning':'GLM\x20(z.ai)\x20can\x20be\x20unstable:\x20when\x20its\x20servers\x20are\x20busy\x20a\x20turn\x20fails\x20with\x20'+_0x881253(0x1fb)+_0x881253(0x200),'chipAtItemLevel':!![],'chipAnchor':_0x1b1cad,'chipAppend':!![],'chipTrailRef':_0xedb457,'reliableCounts':!![],'init'({diag:_0x19f7c0}={}){if(_0x19f7c0)_0x47a2ab=_0x19f7c0;},'allItems':_0x4c1c6d,'isUserItem':_0x264e65,'isAssistantItem':_0x473811,'itemText':_0x1badbc,'classifyText':_0x5f38e5,'assistantCount':_0x3d09a8,'userCount':_0x10772e,'lastAssistant':_0x519fd3,'lastAssistantId':_0xaf8c54,'readAssistant':_0x421e1,'streamLen':_0x14c922,'snapshot':_0x572291,'getEditor':_0x40500f,'editorText':_0x29567f,'chatIsEmpty':_0x1b187f,'isFreshChat':_0x2a5bbd,'composerFrame':_0x4da9ff,'barAnchor':_0x28e70c,'setInputLock':_0x8e465e,'typeAndSend':_0x178187,'stopGeneration':_0x5b6ef4,'isGenerating':_0x9883c0,'isBusyNow':_0x4e0da1,'isHardGenerating':_0x3ed391,'enforceComposer':_0x4740f3,'ensureComposerReady':_0x27f70c,'turnHalted':_0x413bd8,'findContinueBtn':_0x584e3b,'clickContinueBtn':_0x19ceb8,'scanError':_0x2ab874,'isTooLongMsg':_0x41f59f,'isBusyMsg':_0x547e6f,'attachImages':_0xdeaa3f,'clearAttachments':_0x3a6ffc,'conversationKey':_0x3a11b7,'installSendHooks':_0x1a4c37,'findToolBlockSpot':_0x4f17cf};})());
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/glm.js - the GLM / Z.ai (chat.z.ai) provider.
+// Exports the same ZSProvider interface as providers/deepseek.js and gemini.js;
+// the core (core/main.js) is provider-agnostic. To DISABLE GLM support, remove
+// this file from manifest.json (and its URL from background.js PROVIDER_URLS).
+//
+// Z.ai (GLM) DOM notes (validated live, 2026-06):
+//  - Svelte app. One exchange = a `.user-message` div followed by a
+//    `.chat-assistant` div (the assistant reply root, also `.markdown-prose`).
+//    The assistant root is wrapped by `div.message-<uuid>`; that uuid is a
+//    stable per-turn identity we expose as lastAssistantId (virtualization-proof).
+//  - Reasoning ("Thought Process") renders as a `.thinking-chain-container`
+//    INSIDE `.chat-assistant`, so all reply-text extraction strips that subtree
+//    (tool blocks drafted inside reasoning are never detected or executed).
+//  - The composer is a real <textarea id="chat-input">: set .value via the native
+//    prototype setter + input event (React/Svelte both read it), WAIT for the
+//    send button to re-enable, then click it. Typing + clicking in the same tick
+//    fails because `#send-message-button` is still `disabled` for a frame.
+//  - Idle: `button#send-message-button` is present (disabled when the box is
+//    empty). While generating it is REPLACED by a round black stop button
+//    (`button.rounded-full.bg-black` holding a small square <span>), so
+//    "send button gone / stop button present" == generating for the WHOLE
+//    stream (thinking included) - no indicatorless reasoning phase like DeepSeek.
+//  - Fenced code = an atomic wrapper `div[class*="rounded-xl"]` carrying a
+//    `.copy-code-button`; the command JSON survives in textContent.
+//  - Conversation URL is /c/<uuid>; a fresh chat is exactly "/".
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {}; // injected by core via init()
+
+  const S = {
+    userItem: ".user-message",
+    assistantItem: ".chat-assistant",
+    anyItem: ".user-message, .chat-assistant",
+    thinking: ".thinking-chain-container",
+    editor: "#chat-input",
+    composer: ".messageInputContainer",
+    sendBtn: "#send-message-button",
+    // code-block wrapper carries a copy button; the JSON survives in textContent.
+    copyCodeBtn: ".copy-code-button",
+    codeWrap: 'div[class*="rounded-xl"]',
+    errorSurfaces: '[role="alert"],[class*="toast"],[class*="error"],[class*="alert"],[class*="modal"]',
+    // A SENT image renders as an attachment card (its filename + "JPG · NN KB")
+    // as the FIRST child div of `.chat-user`, BEFORE the message text. Its
+    // filename text would otherwise prefix the turn's classifyText - which broke
+    // the result-chip: the core anchors on /^Output of '/ (isInjectedFeedback),
+    // so "everlua_….jpg JPG 179 KB Output of 'screen_capture'…" failed to match
+    // and the screen_capture feedback turn stayed un-chipped (visible raw output,
+    // unlike Kimi). Strip it from every text read. Precise: only the child holding
+    // the attachment image, never the sibling text block.
+    attachment: '.chat-user > div:has(img[data-cy="image"])',
+  };
+
+  const RE = {
+    contextLimit: new RegExp(
+      [
+        "conversation.{0,20}(too long|trop long)",
+        "context.{0,20}(limit|exceeded|d\\u00e9pass\\u00e9)",
+        "please.{0,30}(start|cr\\u00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)",
+        "(token|context).{0,10}limit",
+        "maximum.{0,20}context",
+        "\\u4e0a\\u4e0b\\u6587.{0,10}(\\u8d85\\u51fa|\\u8fc7\\u957f|\\u9650\\u5236)",
+      ].join("|"),
+      "i"
+    ),
+    tooLong: /conversation .{0,20}(too long|getting too long|trop longue)/i,
+    busy: /something went wrong|une erreur s.est produite|try again later|réessayer plus tard|server is busy|系统繁忙|请稍后再试/i,
+  };
+
+  // GLM streams with a hard stop-button signal for the WHOLE generation
+  // (reasoning + answer), so completion windows can be tight like Gemini.
+  const timings = {
+    GEN_IDLE_MS: 1500,
+    REASON_IDLE_MS: 12000,
+    WARMUP_MS: 45000,
+    REASON_NOREPLY_MS: 90000,
+    STABLE_MS: 9000,
+    RESPONSE_TIMEOUT_MS: 300000,
+  };
+
+  // ── Turn classification ───────────────────────────────────────────────────
+  const isUserItem = (item) => !!item && item.matches && item.matches(S.userItem);
+  const isAssistantItem = (item) => !!item && item.matches && item.matches(S.assistantItem);
+
+  // Walk an element's text, skipping the reasoning subtree, our own chip, and any
+  // excluded selector. Used everywhere a turn's "real" text is needed so tool
+  // blocks drafted inside reasoning are never detected, shown, or executed.
+  function textWithout(root, excludeSel) {
+    if (!root) return "";
+    const skip = S.thinking + ", .zs-chip, " + S.attachment + (excludeSel ? ", " + excludeSel : "");
+    let t = "";
+    const walk = (n) => {
+      if (n.nodeType === 3) { t += n.nodeValue; return; }
+      if (n.nodeType !== 1) return;
+      if (n.matches && n.matches(skip)) return;
+      // GLM renders fenced code in a CodeMirror editor whose lines are separate
+      // <div class="cm-line"> with NO newline text nodes, so textContent collapses
+      // the whole block onto ONE line - which breaks Lua (a `--` then comments out
+      // the rest) and any multi-line command. Rebuild the real source by joining
+      // the cm-line elements with "\n" (and skip the .cm-announced a11y duplicate).
+      if (n.matches && n.matches(".cm-editor, .cm-content")) {
+        const lines = n.querySelectorAll(".cm-line");
+        if (lines.length) { t += "\n" + [...lines].map((l) => l.textContent).join("\n"); return; }
+      }
+      for (const c of n.childNodes) walk(c);
+    };
+    walk(root);
+    return t;
+  }
+
+  const itemText = (item) =>
+    isAssistantItem(item) ? textWithout(item) : textWithout(item);
+  const classifyText = (item, excludeSel) => textWithout(item, excludeSel);
+
+  // ── DOM primitives ────────────────────────────────────────────────────────
+  const allItems = () => [...document.querySelectorAll(S.anyItem)];
+  const assistantItems = () => [...document.querySelectorAll(S.assistantItem)];
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => document.querySelectorAll(S.userItem).length;
+  // Scope to the SITE's composer only: skip EverLua's own injected UI (the
+  // settings textarea #zs-set-text in #zs-root). On login/OAuth pages with no
+  // site editor this returns null, keeping the "not on a chat page" guard in
+  // the send hooks intact (otherwise our own textarea would defeat it and the
+  // hooks could swallow the site's login button).
+  const getEditor = () => {
+    for (const e of document.querySelectorAll(S.editor)) {
+      if (!e.closest("#zs-root")) return e;
+    }
+    return null;
+  };
+  const editorText = () => {
+    const e = getEditor();
+    if (!e) return "";
+    return e.value != null ? e.value : e.textContent || "";
+  };
+
+  const lastAssistant = () => {
+    const it = assistantItems();
+    return it.length ? it[it.length - 1] : null;
+  };
+
+  // Stable per-turn identity: the `message-<uuid>` class on the assistant turn's
+  // wrapper (survives Svelte re-renders / list virtualization). null if absent.
+  function lastAssistantId() {
+    let n = lastAssistant();
+    while (n) {
+      const m = (n.className || "").toString().match(/message-([0-9a-f-]{20,})/);
+      if (m) return m[1];
+      n = n.parentElement;
+    }
+    return null;
+  }
+
+  // ── Chip anchor ───────────────────────────────────────────────────────────
+  // The turn's inner reply lives in a `.markdown-prose` div (NOTE the turn root
+  // `.chat-assistant` ALSO carries a `markdown-prose` class, so querySelector -
+  // descendants only - returns the inner one). Its parent is the content COLUMN
+  // (`.flex.flex-col.w-full`, a vertical stack holding the reply then an
+  // `aria-hidden` spacer; the copy/regenerate action bar lives OUTSIDE the turn,
+  // validated live). Anchoring the chip there + chipAppend stacks it UNDER the
+  // reply (parity with Qwen/Kimi) instead of pinned above the whole turn.
+  function chipAnchor(item) {
+    if (!item) return item;
+    const mp = item.querySelector(".markdown-prose");
+    return (mp && mp.parentElement) || item;
+  }
+  // With chipAppend the chip trails the reply. The column's last child is a bare
+  // `aria-hidden` spacer; name it as the fixed point the chip stays just BEFORE
+  // so it hugs the reply text rather than sinking below the spacer. null when
+  // absent -> the chip simply appends after the reply (still below it).
+  function chipTrailRef(item) {
+    const anchor = chipAnchor(item);
+    return (anchor && anchor.querySelector(':scope > div[aria-hidden="true"]')) || null;
+  }
+
+  const chatIsEmpty = () => allItems().length === 0;
+  // A genuinely fresh chat: the "/" route with the composer rendered and no turns.
+  const isFreshChat = () =>
+    chatIsEmpty() && /^\/?$/.test(location.pathname) && !!getEditor();
+
+  // The composer box the Start gate hides as one unit.
+  const composerFrame = () =>
+    document.querySelector(S.composer) ||
+    (getEditor() ? getEditor().closest("form, .relative") : null);
+
+  // Integrated status bar (same approach as Kimi): GLM is a Svelte app that
+  // reconciles the composer subtree, so we must NOT insert our #zs-bar into it
+  // (a foreign node in a framework-managed parent risks the diff nesting the
+  // composer inside the bar). barAnchor() returns the rounded composer CARD - the
+  // `flex flex-col … rounded-xl` ancestor of the textarea, which holds the input
+  // box then the toolbar row - and the core (placeBar anchored branch) keeps the
+  // bar in #zs-root, positions it to hug that card's top edge at full width, and
+  // reserves the strip with padding-top. Validated live: full width, hugs top,
+  // pushes the input down with no overlap.
+  function barAnchor() {
+    const ed = getEditor();
+    return (ed && ed.closest('.flex-col[class*="rounded"]')) || null;
+  }
+
+  // ── Input lock ────────────────────────────────────────────────────────────
+  // The textarea is a real <textarea>: `readonly` blocks the user but is ignored
+  // by the native prototype setter used in setTextareaValue(), so our own
+  // injections still work.
+  function setInputLock(on) {
+    const ed = getEditor();
+    if (!ed) return;
+    if (on) {
+      if (!ed.dataset.zsPlaceholder) ed.dataset.zsPlaceholder = ed.getAttribute("placeholder") || "";
+      ed.setAttribute("readonly", "");
+      ed.setAttribute("placeholder", "⏳ Agent working… please wait");
+    } else {
+      ed.removeAttribute("readonly");
+      if (ed.dataset.zsPlaceholder != null) ed.setAttribute("placeholder", ed.dataset.zsPlaceholder);
+    }
+  }
+
+  // ── Send / stop buttons ────────────────────────────────────────────────────
+  const sendButton = () => {
+    const c = composerFrame();
+    return (c && c.querySelector(S.sendBtn)) || document.querySelector(S.sendBtn);
+  };
+  // While generating, the send button is replaced by a round stop button inside
+  // the composer (a submit button with `rounded-full`/`bg-black` and no id).
+  function stopButton() {
+    const c = composerFrame();
+    if (!c) return null;
+    return [...c.querySelectorAll("button")].find(
+      (b) => b.id !== "send-message-button" &&
+             /rounded-full/.test(b.className) &&
+             /bg-black|bg-white/.test(b.className) &&
+             // z.ai added round `bg-white rounded-full` SCROLL-TO-BOTTOM arrows to
+             // the composer (an <svg> down-arrow in an `absolute` overlay). They
+             // matched the old criteria, so genActive()/isGenerating latched TRUE
+             // forever on a static page - the Stop button showed red with no loop
+             // running and finalisation/camouflage stalled. The real stop button is
+             // a round button holding a small square <span> (NO svg), so exclude any
+             // svg-bearing button.
+             !b.querySelector("svg")
+    ) || null;
+  }
+
+  // ── Generation detection ──────────────────────────────────────────────────
+  function streamText(item) {
+    if (!item) return "";
+    const think = item.querySelector(S.thinking);
+    return (think ? think.textContent || "" : "") + "\n" + textWithout(item);
+  }
+  const streamLen = (item) => streamText(item === undefined ? lastAssistant() : item).length;
+
+  let _streamMax = -1, _streamAt = 0, _streamItem = null;
+  function sampleStream() {
+    const item = lastAssistant();
+    const len = streamText(item).length;
+    const now = Date.now();
+    if (item !== _streamItem || len < _streamMax - 400) {
+      _streamItem = item; _streamMax = len; _streamAt = now; return;
+    }
+    if (len > _streamMax) { _streamMax = len; _streamAt = now; }
+  }
+  const grewWithin = (ms) => _streamMax > 1 && Date.now() - _streamAt < ms;
+
+  // GLM's stop button is present for the ENTIRE generation and reliably clears
+  // when it ends (validated live), so we TRUST it directly. We must NOT gate it
+  // on stream growth the way Gemini's wedge guard does: GLM renders the answer
+  // in a CodeMirror editor that VIRTUALIZES its lines, so a long script's
+  // measured text length PLATEAUS mid-stream. The growth guard then wrongly
+  // declared the still-active generation "done", the watcher finalized a
+  // half-written command, and the feedback we sent aborted GLM mid-reply - the
+  // parse_error / truncation loop. Trusting the button avoids that entirely;
+  // the growth check only covers the brief tail right after the button clears.
+  function genActive() {
+    sampleStream();
+    if (stopButton()) return true;
+    return grewWithin(timings.GEN_IDLE_MS);
+  }
+  const isGenerating = genActive;
+  const isBusyNow = genActive;
+  const isHardGenerating = () => !!stopButton();
+
+  // GLM exposes no reliable per-turn "stopped" marker → never halted.
+  const turnHalted = () => false;
+  const findContinueBtn = () => null;
+  const clickContinueBtn = () => false;
+
+  function snapshot() {
+    try {
+      const it = lastAssistant();
+      if (!it) return { th: 0, rp: 0 };
+      const think = it.querySelector(S.thinking);
+      return {
+        th: think ? (think.textContent || "").trim().length : 0,
+        rp: textWithout(it).length,
+      };
+    } catch { return {}; }
+  }
+
+  function readAssistant() {
+    const item = lastAssistant();
+    if (!item) return { present: false, reply: "", thinking: "", item: null };
+    const think = item.querySelector(S.thinking);
+    return {
+      present: true,
+      reply: textWithout(item).trim(),
+      thinking: think ? (think.textContent || "").trim() : "",
+      item,
+    };
+  }
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // ── Sending ─────────────────────────────────────────────────────────────────
+  // Real <textarea> driven by Svelte: set .value via the native prototype setter
+  // so the framework's input handler fires, dispatch an input event, then click
+  // the send button ONCE it re-enables (a fresh value disables it for a frame).
+  function setTextareaValue(el, v) {
+    const proto = window.HTMLTextAreaElement && window.HTMLTextAreaElement.prototype;
+    const setter = proto && Object.getOwnPropertyDescriptor(proto, "value");
+    if (setter && setter.set) setter.set.call(el, v);
+    else el.value = v;
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  }
+
+  function clickSendButton() {
+    if (isBusyNow()) return false;
+    const btn = sendButton();
+    if (btn && !btn.disabled) { btn.click(); return true; }
+    return false;
+  }
+
+  async function typeAndSend(text, images) {
+    const editor = getEditor();
+    if (!editor) throw new Error("GLM input box not found");
+    editor.focus();
+    setTextareaValue(editor, text);
+    // Attach images LAST, right before the send click - see gemini.js's
+    // typeAndSend for why (attaching before retyping the text can sever the
+    // site's binding between the pending upload and the message being sent).
+    // submitAndGetBase RETRIES this function; only attach if nothing is staged
+    // yet, else each retry uploads ANOTHER duplicate copy.
+    if (images && images.length && !hasPendingAttachment()) { try { await attachImages(images); } catch {} }
+    // Wait for Svelte to re-enable the send button (proof it registered the text),
+    // then click the instant it's clickable. In a LONG conversation the message
+    // list is heavy, so Svelte's reactivity to the input event can take well over
+    // a second - the old 1500ms cap expired with the button still `disabled`, the
+    // click no-opped, and only the core's retry loop eventually landed it (the
+    // user's "message sits in the input then sends after a long time"). We now wait
+    // up to 8s AND re-dispatch the input event every ~700ms so a slow/queued Svelte
+    // cycle keeps getting nudged until it re-enables the button.
+    let lastNudge = Date.now();
+    const enabled = await waitFor(() => {
+      const b = sendButton();
+      if (b && !b.disabled) return true;
+      if (Date.now() - lastNudge > 700) {
+        lastNudge = Date.now();
+        // Re-assert the value (a heavy re-render can drop it) and re-fire input.
+        if (editorText() !== text) setTextareaValue(editor, text);
+        else editor.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+      return false;
+    }, 8000);
+    diag("glm.send", { enabled, busy: isBusyNow() });
+    if (!clickSendButton() && !isBusyNow()) {
+      const o = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+      editor.dispatchEvent(new KeyboardEvent("keydown", o));
+      editor.dispatchEvent(new KeyboardEvent("keyup", o));
+    }
+  }
+
+  function stopGeneration() {
+    const b = stopButton();
+    if (b) try { b.click(); } catch {}
+  }
+
+  // No site modes to enforce (model / reasoning toggle left to the user).
+  function enforceComposer() { return { ready: !!getEditor() }; }
+  async function ensureComposerReady(reason) {
+    diag("mode_ready", { reason, provider: "glm" });
+    return { ready: !!getEditor() };
+  }
+
+  // ── Error / limit detection (site chrome only) ────────────────────────────
+  function scanError() {
+    try {
+      for (const el of document.querySelectorAll(S.errorSurfaces)) {
+        if (el.offsetParent === null) continue;
+        if (el.closest(S.anyItem)) continue; // model content, not UI chrome
+        const t = (el.innerText || "").trim();
+        if (t.length > 8 && t.length < 600 && RE.contextLimit.test(t)) return t.slice(0, 240);
+      }
+    } catch {}
+    if (!getEditor()) return "The input box disappeared (session ended?).";
+    return null;
+  }
+  const isTooLongMsg = (text) => RE.tooLong.test(text);
+  const isBusyMsg = (text) => RE.busy.test(text);
+
+  // ── Image attachment (best effort) ────────────────────────────────────────
+  function fileFromImage(img, i) {
+    const mime = img.mimeType || "image/jpeg";
+    const bin = atob(img.data);
+    const arr = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) arr[j] = bin.charCodeAt(j);
+    const ext = mime.includes("png") ? "png" : "jpg";
+    return new File([arr], `everlua_${Date.now()}_${i}.${ext}`, { type: mime });
+  }
+  // The PENDING attachment chip. z.ai mounts each staged upload as a
+  // `.chip-scroll > button` inside the composer card (barAnchor). A SENT image
+  // renders separately in its `.user-message` turn, so scoping the probe to the
+  // composer card excludes history - which stops a leftover chip from a PREVIOUS
+  // capture reading as "already pending" and skipping the next attach (the
+  // 2nd-capture-never-attaches bug seen on Kimi). Validated live on chat.z.ai.
+  const pendingChip = () => {
+    const host = barAnchor() || document;
+    return host.querySelector(".chip-scroll > button");
+  };
+  const hasPendingAttachment = () => !!pendingChip();
+  // Upload done = the chip's <img data-cy="image"> src has flipped from its local
+  // placeholder to the remote CDN url (https://z-cdn-media.chatglm.cn/…). Sending
+  // before that goes out text-only, so we WAIT for the http(s) src.
+  const attachmentReady = () => {
+    const host = barAnchor() || document;
+    const im = host.querySelector('.chip-scroll img[data-cy="image"]') || host.querySelector(".chip-scroll img");
+    return !!(im && /^https?:\/\//.test(im.getAttribute("src") || ""));
+  };
+  async function attachImages(images) {
+    if (!images || !images.length) return false;
+    const dt = new DataTransfer();
+    images.forEach((img, i) => { try { dt.items.add(fileFromImage(img, i)); } catch {} });
+    if (!dt.items.length) return false;
+    // z.ai keeps a single always-mounted <input type=file> in the composer
+    // (accepts png/jpg among others); setting .files + change stages the upload -
+    // no "+" menu to open (unlike Kimi). A synthetic paste is NOT needed.
+    const fileInput = document.querySelector('input[type="file"]');
+    if (!fileInput) { diag("attach.noFileInput"); return false; }
+    diag("attach.setFiles", { count: dt.items.length });
+    try { fileInput.files = dt.files; fileInput.dispatchEvent(new Event("change", { bubbles: true })); }
+    catch (e) { diag("attach.setFilesThrew", { msg: String((e && e.message) || e) }); return false; }
+    if (!(await waitFor(pendingChip, 15000))) { diag("attach.noChip"); return false; }
+    const ok = await waitFor(attachmentReady, 30000);
+    diag("attach.uploadDone", { ok });
+    return ok;
+  }
+  function clearAttachments() {
+    try {
+      const host = barAnchor() || document;
+      host.querySelectorAll(".chip-scroll > button").forEach((chip) => {
+        // The per-chip remove control is the small button revealed on hover
+        // (`invisible text-icon-…`); fall back to the chip's last inner button.
+        const inner = [...chip.querySelectorAll("button")];
+        const rm = inner.find((b) => /invisible|text-icon/.test(b.className)) || inner[inner.length - 1];
+        if (rm) try { rm.click(); } catch {}
+      });
+    } catch {}
+  }
+
+  // /c/<uuid> = a real conversation. "/" = a fresh chat with no id yet → ""
+  // (transient) so the core never persists it as "started".
+  const conversationKey = () => (/^\/?$/.test(location.pathname) ? "" : location.pathname);
+
+  // ── User-send interception ────────────────────────────────────────────────
+  function installSendHooks(handlers) {
+    document.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key !== "Enter" || e.shiftKey || e.isComposing) return;
+        const ed = getEditor();
+        if (!ed || !ed.contains(e.target)) return;
+        if (editorText().trim() === "") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return; // existing conversation → not ours to gate
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+
+    document.addEventListener(
+      "click",
+      (e) => {
+        if (!getEditor()) return;
+        const t = e.target;
+        // Stop button (round, in the composer) = a native stop intent.
+        const stop = t && t.closest && t.closest("button");
+        if (stop && composerFrame() && composerFrame().contains(stop) &&
+            stop.id !== "send-message-button" &&
+            /rounded-full/.test(stop.className) && /bg-black|bg-white/.test(stop.className) &&
+            !stop.querySelector("svg")) { // exclude the scroll-to-bottom arrows (see stopButton)
+          handlers.onNativeStop();
+          return;
+        }
+        const btn = t && t.closest && t.closest(S.sendBtn);
+        if (!btn) return;
+        if (btn.disabled) return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return;
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+  }
+
+  // ── Tool-block location for camouflage ────────────────────────────────────
+  // GLM wraps each fenced code block in an atomic `div[class*="rounded-xl"]`
+  // carrying a `.copy-code-button` (markers + JSON survive in textContent), and
+  // Svelte re-renders the markdown subtree on stream updates / next send. So,
+  // like Gemini: hide every code wrapper in the reply whose text carries a
+  // command shape AND mark the reply root (`.chat-assistant`, which keeps its
+  // identity) with .zs-cmd-mask so a CSS rule re-hides recreated wrappers with
+  // zero flash. Also catch a stray bare inline command paragraph.
+  const CMD_SHAPE = /"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;
+  function findToolBlockSpot(item /*, chip */) {
+    if (!item) return null;
+    let hidAny = null;
+    // 1. Fenced code blocks carrying a command (skip ones inside the reasoning).
+    for (const cc of item.querySelectorAll(S.copyCodeBtn)) {
+      if (cc.closest(S.thinking)) continue;
+      const wrap = cc.closest(S.codeWrap);
+      if (!wrap || wrap.closest(".zs-chip")) continue;
+      if (CMD_SHAPE.test(wrap.textContent || "")) {
+        wrap.classList.add("zs-tool-hide");
+        item.classList.add("zs-cmd-mask");
+        hidAny = hidAny || { parent: wrap.parentElement, ref: wrap };
+      }
+    }
+    // 2. Bare top-level blocks with an inline command (no code wrapper inside).
+    const reply = item.querySelector(".markdown-prose") || item;
+    [...reply.children].forEach((el) => {
+      if (el.classList.contains("zs-chip") || el.closest(S.thinking) ||
+          el.querySelector(S.copyCodeBtn)) return;
+      const t = el.textContent || "";
+      if (t.length < 600 && CMD_SHAPE.test(t)) {
+        el.classList.add("zs-tool-hide");
+        hidAny = hidAny || { parent: el.parentElement, ref: el };
+      }
+    });
+    return hidAny;
+  }
+
+  return {
+    id: "glm",
+    displayName: "GLM",
+    // GLM-5.2 is multimodal and z.ai's composer accepts image uploads (png/jpg via
+    // the always-mounted file input; chip staged in .chip-scroll, upload complete
+    // when its <img> src flips to the z-cdn-media CDN url - see attachImages). So
+    // screen_capture is exposed here (main.js BLOCKED_TOOLS gate). Confirm the
+    // model actually READS the image via provider-test-checklist step 9 (incl. two
+    // captures in a row) - flip back to false if a live read ever fails.
+    supportsVision: true,
+    timings,
+    // Reasoning-area selector, exported so the CORE's raw-command-visible probes
+    // exclude it (same fix as DeepSeek/Gemini/Kimi): GLM's "Thought Process"
+    // renders in .thinking-chain-container and quotes the command JSON, which the
+    // camouflage never hides - without this the core reads it as "raw block still
+    // visible" forever and the chip flaps done→run→done.
+    thinkingSel: S.thinking,
+    // Shown as a permanent, non-intrusive "⚠ unstable" notice in the bar. The
+    // z.ai free endpoint is frequently at capacity: its backend returns an HTML
+    // error page instead of JSON, so the reply shows "No response, please try
+    // again later" (a z.ai server issue, NOT the extension). Prefer the GLM-5.2
+    // model and retry off-peak.
+    unstableWarning:
+      "GLM (z.ai) can be unstable: when its servers are busy a turn fails with " +
+      "\"No response, please try again later\" - that's a z.ai issue, not the extension. " +
+      "Prefer the GLM-5.2 model and retry in a moment (or off-peak) if it happens.",
+    // Svelte re-renders the reply's markdown subtree on every update, wiping any
+    // chip placed inside it. Anchor chips at the turn-element level instead
+    // (redirected into the reply column by chipAnchor).
+    chipAtItemLevel: true,
+    chipAnchor,
+    // GLM writes narration THEN the tool call at the end of the turn, so trail
+    // the chip after the reply text (chipAppend) rather than pinning it first -
+    // it then sits BELOW the reply, like Qwen/Kimi. chipTrailRef keeps it just
+    // above the trailing aria-hidden spacer; ensureOwnedChip re-asserts both
+    // across Svelte's re-renders of the reply subtree.
+    chipAppend: true,
+    chipTrailRef,
+    // Assistant turns expose a stable message-<uuid> identity (lastAssistantId),
+    // so the core's watcher can refuse finalizing before this send's reply exists.
+    reliableCounts: true,
+    init({ diag: d } = {}) { if (d) diag = d; },
+    // turns
+    allItems, isUserItem, isAssistantItem, itemText, classifyText,
+    assistantCount, userCount, lastAssistant, lastAssistantId, readAssistant,
+    streamLen, snapshot,
+    // composer / state
+    getEditor, editorText, chatIsEmpty, isFreshChat, composerFrame, barAnchor,
+    setInputLock, typeAndSend, stopGeneration,
+    isGenerating, isBusyNow, isHardGenerating,
+    enforceComposer, ensureComposerReady,
+    turnHalted, findContinueBtn, clickContinueBtn,
+    scanError, isTooLongMsg, isBusyMsg,
+    // actions
+    attachImages, clearAttachments, conversationKey,
+    installSendHooks, findToolBlockSpot,
+  };
+})();

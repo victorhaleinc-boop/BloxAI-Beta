@@ -1,1 +1,814 @@
-function a0_0x59aa(){const _0x87bb33=['lMn1CNjLBNqTBw9KzwWGlM1VzgvSlw5HBwuSic5JDxjYzw50lw1VzgvSic5Uyw1L','yxr0ywnOlM5VvgH1Bwi','nde0ndm2uwv3z2XI','Bw9Kzv9YzwfKEq','lMnOyxqTzwrPDg9Y','yw55sxrLBq','lNnLz21LBNqTyxnZAxn0yw50','zMfSC2u','ENmTy2HPCa','B25vC2vYtwvZC2fNzq','y29UDgvUDa','khrVA2vUFgnVBNrLEhqPlNSWldeWFwXPBwL0','lNnLz21LBNqTy29UDgvUDc1IB3G','lMnOyxqTAw5WDxqTzwrPDg9YlwnVBNrHAw5LCG','w3jVBgu9iMfSzxj0iL0Sw2nSyxnZkJ0IDg9HC3qIxsXBy2XHC3mQpsjLCNjVCIjDlfTJBgfZCYO9iMfSzxj0iL0Sw2nSyxnZkJ0IBM90AwzPy2f0Aw9UiL0','DhjPBq','lNPZlwnOAxa','yxr0ywnOlM5VrMLSzuLUChv0','zgLZCgXHEq','AxrLBxm','A2LTAs5KzwzHDwX0tw9KzwWUz2L2zvvW','DxnLCKL0zw0','yxr0ywnOlNnLDezPBgvZvgHYzxC','lNrOAw5RAw5NlwnVBNrHAw5LCG','lNnLz21LBNqTDxnLCG','lMLTywDLlxrODw1IBMfPBa','ofn0s0LnEq','C2vUzej0BG','BM9Kzvr5Cgu','CxvLCNLtzwXLy3rVCKfSBa','Dgv4DenVBNrLBNq','C2HPzNrlzxK','AxntDgfYDgvK','mtyWwuTItuT1','CMvWBhK','zxHLy0nVBw1HBMq','z2v0qM91BMrPBMDdBgLLBNrszwn0','A2v5','y2XHC3nmAxn0','A2LTAq','zwrPDg9Y','lMnOyxqTAw5WDxqTCgXHy2vOB2XKzxi','CgXLyxnLlNSWldmWFsHZDgfYDhXJCLX1mdbLowvYks57mcWYmh0OBMv3Fg5VDxzLyxuPlNSWldiWFsHJAgf0FgnVBNzLCNnHDgLVBIK','C3rVCa','B2jZzxj2zq','s2LTAsbZB21LDgLTzxmGDxnLCYbPDhmGB3DUig5HDgL2zsb0B29SCYbPBNn0zwfKig9MihrOzsbsB2jSB3GGy29TBwfUzhmGkg1VzgvSigjLAgf2Aw9YlcbUB3qGDgHLigv4DgvUC2LVBIKUia','zMLSDgvY','AgvPz2H0','rw50zxi','y29UDgv4Dc57mcWYmh0OBgLTAxr8zxHJzwvKzwr8BgvUz3rOFgrCDtaWztLWyxnZxhuWmgu5kq','AM9PBG','zgf0ys16CY1SB2nRzwq','yxr0ywnOlNnLDezPBgvZ','zMLSzxm','zgf0yq','yNvZEq','lMXVz2LUlw1VzgfSlw1HC2SSic5TB2rHBc1TyxnR','Aw5WDxqUAgLKzgvUlwLUChv0','y3vYCMvUDe1VzgvStMfTzq','BgvUz3rO','y3jLyxrLuMfUz2u','y29UDgvUDgvKAxrHyMXL','C2v0qxr0CMLIDxrL','mtm5otq4ugXuBfL2','m0v2AeDLCa','y29KzvDYyxa','BwvZC2fNzq','DMLZAwjPBgL0Eq','zgLZywjSzwq','y29TCg9Zzxi','s2LTAsDZig93BIbHz2vUDgLJig1VzguGCMvWBgfJzxmGDgHLiev2zxjmDweGy29TBwfUzhmGD2L0AcbPDhmGBMf0AxzLihrVB2XZigfUzcbICMvHA3mGDgHLigfNzw50igXVB3aU','ywrKrxzLBNrmAxn0zw5LCG','AxndB21WB3nPBMC','AxncBg9JA2vK','ENmTy21Klw1HC2S','lNnLz21LBNq','y2HPBgroB2rLCW','m1jdvvftDq','mJeXmZC0mvnet3v6qq','zM9JDxm','CgfYzw50rwXLBwvUDa','lNnLz21LBNqTy29Kzq','A2v5zg93BG','lMnOyxqTAw5WDxqTzwrPDg9Y','Aw5WDxrBDhLWzt0IzMLSzsjD','z2v0u2vSzwn0Aw9U','Bwf4Aw11Bs57mcWYmh1JB250zxH0','y2XHC3noyw1L','s2LTAsbPBNb1DcbIB3GGBM90igzVDw5K','Bwf0y2HLCW','mtu3nJm4nxL6DujKqq','C2XPy2u','mta1nJC4ourzqw9cyq','ENmTDg9VBc1OAwrL','lNnLBMqTyNv0Dg9UlwnVBNrHAw5LCG','s2LTAq','Cgf0Ag5HBwu','lNnLz21LBNqTy29UDgfPBMvY','xhu0ztbHxhu0ztbIxhu2ntG3lNSWldeWFsHCDtHKodvCDtuXzMf8xhu4zMm3xhu5ntDMFfX1oty1mfX1ntiZnIK','DgHPBMTPBMC','mJC3ntHyqxD3u2y','zxjYB3jtDxjMywnLCW','lMn1CNjLBNqTBw9KzwW','DgfYz2v0','lMLTywDLlwrLBgv0zs1JB250ywLUzxi','Dhj1zq','ywrK','z2v0qxr0CMLIDxrL','BM93','zM9YrwfJAa','DgvZDa','AgLKzgvU','Aw1Hz2uVANbLzW','yxr0ywnOlNvWBg9HzerVBMu','y2XVC2vZDa','vgHLigLUChv0igjVEcbKAxnHChbLyxjLzcaOC2vZC2LVBIbLBMrLzd8PlG','Cg5N','y2XPy2S','CMvTB3zLqwXSuMfUz2vZ','lMnOyxqTyM94','A2v5Dxa','i3PZlxjVB3q','B2zMC2v0ugfYzw50','zgLZCgf0y2HfDMvUDa','lNbHCMfNCMfWAcWGCa','BM9KzvzHBhvL','Aw5JBhvKzxm','Aw5UzxjuzxH0','D2LKDgG','Dg9Vtg9UzW','y29UDgfPBNm','CxvLCNLtzwXLy3rVCG','oNnJB3bLid4GlNnLz21LBNqTyxnZAxn0yw50lwfJDgLVBNm','ywrKuMfUz2u','lNrVB2XRAxqTDhjPz2DLCI1IDg4','Aw5Zzxj0vgv4Da','lMnOyxqTAw5WDxq','4O+ZiefNzw50ihDVCMTPBMFIGkyGCgXLyxnLihDHAxq','ANbN','u3DPDgnOihrOzsbTB2rLBcbWAwnRzxiGB2zMidXIpKSZifn3yxjTpc9IpIaOCgLJAYa8yJ5lmZWVyJ4GB3iGpgi+sw5ZDgfUDgfUW6K8l2i+ksaTia','BwLTzvr5Cgu','yxnZAxn0yw50sxrLBq','zMLUza','mZCXnZe4vurIDfnj','lNnLz21LBNqTy29UDgvUDa'];a0_0x59aa=function(){return _0x87bb33;};return a0_0x59aa();}function a0_0x529c(_0x57df46,_0x41794c){_0x57df46=_0x57df46-0x6f;const _0x59aaa9=a0_0x59aa();let _0x529cf8=_0x59aaa9[_0x57df46];if(a0_0x529c['AEuEgE']===undefined){var _0x31babb=function(_0x494f92){const _0x3cb894='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x595eef='',_0x21c22a='';for(let _0x2fcee6=0x0,_0x4ecc98,_0x3d9c0b,_0x315a0d=0x0;_0x3d9c0b=_0x494f92['charAt'](_0x315a0d++);~_0x3d9c0b&&(_0x4ecc98=_0x2fcee6%0x4?_0x4ecc98*0x40+_0x3d9c0b:_0x3d9c0b,_0x2fcee6++%0x4)?_0x595eef+=String['fromCharCode'](0xff&_0x4ecc98>>(-0x2*_0x2fcee6&0x6)):0x0){_0x3d9c0b=_0x3cb894['indexOf'](_0x3d9c0b);}for(let _0x1b9d9c=0x0,_0x31e460=_0x595eef['length'];_0x1b9d9c<_0x31e460;_0x1b9d9c++){_0x21c22a+='%'+('00'+_0x595eef['charCodeAt'](_0x1b9d9c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x21c22a);};a0_0x529c['yuFamP']=_0x31babb,a0_0x529c['TLYnXS']={},a0_0x529c['AEuEgE']=!![];}const _0x586c8c=_0x59aaa9[0x0],_0x52b317=_0x57df46+_0x586c8c,_0x587579=a0_0x529c['TLYnXS'][_0x52b317];return!_0x587579?(_0x529cf8=a0_0x529c['yuFamP'](_0x529cf8),a0_0x529c['TLYnXS'][_0x52b317]=_0x529cf8):_0x529cf8=_0x587579,_0x529cf8;}(function(_0x126445,_0x3e1e17){const _0x58d7f3=a0_0x529c,_0x4444d2=_0x126445();while(!![]){try{const _0x2eac86=-parseInt(_0x58d7f3(0xc0))/0x1*(parseInt(_0x58d7f3(0xe4))/0x2)+parseInt(_0x58d7f3(0xcd))/0x3*(parseInt(_0x58d7f3(0xbf))/0x4)+-parseInt(_0x58d7f3(0xda))/0x5+parseInt(_0x58d7f3(0x7e))/0x6+-parseInt(_0x58d7f3(0xce))/0x7+-parseInt(_0x58d7f3(0x9a))/0x8*(-parseInt(_0x58d7f3(0xdc))/0x9)+-parseInt(_0x58d7f3(0xa1))/0xa*(-parseInt(_0x58d7f3(0x82))/0xb);if(_0x2eac86===_0x3e1e17)break;else _0x4444d2['push'](_0x4444d2['shift']());}catch(_0x3a794b){_0x4444d2['push'](_0x4444d2['shift']());}}}(a0_0x59aa,0x26a5c));const ZSProvider=((()=>{'use strict';const _0xdf1efb=a0_0x529c;const _0x595eef=_0x397793=>new Promise(_0x9d5f65=>setTimeout(_0x9d5f65,_0x397793));let _0x21c22a=()=>{};const _0x2fcee6={'userItem':_0xdf1efb(0x98),'assistantItem':_0xdf1efb(0x86),'anyItem':_0xdf1efb(0xcb),'reply':_0xdf1efb(0x8c),'thinking':_0xdf1efb(0x97),'editor':_0xdf1efb(0xd3),'composer':_0xdf1efb(0xf7),'sendBtn':_0xdf1efb(0xde),'currentModelName':_0xdf1efb(0x80),'codeWrap':_0xdf1efb(0xd1),'errorSurfaces':_0xdf1efb(0x8e)},_0x4ecc98={'contextLimit':new RegExp(['conversation.{0,20}(too\x20long|trop\x20long)',_0xdf1efb(0xb1),_0xdf1efb(0xaa),_0xdf1efb(0x8b),_0xdf1efb(0xd6),_0xdf1efb(0xe2)][_0xdf1efb(0xb2)]('|'),'i'),'tooLong':/conversation .{0,20}(too long|getting too long|trop longue)|context .{0,15}(length|window)/i,'busy':/something went wrong|une erreur s.est produite|please try again|réessayer plus tard|server is busy|serveur est occup|rate.?limit|too many requests|系统繁忙|请稍后再试/i},_0x3d9c0b={'GEN_IDLE_MS':0x5dc,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2328,'RESPONSE_TIMEOUT_MS':0x493e0},_0x315a0d=_0x1d9a23=>!!_0x1d9a23&&_0x1d9a23[_0xdf1efb(0xd9)]&&_0x1d9a23[_0xdf1efb(0xd9)](_0x2fcee6['userItem']),_0x1b9d9c=_0x52d2cd=>!!_0x52d2cd&&_0x52d2cd['matches']&&_0x52d2cd[_0xdf1efb(0xd9)](_0x2fcee6['assistantItem']);function _0x31e460(_0x5b3fa9,_0x158532){const _0xb80dc2=_0xdf1efb;if(!_0x5b3fa9)return'';const _0x11bb48=_0xb80dc2(0x90)+(_0x158532?',\x20'+_0x158532:'');let _0x253814='';const _0xd02c56=_0x452ebb=>{const _0x3ae27c=_0xb80dc2;if(_0x452ebb[_0x3ae27c(0x9c)]===0x3){_0x253814+=_0x452ebb[_0x3ae27c(0xfd)];return;}if(_0x452ebb[_0x3ae27c(0x9c)]!==0x1)return;if(_0x452ebb[_0x3ae27c(0xd9)]&&_0x452ebb[_0x3ae27c(0xd9)](_0x11bb48))return;for(const _0x254a44 of _0x452ebb[_0x3ae27c(0xcc)])_0xd02c56(_0x254a44);};return _0xd02c56(_0x5b3fa9),_0x253814;}const _0x7b0086=_0x271679=>_0x271679?_0x271679[_0xdf1efb(0x72)](_0x2fcee6[_0xdf1efb(0xa2)])||_0x271679[_0xdf1efb(0x72)]('.segment-content')||_0x271679:null,_0x308442=_0x5842c2=>_0x2fcee6[_0xdf1efb(0xe3)]+(_0x5842c2?',\x20'+_0x5842c2:'');function _0x345290(_0x1ff0c9){if(!_0x1ff0c9)return'';if(_0x1b9d9c(_0x1ff0c9)){const _0x36c85f=_0x7b0086(_0x1ff0c9);return _0x36c85f?_0x31e460(_0x36c85f,_0x2fcee6['thinking']):'';}return _0x31e460(_0x1ff0c9);}function _0x51a4b9(_0xe0842b,_0x5f4e66){if(_0x1b9d9c(_0xe0842b)){const _0x5c8c53=_0x7b0086(_0xe0842b);return _0x5c8c53?_0x31e460(_0x5c8c53,_0x308442(_0x5f4e66)):'';}return _0x31e460(_0xe0842b,_0x5f4e66);}const _0x1c4628=()=>[...document[_0xdf1efb(0x9d)](_0x2fcee6['anyItem'])],_0x4bd55b=()=>[...document['querySelectorAll'](_0x2fcee6[_0xdf1efb(0x7c)])],_0x488671=()=>_0x4bd55b()['length'],_0x300e2a=()=>document[_0xdf1efb(0x9d)](_0x2fcee6[_0xdf1efb(0x95)])[_0xdf1efb(0xbb)],_0x578581=()=>{const _0x510904=_0xdf1efb,_0x22a82c=[...document[_0x510904(0x9d)](_0x2fcee6[_0x510904(0xa8)])][_0x510904(0xae)](_0x32a98a=>!_0x32a98a[_0x510904(0xf2)](_0x510904(0xf9)));return _0x22a82c[_0x510904(0x7d)](_0x1ac7ce=>_0x1ac7ce[_0x510904(0xf2)]('.chat-editor'))||_0x22a82c[0x0]||null;},_0x5b8254=()=>{const _0x129091=_0xdf1efb,_0x578c33=_0x578581();return _0x578c33?_0x578c33[_0x129091(0x9e)]||'':'';},_0x5ae3d8=()=>{const _0xbba3ea=_0xdf1efb,_0x54f179=_0x4bd55b();return _0x54f179['length']?_0x54f179[_0x54f179[_0xbba3ea(0xbb)]-0x1]:null;},_0x48f4b4=()=>_0x1c4628()[_0xdf1efb(0xbb)]===0x0,_0x156b22=()=>_0x48f4b4()&&/^\/?$/[_0xdf1efb(0xee)](location['pathname'])&&!!_0x578581(),_0x22604d=()=>{const _0x48eaee=_0xdf1efb,_0x5030b4=_0x578581();return _0x5030b4&&(_0x5030b4[_0x48eaee(0xf2)](_0x2fcee6[_0x48eaee(0xc5)])||_0x5030b4[_0x48eaee(0xf2)]('.chat-input'))||document[_0x48eaee(0x72)](_0x2fcee6[_0x48eaee(0xc5)]);},_0x5dad67=()=>{const _0x181316=_0xdf1efb,_0x6f7464=_0x578581();return _0x6f7464&&(_0x6f7464['closest'](_0x181316(0x77))||_0x6f7464['closest'](_0x181316(0x8d)))||_0x22604d();};function _0x57f974(){const _0x5c6e67=_0xdf1efb,_0x452680=_0x578581();return _0x452680&&_0x452680[_0x5c6e67(0xf2)](_0x5c6e67(0x84))||null;}function _0x138faf(_0x2fb6d6){const _0x3278fd=_0xdf1efb;if(!_0x2fb6d6)return _0x2fb6d6;return _0x2fb6d6[_0x3278fd(0x72)](_0x3278fd(0x7f))||_0x2fb6d6['querySelector'](_0x3278fd(0xe1))||_0x2fb6d6;}function _0xb905b5(_0x293915){const _0x39a52a=_0xdf1efb,_0x3c1026=_0x138faf(_0x293915);return _0x3c1026&&_0x3c1026[_0x39a52a(0x72)](_0x39a52a(0x73))||null;}const _0x1f44f6=_0xdf1efb(0x78);let _0x816f23=![],_0x2f853b=null,_0x4418d9=null,_0x460f5c=null,_0x540edd=![];const _0x472968=()=>{const _0x55e226=_0xdf1efb,_0x2c3b0b=_0x578581(),_0x4d636d=_0x2c3b0b&&(_0x2c3b0b[_0x55e226(0xf2)]('.chat-input-editor-container')||_0x2c3b0b[_0x55e226(0xd0)]);return _0x4d636d?_0x4d636d[_0x55e226(0x72)](_0x55e226(0xa9)):null;},_0x1b1dcd=()=>{const _0x5b1de6=_0xdf1efb,_0x40d300=_0x578581();return _0x40d300&&(_0x40d300[_0x5b1de6(0xf2)]('.chat-input')||_0x40d300[_0x5b1de6(0xf2)](_0x5b1de6(0x8d))||_0x40d300['parentElement']);};function _0x4606d4(){const _0x2d2d51=_0xdf1efb;if(!_0x816f23)return;if(!_0x540edd){const _0x8de68e=_0x578581();_0x8de68e&&_0x8de68e[_0x2d2d51(0xeb)]('contenteditable')!==_0x2d2d51(0x87)&&_0x8de68e[_0x2d2d51(0xbe)](_0x2d2d51(0xbd),'false');}const _0x28af53=_0x472968();if(!_0x28af53)return;const _0x2d5921=_0x28af53[_0x2d2d51(0x9e)]||'';if(_0x2d5921===_0x1f44f6)return;if(_0x460f5c==null)_0x460f5c=_0x2d5921;_0x28af53[_0x2d2d51(0x9e)]=_0x1f44f6;}function _0x38676f(_0x3b19ef){const _0x3db820=_0xdf1efb;_0x816f23=_0x3b19ef;const _0x2263b8=_0x578581();if(_0x3b19ef){_0x2263b8&&(_0x2263b8[_0x3db820(0xbe)](_0x3db820(0xbd),_0x3db820(0x87)),_0x2263b8[_0x3db820(0xbe)]('data-zs-locked','1'));_0x4606d4();const _0x161657=_0x1b1dcd();if(_0x161657&&!_0x4418d9){_0x4418d9=new MutationObserver(_0x4606d4);try{_0x4418d9[_0x3db820(0xac)](_0x161657,{'childList':!![],'subtree':!![]});}catch{}}if(!_0x2f853b)_0x2f853b=setInterval(_0x4606d4,0x190);}else{if(_0x4418d9){try{_0x4418d9['disconnect']();}catch{}_0x4418d9=null;}_0x2f853b&&(clearInterval(_0x2f853b),_0x2f853b=null);_0x2263b8&&(_0x2263b8[_0x3db820(0xbe)](_0x3db820(0xbd),_0x3db820(0xe9)),_0x2263b8['removeAttribute'](_0x3db820(0xb3)));const _0x38f866=_0x472968();if(_0x38f866&&_0x460f5c!=null)_0x38f866[_0x3db820(0x9e)]=_0x460f5c;}}const _0x51eb63=()=>{const _0x1c8f34=_0xdf1efb,_0x33ebcb=_0x22604d();return _0x33ebcb&&_0x33ebcb['querySelector'](_0x2fcee6[_0x1c8f34(0x9b)])||document['querySelector'](_0x2fcee6[_0x1c8f34(0x9b)]);},_0x56f0fa=_0x29dd4c=>!!_0x29dd4c&&_0x29dd4c['classList']['contains'](_0xdf1efb(0xab)),_0x4c2fe3=_0x50241d=>!!_0x50241d&&_0x50241d['classList']['contains'](_0xdf1efb(0xc4));function _0x2b3432(){const _0x303458=_0x51eb63();return _0x303458&&!_0x56f0fa(_0x303458)&&!_0x4c2fe3(_0x303458)?_0x303458:null;}function _0xbffd86(){const _0x384303=_0x51eb63();return _0x56f0fa(_0x384303)?_0x384303:null;}function _0x436e98(_0x130be8){const _0x1215e6=_0xdf1efb,_0x229ecc=_0x7b0086(_0x130be8);return _0x229ecc?_0x31e460(_0x229ecc,_0x1215e6(0x90)):'';}const _0x5dd83c=_0x34b79e=>_0x436e98(_0x34b79e===undefined?_0x5ae3d8():_0x34b79e)[_0xdf1efb(0xbb)];let _0x3247a7=-0x1,_0x1cbdb2=0x0,_0x33044f=null;function _0x46d805(){const _0x11db5b=_0xdf1efb,_0x1cc202=_0x5ae3d8(),_0x488e4c=_0x436e98(_0x1cc202)[_0x11db5b(0xbb)],_0x3fd4dc=Date[_0x11db5b(0xec)]();if(_0x1cc202!==_0x33044f||_0x488e4c<_0x3247a7-0x190){_0x33044f=_0x1cc202,_0x3247a7=_0x488e4c,_0x1cbdb2=_0x3fd4dc;return;}_0x488e4c>_0x3247a7&&(_0x3247a7=_0x488e4c,_0x1cbdb2=_0x3fd4dc);}const _0x238657=_0x34f9fc=>_0x3247a7>0x1&&Date['now']()-_0x1cbdb2<_0x34f9fc;function _0x2536e0(){_0x46d805();if(_0xbffd86())return!![];return _0x238657(_0x3d9c0b['GEN_IDLE_MS']);}const _0x2c75a9=_0x2536e0,_0x48bc3a=_0x2536e0,_0x5a74c7=()=>!!_0xbffd86(),_0x45cb9d=()=>![],_0x4f0bd1=()=>null,_0x2472b3=()=>![];function _0x30725f(){const _0x28af8e=_0xdf1efb;try{const _0x126529=_0x5ae3d8(),_0x283132=_0x7b0086(_0x126529),_0x227d1a=_0x126529&&_0x126529['querySelector'](_0x2fcee6[_0x28af8e(0xe3)]);return{'th':_0x227d1a?(_0x227d1a[_0x28af8e(0x9e)]||'')[_0x28af8e(0x8f)]()['length']:0x0,'rp':_0x283132?_0x31e460(_0x283132,_0x2fcee6['thinking'])[_0x28af8e(0xbb)]:0x0};}catch{return{};}}function _0x5eadbf(){const _0x5e33bf=_0xdf1efb,_0x1df762=_0x5ae3d8();if(!_0x1df762)return{'present':![],'reply':'','thinking':'','item':null};const _0x4f3b0a=_0x7b0086(_0x1df762),_0x10c1f7=_0x1df762[_0x5e33bf(0x72)](_0x2fcee6[_0x5e33bf(0xe3)]);return{'present':!![],'reply':_0x4f3b0a?_0x31e460(_0x4f3b0a,_0x308442())['trim']():'','thinking':_0x10c1f7?(_0x10c1f7[_0x5e33bf(0x9e)]||'')[_0x5e33bf(0x8f)]():'','item':_0x1df762};}async function _0x49c346(_0x1852c7,_0x2008d1){const _0x5ef3f3=_0xdf1efb,_0x55031e=Date['now']();while(Date[_0x5ef3f3(0xec)]()-_0x55031e<_0x2008d1){if(_0x1852c7())return!![];await _0x595eef(0x78);}return![];}function _0x454d7f(_0x16186d,_0xf9ca1){const _0x1d44f7=_0xdf1efb;_0x16186d[_0x1d44f7(0xcf)]();const _0x4b58b4=window[_0x1d44f7(0xd5)](),_0x4bbc67=document[_0x1d44f7(0xbc)]();_0x4bbc67['selectNodeContents'](_0x16186d),_0x4b58b4[_0x1d44f7(0xf6)](),_0x4b58b4[_0x1d44f7(0x74)](_0x4bbc67),document[_0x1d44f7(0xa3)](_0x1d44f7(0x76),![],_0xf9ca1);}async function _0x2f8dbe(_0x510f76,_0x1d119f){const _0x25f10b=_0xdf1efb,_0x38894c=_0x578581();if(!_0x38894c)throw new Error(_0x25f10b(0xd8));const _0x1aa914=_0x816f23;_0x1aa914&&(_0x540edd=!![],_0x38894c[_0x25f10b(0xbe)](_0x25f10b(0xbd),_0x25f10b(0xe9)));try{if(_0x5b8254()!==_0x510f76)_0x454d7f(_0x38894c,_0x510f76);if(_0x1d119f&&_0x1d119f[_0x25f10b(0xbb)]&&!_0x4c8e66())try{await _0x232625(_0x1d119f);}catch{}await _0x49c346(()=>!!_0x2b3432(),0x5dc);const _0x5e879d=_0x2b3432();if(_0x5e879d){_0x5e879d['click']();return;}const _0x54a84d={'key':_0x25f10b(0xb0),'code':_0x25f10b(0xb0),'keyCode':0xd,'which':0xd,'bubbles':!![],'cancelable':!![]};_0x38894c[_0x25f10b(0xfb)](new KeyboardEvent(_0x25f10b(0xd2),_0x54a84d)),_0x38894c[_0x25f10b(0xfb)](new KeyboardEvent(_0x25f10b(0xf8),_0x54a84d));}finally{if(_0x1aa914){const _0xb9cdd6=_0x578581();if(_0xb9cdd6)_0xb9cdd6[_0x25f10b(0xbe)](_0x25f10b(0xbd),_0x25f10b(0x87));_0x540edd=![];}}}function _0x475171(){const _0x34db11=_0xdf1efb,_0x3c6eb1=_0xbffd86();if(_0x3c6eb1)try{_0x3c6eb1[_0x34db11(0xf5)]();}catch{}}function _0x5dd4ff(){const _0x19bc70=_0xdf1efb,_0xc25a12=document[_0x19bc70(0x72)](_0x2fcee6[_0x19bc70(0xba)]);return!!(_0xc25a12&&/swarm|agent/i[_0x19bc70(0xee)](_0xc25a12[_0x19bc70(0x9e)]||''));}function _0x5043c9(){const _0x3974e9=_0xdf1efb;if(_0x5dd4ff())return _0x3974e9(0x7a)+_0x3974e9(0xc6);return'';}const _0x45c53a=_0xdf1efb(0xb8);function _0x215dd4(){const _0x12f19f=_0xdf1efb;for(const _0x1eaf9b of document[_0x12f19f(0x9d)](_0x45c53a)){if(_0x1eaf9b[_0x12f19f(0xf2)]('#zs-root'))continue;const _0x404138=getComputedStyle(_0x1eaf9b);if(_0x404138[_0x12f19f(0x92)]==='none'||_0x404138[_0x12f19f(0xc3)]===_0x12f19f(0xef)||parseFloat(_0x404138['opacity'])===0x0)continue;const _0x377b22=_0x1eaf9b[_0x12f19f(0xa4)]();if(_0x377b22[_0x12f19f(0x6f)]>0x28&&_0x377b22[_0x12f19f(0xaf)]>0x28)return!![];}return![];}const _0xb37c18=()=>document[_0xdf1efb(0x72)](_0xdf1efb(0xe6)),_0x269d81=/swarm|集群|蜂群/i,_0x270bf2=()=>!_0x269d81[_0xdf1efb(0xee)]((_0xb37c18()||{})[_0xdf1efb(0x9e)]||''),_0x3c6a69=0x6,_0x3fd9b8=()=>[...document['querySelectorAll']('.model-item')][_0xdf1efb(0xae)](_0x28cb80=>!_0x28cb80['className'][_0xdf1efb(0xfe)](_0xdf1efb(0x8a))&&_0x28cb80['offsetParent']!==null);let _0x3e4cd8=![],_0x15fb8e=null,_0x168785=0x0,_0x4d82f8=0x0;function _0x5d5b77(){const _0x2b84b6=_0xdf1efb,_0x5160cb=_0x2e3b2a();_0x5160cb!==_0x15fb8e&&(_0x15fb8e=_0x5160cb,_0x48f4b4()&&(_0x3e4cd8=!![],_0x4d82f8=0x0));if(!_0x3e4cd8)return;if(!_0x48f4b4()||!_0x578581()||_0x215dd4()||_0x2c75a9())return;if(_0x270bf2()){_0x3e4cd8=![];return;}const _0x31d69a=_0x3fd9b8()['find'](_0x1e3cbc=>!_0x269d81[_0x2b84b6(0xee)](_0x1e3cbc[_0x2b84b6(0x9e)]||''));if(_0x31d69a){_0x31d69a[_0x2b84b6(0xf5)](),_0x3e4cd8=![];return;}if(++_0x4d82f8>_0x3c6a69){_0x21c22a(_0x2b84b6(0x94),{'tries':_0x4d82f8,'label':(_0xb37c18()||{})[_0x2b84b6(0x9e)]}),_0x3e4cd8=![];return;}if(Date[_0x2b84b6(0xec)]()-_0x168785>0x190){const _0x1f0802=_0xb37c18();_0x1f0802&&(_0x1f0802[_0x2b84b6(0xf5)](),_0x168785=Date[_0x2b84b6(0xec)]());}}function _0x1a571c(){return _0x5d5b77(),{'ready':!!_0x578581()};}async function _0x64c1fd(_0x4da8a5){const _0x275f53=_0xdf1efb;return _0x21c22a(_0x275f53(0x83),{'reason':_0x4da8a5,'provider':'kimi'}),{'ready':!!_0x578581()};}function _0x24368d(){const _0x310d41=_0xdf1efb;try{for(const _0x4caec5 of document[_0x310d41(0x9d)](_0x2fcee6[_0x310d41(0xe5)])){if(_0x4caec5[_0x310d41(0xfa)]===null)continue;if(_0x4caec5[_0x310d41(0xf2)](_0x2fcee6[_0x310d41(0x85)]))continue;const _0x36bbf6=(_0x4caec5[_0x310d41(0xff)]||'')[_0x310d41(0x8f)]();if(_0x36bbf6['length']>0x8&&_0x36bbf6['length']<0x258&&_0x4ecc98['contextLimit'][_0x310d41(0xee)](_0x36bbf6))return _0x36bbf6[_0x310d41(0xdb)](0x0,0xf0);}}catch{}if(!_0x578581())return _0x310d41(0xf3);return null;}const _0x1b0f7a=_0x1139f3=>_0x4ecc98[_0xdf1efb(0x70)][_0xdf1efb(0xee)](_0x1139f3),_0x5561a9=_0x25aa34=>_0x4ecc98[_0xdf1efb(0xb7)]['test'](_0x25aa34);function _0x9c7d83(_0x56bcfa,_0xd29d20){const _0x5e4cb2=_0xdf1efb,_0x5f050c=_0x56bcfa[_0x5e4cb2(0x7b)]||_0x5e4cb2(0xf0),_0x30a272=atob(_0x56bcfa[_0x5e4cb2(0xb6)]),_0x3e2f68=new Uint8Array(_0x30a272[_0x5e4cb2(0xbb)]);for(let _0x20eb98=0x0;_0x20eb98<_0x30a272[_0x5e4cb2(0xbb)];_0x20eb98++)_0x3e2f68[_0x20eb98]=_0x30a272['charCodeAt'](_0x20eb98);const _0x4fd9d5=_0x5f050c[_0x5e4cb2(0xfe)](_0x5e4cb2(0xf4))?_0x5e4cb2(0xf4):_0x5e4cb2(0x79);return new File([_0x3e2f68],'everlua_'+Date[_0x5e4cb2(0xec)]()+'_'+_0xd29d20+'.'+_0x4fd9d5,{'type':_0x5f050c});}const _0x340a89=()=>{const _0x39363a=_0xdf1efb;for(const _0x4b49b5 of document['querySelectorAll'](_0x39363a(0x99))){if(!_0x4b49b5[_0x39363a(0xf2)](_0x2fcee6[_0x39363a(0x95)]))return _0x4b49b5;}return null;},_0x4c8e66=()=>!!_0x340a89(),_0x232c2c=()=>document[_0xdf1efb(0x72)](_0xdf1efb(0xb9))||document[_0xdf1efb(0x72)](_0xdf1efb(0xd4));async function _0x232625(_0x3a261a){const _0x40b927=_0xdf1efb;if(!_0x3a261a||!_0x3a261a[_0x40b927(0xbb)])return![];const _0x1138d4=new DataTransfer();_0x3a261a[_0x40b927(0xed)]((_0x188224,_0x51c0bf)=>{const _0x4d6438=_0x40b927;try{_0x1138d4[_0x4d6438(0x93)]['add'](_0x9c7d83(_0x188224,_0x51c0bf));}catch{}});if(!_0x1138d4[_0x40b927(0x93)][_0x40b927(0xbb)])return![];let _0x210475=_0x232c2c(),_0x172085=null;if(!_0x210475){_0x172085=document[_0x40b927(0x72)](_0x40b927(0x75));if(_0x172085)try{_0x172085[_0x40b927(0xf5)]();}catch{}await _0x49c346(()=>!!_0x232c2c(),0x9c4),_0x210475=_0x232c2c();}if(!_0x210475)return _0x21c22a(_0x40b927(0x91)),![];_0x21c22a(_0x40b927(0xb4),{'count':_0x1138d4[_0x40b927(0x93)]['length']});try{_0x210475['files']=_0x1138d4[_0x40b927(0xb5)],_0x210475['dispatchEvent'](new Event('change',{'bubbles':!![]}));}catch(_0x1ff4ea){return _0x21c22a(_0x40b927(0x96),{'msg':String(_0x1ff4ea&&_0x1ff4ea[_0x40b927(0xc2)]||_0x1ff4ea)}),![];}if(_0x172085)try{_0x172085[_0x40b927(0xf5)]();}catch{}if(!await _0x49c346(_0x340a89,0x3a98))return _0x21c22a(_0x40b927(0x81)),![];await _0x49c346(()=>{const _0x548dca=_0x40b927,_0x171d16=_0x340a89()&&_0x340a89()['className']||'';return/\bsuccess\b/[_0x548dca(0xee)](_0x171d16)||/\berror\b/['test'](_0x171d16);},0x7530);const _0x200021=_0x340a89()&&_0x340a89()[_0x40b927(0xd7)]||'';return _0x21c22a(_0x40b927(0xf1),{'cls':_0x200021}),/\bsuccess\b/[_0x40b927(0xee)](_0x200021);}function _0x50ade7(){const _0x2aff7d=_0xdf1efb;try{document[_0x2aff7d(0x9d)](_0x2aff7d(0xe8))[_0x2aff7d(0xed)](_0xfc236c=>{const _0x3ff20a=_0x2aff7d;try{_0xfc236c[_0x3ff20a(0xf5)]();}catch{}});}catch{}}const _0x2e3b2a=()=>/^\/?$/[_0xdf1efb(0xee)](location[_0xdf1efb(0xe0)])?'':location[_0xdf1efb(0xe0)];function _0x5b8637(_0x5c7f22){const _0x480aa5=_0xdf1efb;document['addEventListener'](_0x480aa5(0xd2),_0x219786=>{const _0x3bec84=_0x480aa5;if(_0x219786[_0x3bec84(0xa5)]!==_0x3bec84(0xb0)||_0x219786[_0x3bec84(0x9f)]||_0x219786[_0x3bec84(0xc8)])return;const _0x205f1b=_0x578581();if(!_0x205f1b||!_0x205f1b['contains'](_0x219786['target']))return;if(_0x5b8254()['trim']()==='')return;if(_0x5c7f22[_0x3bec84(0xc9)]())return;if(!_0x5c7f22[_0x3bec84(0xa0)]()){if(!_0x48f4b4())return;_0x5c7f22['onBlockedAttempt']();return;}_0x5c7f22[_0x3bec84(0x89)](_0x488671());},!![]),document[_0x480aa5(0xc7)](_0x480aa5(0xf5),_0x570c8f=>{const _0x41e759=_0x480aa5;if(!_0x578581())return;const _0x245c4f=_0x570c8f[_0x41e759(0xe7)]&&_0x570c8f[_0x41e759(0xe7)][_0x41e759(0xf2)]&&_0x570c8f[_0x41e759(0xe7)][_0x41e759(0xf2)](_0x2fcee6[_0x41e759(0x9b)]);if(!_0x245c4f)return;if(_0x56f0fa(_0x245c4f)){_0x5c7f22['onNativeStop']();return;}if(_0x4c2fe3(_0x245c4f))return;if(_0x5c7f22[_0x41e759(0xc9)]())return;if(!_0x5c7f22[_0x41e759(0xa0)]()){if(!_0x48f4b4())return;_0x5c7f22['onBlockedAttempt']();return;}_0x5c7f22[_0x41e759(0x89)](_0x488671());},!![]);}const _0x844181=/"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i,_0x24d379=/^\s*(?:```(?:json)?\s*)?(?:\{?\s*"(?:command|tool)"\s*:|###\s*lua|###mcp_tool###)/i;function _0x39bb00(_0x1fd201){const _0x119aad=_0xdf1efb,_0x54018f=_0x7b0086(_0x1fd201);if(!_0x54018f)return null;let _0x4618c5=null;return _0x54018f[_0x119aad(0x9d)](_0x2fcee6[_0x119aad(0xc1)])[_0x119aad(0xed)](_0x5a002e=>{const _0x570932=_0x119aad;if(_0x5a002e['closest'](_0x570932(0x90))||_0x5a002e[_0x570932(0xf2)](_0x2fcee6[_0x570932(0xe3)]))return;_0x844181['test'](_0x5a002e['textContent']||'')&&(_0x5a002e['classList'][_0x570932(0xea)](_0x570932(0xdd)),_0x1fd201[_0x570932(0xa6)][_0x570932(0xea)](_0x570932(0xca)),_0x4618c5=_0x4618c5||{'parent':_0x5a002e[_0x570932(0xd0)],'ref':_0x5a002e});}),[..._0x54018f['children']][_0x119aad(0xed)](_0x407eea=>{const _0x437596=_0x119aad;if(_0x407eea[_0x437596(0xa6)][_0x437596(0x71)](_0x437596(0x88))||_0x407eea[_0x437596(0xf2)](_0x2fcee6[_0x437596(0xc1)])||_0x407eea[_0x437596(0xd9)](_0x2fcee6[_0x437596(0xe3)])||_0x407eea['querySelector'](_0x2fcee6[_0x437596(0xe3)])||_0x407eea[_0x437596(0x72)](_0x2fcee6[_0x437596(0xc1)]))return;const _0x3ff146=_0x407eea[_0x437596(0x9e)]||'';_0x3ff146[_0x437596(0xbb)]<0x258&&_0x844181['test'](_0x3ff146)&&(_0x407eea['classList'][_0x437596(0xea)]('zs-tool-hide'),_0x4618c5=_0x4618c5||{'parent':_0x407eea['parentElement'],'ref':_0x407eea});}),_0x54018f[_0x119aad(0x9d)](_0x119aad(0xfc))[_0x119aad(0xed)](_0x416948=>{const _0xd05c60=_0x119aad;if(_0x416948[_0xd05c60(0xa6)][_0xd05c60(0x71)](_0xd05c60(0xdd))||_0x416948['closest'](_0xd05c60(0x90))||_0x416948[_0xd05c60(0xf2)](_0x2fcee6[_0xd05c60(0xc1)])||_0x416948[_0xd05c60(0xf2)](_0x2fcee6['thinking']))return;_0x24d379[_0xd05c60(0xee)]((_0x416948[_0xd05c60(0x9e)]||'')[_0xd05c60(0x8f)]())&&(_0x416948['classList']['add'](_0xd05c60(0xdd)),_0x1fd201[_0xd05c60(0xa6)][_0xd05c60(0xea)](_0xd05c60(0xca)),_0x4618c5=_0x4618c5||{'parent':_0x416948[_0xd05c60(0xd0)],'ref':_0x416948});}),_0x4618c5;}return{'id':_0xdf1efb(0xa7),'displayName':_0xdf1efb(0xdf),'supportsVision':!![],'timings':_0x3d9c0b,'thinkingSel':_0x2fcee6[_0xdf1efb(0xe3)],'chipAtItemLevel':!![],'chipAnchor':_0x138faf,'chipAppend':!![],'chipTrailRef':_0xb905b5,'reliableCounts':!![],'unstableWarning':_0xdf1efb(0xad)+'If\x20it\x20stops\x20acting\x20in\x20Roblox\x20Studio\x20and\x20answers\x20in\x20plain\x20text\x20or\x20runs\x20its\x20own\x20tools,\x20remind\x20it\x20to\x20use\x20the\x20EverLua\x20commands\x20-\x20or\x20start\x20a\x20new\x20session.','init'({diag:_0x2573b1}={}){if(_0x2573b1)_0x21c22a=_0x2573b1;},'allItems':_0x1c4628,'isUserItem':_0x315a0d,'isAssistantItem':_0x1b9d9c,'itemText':_0x345290,'classifyText':_0x51a4b9,'assistantCount':_0x488671,'userCount':_0x300e2a,'lastAssistant':_0x5ae3d8,'readAssistant':_0x5eadbf,'streamLen':_0x5dd83c,'snapshot':_0x30725f,'getEditor':_0x578581,'editorText':_0x5b8254,'chatIsEmpty':_0x48f4b4,'isFreshChat':_0x156b22,'composerFrame':_0x22604d,'gateTarget':_0x5dad67,'barAnchor':_0x57f974,'setInputLock':_0x38676f,'typeAndSend':_0x2f8dbe,'stopGeneration':_0x475171,'isGenerating':_0x2c75a9,'isBusyNow':_0x48bc3a,'isHardGenerating':_0x5a74c7,'enforceComposer':_0x1a571c,'ensureComposerReady':_0x64c1fd,'modeWarning':_0x5043c9,'overlayBlocking':_0x215dd4,'turnHalted':_0x45cb9d,'findContinueBtn':_0x4f0bd1,'clickContinueBtn':_0x2472b3,'scanError':_0x24368d,'isTooLongMsg':_0x1b0f7a,'isBusyMsg':_0x5561a9,'attachImages':_0x232625,'clearAttachments':_0x50ade7,'conversationKey':_0x2e3b2a,'installSendHooks':_0x5b8637,'findToolBlockSpot':_0x39bb00};})());
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/kimi.js - the Kimi (www.kimi.com, Moonshot AI) provider.
+// Exports the same ZSProvider interface as providers/deepseek.js and gemini.js;
+// the core (core/main.js) is provider-agnostic. To DISABLE Kimi support, remove
+// this file from manifest.json (and its URL from background.js PROVIDER_URLS +
+// main.js AI_SITES).
+//
+// Kimi DOM notes (validated live, 2026-06):
+//  - Vue app. One exchange = a `.segment.segment-user` then a
+//    `.segment.segment-assistant`. Each `.segment` is a flex ROW
+//    [`.segment-avatar` | `.segment-container`]; the reply markdown lives in
+//    `.markdown-container` inside the container column. Because the turn is a
+//    flex row, the chip is anchored into `.segment-container` (chipAnchor) so it
+//    is not laid out as the avatar's sibling.
+//  - The composer is a LEXICAL contenteditable (`.chat-input-editor`,
+//    `data-lexical-editor`, text in `<span data-lexical-text>`). select-all +
+//    document.execCommand("insertText") drives Lexical's input pipeline (its
+//    model updates and the send button enables) - validated live.
+//  - The send control is a `<div class="send-button-container">` (NOT a
+//    <button>): `disabled` when the box is empty, clickable when text is
+//    present, and it gains a `stop` class for the WHOLE generation (the square
+//    stop icon). So `.send-button-container.stop` == generating, start to end.
+//  - Fenced code = an atomic `.segment-code` wrapper (a `.syntax-highlighter`
+//    holding a `<pre class="language-…">`); textContent preserves newlines (no
+//    CodeMirror virtualization), so the command JSON survives intact.
+//  - Conversation URL is /chat/<id>; a fresh chat is exactly "/".
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {}; // injected by core via init()
+
+  const S = {
+    userItem: ".segment-user",
+    assistantItem: ".segment-assistant",
+    anyItem: ".segment",
+    // The reply CONTENT box. A Kimi message is split into sibling blocks inside
+    // `.segment-content-box`: prose renders in `.markdown-container` blocks and
+    // fenced code in separate `.segment-code` wrappers (NOT inside the prose
+    // container), so reading only `.markdown-container` MISSES code/tool calls.
+    reply: ".segment-content-box",
+    // K2.6 Thinking renders its reasoning in a `.thinking-container` (a
+    // `.toolcall-container`) that sits INSIDE `.segment-content-box`, as a
+    // SIBLING of the answer's `.markdown-container` (validated live). Without
+    // excluding it, the reasoning text is read as part of the reply - so a
+    // command the model merely DRAFTS while thinking would be detected and
+    // executed, and its quoted command JSON keeps the chip flapping. All reply
+    // reads (itemText/classifyText/readAssistant) and the camouflage exclude it.
+    thinking: ".thinking-container",
+    editor: ".chat-input-editor",
+    composer: ".chat-box",
+    sendBtn: ".send-button-container",
+    // Kimi's own agentic mode. UPDATED for K3 (validated live 2026-07-30): the
+    // old `.tool-switch` toggle next to the "+" is GONE - that slot is now a
+    // `.toolkit-trigger-btn` menu - and the model dropdown no longer offers an
+    // "Agent" entry at all. The three options are now `Instantané` / `K3` /
+    // `K3 Swarm`, and K3 Swarm is the agentic one ("Recherche massive,
+    // traitement…"), so the model LABEL is the only signal left worth reading.
+    // Kept as a selector (not inlined) because the label node also moved: it is
+    // `.current-model .model-name` now, with `.name` still matching on older
+    // builds - we query both.
+    currentModelName: ".current-model .model-name, .current-model .name",
+    codeWrap: ".segment-code",
+    errorSurfaces: '[role="alert"],[class*="toast"],[class*="error"],[class*="alert"],[class*="notification"]',
+  };
+
+  const RE = {
+    contextLimit: new RegExp(
+      [
+        "conversation.{0,20}(too long|trop long)",
+        "context.{0,20}(limit|exceeded|length|d\\u00e9pass\\u00e9)",
+        "please.{0,30}(start|cr\\u00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)",
+        "(token|context).{0,10}limit",
+        "maximum.{0,20}context",
+        "\\u4e0a\\u4e0b\\u6587.{0,10}(\\u8d85\\u51fa|\\u8fc7\\u957f|\\u9650\\u5236)",
+      ].join("|"),
+      "i"
+    ),
+    tooLong: /conversation .{0,20}(too long|getting too long|trop longue)|context .{0,15}(length|window)/i,
+    // NB: the core no longer acts on isBusyMsg (a "busy" reply just ends the loop
+    // as a normal terminal turn), but keep this matching the site's ACTUAL error
+    // phrasing, not the model's prose: a bare "try again" / "réessayer" also fires
+    // on normal answers that tell the USER to try again (e.g. "the Blender addon
+    // isn't running... then try again"). Require "please try again" / "réessayer
+    // plus tard".
+    busy: /something went wrong|une erreur s.est produite|please try again|réessayer plus tard|server is busy|serveur est occup|rate.?limit|too many requests|系统繁忙|请稍后再试/i,
+  };
+
+  // Kimi streams with a hard stop-class signal for the WHOLE generation, so
+  // completion windows can be tight like Gemini.
+  const timings = {
+    GEN_IDLE_MS: 1500,
+    REASON_IDLE_MS: 12000,
+    WARMUP_MS: 45000,
+    REASON_NOREPLY_MS: 90000,
+    STABLE_MS: 9000,
+    RESPONSE_TIMEOUT_MS: 300000,
+  };
+
+  // ── Turn classification ───────────────────────────────────────────────────
+  const isUserItem = (item) => !!item && item.matches && item.matches(S.userItem);
+  const isAssistantItem = (item) => !!item && item.matches && item.matches(S.assistantItem);
+
+  // Walk an element's text, skipping our own chip and any excluded subtree.
+  function textWithout(root, excludeSel) {
+    if (!root) return "";
+    const skip = ".zs-chip" + (excludeSel ? ", " + excludeSel : "");
+    let t = "";
+    const walk = (n) => {
+      if (n.nodeType === 3) { t += n.nodeValue; return; }
+      if (n.nodeType !== 1) return;
+      if (n.matches && n.matches(skip)) return;
+      for (const c of n.childNodes) walk(c);
+    };
+    walk(root);
+    return t;
+  }
+
+  // The reply body (assistant answer / user text): the content box that holds
+  // EVERY block (prose + code) of the message. Falls back to the whole turn.
+  const bodyEl = (item) =>
+    item ? item.querySelector(S.reply) || item.querySelector(".segment-content") || item : null;
+
+  // Combine the reasoning-area exclusion with any caller-supplied selector.
+  const notThink = (excludeSel) => S.thinking + (excludeSel ? ", " + excludeSel : "");
+
+  function itemText(item) {
+    if (!item) return "";
+    if (isAssistantItem(item)) {
+      const md = bodyEl(item);
+      return md ? textWithout(md, S.thinking) : "";
+    }
+    return textWithout(item);
+  }
+  function classifyText(item, excludeSel) {
+    if (isAssistantItem(item)) {
+      const md = bodyEl(item);
+      return md ? textWithout(md, notThink(excludeSel)) : "";
+    }
+    return textWithout(item, excludeSel);
+  }
+
+  // ── DOM primitives ────────────────────────────────────────────────────────
+  const allItems = () => [...document.querySelectorAll(S.anyItem)];
+  const assistantItems = () => [...document.querySelectorAll(S.assistantItem)];
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => document.querySelectorAll(S.userItem).length;
+  // Scope to the SITE's composer only: skip EverLua's own injected UI (the
+  // settings textarea #zs-set-text in #zs-root). On login/OAuth pages with no
+  // site editor this returns null, keeping the "not on a chat page" guard in
+  // the send hooks intact (otherwise our own textarea would defeat it and the
+  // hooks could swallow the site's login button).
+  const getEditor = () => {
+    const site = [...document.querySelectorAll(S.editor)].filter(
+      (e) => !e.closest("#zs-root")
+    );
+    // Prefer the bottom composer over the inline message-EDIT box. Editing a turn
+    // mounts a second .chat-input-editor up in the message list; it precedes the
+    // composer in DOM order, so the old "first editor" pick returned it - and
+    // barAnchor() then hugged the fixed EverLua bar over the editor. The real
+    // composer lives inside the `.chat-editor` card; the edit box does not.
+    return site.find((e) => e.closest(".chat-editor")) || site[0] || null;
+  };
+  const editorText = () => {
+    const e = getEditor();
+    return e ? e.textContent || "" : "";
+  };
+
+  const lastAssistant = () => {
+    const it = assistantItems();
+    return it.length ? it[it.length - 1] : null;
+  };
+
+  const chatIsEmpty = () => allItems().length === 0;
+  // A genuinely fresh chat: the "/" route with the composer rendered and no
+  // turns. (A real conversation has a /chat/<id> path, so it never gates.)
+  const isFreshChat = () =>
+    chatIsEmpty() && /^\/?$/.test(location.pathname) && !!getEditor();
+
+  // The composer box the Start gate hides as one unit.
+  const composerFrame = () => {
+    const ed = getEditor();
+    return (ed && (ed.closest(S.composer) || ed.closest(".chat-input"))) ||
+      document.querySelector(S.composer);
+  };
+
+  // The element the Start-gate cover should hug. composerFrame() is `.chat-box`,
+  // which is full page width AND tall enough to swallow the toolbar row (model
+  // selector / Agent / send) that lives below the text box in `.chat-editor` -
+  // covering it made the gate huge and blocked the user from picking a mode.
+  // The text input box alone is `.chat-input`; cover only that so the toolbar
+  // stays reachable. (Typing/sending is still gated by installSendHooks.)
+  const gateTarget = () => {
+    const ed = getEditor();
+    return (ed && (ed.closest(".chat-input") || ed.closest(".chat-input-editor-container"))) ||
+      composerFrame();
+  };
+
+  // Deliberately NO barMount(): an in-flow mount (as DeepSeek/Gemini do) is
+  // unsafe on Kimi because every candidate parent is inside Vue's reconciled
+  // subtree - inserting our foreign #zs-bar into `.chat-editor` makes Vue's next
+  // diff reuse the bar node as a host and nest the composer editor INSIDE it,
+  // breaking typing entirely (observed live). Instead we expose barAnchor():
+  // the core keeps the bar in its own #zs-root (position:fixed) but positions it
+  // to hug the composer card's top edge at full width and reserves that strip
+  // with padding-top, giving the integrated DeepSeek look with zero DOM
+  // insertion into Vue's tree. The element to hug is the rounded composer card
+  // `.chat-editor` (holds the text box then the toolbar row).
+  function barAnchor() {
+    const ed = getEditor();
+    return (ed && ed.closest(".chat-editor")) || null;
+  }
+
+  // ── Chip anchor ───────────────────────────────────────────────────────────
+  // The turn is a flex ROW [avatar | container]; inserting the chip at the turn
+  // root's firstChild would make it the avatar's flex sibling and shove the
+  // message sideways. Redirect it into the content COLUMN `.segment-content` (a
+  // block-flow column holding, in order, `.segment-content-box` (the reply),
+  // an optional `.okc-cards-container`, then `.segment-assistant-actions` (the
+  // copy/regenerate toolbar) - validated live). With chipAppend below the chip
+  // stacks UNDER the reply there (parity with Qwen) instead of above the turn.
+  function chipAnchor(item) {
+    if (!item) return item;
+    return (
+      item.querySelector(".segment-content") ||
+      item.querySelector(".segment-container") ||
+      item
+    );
+  }
+
+  // With chipAppend the chip trails the reply text - but the LAST child of
+  // `.segment-content` is the action toolbar (`.segment-assistant-actions`), so
+  // a plain append would sink the chip below the copy/regenerate buttons. Name
+  // that toolbar as the fixed point the chip must stay just BEFORE (mirrors
+  // Qwen's chipTrailRef). Returns null while streaming (toolbar not mounted yet),
+  // so the chip simply appends after the reply until the toolbar appears, then
+  // ensureOwnedChip's drift check re-seats it above the toolbar.
+  function chipTrailRef(item) {
+    const anchor = chipAnchor(item);
+    return (anchor && anchor.querySelector(":scope > .segment-assistant-actions")) || null;
+  }
+
+  // ── Input lock ────────────────────────────────────────────────────────────
+  // Lexical is a contenteditable: flipping contenteditable=false would also block
+  // our own execCommand injection, so typeAndSend temporarily re-enables it.
+  // Lexical has no `placeholder` attribute (unlike DeepSeek's textarea); its
+  // placeholder is a sibling `.chat-input-placeholder` element shown while the
+  // editor is empty - so we swap ITS text to surface the "Agent working" notice.
+  // IMPORTANT: Vue RECREATES that placeholder node after every inject/clear cycle
+  // (validated live), dropping our text - so while locked we re-assert it on a
+  // small interval rather than setting it once. The site's real placeholder text
+  // is captured the first time we lock so we can restore it on unlock regardless
+  // of which (recreated) node is current.
+  const LOCK_MSG = "⏳ Agent working… please wait";
+  let _locked = false, _phTimer = null, _phObs = null, _origPlaceholder = null;
+  // Set true only for the brief window typeAndSend re-enables the editor to
+  // inject text - so the self-healing lock below doesn't fight the injection.
+  let _injecting = false;
+  const placeholderEl = () => {
+    const ed = getEditor();
+    const cont = ed && (ed.closest(".chat-input-editor-container") || ed.parentElement);
+    return cont ? cont.querySelector(".chat-input-placeholder") : null;
+  };
+  const lockContainer = () => {
+    const ed = getEditor();
+    return ed && (ed.closest(".chat-input") || ed.closest(".chat-input-editor-container") || ed.parentElement);
+  };
+  function applyLockedPlaceholder() {
+    if (!_locked) return;
+    // Self-heal the input lock: Vue re-renders the editor subtree (this observer
+    // fires on exactly those mutations) and can reset contenteditable back to
+    // true, letting the user type mid-run. Re-assert it - except while injecting,
+    // when typeAndSend deliberately re-enables it.
+    if (!_injecting) {
+      const ed = getEditor();
+      if (ed && ed.getAttribute("contenteditable") !== "false") {
+        ed.setAttribute("contenteditable", "false");
+      }
+    }
+    const ph = placeholderEl();
+    if (!ph) return;
+    const cur = ph.textContent || "";
+    if (cur === LOCK_MSG) return;
+    if (_origPlaceholder == null) _origPlaceholder = cur; // first real text seen
+    ph.textContent = LOCK_MSG;
+  }
+  function setInputLock(on) {
+    _locked = on;
+    const ed = getEditor();
+    if (on) {
+      if (ed) { ed.setAttribute("contenteditable", "false"); ed.setAttribute("data-zs-locked", "1"); }
+      applyLockedPlaceholder();
+      // Vue recreates the placeholder node after each inject/clear cycle, so watch
+      // the composer subtree and re-assert our text the instant it reappears (no
+      // flash of the site's default text). A slow interval backstops the observer.
+      const cont = lockContainer();
+      if (cont && !_phObs) {
+        _phObs = new MutationObserver(applyLockedPlaceholder);
+        try { _phObs.observe(cont, { childList: true, subtree: true }); } catch {}
+      }
+      if (!_phTimer) _phTimer = setInterval(applyLockedPlaceholder, 400);
+    } else {
+      if (_phObs) { try { _phObs.disconnect(); } catch {} _phObs = null; }
+      if (_phTimer) { clearInterval(_phTimer); _phTimer = null; }
+      if (ed) { ed.setAttribute("contenteditable", "true"); ed.removeAttribute("data-zs-locked"); }
+      // Restore the site's own placeholder text on whatever node is current now.
+      const ph = placeholderEl();
+      if (ph && _origPlaceholder != null) ph.textContent = _origPlaceholder;
+    }
+  }
+
+  // ── Send / stop control ────────────────────────────────────────────────────
+  // `.send-button-container` is a <div>: `disabled` when empty, `stop` while
+  // generating, plain (clickable) when there is text to send.
+  const sendControl = () => {
+    const c = composerFrame();
+    return (c && c.querySelector(S.sendBtn)) || document.querySelector(S.sendBtn);
+  };
+  const isStop = (el) => !!el && el.classList.contains("stop");
+  const isDisabled = (el) => !!el && el.classList.contains("disabled");
+  function sendButton() {
+    const el = sendControl();
+    return el && !isStop(el) && !isDisabled(el) ? el : null;
+  }
+  function stopButton() {
+    const el = sendControl();
+    return isStop(el) ? el : null;
+  }
+
+  // ── Generation detection ──────────────────────────────────────────────────
+  function streamText(item) {
+    const md = bodyEl(item);
+    return md ? textWithout(md, ".zs-chip") : "";
+  }
+  const streamLen = (item) =>
+    streamText(item === undefined ? lastAssistant() : item).length;
+
+  let _streamMax = -1, _streamAt = 0, _streamItem = null;
+  function sampleStream() {
+    const item = lastAssistant();
+    const len = streamText(item).length;
+    const now = Date.now();
+    if (item !== _streamItem || len < _streamMax - 400) {
+      _streamItem = item; _streamMax = len; _streamAt = now; return;
+    }
+    if (len > _streamMax) { _streamMax = len; _streamAt = now; }
+  }
+  const grewWithin = (ms) => _streamMax > 1 && Date.now() - _streamAt < ms;
+
+  // The stop class is present for the ENTIRE generation and clears when it ends
+  // (validated live), so we trust it; the growth check only covers the brief
+  // tail right after it clears.
+  function genActive() {
+    sampleStream();
+    if (stopButton()) return true;
+    return grewWithin(timings.GEN_IDLE_MS);
+  }
+  const isGenerating = genActive;
+  const isBusyNow = genActive;
+  const isHardGenerating = () => !!stopButton();
+
+  // No reliable per-turn "stopped" marker, no truncation "Continue" button.
+  const turnHalted = () => false;
+  const findContinueBtn = () => null;
+  const clickContinueBtn = () => false;
+
+  function snapshot() {
+    try {
+      const item = lastAssistant();
+      const md = bodyEl(item);
+      const think = item && item.querySelector(S.thinking);
+      return {
+        th: think ? (think.textContent || "").trim().length : 0,
+        rp: md ? textWithout(md, S.thinking).length : 0,
+      };
+    } catch { return {}; }
+  }
+
+  function readAssistant() {
+    const item = lastAssistant();
+    if (!item) return { present: false, reply: "", thinking: "", item: null };
+    const md = bodyEl(item);
+    const think = item.querySelector(S.thinking);
+    return {
+      present: true,
+      reply: md ? textWithout(md, notThink()).trim() : "",
+      thinking: think ? (think.textContent || "").trim() : "",
+      item,
+    };
+  }
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // ── Sending ───────────────────────────────────────────────────────────────
+  // Lexical contenteditable: select-all then a single execCommand("insertText")
+  // drives the native editing pipeline so Lexical's model updates and the send
+  // control enables.
+  function setEditorText(ed, text) {
+    ed.focus();
+    const sel = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(ed);
+    sel.removeAllRanges();
+    sel.addRange(range);
+    document.execCommand("insertText", false, text);
+  }
+
+  async function typeAndSend(text, images) {
+    const ed = getEditor();
+    if (!ed) throw new Error("Kimi input box not found");
+    const relock = _locked;
+    if (relock) { _injecting = true; ed.setAttribute("contenteditable", "true"); } // injection needs it editable
+    try {
+      if (editorText() !== text) setEditorText(ed, text);
+      // Attach images LAST, right before the send click - see gemini.js's
+      // typeAndSend for why (attaching before retyping the text can sever the
+      // site's binding between the pending upload and the message being sent).
+      // submitAndGetBase RETRIES this function; only attach if nothing is pending
+      // yet, else each retry uploads ANOTHER duplicate copy.
+      if (images && images.length && !hasPendingAttachment()) {
+        try { await attachImages(images); } catch {}
+      }
+      // Wait for the send control to enable (proof Lexical registered the text).
+      await waitFor(() => !!sendButton(), 1500);
+      const btn = sendButton();
+      if (btn) { btn.click(); return; }
+      // Fallback: Enter sends in Lexical's composer.
+      const o = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+      ed.dispatchEvent(new KeyboardEvent("keydown", o));
+      ed.dispatchEvent(new KeyboardEvent("keyup", o));
+    } finally {
+      if (relock) { const e2 = getEditor(); if (e2) e2.setAttribute("contenteditable", "false"); _injecting = false; }
+    }
+  }
+
+  function stopGeneration() {
+    const b = stopButton();
+    if (b) try { b.click(); } catch {}
+  }
+
+  // Kimi's own agentic mode (see S.currentModelName above) makes the model favor
+  // its built-in tools over the EverLua command protocol. On K3 the only
+  // remaining signal is the model-selector label.
+  function nativeAgentModeOn() {
+    const m = document.querySelector(S.currentModelName);
+    // "K3 Swarm" (current) or "…Agent" (older builds). Both make Kimi reach for
+    // its own tooling instead of emitting EverLua command blocks.
+    return !!(m && /swarm|agent/i.test(m.textContent || ""));
+  }
+  // Visible mode guard for the EverLua bar (core renderBar reads this every
+  // sweep, same mechanism as arena.js's modeWarning). Returns a warning string
+  // while Kimi's native Agent mode is on, "" otherwise. The core turns this
+  // into a red warning state and disables Start until the user switches it off.
+  function modeWarning() {
+    if (nativeAgentModeOn())
+      return `Switch the model picker off <b>K3 Swarm</b> (pick <b>K3</b> or <b>Instantané</b>) - ` +
+        `Kimi's own agentic mode replaces the EverLua commands with its native tools and breaks the agent loop.`;
+    return "";
+  }
+
+  // A blocking modal is open over the page. Kimi renders these as full-screen
+  // fixed masks - NOT a [role="dialog"], so the generic dialog probe used by other
+  // providers misses them. Two kinds seen:
+  //   .login-modal-mask - the login / sign-up card ("Continue with Google").
+  //   .modal-mask       - mid-session nags (e.g. the "Too many people are chatting…
+  //                       Subscribe to enter a priority queue" Tips popup on K3).
+  // While one is up, our anchored bar (a real, full-width element hugging the
+  // composer's top edge) sits ON TOP of the mask and the "⚠ unstable" pill floats
+  // over the card - both intercept clicks meant for the modal's buttons. The core
+  // hides the whole bar whenever this is true (it reappears the instant the mask
+  // clears). The masks stay in the DOM when dismissed, so check real visibility,
+  // not mere presence.
+  const MODAL_MASK_SEL = ".login-modal-mask, .modal-mask";
+  function overlayBlocking() {
+    for (const mask of document.querySelectorAll(MODAL_MASK_SEL)) {
+      if (mask.closest("#zs-root")) continue;
+      const s = getComputedStyle(mask);
+      if (s.display === "none" || s.visibility === "hidden" || parseFloat(s.opacity) === 0) continue;
+      const r = mask.getBoundingClientRect();
+      if (r.width > 40 && r.height > 40) return true;
+    }
+    return false;
+  }
+
+  // ── Default the model on a fresh chat ─────────────────────────────────────
+  // Pick a model that actually speaks the EverLua command protocol, ONCE,
+  // whenever we arrive on an empty chat (page load OR "New Chat"). Not enforced
+  // every sweep: if the user deliberately switches afterwards on that same empty
+  // chat, we leave it - we only re-arm on a transition INTO a new empty chat.
+  //
+  // UPDATED for K3 (validated live 2026-07-30). The old code hunted for a row
+  // matching /^K2\.6/ and that model NO LONGER EXISTS: the picker now offers
+  // `Instantané` / `K3` / `K3 Swarm`. The result was an infinite loop - the
+  // target row was never found, so nothing ever disarmed the routine and every
+  // sweep re-clicked the picker open (the "it keeps picking the mode at the
+  // bottom right of the composer" report). Two fixes, one behavioural and one
+  // structural:
+  //   1. Accept any GOOD model (K3, or K2.6 on an older build) and treat the
+  //      default landing model (Instantané) as acceptable too - it works fine
+  //      with the protocol, so there is no reason to fight the user's UI for it.
+  //      K3 Swarm is the ONLY one that must never be auto-selected (it is Kimi's
+  //      agentic mode - see nativeAgentModeOn/modeWarning).
+  //   2. A hard attempt cap, so the NEXT time Kimi renames a model this degrades
+  //      into "gave up quietly" instead of a UI loop.
+  const modelBtn = () => document.querySelector(".current-model");
+  // LANGUAGE NOTE: test for the ONE model we must avoid, never for a list of
+  // models we like. Kimi's UI is localized (the picker reads "Instantané" in
+  // French, "Instant" in English, and Kimi is a Chinese product so other locales
+  // exist), so an allow-list of good names fails open in every language it does
+  // not happen to spell out - and "current model is not in my list" would send
+  // this routine hunting for a replacement row that it also cannot name. Only
+  // "Swarm" actually breaks the command protocol, so that is the only thing we
+  // match. Anything else is left strictly alone, in any language.
+  const SWARM_RE = /swarm|集群|蜂群/i;
+  const currentModelIsUsable = () => !SWARM_RE.test((modelBtn() || {}).textContent || "");
+  const MAX_PICKER_TRIES = 6;
+  const visibleModelItems = () =>
+    [...document.querySelectorAll(".model-item")].filter(
+      (el) => !el.className.includes("content") && el.offsetParent !== null
+    );
+  let defaultArmed = false, lastDefaultKey = null, lastPickerOpen = 0, pickerTries = 0;
+  function applyDefaultModel() {
+    // Re-arm on every transition into a fresh/empty chat (landing or New Chat).
+    const key = conversationKey();
+    if (key !== lastDefaultKey) {
+      lastDefaultKey = key;
+      if (chatIsEmpty()) { defaultArmed = true; pickerTries = 0; }
+    }
+    if (!defaultArmed) return;
+    // Only act on an empty composer with no modal in the way; never mid-turn.
+    if (!chatIsEmpty() || !getEditor() || overlayBlocking() || isGenerating()) return;
+    if (currentModelIsUsable()) { defaultArmed = false; return; } // already fine, no UI
+
+    // Only reached when the CURRENT model is Swarm. The picker needs a click to
+    // open, then its rows render a tick later, so this spans two sweeps: open the
+    // dropdown on one, click the target on the next. "Any row that is not Swarm"
+    // is language-independent, unlike naming the model we want.
+    const target = visibleModelItems().find((el) => !SWARM_RE.test(el.textContent || ""));
+    if (target) { target.click(); defaultArmed = false; return; } // picker auto-closes
+    // Nothing usable on offer (Kimi renamed things again): give up rather than
+    // re-opening the picker forever. modeWarning() still tells the user what to do.
+    if (++pickerTries > MAX_PICKER_TRIES) {
+      diag("kimi.defaultModel.giveUp", { tries: pickerTries, label: (modelBtn() || {}).textContent });
+      defaultArmed = false;
+      return;
+    }
+    if (Date.now() - lastPickerOpen > 400) {
+      const b = modelBtn();
+      if (b) { b.click(); lastPickerOpen = Date.now(); }
+    }
+  }
+
+  // No other site modes to enforce (thinking toggle left to the user); the model
+  // default is a one-shot per fresh chat, not a per-sweep enforcement.
+  function enforceComposer() { applyDefaultModel(); return { ready: !!getEditor() }; }
+  async function ensureComposerReady(reason) {
+    diag("mode_ready", { reason, provider: "kimi" });
+    return { ready: !!getEditor() };
+  }
+
+  // ── Error / limit detection (site chrome only) ────────────────────────────
+  function scanError() {
+    try {
+      for (const el of document.querySelectorAll(S.errorSurfaces)) {
+        if (el.offsetParent === null) continue;
+        if (el.closest(S.anyItem)) continue; // model content, not UI chrome
+        const t = (el.innerText || "").trim();
+        if (t.length > 8 && t.length < 600 && RE.contextLimit.test(t)) return t.slice(0, 240);
+      }
+    } catch {}
+    if (!getEditor()) return "The input box disappeared (session ended?).";
+    return null;
+  }
+  const isTooLongMsg = (text) => RE.tooLong.test(text);
+  const isBusyMsg = (text) => RE.busy.test(text);
+
+  // ── Image attachment (best effort: paste onto the composer) ──────────────
+  function fileFromImage(img, i) {
+    const mime = img.mimeType || "image/jpeg";
+    const bin = atob(img.data);
+    const arr = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) arr[j] = bin.charCodeAt(j);
+    const ext = mime.includes("png") ? "png" : "jpg";
+    return new File([arr], `everlua_${Date.now()}_${i}.${ext}`, { type: mime });
+  }
+  // The PENDING upload's thumbnail (`.image-thumbnail`, in the composer's
+  // `.carousel-scroll`). Kimi ALSO keeps every SENT image's `.image-thumbnail`
+  // in the conversation history (inside a `.segment-user` turn), so a plain
+  // document-wide query would count a leftover from the PREVIOUS capture as if
+  // an upload were already pending - which made the 2nd (and every later)
+  // capture never attach: hasPendingAttachment() stayed true, so typeAndSend
+  // skipped attachImages. Exclude history turns. Both the pending thumb and the
+  // hidden <input> sit OUTSIDE `.chat-box` (a body-portalled popover / carousel),
+  // so we can't scope to the composer - we filter out `.segment-user` instead.
+  // (Validated live: pending thumb parent = `.carousel-scroll`; sent thumb is
+  // under `.segment-user > .attachment-list`.)
+  const pendingThumb = () => {
+    for (const n of document.querySelectorAll(".image-thumbnail")) {
+      if (!n.closest(S.userItem)) return n;
+    }
+    return null;
+  };
+  const hasPendingAttachment = () => !!pendingThumb();
+  const fileInput = () =>
+    document.querySelector("input.hidden-input") || document.querySelector('input[type="file"]');
+
+  async function attachImages(images) {
+    if (!images || !images.length) return false;
+    const dt = new DataTransfer();
+    images.forEach((img, i) => { try { dt.items.add(fileFromImage(img, i)); } catch {} });
+    if (!dt.items.length) return false;
+    // Kimi's Lexical composer IGNORES a synthetic file-paste (validated live: the
+    // paste event produced no preview at all). Uploads go exclusively through the
+    // hidden <input type=file> that the "+" toolkit menu mounts on demand - it is
+    // NOT in the DOM on a fresh load, so open the menu first when it's missing.
+    let fi = fileInput();
+    let opened = null; // the "+" trigger, set only if WE had to open the menu
+    if (!fi) {
+      opened = document.querySelector(".toolkit-trigger-btn");
+      if (opened) { try { opened.click(); } catch {} } // opens menu → mounts the input
+      await waitFor(() => !!fileInput(), 2500);
+      fi = fileInput();
+    }
+    if (!fi) { diag("attach.noFileInput"); return false; }
+    diag("attach.setFiles", { count: dt.items.length });
+    try { fi.files = dt.files; fi.dispatchEvent(new Event("change", { bubbles: true })); }
+    catch (e) { diag("attach.setFilesThrew", { msg: String((e && e.message) || e) }); return false; }
+    // A real file pick closes the toolkit menu; our programmatic set doesn't, and
+    // Escape does NOT dismiss it (validated live). Toggle the trigger to close it
+    // so it doesn't sit open over the composer. The hidden input persists once
+    // mounted, so later captures reuse it without reopening the menu.
+    if (opened) { try { opened.click(); } catch {} }
+    // The thumbnail mounts as `.image-thumbnail … loading` and flips to `… success`
+    // once the upload to Kimi's backend completes (validated live: ~5.8s for a
+    // 10MB image). Sending while still `loading` silently drops the attachment, so
+    // wait for `success` - or bail on an `error` state.
+    if (!(await waitFor(pendingThumb, 15000))) { diag("attach.noThumb"); return false; }
+    await waitFor(() => {
+      const c = (pendingThumb() && pendingThumb().className) || "";
+      return /\bsuccess\b/.test(c) || /\berror\b/.test(c);
+    }, 30000);
+    const cls = (pendingThumb() && pendingThumb().className) || "";
+    diag("attach.uploadDone", { cls });
+    return /\bsuccess\b/.test(cls);
+  }
+  function clearAttachments() {
+    try {
+      // Kimi's per-thumbnail remove control (revealed on hover) is
+      // `.image-delete-container`; click every one to drop pending uploads.
+      document.querySelectorAll(".image-delete-container")
+        .forEach((d) => { try { d.click(); } catch {} });
+    } catch {}
+  }
+
+  // /chat/<id> = a real conversation. "/" = a fresh chat with no id yet → ""
+  // (transient) so the core never persists it as "started".
+  const conversationKey = () => (/^\/?$/.test(location.pathname) ? "" : location.pathname);
+
+  // ── User-send interception ────────────────────────────────────────────────
+  function installSendHooks(handlers) {
+    document.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key !== "Enter" || e.shiftKey || e.isComposing) return;
+        const ed = getEditor();
+        if (!ed || !ed.contains(e.target)) return;
+        if (editorText().trim() === "") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return; // existing conversation → not ours to gate
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+
+    document.addEventListener(
+      "click",
+      (e) => {
+        if (!getEditor()) return;
+        const ctrl = e.target && e.target.closest && e.target.closest(S.sendBtn);
+        if (!ctrl) return;
+        // Stop class = a native stop intent.
+        if (isStop(ctrl)) { handlers.onNativeStop(); return; }
+        if (isDisabled(ctrl)) return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return;
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+  }
+
+  // ── Tool-block location for camouflage ────────────────────────────────────
+  // Each fenced code block is an atomic `.segment-code` wrapper (markers + JSON
+  // survive in textContent). Vue re-renders the markdown subtree on stream
+  // updates, so - like Gemini - hide every `.segment-code` in the reply carrying
+  // a command shape AND mark the assistant turn (.segment-assistant, which keeps
+  // its identity) with .zs-cmd-mask so the overlay.css rule re-hides recreated
+  // wrappers with zero flash. Also catch a stray bare inline command paragraph.
+  const CMD_SHAPE = /"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;
+  // A block whose text STARTS with a command (optionally behind a ```json fence).
+  // Used to hide a command Kimi rendered as a nested <div class="paragraph"> at
+  // ANY length - the length-capped direct-children pass misses those on two
+  // counts (nesting + a big inline command over the cap).
+  const STARTS_CMD = /^\s*(?:```(?:json)?\s*)?(?:\{?\s*"(?:command|tool)"\s*:|###\s*lua|###mcp_tool###)/i;
+  function findToolBlockSpot(item /*, chip */) {
+    const md = bodyEl(item);
+    if (!md) return null;
+    let hidAny = null;
+    md.querySelectorAll(S.codeWrap).forEach((cw) => {
+      if (cw.closest(".zs-chip") || cw.closest(S.thinking)) return; // never a drafted-in-reasoning block
+      if (CMD_SHAPE.test(cw.textContent || "")) {
+        cw.classList.add("zs-tool-hide");
+        item.classList.add("zs-cmd-mask");
+        hidAny = hidAny || { parent: cw.parentElement, ref: cw };
+      }
+    });
+    [...md.children].forEach((el) => {
+      if (el.classList.contains("zs-chip") || el.closest(S.codeWrap) ||
+          el.matches(S.thinking) || el.querySelector(S.thinking) ||
+          el.querySelector(S.codeWrap)) return;
+      const t = el.textContent || "";
+      if (t.length < 600 && CMD_SHAPE.test(t)) {
+        el.classList.add("zs-tool-hide");
+        hidAny = hidAny || { parent: el.parentElement, ref: el };
+      }
+    });
+    // Nested inline-command paragraphs. Kimi sometimes renders a command as a
+    // <div class="paragraph"> deep inside .markdown (not a code block and not a
+    // direct child of md), so BOTH passes above miss it and the raw JSON leaks -
+    // and a big execute_blender_code/multi_edit written this way (1868 chars, seen
+    // live) also blows past the <600 cap. Scan such blocks anywhere in the reply
+    // and hide any whose text STARTS with a command (so it IS the command, never a
+    // prose answer that merely quotes one), at any length.
+    md.querySelectorAll(".paragraph, p").forEach((el) => {
+      if (el.classList.contains("zs-tool-hide") || el.closest(".zs-chip") ||
+          el.closest(S.codeWrap) || el.closest(S.thinking)) return;
+      if (STARTS_CMD.test((el.textContent || "").trim())) {
+        el.classList.add("zs-tool-hide");
+        item.classList.add("zs-cmd-mask");
+        hidAny = hidAny || { parent: el.parentElement, ref: el };
+      }
+    });
+    return hidAny;
+  }
+
+  return {
+    id: "kimi",
+    displayName: "Kimi",
+    // Confirmed live: Kimi (K2.6) reads attached images - it correctly described
+    // a test screenshot's content. So screen_capture is exposed here (see main.js
+    // BLOCKED_TOOLS gate); attachImages uploads via the toolkit file input, and
+    // the capture is shown in the core's left-hand EverLua popup (ui.showImages).
+    supportsVision: true,
+    timings,
+    // Reasoning-area selector, exported so the CORE's raw-command-visible probes
+    // exclude it (same fix as DeepSeek/Gemini): K2.6 Thinking quotes the command
+    // JSON in its reasoning, which the camouflage never hides - without this the
+    // core reads it as "raw block still visible" forever and the chip flaps.
+    thinkingSel: S.thinking,
+    // Vue re-renders the reply's markdown subtree on every update, wiping any
+    // chip placed inside it. Anchor chips at the turn-element level instead
+    // (redirected into the content column by chipAnchor).
+    chipAtItemLevel: true,
+    chipAnchor,
+    // Kimi writes narration THEN the tool call at the end of the turn, so trail
+    // the chip after the reply text (chipAppend) rather than pinning it first -
+    // it then reads in the model's actual order and sits BELOW the reply, like
+    // Qwen. chipTrailRef keeps it just above the copy/regenerate action row
+    // instead of sinking below it; ensureOwnedChip re-asserts both across Vue's
+    // re-renders of the reply subtree.
+    chipAppend: true,
+    chipTrailRef,
+    // Turns accumulate and are not virtualized for normal lengths, so
+    // assistantCount() reliably increases for every reply.
+    reliableCounts: true,
+    // Shown as a permanent, non-intrusive notice in the EverLua panel.
+    // Kimi sometimes reaches for its OWN built-in/native tools (web search, code
+    // runner, etc.) instead of emitting the EverLua command blocks that drive
+    // Roblox Studio - model behavior, not something the prompt fully prevents.
+    unstableWarning:
+      "Kimi sometimes uses its own native tools instead of the Roblox commands (model behavior, not the extension). " +
+      "If it stops acting in Roblox Studio and answers in plain text or runs its own tools, remind it to use the EverLua commands - or start a new session.",
+    init({ diag: d } = {}) { if (d) diag = d; },
+    // turns
+    allItems, isUserItem, isAssistantItem, itemText, classifyText,
+    assistantCount, userCount, lastAssistant, readAssistant,
+    streamLen, snapshot,
+    // composer / state
+    getEditor, editorText, chatIsEmpty, isFreshChat, composerFrame, gateTarget, barAnchor,
+    setInputLock, typeAndSend, stopGeneration,
+    isGenerating, isBusyNow, isHardGenerating,
+    enforceComposer, ensureComposerReady, modeWarning, overlayBlocking,
+    turnHalted, findContinueBtn, clickContinueBtn,
+    scanError, isTooLongMsg, isBusyMsg,
+    // actions
+    attachImages, clearAttachments, conversationKey,
+    installSendHooks, findToolBlockSpot,
+  };
+})();

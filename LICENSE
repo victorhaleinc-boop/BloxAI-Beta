@@ -1,24 +1,18 @@
-EverLua Beta Proprietary License
-Copyright (c) 2026 EverLua. All rights reserved.
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-Permission is granted to download, install, and use the official EverLua Beta
-release for personal or commercial Roblox development at no charge.
+Copyright (C) 2026 EverLua
 
-You may not, without prior written permission from EverLua:
+EverLua Beta is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, version 3 only.
 
-- copy, modify, translate, decompile, reverse engineer, or create derivative
-  works from the software, except where that restriction is not permitted by
-  applicable law;
-- redistribute, sell, rent, lease, sublicense, repackage, or publish the
-  software or any modified version of it;
-- remove or alter EverLua branding, copyright notices, or this license; or
-- use the EverLua name, logo, or branding to imply an official affiliation.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-The software is provided "AS IS", without warranty of any kind, express or
-implied, including warranties of merchantability, fitness for a particular
-purpose, and non-infringement. To the maximum extent permitted by law, EverLua
-will not be liable for any claim, damage, or other liability arising from use
-of the software.
+The complete GPLv3 text is available at:
+https://www.gnu.org/licenses/gpl-3.0.txt
 
-This license applies to official EverLua Beta releases. It does not grant any
-right to EverLua source code, private services, trademarks, or future products.
+The EverLua name, logo, and other brand assets are not licensed by this
+software license. See TRADEMARKS.md.

@@ -1,1 +1,957 @@
-(function(_0x1f2be3,_0x71b6a9){const _0x1c83c0=a0_0x2f14,_0x28b1b1=_0x1f2be3();while(!![]){try{const _0x178b89=-parseInt(_0x1c83c0(0x1b5))/0x1+parseInt(_0x1c83c0(0x1cb))/0x2*(-parseInt(_0x1c83c0(0x1b0))/0x3)+parseInt(_0x1c83c0(0x17f))/0x4+-parseInt(_0x1c83c0(0x1d3))/0x5*(-parseInt(_0x1c83c0(0x18f))/0x6)+parseInt(_0x1c83c0(0x17d))/0x7+parseInt(_0x1c83c0(0x1a9))/0x8*(parseInt(_0x1c83c0(0x1c5))/0x9)+parseInt(_0x1c83c0(0x192))/0xa*(-parseInt(_0x1c83c0(0x1b3))/0xb);if(_0x178b89===_0x71b6a9)break;else _0x28b1b1['push'](_0x28b1b1['shift']());}catch(_0x3ea8cb){_0x28b1b1['push'](_0x28b1b1['shift']());}}}(a0_0x313e,0xb35a5));const ZSProvider=((()=>{'use strict';const _0x57487b=a0_0x2f14;const _0x375973=_0x32e25a=>new Promise(_0x4dd27d=>setTimeout(_0x4dd27d,_0x32e25a));let _0x52bfc9=()=>{};const _0x10ee75={'chatItem':_0x57487b(0x204),'userMod':_0x57487b(0x193),'userBubble':_0x57487b(0x1c4),'box':_0x57487b(0x1a2),'editor':_0x57487b(0x1f5),'msgEditBox':_0x57487b(0x172),'thinking':_0x57487b(0x1df),'markdown':_0x57487b(0x1a2),'generating':'.ds-loading','sendBtn':_0x57487b(0x1f6),'stopBtn':_0x57487b(0x1f6),'errorSurfaces':_0x57487b(0x177)+_0x57487b(0x160),'attachArea':_0x57487b(0x1c9),'imageThumb':_0x57487b(0x18e),'modeRadioGroup':_0x57487b(0x1f7),'modeRadio':_0x57487b(0x1b8),'deepThinkToggle':_0x57487b(0x191)},_0xe244c1={'contextLimit':new RegExp([_0x57487b(0x1bd),_0x57487b(0x207),'session.{0,20}(expired|expir\x5cu00e9e)','please.{0,30}(start|cr\x5cu00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)',_0x57487b(0x1ef),'message.{0,20}too.{0,10}long','maximum.{0,20}context','this\x20conversation\x20has\x20reached',_0x57487b(0x203)][_0x57487b(0x200)]('|'),'i'),'tooLong':/conversation .{0,20}(too long|getting too long|trop longue)/i,'busy':/server is busy|serveur est occup|please try again|réessayer plus tard|system is currently busy/i,'continueBtn':/^(continue|continuer|继续(生成)?|fortfahren|continuar|seguir|続行)$/i,'stopped':/(arrêté|arrété|stopped|已停止|停止生成|已暂停)/i,'expertMode':/expert|专家|专业/i,'visionMode':/vision|视觉|图像|多模态/i,'deepThink':/pensée profonde|pensee profonde|profonde|réflexion|reflexion|deep ?think|深度思考|r1/i,'searchMode':/recherche intelligente|smart search|search|web|搜索/i},_0x2971cb={'GEN_IDLE_MS':0x320,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2328,'RESPONSE_TIMEOUT_MS':0x493e0};function _0x43d374(_0x1131f2){const _0x1a64b9=_0x57487b;if(!_0x1131f2)return![];if(_0x10ee75[_0x1a64b9(0x165)]&&_0x1131f2[_0x1a64b9(0x1d9)]['contains'](_0x10ee75['userMod']))return!![];if(_0x10ee75['userBubble']&&_0x1131f2[_0x1a64b9(0x1e3)](_0x10ee75[_0x1a64b9(0x1d6)]))return!![];return![];}const _0xbec540=_0x2b9b2b=>!!_0x2b9b2b&&!_0x43d374(_0x2b9b2b);function _0x24072b(_0x318b9b){const _0x15d7aa=_0x57487b;if(_0xbec540(_0x318b9b)){const _0x3e3b59=[..._0x318b9b['querySelectorAll'](_0x10ee75[_0x15d7aa(0x1ff)])][_0x15d7aa(0x1e1)](_0x1915b2=>!_0x1915b2[_0x15d7aa(0x1f4)](_0x10ee75[_0x15d7aa(0x1a6)]));return _0x3e3b59[_0x15d7aa(0x1d7)](_0x1f2944=>_0x1f2944[_0x15d7aa(0x1c0)])[_0x15d7aa(0x200)]('\x0a');}return _0x318b9b['textContent']||'';}function _0x23b554(_0x1acc24,_0x567797){const _0x22ee59=_0x57487b;if(_0xbec540(_0x1acc24))return[..._0x1acc24['querySelectorAll'](_0x10ee75[_0x22ee59(0x1ff)])][_0x22ee59(0x1e1)](_0x2e8390=>!_0x2e8390[_0x22ee59(0x1f4)](_0x10ee75[_0x22ee59(0x1a6)])&&!(_0x567797&&_0x2e8390[_0x22ee59(0x1f4)](_0x567797)))[_0x22ee59(0x1d7)](_0x17f253=>_0x17f253[_0x22ee59(0x1c0)])[_0x22ee59(0x200)]('\x0a');let _0x40a1f7='';for(const _0x1e5cce of _0x1acc24[_0x22ee59(0x1ab)]){if(_0x567797&&_0x1e5cce['nodeType']===0x1&&_0x1e5cce[_0x22ee59(0x1cf)]&&_0x1e5cce[_0x22ee59(0x1cf)](_0x567797))continue;_0x40a1f7+=_0x1e5cce['textContent']||'';}return _0x40a1f7;}const _0x2d8b09=()=>[...document[_0x57487b(0x1c3)](_0x10ee75[_0x57487b(0x1fb)])],_0x54bd7e=()=>_0x2d8b09()[_0x57487b(0x1e1)](_0xbec540),_0xeb1e0b=()=>_0x54bd7e()['length'],_0x68f18=()=>_0x2d8b09()[_0x57487b(0x1e1)](_0x43d374)[_0x57487b(0x1f9)],_0x2c369a=()=>{const _0x27a2c8=_0x57487b,_0x353e4b=[...document['querySelectorAll'](_0x10ee75['editor'])][_0x27a2c8(0x1e1)](_0x14e93c=>!_0x14e93c[_0x27a2c8(0x1f4)](_0x27a2c8(0x1b9)));return _0x353e4b['find'](_0x5ee519=>!_0x5ee519[_0x27a2c8(0x1f4)](_0x10ee75[_0x27a2c8(0x16a)]))||_0x353e4b[0x0]||null;},_0x56e282=()=>{const _0x4e164d=_0x2c369a();if(!_0x4e164d)return'';return _0x4e164d['value']!=null?_0x4e164d['value']:_0x4e164d['textContent']||'';};function _0x5b8ecf(_0x4fc491){const _0x24f6c3=_0x57487b,_0x575536=_0x2c369a();if(!_0x575536)return;if(_0x4fc491){if(!_0x575536['dataset'][_0x24f6c3(0x1ca)])_0x575536[_0x24f6c3(0x1f0)][_0x24f6c3(0x1ca)]=_0x575536[_0x24f6c3(0x16e)](_0x24f6c3(0x1fc))||'';_0x575536[_0x24f6c3(0x19f)](_0x24f6c3(0x1c8),''),_0x575536[_0x24f6c3(0x19f)]('placeholder',_0x24f6c3(0x196));}else{_0x575536[_0x24f6c3(0x205)](_0x24f6c3(0x1c8));if(_0x575536[_0x24f6c3(0x1f0)][_0x24f6c3(0x1ca)]!=null)_0x575536[_0x24f6c3(0x19f)](_0x24f6c3(0x1fc),_0x575536[_0x24f6c3(0x1f0)][_0x24f6c3(0x1ca)]);}}const _0x61271a=()=>{const _0x34b5da=_0x57487b,_0x19dd26=_0x54bd7e();return _0x19dd26[_0x34b5da(0x1f9)]?_0x19dd26[_0x19dd26[_0x34b5da(0x1f9)]-0x1]:null;};function _0x182a32(){const _0x19f400=_0x61271a();return _0x25efd6(_0x19f400);}function _0x25efd6(_0x18a029){const _0x520ad0=_0x57487b;if(!_0x18a029)return null;const _0x18dbe3=_0x18a029[_0x520ad0(0x18a)],_0x3e2c07=_0x18dbe3&&_0x18dbe3[_0x520ad0(0x16e)](_0x520ad0(0x180));return _0x3e2c07!=null?_0x3e2c07:null;}const _0x38e366=()=>_0x2d8b09()[_0x57487b(0x1f9)]===0x0,_0x23790d=()=>_0x38e366()&&!!document[_0x57487b(0x1e3)](_0x10ee75[_0x57487b(0x1b1)]);function _0x4836a8(){const _0x3f96b5=_0x57487b,_0x518265=_0x2c369a();if(!_0x518265)return null;const _0x44d7e5=document[_0x3f96b5(0x1e3)](_0x10ee75[_0x3f96b5(0x183)]),_0x33c8bc=document[_0x3f96b5(0x1e3)](_0x10ee75['modeRadioGroup']),_0x4593f5=[_0x44d7e5,_0x33c8bc]['filter'](Boolean);let _0x48041f=_0x518265;for(let _0x44f199=0x0;_0x44f199<0xe&&_0x48041f&&_0x48041f[_0x3f96b5(0x18a)];_0x44f199++){if(_0x4593f5['every'](_0x14df36=>_0x48041f[_0x3f96b5(0x18d)](_0x14df36)))return _0x48041f;_0x48041f=_0x48041f[_0x3f96b5(0x18a)];}let _0x2f2488=_0x518265;for(let _0x4fbb99=0x0;_0x4fbb99<0x6&&_0x2f2488[_0x3f96b5(0x18a)];_0x4fbb99++)_0x2f2488=_0x2f2488[_0x3f96b5(0x18a)];return _0x2f2488;}function _0x2c77ce(){const _0x1cae11=_0x57487b,_0x4caef3=_0x2c369a();if(!_0x4caef3)return null;const _0x5aea19=document[_0x1cae11(0x1e3)](_0x10ee75[_0x1cae11(0x183)]),_0x3ab7b4=document[_0x1cae11(0x1e3)](_0x10ee75['modeRadioGroup']);let _0x4f3e38=_0x4caef3[_0x1cae11(0x18a)];while(_0x4f3e38&&_0x4f3e38!==document[_0x1cae11(0x161)]){const _0x20e690=!_0x5aea19||_0x4f3e38[_0x1cae11(0x18d)](_0x5aea19),_0x3c3c8d=_0x3ab7b4&&_0x4f3e38[_0x1cae11(0x18d)](_0x3ab7b4);if(_0x20e690&&!_0x3c3c8d)break;_0x4f3e38=_0x4f3e38[_0x1cae11(0x18a)];}if(!_0x4f3e38||_0x4f3e38===document[_0x1cae11(0x161)])_0x4f3e38=_0x4caef3[_0x1cae11(0x18a)];if(!_0x4f3e38)return null;let _0x42cff5=_0x4f3e38[_0x1cae11(0x170)];if(_0x42cff5&&_0x42cff5['id']===_0x1cae11(0x17e))_0x42cff5=_0x42cff5[_0x1cae11(0x194)];return{'parent':_0x4f3e38,'before':_0x42cff5,'inside':!![]};}const _0x38ae50=_0x5be770=>_0x5be770&&(_0x5be770['innerText']||_0x5be770['textContent']||'')[_0x57487b(0x1e0)]()||'',_0x47bef9=_0x270a42=>_0x270a42&&(_0x270a42[_0x57487b(0x16e)](_0x57487b(0x1fd))===_0x57487b(0x1ee)||_0x270a42[_0x57487b(0x16e)](_0x57487b(0x1d2))===_0x57487b(0x1ee)||_0x270a42['classList']['contains'](_0x57487b(0x1b2))),_0xad9955=_0x1b337c=>_0x1b337c&&(_0x1b337c[_0x57487b(0x16e)](_0x57487b(0x1fd))===_0x57487b(0x1c1)||_0x1b337c['getAttribute'](_0x57487b(0x1d2))===_0x57487b(0x1c1));function _0x4abf06(_0x29a961,_0x55fe73){const _0x502f39=_0x57487b,_0x1f8f5a=document[_0x502f39(0x1e3)](_0x10ee75['modeRadioGroup']),_0x1636b4=_0x1f8f5a?[..._0x1f8f5a[_0x502f39(0x1c3)](_0x10ee75[_0x502f39(0x1da)])]:[...document[_0x502f39(0x1c3)](_0x10ee75['modeRadio'])];return _0x1636b4['find'](_0x5099f1=>_0x5099f1[_0x502f39(0x16e)]('data-model-type')===_0x29a961)||_0x55fe73&&_0x1636b4[_0x502f39(0x182)](_0x4b871=>_0x55fe73['test'](_0x38ae50(_0x4b871)))||null;}const _0x225151=()=>_0x4abf06(_0x57487b(0x1e9),_0xe244c1[_0x57487b(0x1ba)]),_0x13f8ce=()=>_0x4abf06('vision',_0xe244c1['visionMode']),_0x1a31b9=_0x2686eb=>!!_0x2686eb&&_0x2686eb['getAttribute']('aria-checked')===_0x57487b(0x1ee);let _0x40e17a=![],_0x2d0ec4=![],_0x53acb0=0x0,_0x2dc8bc=![];function _0x12b8f5(){const _0x2a495c=_0x57487b,_0xc33841=[...document[_0x2a495c(0x1c3)](_0x2a495c(0x169))][_0x2a495c(0x1e1)](_0xe602d7=>_0xe602d7[_0x2a495c(0x1ae)]===0x0&&/^(instant|expert|vision)$/i['test']((_0xe602d7['textContent']||'')[_0x2a495c(0x1e0)]())&&_0xe602d7[_0x2a495c(0x1b6)]()[_0x2a495c(0x17b)]>0x0);if(!_0xc33841[_0x2a495c(0x1f9)])return null;return _0xc33841['sort']((_0x472e07,_0xcd3f23)=>_0x472e07[_0x2a495c(0x1b6)]()['top']-_0xcd3f23['getBoundingClientRect']()[_0x2a495c(0x1db)]),/vision/i[_0x2a495c(0x1e8)](_0xc33841[0x0][_0x2a495c(0x1c0)]||'');}function _0x4f40f7(){const _0x2dc116=_0x57487b,_0x35ba39=Date[_0x2dc116(0x16d)]();if(_0x35ba39-_0x53acb0<0x190)return _0x2dc8bc;_0x53acb0=_0x35ba39;const _0x56b8a4=document[_0x2dc116(0x1e3)](_0x10ee75[_0x2dc116(0x1b1)]);if(_0x56b8a4){const _0x4121cc=_0x13f8ce();if(_0x4121cc)return _0x40e17a=_0x1a31b9(_0x4121cc),_0x2d0ec4=!![],_0x2dc8bc=_0x40e17a;}const _0x14c3b3=_0x12b8f5();if(_0x14c3b3!=null)return _0x40e17a=_0x14c3b3,_0x2d0ec4=!![],_0x2dc8bc=_0x14c3b3;if(_0x2d0ec4)return _0x2dc8bc=_0x40e17a;return _0x2dc8bc=![];}const _0x79747=()=>_0x4f40f7();function _0x345750(_0x5e2506){const _0x5b52c3=_0x57487b;return[...document[_0x5b52c3(0x1c3)](_0x10ee75[_0x5b52c3(0x15d)])][_0x5b52c3(0x182)](_0x45569c=>_0x5e2506[_0x5b52c3(0x1e8)](_0x38ae50(_0x45569c)))||null;}function _0x1b9890(){const _0x256ccf=_0x57487b,_0x51dcad=_0x225151(),_0x4dbc23=_0x345750(_0xe244c1['deepThink']),_0x5e968a=_0x345750(_0xe244c1['searchMode']),_0x46e40b=_0x13f8ce();return{'expertFound':!!_0x51dcad,'expertOn':_0x1a31b9(_0x51dcad),'visionFound':!!_0x46e40b,'visionOn':_0x1a31b9(_0x46e40b),'deepThinkFound':!!_0x4dbc23,'deepThinkOn':!!_0x4dbc23&&_0x47bef9(_0x4dbc23),'searchFound':!!_0x5e968a,'searchOff':!_0x5e968a||!_0x47bef9(_0x5e968a),'searchHiddenInExpert':!_0x5e968a&&!!_0x51dcad&&_0x51dcad[_0x256ccf(0x16e)](_0x256ccf(0x1d2))===_0x256ccf(0x1ee)};}function _0x577c0e(_0x663bcc){const _0x11af6d=_0x57487b;if(!_0x663bcc)return _0x1b9890();try{if(!_0x79747()){const _0x119c40=_0x225151();if(_0x119c40&&_0x119c40[_0x11af6d(0x16e)](_0x11af6d(0x1d2))!=='true')try{_0x119c40['click']();}catch(_0xceeaba){_0x52bfc9(_0x11af6d(0x1c6),{'reason':_0x663bcc,'target':'expert','error':String(_0xceeaba&&_0xceeaba[_0x11af6d(0x1cd)]||_0xceeaba)});}}const _0x13af01=_0x345750(_0xe244c1['deepThink']);if(_0x13af01&&_0xad9955(_0x13af01))try{_0x13af01[_0x11af6d(0x1ea)]();}catch(_0x356395){_0x52bfc9(_0x11af6d(0x1c6),{'reason':_0x663bcc,'target':_0x11af6d(0x1f2),'error':String(_0x356395&&_0x356395[_0x11af6d(0x1cd)]||_0x356395)});}const _0x3fb9c4=_0x345750(_0xe244c1[_0x11af6d(0x163)]);if(_0x3fb9c4&&_0x47bef9(_0x3fb9c4))try{_0x3fb9c4[_0x11af6d(0x1ea)]();}catch(_0x2d5e2d){_0x52bfc9(_0x11af6d(0x1c6),{'reason':_0x663bcc,'target':_0x11af6d(0x19e),'error':String(_0x2d5e2d&&_0x2d5e2d[_0x11af6d(0x1cd)]||_0x2d5e2d)});}const _0x5108e0=_0x1b9890();return _0x52bfc9(_0x11af6d(0x19b),{'reason':_0x663bcc,..._0x5108e0}),_0x5108e0;}catch(_0x425148){return _0x52bfc9(_0x11af6d(0x1c6),{'reason':_0x663bcc,'target':'composer','error':String(_0x425148&&_0x425148[_0x11af6d(0x1cd)]||_0x425148)}),_0x1b9890();}}async function _0x2fabd1(_0x5043fc){const _0x1c1665=_0x57487b;let _0x22b095=_0x1b9890();for(let _0xcdfeb=0x0;_0xcdfeb<0xc;_0xcdfeb++){_0x22b095=_0x577c0e(_0x5043fc);if((_0x22b095[_0x1c1665(0x162)]||_0x22b095[_0x1c1665(0x209)])&&_0x22b095['searchOff']&&(_0x22b095[_0x1c1665(0x184)]||!_0x22b095['deepThinkFound']))break;await _0x375973(0x78);}return _0x22b095=_0x1b9890(),_0x52bfc9(_0x1c1665(0x1e2),{'reason':_0x5043fc,..._0x22b095}),{..._0x22b095,'ready':_0x22b095[_0x1c1665(0x162)]||_0x22b095[_0x1c1665(0x209)]};}function _0x163721(_0x9620a0){const _0x4d9da4=_0x57487b;if(!_0x9620a0)return![];if(_0x9620a0[_0x4d9da4(0x1e3)]('rect'))return!![];const _0x1ea9a0=_0x9620a0[_0x4d9da4(0x1e3)](_0x4d9da4(0x1f1));if(!_0x1ea9a0)return![];return/^\s*M\s*[0-3][\s.]/['test'](_0x1ea9a0[_0x4d9da4(0x16e)]('d')||'');}function _0x549815(_0x451818){const _0x2bda0b=_0x57487b;if(!_0x451818)return'';const _0x497222=_0x451818[_0x2bda0b(0x1e3)](_0x10ee75['thinking']),_0x3aff77=_0x497222?_0x497222[_0x2bda0b(0x1c0)]||'':'',_0x475bfe=[..._0x451818[_0x2bda0b(0x1c3)](_0x10ee75[_0x2bda0b(0x1ff)])][_0x2bda0b(0x1e1)](_0x4b1c49=>!_0x4b1c49[_0x2bda0b(0x1f4)](_0x10ee75['thinking'])&&!_0x4b1c49[_0x2bda0b(0x1f4)](_0x2bda0b(0x1ac)))['map'](_0x3b20e0=>_0x3b20e0[_0x2bda0b(0x1c0)])[_0x2bda0b(0x200)]('');return _0x3aff77+'\x0a'+_0x475bfe;}const _0x4f90c4=_0x3f8fe8=>_0x549815(_0x3f8fe8===undefined?_0x61271a():_0x3f8fe8)[_0x57487b(0x1f9)];let _0x14daba=-0x1,_0x114448=0x0,_0x26d7fb=null;function _0x11dedf(){const _0x3ed558=_0x57487b,_0x1461b9=_0x61271a(),_0x3f0ab4=_0x549815(_0x1461b9)['length'],_0x7e5b21=Date[_0x3ed558(0x16d)]();if(_0x1461b9!==_0x26d7fb||_0x3f0ab4<_0x14daba-0x190){_0x26d7fb=_0x1461b9,_0x14daba=_0x3f0ab4,_0x114448=_0x7e5b21;return;}_0x3f0ab4>_0x14daba&&(_0x14daba=_0x3f0ab4,_0x114448=_0x7e5b21);}const _0x2ceee8=_0x47cfba=>_0x14daba>0x1&&Date['now']()-_0x114448<_0x47cfba;function _0xd117b8(_0x34a4d1){const _0x6b3b8a=_0x57487b;if(!_0x34a4d1)return![];const _0x45b190=_0x34a4d1[_0x6b3b8a(0x1e3)](_0x10ee75[_0x6b3b8a(0x1a6)]),_0x365f77=_0x45b190?_0x45b190[_0x6b3b8a(0x1c0)]||'':'';if(!_0x365f77[_0x6b3b8a(0x1e0)]()[_0x6b3b8a(0x1f9)])return![];const _0x19ea7d=[..._0x34a4d1[_0x6b3b8a(0x1c3)](_0x10ee75[_0x6b3b8a(0x1ff)])][_0x6b3b8a(0x1e1)](_0x266508=>!_0x266508[_0x6b3b8a(0x1f4)](_0x10ee75[_0x6b3b8a(0x1a6)])&&!_0x266508[_0x6b3b8a(0x1f4)]('.zs-chip'))['reduce']((_0x1183ed,_0x3bbd60)=>_0x1183ed+(_0x3bbd60[_0x6b3b8a(0x1c0)]||'')['length'],0x0);if(_0x19ea7d!==0x0)return![];if(_0x499742(_0x34a4d1))return![];return!![];}function _0x499742(_0x2e9440){const _0x46033e=_0x57487b;if(!_0x2e9440)return![];const _0x39997b=_0x2e9440[_0x46033e(0x1e3)](_0x10ee75[_0x46033e(0x1a6)]),_0x562f44=_0x39997b?_0x39997b[_0x46033e(0x1c0)]||'':'';return _0xe244c1['stopped'][_0x46033e(0x1e8)](_0x2e9440['textContent']||'')&&!_0xe244c1[_0x46033e(0x1af)][_0x46033e(0x1e8)](_0x562f44);}function _0x7bd351(){const _0x4a5833=_0x57487b;if(document[_0x4a5833(0x1e3)](_0x10ee75[_0x4a5833(0x181)]))return!![];const _0x4c7677=document[_0x4a5833(0x1e3)](_0x10ee75['sendBtn']);if(_0x163721(_0x4c7677))return!![];_0x11dedf();if(_0xd117b8(_0x61271a()))return _0x2ceee8(_0x2971cb[_0x4a5833(0x1bf)]);return _0x2ceee8(_0x2971cb['GEN_IDLE_MS']);}function _0x121841(){const _0x246b3c=_0x57487b;if(document[_0x246b3c(0x1e3)](_0x10ee75[_0x246b3c(0x181)]))return!![];const _0xd21c51=document[_0x246b3c(0x1e3)](_0x10ee75[_0x246b3c(0x183)]);if(_0x163721(_0xd21c51))return!![];_0x11dedf();if(!_0xd117b8(_0x61271a()))return![];return _0x2ceee8(_0x2971cb[_0x246b3c(0x1bf)]);}function _0x10e47e(){const _0x18f2aa=_0x57487b;return _0x163721(document[_0x18f2aa(0x1e3)](_0x10ee75['sendBtn']));}function _0x2e437e(){const _0x814279=_0x57487b;try{_0x11dedf();const _0x266f76=document[_0x814279(0x1e3)](_0x10ee75[_0x814279(0x183)]),_0x121712=_0x266f76&&_0x266f76[_0x814279(0x1e3)]('path'),_0x514376=_0x266f76&&_0x266f76[_0x814279(0x1e3)](_0x814279(0x17c));return{'spinner':!!document[_0x814279(0x1e3)](_0x10ee75['generating']),'stopBtn':_0x163721(_0x266f76),'btnGlyph':_0x514376?'rect':_0x121712?(_0x121712[_0x814279(0x16e)]('d')||'')[_0x814279(0x176)](0x0,0x6):_0x814279(0x19c),'reasoning':_0xd117b8(_0x61271a()),'streamMax':_0x14daba,'streamAgeMs':_0x114448?Date['now']()-_0x114448:-0x1,'grewGen':_0x2ceee8(_0x2971cb[_0x814279(0x1b4)]),'grewReason':_0x2ceee8(_0x2971cb[_0x814279(0x1bf)]),'gen':_0x7bd351()};}catch(_0x3c2c95){return{'err':String(_0x3c2c95&&_0x3c2c95['message']||_0x3c2c95)};}}function _0x4dac57(){const _0x5cc7e1=_0x57487b;try{const _0x404579=_0x61271a();if(!_0x404579)return{'th':0x0,'rp':0x0};const _0x5500b8=_0x404579['querySelector'](_0x10ee75['thinking']),_0x13a765=[..._0x404579['querySelectorAll'](_0x10ee75[_0x5cc7e1(0x1ff)])]['filter'](_0x220292=>!_0x220292['closest'](_0x10ee75[_0x5cc7e1(0x1a6)])&&!_0x220292['closest']('.zs-chip'))['reduce']((_0x5f3d96,_0x46042f)=>_0x5f3d96+(_0x46042f[_0x5cc7e1(0x1c0)]||'')[_0x5cc7e1(0x1f9)],0x0);return{'th':_0x5500b8?(_0x5500b8['textContent']||'')[_0x5cc7e1(0x1e0)]()[_0x5cc7e1(0x1f9)]:0x0,'rp':_0x13a765};}catch{return{};}}function _0x5313b7(){const _0x319917=_0x57487b;for(const _0x1e94aa of document[_0x319917(0x1c3)](_0x319917(0x185))){if(_0x1e94aa[_0x319917(0x1aa)]===null)continue;if(_0xe244c1['continueBtn'][_0x319917(0x1e8)]((_0x1e94aa['innerText']||'')['trim']()))return _0x1e94aa;}return null;}function _0x3395d5(){const _0x1dac28=_0x57487b,_0x36f256=_0x5313b7();if(!_0x36f256)return![];try{return _0x36f256[_0x1dac28(0x1ea)](),!![];}catch{return![];}}function _0x34af22(){const _0x48d45b=_0x57487b,_0x4f2e51=_0x61271a();if(!_0x4f2e51)return{'present':![],'reply':'','thinking':'','item':null};const _0x2c91e7=_0x4f2e51[_0x48d45b(0x1e3)](_0x10ee75[_0x48d45b(0x1a6)]+'\x20'+_0x10ee75[_0x48d45b(0x1ff)]),_0x54d324=[..._0x4f2e51[_0x48d45b(0x1c3)](_0x10ee75[_0x48d45b(0x1ff)])][_0x48d45b(0x1e1)](_0x2f565c=>!_0x2f565c[_0x48d45b(0x1f4)](_0x10ee75[_0x48d45b(0x1a6)]));return{'present':!![],'reply':_0x54d324[_0x48d45b(0x1d7)](_0x57cde7=>_0x57cde7[_0x48d45b(0x1c0)])['join']('\x0a')[_0x48d45b(0x1e0)](),'thinking':_0x2c91e7?_0x2c91e7[_0x48d45b(0x1c0)][_0x48d45b(0x1e0)]():'','item':_0x4f2e51};}async function _0x362b30(_0x234f75,_0x426695){const _0x202cae=_0x57487b,_0x20890b=Date['now']();while(Date[_0x202cae(0x16d)]()-_0x20890b<_0x426695){if(_0x234f75())return!![];await _0x375973(0x78);}return![];}function _0xcb848b(_0x4f1260,_0x167b20){const _0x4f81a9=_0x57487b,_0x28e8c7=window[_0x4f81a9(0x174)]&&window['HTMLTextAreaElement'][_0x4f81a9(0x190)],_0xbcb08f=_0x28e8c7&&Object['getOwnPropertyDescriptor'](_0x28e8c7,_0x4f81a9(0x1a5));if(_0xbcb08f&&_0xbcb08f[_0x4f81a9(0x1c2)])_0xbcb08f['set'][_0x4f81a9(0x1fe)](_0x4f1260,_0x167b20);else _0x4f1260[_0x4f81a9(0x1a5)]=_0x167b20;_0x4f1260[_0x4f81a9(0x1b7)](new Event(_0x4f81a9(0x173),{'bubbles':!![]}));}function _0x3ac132(_0x5544fb){const _0x34146d=_0x57487b,_0x1bf152={'key':_0x34146d(0x1bc),'code':'Enter','keyCode':0xd,'which':0xd,'bubbles':!![],'cancelable':!![]};_0x5544fb[_0x34146d(0x1b7)](new KeyboardEvent(_0x34146d(0x1d8),_0x1bf152)),_0x5544fb[_0x34146d(0x1b7)](new KeyboardEvent('keyup',_0x1bf152));}function _0x57af6f(){const _0x5ac8d4=_0x57487b;if(_0x121841())return![];const _0x3b4ac2=document[_0x5ac8d4(0x1e3)](_0x10ee75[_0x5ac8d4(0x183)]);if(_0x3b4ac2&&!_0x163721(_0x3b4ac2)&&_0x3b4ac2[_0x5ac8d4(0x16e)](_0x5ac8d4(0x168))!==_0x5ac8d4(0x1ee))return _0x3b4ac2[_0x5ac8d4(0x1ea)](),!![];return![];}const _0x11d06c=0x28000,_0x4b505e=0x27100;function _0x1b272e(_0x42e990){const _0x23d910=_0x57487b;if(!_0x42e990||_0x42e990[_0x23d910(0x1f9)]<=_0x4b505e)return _0x42e990;const _0x3bcc43=_0x42e990[_0x23d910(0x1f9)]-_0x4b505e,_0x2ec77e='\x0a\x0a[…EverLua:\x20result\x20truncated\x20to\x20fit\x20DeepSeek\x27s\x20'+_0x11d06c+_0x23d910(0x1d5)+(_0x23d910(0x15f)+_0x3bcc43+_0x23d910(0x16b)+_0x42e990[_0x23d910(0x1f9)]+_0x23d910(0x195))+_0x23d910(0x1fa),_0x5d3020=_0x4b505e-_0x2ec77e['length'],_0x1b1c9a=Math[_0x23d910(0x1d4)](_0x5d3020*0.85),_0x5160e3=_0x5d3020-_0x1b1c9a;return _0x42e990[_0x23d910(0x176)](0x0,_0x1b1c9a)+_0x2ec77e+_0x42e990['slice'](_0x42e990[_0x23d910(0x1f9)]-_0x5160e3);}async function _0xc4fd1c(_0x4321ef,_0x57f42f){const _0x1716a1=_0x57487b,_0x4d59a3=_0x2c369a();if(!_0x4d59a3)throw new Error(_0x1716a1(0x18c));_0x4d59a3['focus'](),_0x4321ef=_0x1b272e(_0x4321ef),_0xcb848b(_0x4d59a3,_0x4321ef);const _0x4d29be=!!(_0x57f42f&&_0x57f42f['length']);if(_0x4d29be){try{await _0x287729(_0x57f42f);}catch{}const _0xd190d=Date['now']();while(Date[_0x1716a1(0x16d)]()-_0xd190d<0x61a8){const _0x1a7cf4=document[_0x1716a1(0x1e3)](_0x10ee75[_0x1716a1(0x183)]);if(_0x1a7cf4&&!_0x163721(_0x1a7cf4)&&_0x1a7cf4[_0x1716a1(0x16e)]('aria-disabled')!==_0x1716a1(0x1ee))try{_0x1a7cf4[_0x1716a1(0x1ea)]();}catch{}if(await _0x362b30(()=>_0x56e282()[_0x1716a1(0x1e0)]()===''||_0x10e47e(),0x4b0))return;}return;}await _0x362b30(()=>{const _0x26c786=_0x1716a1,_0x53f312=document['querySelector'](_0x10ee75['sendBtn']);return _0x53f312&&_0x53f312[_0x26c786(0x16e)]('aria-disabled')!==_0x26c786(0x1ee)&&!_0x163721(_0x53f312);},0x320),!_0x57af6f()&&!_0x121841()&&_0x3ac132(_0x4d59a3);}function _0x572459(){const _0x385c62=_0x57487b,_0x362890=document[_0x385c62(0x1e3)](_0x10ee75[_0x385c62(0x1d1)]);if(_0x163721(_0x362890))try{_0x362890[_0x385c62(0x1ea)]();}catch{}}function _0x225873(){const _0x20eed4=_0x57487b;try{for(const _0x12aa69 of document[_0x20eed4(0x1c3)](_0x10ee75[_0x20eed4(0x188)])){if(_0x12aa69['offsetParent']===null)continue;if(_0x12aa69['closest'](_0x10ee75[_0x20eed4(0x1fb)]))continue;const _0x41291c=(_0x12aa69[_0x20eed4(0x171)]||'')[_0x20eed4(0x1e0)]();if(_0x41291c[_0x20eed4(0x1f9)]>0x8&&_0x41291c[_0x20eed4(0x1f9)]<0x258&&_0xe244c1[_0x20eed4(0x206)]['test'](_0x41291c))return _0x41291c[_0x20eed4(0x176)](0x0,0xf0);}}catch{}if(!_0x2c369a())return _0x20eed4(0x19a);return null;}const _0x435d26=_0x32cccd=>_0xe244c1[_0x57487b(0x1ce)][_0x57487b(0x1e8)](_0x32cccd),_0x3c46e7=_0x5c25cd=>_0xe244c1[_0x57487b(0x178)][_0x57487b(0x1e8)](_0x5c25cd);function _0x51b0b2(_0x23466a,_0x22df67){const _0x43a5ad=_0x57487b,_0x3017fa=_0x23466a[_0x43a5ad(0x1a0)]||'image/jpeg',_0x43e771=atob(_0x23466a[_0x43a5ad(0x19d)]),_0x4aa821=new Uint8Array(_0x43e771[_0x43a5ad(0x1f9)]);for(let _0x217dec=0x0;_0x217dec<_0x43e771[_0x43a5ad(0x1f9)];_0x217dec++)_0x4aa821[_0x217dec]=_0x43e771[_0x43a5ad(0x187)](_0x217dec);const _0x12f595=_0x3017fa[_0x43a5ad(0x1c7)]('png')?_0x43a5ad(0x18b):_0x43a5ad(0x202);return new File([_0x4aa821],_0x43a5ad(0x1bb)+Date[_0x43a5ad(0x16d)]()+'_'+_0x22df67+'.'+_0x12f595,{'type':_0x3017fa});}const _0x61b73f=()=>{const _0x2e9ef3=_0x57487b;try{return[...document['querySelectorAll'](_0x2e9ef3(0x16c))][_0x2e9ef3(0x1e1)](_0x2f3985=>!_0x2f3985[_0x2e9ef3(0x1f4)](_0x10ee75[_0x2e9ef3(0x1fb)])&&(/^blob:/[_0x2e9ef3(0x1e8)](_0x2f3985[_0x2e9ef3(0x16e)](_0x2e9ef3(0x1ec))||'')||/^everlua_/[_0x2e9ef3(0x1e8)](_0x2f3985[_0x2e9ef3(0x16e)]('alt')||'')));}catch{return[];}};function _0x3465e3(){const _0x35f0e7=_0x57487b;try{document[_0x35f0e7(0x1c3)](_0x10ee75['attachArea']+_0x35f0e7(0x189)+_0x10ee75[_0x35f0e7(0x1a8)]+_0x35f0e7(0x1e5)+_0x10ee75[_0x35f0e7(0x1a8)]+_0x35f0e7(0x179))[_0x35f0e7(0x164)](_0x39f432=>[_0x35f0e7(0x1e6),'mousedown',_0x35f0e7(0x201),_0x35f0e7(0x1ea)]['forEach'](_0x29c8e4=>{const _0x16abb3=_0x35f0e7;try{_0x39f432[_0x16abb3(0x1b7)](new MouseEvent(_0x29c8e4,{'bubbles':!![]}));}catch{}}));}catch{}}async function _0x287729(_0x546e43){const _0x30e644=_0x57487b,_0x3c8baa=_0x2c369a();if(!_0x3c8baa||!_0x546e43||!_0x546e43[_0x30e644(0x1f9)])return![];if(_0x61b73f()[_0x30e644(0x1f9)]>0x0)return!![];const _0x507827=_0x546e43[_0x30e644(0x1f9)],_0x4bf53a=new DataTransfer();_0x546e43[_0x30e644(0x164)]((_0x55f64d,_0x2b7a1d)=>{const _0x426cb5=_0x30e644;try{_0x4bf53a[_0x426cb5(0x1f8)][_0x426cb5(0x1de)](_0x51b0b2(_0x55f64d,_0x2b7a1d));}catch{}});if(!_0x4bf53a[_0x30e644(0x1f8)]['length'])return![];_0x3c8baa[_0x30e644(0x1d0)]();const _0x4d99db=document[_0x30e644(0x1e3)](_0x30e644(0x1eb));if(_0x4d99db)try{_0x4d99db[_0x30e644(0x186)]=_0x4bf53a[_0x30e644(0x186)],_0x4d99db[_0x30e644(0x1b7)](new Event(_0x30e644(0x1a4),{'bubbles':!![]}));}catch{}else _0x3c8baa[_0x30e644(0x1b7)](new ClipboardEvent(_0x30e644(0x17a),{'clipboardData':_0x4bf53a,'bubbles':!![],'cancelable':!![]}));return await _0x362b30(()=>_0x61b73f()[_0x30e644(0x1f9)]>=_0x507827,0x3a98);}const _0x2ff72f=()=>location[_0x57487b(0x1a7)]==='/'?'':location[_0x57487b(0x1a7)];function _0x402f10(_0x5151d0){const _0x1485da=_0x57487b;document['addEventListener']('keydown',_0x5c1f80=>{const _0x236fae=a0_0x2f14;if(_0x5c1f80['key']!==_0x236fae(0x1bc)||_0x5c1f80[_0x236fae(0x208)]||_0x5c1f80[_0x236fae(0x1e7)])return;const _0x5bea7b=_0x2c369a();if(!_0x5bea7b||!_0x5bea7b[_0x236fae(0x18d)](_0x5c1f80[_0x236fae(0x1be)]))return;const _0x47b05f=_0x56e282()[_0x236fae(0x1e0)]();if(_0x47b05f==='')return;if(_0x5151d0[_0x236fae(0x1a1)]())return;if(!_0x5151d0[_0x236fae(0x197)]()){if(!_0x38e366())return;_0x5151d0['onBlockedAttempt']();return;}_0x5151d0['onUserMessage'](_0xeb1e0b());},!![]),document[_0x1485da(0x1dc)](_0x1485da(0x1ea),_0x51ce35=>{const _0x17268b=_0x1485da;if(!_0x2c369a())return;const _0x8a0708=_0x51ce35['target'],_0x399c77=_0x8a0708&&_0x8a0708[_0x17268b(0x1f4)]&&_0x8a0708['closest'](_0x17268b(0x185));if(_0x399c77&&_0xe244c1[_0x17268b(0x167)][_0x17268b(0x1e8)]((_0x399c77[_0x17268b(0x171)]||'')['trim']())){_0x5151d0[_0x17268b(0x1ad)]();return;}const _0x263a15=_0x8a0708&&_0x8a0708[_0x17268b(0x1f4)]&&_0x8a0708[_0x17268b(0x1f4)](_0x10ee75[_0x17268b(0x183)]);if(!_0x263a15)return;if(_0x163721(_0x263a15)){_0x5151d0['onNativeStop']();return;}if(_0x263a15[_0x17268b(0x16e)]('aria-disabled')===_0x17268b(0x1ee))return;if(_0x5151d0['isBlocked']())return;if(!_0x5151d0[_0x17268b(0x197)]()){if(!_0x38e366())return;_0x5151d0[_0x17268b(0x199)]();return;}_0x5151d0[_0x17268b(0x1f3)](_0xeb1e0b());},!![]);}function _0x486650(_0x575432,_0x1aab22){const _0xdae9bf=_0x57487b,_0x552b64=ZSParse,_0x4a54e4=_0xdf515f=>_0x552b64['LUA_START_RE']['test'](_0xdf515f)||_0xdf515f['includes']('###mcp_tool###'),_0x233c07=_0x31254b=>_0x552b64[_0xdae9bf(0x198)][_0xdae9bf(0x1e8)](_0x31254b)||_0x31254b[_0xdae9bf(0x1c7)](_0xdae9bf(0x1cc))||_0x31254b[_0xdae9bf(0x1c7)](_0xdae9bf(0x166)),_0x561913=_0x231e7f=>/\{\s*"(?:command|tool)"\s*:/[_0xdae9bf(0x1e8)](_0x231e7f),_0x1736fc=[..._0x575432['querySelectorAll'](_0x10ee75[_0xdae9bf(0x1ff)])][_0xdae9bf(0x1e1)](_0x138d60=>!_0x138d60[_0xdae9bf(0x1f4)](_0x10ee75[_0xdae9bf(0x1a6)]));if(!_0x1736fc[_0xdae9bf(0x1f9)])return null;let _0x25458a=null,_0x1ffd44=null;for(const _0x24ecfc of _0x1736fc){const _0x3d99c2=[..._0x24ecfc['children']][_0xdae9bf(0x1e1)](_0x19b0c3=>_0x19b0c3!==_0x1aab22&&!(_0x1aab22&&_0x19b0c3[_0xdae9bf(0x18d)](_0x1aab22)));let _0x2110c9=0x0;while(_0x2110c9<_0x3d99c2[_0xdae9bf(0x1f9)]){const _0x2efb48=_0x3d99c2[_0x2110c9][_0xdae9bf(0x1c0)]||'',_0x549f5b=_0x2efb48[_0xdae9bf(0x1e4)](),_0xb18646=_0x4a54e4(_0x549f5b);if(!_0xb18646&&!_0x561913(_0x2efb48)){_0x2110c9++;continue;}const _0x4571f4=_0x2110c9;let _0x29fad3=_0x2110c9;if(_0xb18646&&!_0x233c07(_0x549f5b)){let _0x26a71a=_0x2110c9+0x1;_0x29fad3=_0x3d99c2[_0xdae9bf(0x1f9)]-0x1;for(;_0x26a71a<_0x3d99c2[_0xdae9bf(0x1f9)];_0x26a71a++){if(_0x233c07((_0x3d99c2[_0x26a71a][_0xdae9bf(0x1c0)]||'')['toLowerCase']())){_0x29fad3=_0x26a71a;break;}}}for(let _0x4226b9=_0x4571f4;_0x4226b9<=_0x29fad3;_0x4226b9++){let _0x3e722b=_0x3d99c2[_0x4226b9];const _0x59d1bf=_0x3e722b[_0xdae9bf(0x1f4)](_0xdae9bf(0x175));if(_0x59d1bf&&_0x24ecfc['contains'](_0x59d1bf)&&_0x59d1bf!==_0x24ecfc)_0x3e722b=_0x59d1bf;_0x3e722b[_0xdae9bf(0x1d9)][_0xdae9bf(0x1de)](_0xdae9bf(0x1a3)),!_0x1ffd44&&_0x3e722b[_0xdae9bf(0x18a)]&&(_0x25458a=_0x3e722b[_0xdae9bf(0x18a)],_0x1ffd44=_0x3e722b);}_0x2110c9=_0x29fad3+0x1;}}return _0x1ffd44?{'parent':_0x25458a,'ref':_0x1ffd44}:null;}return{'id':_0x57487b(0x1dd),'displayName':_0x57487b(0x16f),get 'supportsVision'(){return _0x79747();},'timings':_0x2971cb,'thinkingSel':_0x10ee75['thinking'],'init'({diag:_0x312d79}={}){const _0x405b73=_0x57487b;if(_0x312d79)_0x52bfc9=_0x312d79;try{document[_0x405b73(0x15e)][_0x405b73(0x19f)](_0x405b73(0x1ed),'2026-07_vision-badge-priority');}catch{}},'allItems':_0x2d8b09,'isUserItem':_0x43d374,'isAssistantItem':_0xbec540,'itemText':_0x24072b,'classifyText':_0x23b554,'assistantCount':_0xeb1e0b,'userCount':_0x68f18,'lastAssistant':_0x61271a,'lastAssistantId':_0x182a32,'itemKey':_0x25efd6,'readAssistant':_0x34af22,'streamLen':_0x4f90c4,'snapshot':_0x4dac57,'getEditor':_0x2c369a,'editorText':_0x56e282,'chatIsEmpty':_0x38e366,'isFreshChat':_0x23790d,'composerFrame':_0x4836a8,'barMount':_0x2c77ce,'setInputLock':_0x5b8ecf,'typeAndSend':_0xc4fd1c,'stopGeneration':_0x572459,'isGenerating':_0x7bd351,'isBusyNow':_0x121841,'isHardGenerating':_0x10e47e,'genDebug':_0x2e437e,'enforceComposer':_0x577c0e,'ensureComposerReady':_0x2fabd1,'turnHalted':_0x499742,'findContinueBtn':_0x5313b7,'clickContinueBtn':_0x3395d5,'scanError':_0x225873,'isTooLongMsg':_0x435d26,'isBusyMsg':_0x3c46e7,'attachImages':_0x287729,'clearAttachments':_0x3465e3,'conversationKey':_0x2ff72f,'installSendHooks':_0x402f10,'findToolBlockSpot':_0x486650};})());function a0_0x2f14(_0x4f5f97,_0x29b768){_0x4f5f97=_0x4f5f97-0x15d;const _0x313ef8=a0_0x313e();let _0x2f14c0=_0x313ef8[_0x4f5f97];if(a0_0x2f14['HWoqiI']===undefined){var _0x4c26de=function(_0x4af420){const _0x28482e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x375973='',_0x52bfc9='';for(let _0x10ee75=0x0,_0xe244c1,_0x2971cb,_0x43d374=0x0;_0x2971cb=_0x4af420['charAt'](_0x43d374++);~_0x2971cb&&(_0xe244c1=_0x10ee75%0x4?_0xe244c1*0x40+_0x2971cb:_0x2971cb,_0x10ee75++%0x4)?_0x375973+=String['fromCharCode'](0xff&_0xe244c1>>(-0x2*_0x10ee75&0x6)):0x0){_0x2971cb=_0x28482e['indexOf'](_0x2971cb);}for(let _0xbec540=0x0,_0x24072b=_0x375973['length'];_0xbec540<_0x24072b;_0xbec540++){_0x52bfc9+='%'+('00'+_0x375973['charCodeAt'](_0xbec540)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x52bfc9);};a0_0x2f14['hiwvCs']=_0x4c26de,a0_0x2f14['VnhKQj']={},a0_0x2f14['HWoqiI']=!![];}const _0x307110=_0x313ef8[0x0],_0x4ec767=_0x4f5f97+_0x307110,_0x4d39c3=a0_0x2f14['VnhKQj'][_0x4ec767];return!_0x4d39c3?(_0x2f14c0=a0_0x2f14['hiwvCs'](_0x2f14c0),a0_0x2f14['VnhKQj'][_0x4ec767]=_0x2f14c0):_0x2f14c0=_0x4d39c3,_0x2f14c0;}function a0_0x313e(){const _0x3d081c=['AxntDgfYDgvK','tfvbx0vorf9srq','B25cBg9JA2vKqxr0zw1WDa','vgHLigLUChv0igjVEcbKAxnHChbLyxjLzcaOC2vZC2LVBIbLBMrLzd8PlG','Bw9Kzv9LBMzVCMnL','BM9Uzq','zgf0yq','C2vHCMnO','C2v0qxr0CMLIDxrL','BwLTzvr5Cgu','AxncBg9JA2vK','lMrZlw1HCMTKB3DU','ENmTDg9VBc1OAwrL','y2HHBMDL','DMfSDwu','DgHPBMTPBMC','Cgf0Ag5HBwu','yxr0ywnOqxjLyq','ntC1ndy0vKrbB1bK','B2zMC2v0ugfYzw50','y2HPBgroB2rLCW','lNPZlwnOAxa','B25oyxrPDMvdB250Aw51zq','y2HPBgrfBgvTzw50q291BNq','C3rVChbLza','ntC5rNjuz1fo','Bw9KzvjHzgLVr3jVDxa','zhmTDg9Nz2XLlwj1DhrVBI0TC2vSzwn0zwq','ntGWmde5vhnKAKDp','r0vox0LetevFtvm','mtiYodCZmMrvtgT1sW','z2v0qM91BMrPBMDdBgLLBNrszwn0','zgLZCgf0y2HfDMvUDa','w3jVBgu9iNjHzgLViL0','i3PZlxjVB3q','zxHWzxj0tw9Kzq','zxzLCMX1yv8','rw50zxi','y29UDMvYC2f0Aw9UlNSWldiWFsH0B28GBg9Uz3X0CM9WigXVBMCP','DgfYz2v0','uKvbu09ox0LetevFtvm','Dgv4DenVBNrLBNq','zMfSC2u','C2v0','CxvLCNLtzwXLy3rVCKfSBa','lMzIyJCZn2e0','ndvhu3rUAMy','Bw9Kzv9MywXSyMfJAW','Aw5JBhvKzxm','CMvHzg9UBhK','lMrZlwzPBguTBgLZDcWGw2nSyxnZkJ0NzMLSzs1WCMv2Awv3j10SifTJBgfZCYO9j3vWBg9HzcDD','ENnqBgfJzwHVBgrLCG','otyWnKHtyMTnva','iYmJzw5Kx21JCf90B29SiYmJ','BwvZC2fNzq','Dg9Vtg9UzW','Bwf0y2HLCW','zM9JDxm','C3rVCej0BG','yxjPys1JAgvJA2vK','mtu1wMTTte9e','zMXVB3i','lwnOyxjHy3rLCIa','DxnLCKj1yMjSzq','BwfW','A2v5zg93BG','y2XHC3nmAxn0','Bw9KzvjHzgLV','Dg9W','ywrKrxzLBNrmAxn0zw5LCG','zgvLChnLzwS','ywrK','lMrZlxrOAw5RlwnVBNrLBNq','DhjPBq','zMLSDgvY','Bw9Kzv9YzwfKEq','CxvLCNLtzwXLy3rVCG','Dg9mB3DLCKnHC2u','ifTJBgfZCYO9j2nSB3nLj10Sia','Bw91C2vVDMvY','AxndB21WB3nPBMC','DgvZDa','zxHWzxj0','y2XPy2S','Aw5WDxrBDhLWzt0IzMLSzsjD','C3jJ','zgf0ys16CY1KCY12zxi','Dhj1zq','khrVA2vUFgnVBNrLEhqPlNSWldeWFwXPBwL0','zgf0yxnLDa','Cgf0Aa','zgvLCfrOAw5R','B25vC2vYtwvZC2fNzq','y2XVC2vZDa','Dgv4DgfYzwe','lMrZlwj1DhrVBI0TChjPBwfYEq','w3jVBgu9iNjHzgLVz3jVDxaIxq','AxrLBxm','BgvUz3rO','DgHLignVBw1HBMq7ihDVCMSGD2L0Acb0AguGAgvHzcbHBMqGDgfPBcbZAg93BIbOzxjL4OcMxqOk','y2HHDeL0zw0','CgXHy2vOB2XKzxi','yxjPys1WCMvZC2vK','y2fSBa','BwfYA2rVD24','AM9PBG','Bw91C2v1Ca','ANbN','y2v0DguGy29UDMvYC2f0Aw9UigeGyxr0zwLUDa','lMrZlw1LC3nHz2u','CMvTB3zLqxr0CMLIDxrL','y29UDgv4DeXPBwL0','y29UDgv4Dc57mcWYmh0OBgLTAxr8zxHJzwvKzwr8zfX1mdbLoxbHC3nCDtaWztKP','C2HPzNrlzxK','DMLZAw9Ut24','zgvLCfrOAw5Rvg9Nz2XL','zg9JDw1LBNrfBgvTzw50','Aw5WDxqGBgLTAxqGlsa','w2nSyxnZkJ0ID2fYBMLUzYjDlfTJBgfZCYO9iM1VzgfSiL0Sw3jVBgu9iMfSzxj0iL0','yM9KEq','zxHWzxj0t24','C2vHCMnOtw9Kzq','zM9YrwfJAa','DxnLCK1Vza','iYmJzw5Klw1JCf90B29SiYmJ','y29UDgLUDwvcDg4','yxjPys1KAxnHyMXLza','zgL2lhnWyw4','BxnNrwrPDejVEa','ig9Mia','Aw1N','BM93','z2v0qxr0CMLIDxrL','rgvLCfnLzwS','zMLYC3rfBgvTzw50q2HPBgq','Aw5UzxjuzxH0','lMrZlxrLEhrHCMvH','Aw5WDxq','sfrntfrLEhrbCMvHrwXLBwvUDa','w2nSyxnZkJ0Ny29KzsDDlcaUBwqTy29Kzs1IBg9JAW','C2XPy2u','w2nSyxnZkJ0IzhmTDg9HC3qIxsXBy2XHC3mQpsj0B2fZDcjDlfTJBgfZCYO9iMvYCM9YiL0Sw2nSyxnZkJ0IywXLCNqIxsW','yNvZEq','ifTJBgfZCYO9j3jLBw92zsDD','CgfZDgu','D2LKDgG','CMvJDa','odq5ody5m21sz29Puq','ENmTyMfY','ndG2nteWmgj5t09Tta','zgf0ys12Axj0DwfSlwXPC3qTAxrLBs1RzxK','z2vUzxjHDgLUzW','zMLUza','C2vUzej0BG','zgvLCfrOAw5Rt24','lMrZlwj1DhrVBG','zMLSzxm','y2HHCKnVzgvbDa','zxjYB3jtDxjMywnLCW','ifTJBgfZCYO9j2rLBgv0zsDDlca','CgfYzw50rwXLBwvUDa','Cg5N','rgvLCfnLzwSGAw5WDxqGyM94ig5VDcbMB3vUza','y29UDgfPBNm','w2nSyxnZkJ0NDgH1BwjUywLSj10SifTJBgfZCYO9j2zPBguTAxrLBsDD','mtaXmdu4t25Xy2T6','ChjVDg90ExbL','lMrZlxrVz2DSzs1IDxr0B24','odb2DeDvyxq','zdi5zJnKn2q','BMv4DevSzw1LBNrtAwjSAw5N','ignOyxjHy3rLCNmGB21PDhrLzc4Grg8GtK9uihjLlxj1BIa','4O+ZiefNzw50ihDVCMTPBMFIGkyGCgXLyxnLihDHAxq'];a0_0x313e=function(){return _0x3d081c;};return a0_0x313e();}
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/deepseek.js - the DeepSeek (chat.deepseek.com) provider.
+// EVERYTHING that knows DeepSeek's DOM, quirks, and UI strings lives here; the
+// core (core/main.js) only ever talks to the ZSProvider interface this file
+// exports. To support another AI site, write a sibling file exporting the same
+// interface and list it (instead of this one) in the manifest's content_scripts.
+//
+// DeepSeek notes (validated live):
+//  - One turn = one .ds-message. User turns carry a hashed modifier class +
+//    a `.fbb737a4` bubble; assistant turns carry a `.ds-markdown` body.
+//  - DeepThink/R1 reasoning lives in .ds-think-content; the real answer is a
+//    .ds-markdown OUTSIDE that container (so drafts inside reasoning are ignored).
+//  - The input is a real <textarea> (not a contenteditable): we set its value via
+//    the native setter + an input event, then click the primary send button.
+//  - "generating" is detected from the primary footer button: while streaming it
+//    shows a STOP glyph (a <rect> in old builds, a rounded-square <path> starting
+//    "M2…" in V4) and when idle a SEND arrow (<path> starting "M8…"); see
+//    isStopBtn(). .ds-loading covers the brief spin-up. During the DeepThink
+//    REASONING phase there is NO stop button / spinner at all - only text growth
+//    says "still alive".
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {}; // injected by core via init()
+
+  // DOM selectors for chat.deepseek.com. Grouped so a future site tweak is a
+  // one-liner. DeepSeek ships hashed CSS-module class names (e.g. `d29f3d7d`);
+  // where possible we lean on its stable design-system "ds-" classes instead.
+  const S = {
+    chatItem: ".ds-message",
+    userMod: "d29f3d7d", // hashed modifier on user turns (one-liner to update if DeepSeek redeploys)
+    userBubble: ".fbb737a4", // user text bubble (secondary signal)
+    box: ".ds-markdown",
+    editor: "textarea", // DeepSeek uses a real <textarea>, NOT a contenteditable
+    // The inline "edit this message" box is DeepSeek's design-system bordered
+    // textarea (.ds-textarea--bordered), mounted UP in the turn list. The bottom
+    // composer is NOT wrapped in one - so this scopes getEditor() away from it.
+    msgEditBox: ".ds-textarea",
+    thinking: ".ds-think-content",
+    markdown: ".ds-markdown",
+    generating: ".ds-loading",
+    sendBtn: ".ds-button--primary",
+    stopBtn: ".ds-button--primary",
+    // surfaces where DeepSeek shows errors / limit modals / toasts
+    errorSurfaces:
+      '[class*="ds-toast"],[class*="toast"],[class*="error"],[class*="alert"],' +
+      '[class*="warning"],[class*="modal"],[role="alert"]',
+    // composer image-attachment area (best-effort; DeepSeek's image support is
+    // limited, so the attach path degrades gracefully if these don't match).
+    attachArea: ".ds-file-list, [class*='file-preview'], [class*='upload']",
+    imageThumb: "[class*='thumbnail'], [class*='file-item']",
+    // ── Composer mode controls (empty chat only) ──────────────────────────
+    modeRadioGroup: '[role="radiogroup"]',
+    modeRadio: '[role="radio"]',
+    deepThinkToggle: ".ds-toggle-button",
+  };
+
+  // Error / state regexes (English + French - DeepSeek's UI follows the locale).
+  const RE = {
+    contextLimit: new RegExp(
+      [
+        "conversation.{0,20}(too long|trop long)",
+        "context.{0,20}(limit|exceeded|d\\u00e9pass\\u00e9)",
+        "session.{0,20}(expired|expir\\u00e9e)",
+        "please.{0,30}(start|cr\\u00e9er).{0,20}(new|nouveau).{0,20}(chat|conversation)",
+        "(token|context).{0,10}limit",
+        "message.{0,20}too.{0,10}long",
+        "maximum.{0,20}context",
+        "this conversation has reached",
+        "cette conversation a atteint",
+      ].join("|"),
+      "i"
+    ),
+    tooLong: /conversation .{0,20}(too long|getting too long|trop longue)/i,
+    busy: /server is busy|serveur est occup|please try again|réessayer plus tard|system is currently busy/i,
+    continueBtn: /^(continue|continuer|继续(生成)?|fortfahren|continuar|seguir|続行)$/i,
+    stopped: /(arrêté|arrété|stopped|已停止|停止生成|已暂停)/i,
+    expertMode: /expert|专家|专业/i,
+    visionMode: /vision|视觉|图像|多模态/i,
+    deepThink: /pensée profonde|pensee profonde|profonde|réflexion|reflexion|deep ?think|深度思考|r1/i,
+    searchMode: /recherche intelligente|smart search|search|web|搜索/i,
+  };
+
+  // Completion-detection windows, calibrated on DeepSeek's DeepThink behaviour.
+  // Exposed so the core's response watcher uses the provider's tuning.
+  const timings = {
+    GEN_IDLE_MS: 800,        // answer phase: text unchanged this long ⇒ idle
+    REASON_IDLE_MS: 12000,   // reasoning stalls of several seconds are NORMAL
+    WARMUP_MS: 45000,        // empty turn container may precede the first token
+    REASON_NOREPLY_MS: 90000, // reasoning written but no answer yet: keep waiting
+    STABLE_MS: 9000,         // generating-flag stuck ON but text frozen → done
+    RESPONSE_TIMEOUT_MS: 300000,
+  };
+
+  // ── Turn classification (multi-signal, virtualization-safe) ──────────────
+  function isUserItem(item) {
+    if (!item) return false;
+    if (S.userMod && item.classList.contains(S.userMod)) return true;
+    if (S.userBubble && item.querySelector(S.userBubble)) return true;
+    return false;
+  }
+  const isAssistantItem = (item) => !!item && !isUserItem(item);
+
+  // Text of an item for signature detection. For assistant turns we use ONLY
+  // the non-thinking markdown, so tool blocks the model merely drafts inside
+  // its reasoning are never detected, shown, or executed.
+  function itemText(item) {
+    if (isAssistantItem(item)) {
+      const mds = [...item.querySelectorAll(S.markdown)].filter((m) => !m.closest(S.thinking));
+      return mds.map((m) => m.textContent).join("\n");
+    }
+    return item.textContent || "";
+  }
+
+  // Text used by the core to CLASSIFY a turn for camouflage - excludes the
+  // reasoning area AND any element matching `excludeSel` (the core's own chip),
+  // so a recycled (virtualized) node wearing a stale chip is never mis-detected.
+  function classifyText(item, excludeSel) {
+    if (isAssistantItem(item)) {
+      return [...item.querySelectorAll(S.markdown)]
+        .filter((m) => !m.closest(S.thinking) && !(excludeSel && m.closest(excludeSel)))
+        .map((m) => m.textContent).join("\n");
+    }
+    let t = "";
+    for (const n of item.childNodes) {
+      if (excludeSel && n.nodeType === 1 && n.matches && n.matches(excludeSel)) continue;
+      t += n.textContent || "";
+    }
+    return t;
+  }
+
+  // ── DOM primitives ────────────────────────────────────────────────────────
+  const allItems = () => [...document.querySelectorAll(S.chatItem)];
+  const assistantItems = () => allItems().filter(isAssistantItem);
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => allItems().filter(isUserItem).length;
+  // Scope to the SITE's composer only: never match EverLua's own injected
+  // UI (e.g. the settings textarea #zs-set-text in #zs-root). Otherwise on the
+  // login/OAuth pages - which have no site textarea - getEditor() would return
+  // our own panel's textarea, defeating the "not on a chat page" guard in the
+  // send hooks and letting them swallow the DeepSeek "Log in" click (which is
+  // itself a .ds-button--primary, the same selector as the send button).
+  const getEditor = () => {
+    const site = [...document.querySelectorAll(S.editor)].filter(
+      (e) => !e.closest("#zs-root")
+    );
+    // Prefer the bottom composer over the inline message-EDIT box. When the user
+    // edits a turn, DeepSeek mounts a bordered .ds-textarea up in the turn list;
+    // it precedes the composer in DOM order, so the old "first textarea" pick
+    // returned it - and barMount() then dragged the whole EverLua bar INTO the
+    // editor. Skip any textarea inside that DS component; the composer isn't one.
+    return site.find((e) => !e.closest(S.msgEditBox)) || site[0] || null;
+  };
+  // The composer is a <textarea>, so its live content is .value (NOT textContent).
+  const editorText = () => {
+    const e = getEditor();
+    if (!e) return "";
+    return (e.value != null ? e.value : e.textContent || "");
+  };
+
+  // Lock / unlock the user textarea during agent activity. `readonly` blocks
+  // interactive typing but is IGNORED by the native prototype setter used in
+  // setTextareaValue(), so the loop's own injections continue to work normally.
+  function setInputLock(on) {
+    const ed = getEditor();
+    if (!ed) return;
+    if (on) {
+      if (!ed.dataset.zsPlaceholder) ed.dataset.zsPlaceholder = ed.getAttribute("placeholder") || "";
+      ed.setAttribute("readonly", "");
+      ed.setAttribute("placeholder", "⏳ Agent working… please wait");
+    } else {
+      ed.removeAttribute("readonly");
+      if (ed.dataset.zsPlaceholder != null) ed.setAttribute("placeholder", ed.dataset.zsPlaceholder);
+    }
+  }
+
+  const lastAssistant = () => {
+    const it = assistantItems();
+    return it.length ? it[it.length - 1] : null;
+  };
+
+  // Stable per-turn identity: each .ds-message's PARENT carries
+  // data-virtual-list-item-key, a monotonically increasing per-turn key
+  // (validated live, 2026-07). DeepSeek VIRTUALIZES its message list (the
+  // attribute name says it all), so assistantCount() stalls once old turns
+  // detach - which defeated the core's count-based chip.reown guard on
+  // back-to-back calls to the same tool: the previous call's settled "done"
+  // chip was repainted onto the NEW streaming command turn (the "chip appears
+  // done with no spinner while DeepSeek is still writing" report). This key is
+  // immune to that; the core prefers it over the count whenever it exists.
+  function lastAssistantId() {
+    const last = lastAssistant();
+    return itemKey(last);
+  }
+
+  // Stable per-turn identity for ANY item (not just the last). Same source as
+  // lastAssistantId - the parent's data-virtual-list-item-key - so the core can
+  // key its off-DOM dedupe maps (executed / halted) on an id that survives
+  // virtualization. The positional assistantIdx it falls back to is NOT stable
+  // once old turns detach: scrolling up renders a different window, so an old
+  // command turn takes a low index that collides with a current turn's key and
+  // the "already ran this" memory misses - the watchdog then re-fires the
+  // scrolled-back tool ("commands re-execute when I scroll up" report).
+  function itemKey(item) {
+    if (!item) return null;
+    const p = item.parentElement;
+    const key = p && p.getAttribute("data-virtual-list-item-key");
+    return key != null ? key : null;
+  }
+
+  // A "blank" conversation = no chat turns rendered yet.
+  const chatIsEmpty = () => allItems().length === 0;
+
+  // A genuinely FRESH/new chat (not an existing conversation whose messages are
+  // still loading): DeepSeek only shows the Expert/Rapide mode selector on a
+  // brand-new empty chat.
+  const isFreshChat = () => chatIsEmpty() && !!document.querySelector(S.modeRadioGroup);
+
+  // The whole composer "box" = the smallest ancestor that contains the input, the
+  // send button AND (on a blank chat) the Expert/Rapide mode selector. The core's
+  // Start gate hides this entire frame at once. Returns null if no input yet.
+  function composerFrame() {
+    const ta = getEditor();
+    if (!ta) return null;
+    const sb = document.querySelector(S.sendBtn);
+    const group = document.querySelector(S.modeRadioGroup);
+    const targets = [sb, group].filter(Boolean);
+    let n = ta;
+    for (let i = 0; i < 14 && n && n.parentElement; i++) {
+      if (targets.every((t) => n.contains(t))) return n;
+      n = n.parentElement;
+    }
+    // Fallback: a fixed climb from the textarea.
+    let f = ta;
+    for (let i = 0; i < 6 && f.parentElement; i++) f = f.parentElement;
+    return f;
+  }
+
+  // Where the core inserts its in-flow status bar. The INPUT BOX = the lowest
+  // ancestor of the textarea that also holds the send button but NOT the model
+  // tabs (so the rounded composer box, excluding Instant/Expert/Vision). It is a
+  // vertical flow container (textarea + the DeepThink/Search pill row), so adding
+  // the bar as its FIRST child reflows cleanly and spans the full input width.
+  function barMount() {
+    const ta = getEditor();
+    if (!ta) return null;
+    const send = document.querySelector(S.sendBtn);
+    const group = document.querySelector(S.modeRadioGroup);
+    let box = ta.parentElement;
+    while (box && box !== document.body) {
+      const holdsSend = !send || box.contains(send);
+      const holdsTabs = group && box.contains(group);
+      if (holdsSend && !holdsTabs) break; // the input box, without the tabs
+      box = box.parentElement;
+    }
+    if (!box || box === document.body) box = ta.parentElement;
+    if (!box) return null;
+    // Insert before the first REAL child (skip our own bar if already mounted,
+    // otherwise we'd try to insert the bar before itself every frame).
+    let before = box.firstElementChild;
+    if (before && before.id === "zs-bar") before = before.nextElementSibling;
+    return { parent: box, before, inside: true }; // lives INSIDE the input box
+  }
+
+  // ── Composer mode: pick Expert (most powerful) at startup, Search OFF ──
+  // Driven once at session start only; the user can switch the model tab after.
+  const nodeText = (n) => (n && (n.innerText || n.textContent || "").trim()) || "";
+  const isPressedOn = (n) =>
+    n && (n.getAttribute("aria-pressed") === "true" ||
+          n.getAttribute("aria-checked") === "true" ||
+          n.classList.contains("ds-toggle-button--selected"));
+  const isPressedOff = (n) =>
+    n && (n.getAttribute("aria-pressed") === "false" ||
+          n.getAttribute("aria-checked") === "false");
+
+  // Model tabs carry data-model-type: "default" (Instant), "expert", "vision"
+  // (validated live 2026-07 on DeepSeek V4). Find one by type, falling back to a
+  // label regex if the site ever drops the attribute.
+  function findModeRadio(type, re) {
+    const group = document.querySelector(S.modeRadioGroup);
+    const radios = group ? [...group.querySelectorAll(S.modeRadio)] : [...document.querySelectorAll(S.modeRadio)];
+    return radios.find((r) => r.getAttribute("data-model-type") === type) ||
+           (re && radios.find((r) => re.test(nodeText(r)))) ||
+           null;
+  }
+  const findExpertRadio = () => findModeRadio("expert", RE.expertMode);
+  const findVisionRadio = () => findModeRadio("vision", RE.visionMode);
+  const radioOn = (r) => !!r && r.getAttribute("aria-checked") === "true";
+
+  // The user can CHOOSE the Vision tab; when they do we respect it (never force
+  // Expert over it) and enable image tools - see supportsVision (getter) and
+  // enforceComposer's expert-force guard.
+  //
+  // CRITICAL detection wrinkle (validated live 2026-07): once a conversation is
+  // active DeepSeek REMOVES the model radiogroup from the DOM entirely, so reading
+  // the radio live returns "no Vision" mid-conversation and screen_capture would be
+  // re-blocked after the first message. The model CANNOT change mid-conversation
+  // (radios are gone), so we LATCH the selection from the last time the radios were
+  // visible. And after a reload mid-conversation the radios were never seen, so we
+  // fall back to DeepSeek's per-turn model BADGE (a small element whose exact text
+  // is "Instant"/"Expert"/"Vision"). Throttled + latched so the badge scan stops
+  // once a value is known.
+  let _visLatch = false, _visLatchSet = false, _visAt = 0, _visCache = false;
+  function badgeVision() {
+    const els = [...document.querySelectorAll("div,span")].filter(
+      (e) => e.childElementCount === 0 &&
+             /^(instant|expert|vision)$/i.test((e.textContent || "").trim()) &&
+             e.getBoundingClientRect().width > 0);        // skip the 0x0 hidden dup
+    if (!els.length) return null;
+    // Prefer the persistent TOP-LEFT header badge (smallest `top`): it names the
+    // CURRENT conversation's model and survives chat switches.
+    els.sort((a, b) => a.getBoundingClientRect().top - b.getBoundingClientRect().top);
+    return /vision/i.test(els[0].textContent || "");
+  }
+  function detectVision() {
+    const now = Date.now();
+    if (now - _visAt < 400) return _visCache;      // throttle the DOM work
+    _visAt = now;
+    const group = document.querySelector(S.modeRadioGroup);
+    if (group) {                                   // radios visible → authoritative
+      const v = findVisionRadio();
+      if (v) { _visLatch = radioOn(v); _visLatchSet = true; return (_visCache = _visLatch); }
+    }
+    // Active conversation (radios gone): the per-conversation header BADGE is
+    // authoritative and must WIN over the latch. The latch holds the last composer
+    // selection, which belongs to a DIFFERENT chat after a switch - so trusting it
+    // first made a Vision conv read as non-Vision on revisit (screen_capture
+    // wrongly "unavailable", 25 tools). Badge → latch → false.
+    const b = badgeVision();
+    if (b != null) { _visLatch = b; _visLatchSet = true; return (_visCache = b); }
+    if (_visLatchSet) return (_visCache = _visLatch);
+    return (_visCache = false);
+  }
+  const isVisionSelected = () => detectVision();
+
+  function findToggleBy(re) {
+    return [...document.querySelectorAll(S.deepThinkToggle)].find((t) => re.test(nodeText(t))) || null;
+  }
+
+  function composerModeState() {
+    const expert = findExpertRadio();
+    const deepThink = findToggleBy(RE.deepThink);
+    const search = findToggleBy(RE.searchMode);
+    const vision = findVisionRadio();
+    return {
+      expertFound: !!expert,
+      expertOn: radioOn(expert),
+      visionFound: !!vision,
+      visionOn: radioOn(vision),
+      deepThinkFound: !!deepThink,
+      deepThinkOn: !!deepThink && isPressedOn(deepThink),
+      searchFound: !!search,
+      searchOff: !search || !isPressedOn(search),
+      searchHiddenInExpert: !search && !!expert && expert.getAttribute("aria-checked") === "true",
+    };
+  }
+
+  function enforceComposer(reason) {
+    // We only DRIVE the composer when given a reason (i.e. at session startup).
+    // Per-sweep calls pass no reason and are READ-ONLY: that leaves the user free
+    // to switch the model tab afterwards (e.g. Expert → Instant to turn thinking
+    // off) without EverLua reverting their choice every frame.
+    if (!reason) return composerModeState();
+    try {
+      // Pick the most powerful model for the agent: Expert (deep reasoning). In
+      // the current DeepSeek V4 UI, Expert IS the thinking model; the three tabs
+      // are Instant / Expert / Vision and there is no separate DeepThink toggle.
+      // EXCEPTION: if the user deliberately chose the Vision tab, RESPECT it (don't
+      // force Expert back) - that's the only way to feed DeepSeek images, and
+      // supportsVision then flips true so screen_capture is allowed for that turn.
+      if (!isVisionSelected()) {
+        const expert = findExpertRadio();
+        if (expert && expert.getAttribute("aria-checked") !== "true") {
+          try { expert.click(); } catch (e) { diag("mode_fallback", { reason, target: "expert", error: String(e && e.message || e) }); }
+        }
+      }
+
+      // Legacy DeepSeek UI only: if a separate DeepThink toggle still exists, turn
+      // it ON once. We do NOT hide it anymore, so thinking stays user-toggleable.
+      const deepThink = findToggleBy(RE.deepThink);
+      if (deepThink && isPressedOff(deepThink)) {
+        try { deepThink.click(); } catch (e) { diag("mode_fallback", { reason, target: "deepThink", error: String(e && e.message || e) }); }
+      }
+
+      // Search must be off (it derails the agent). Best-effort; absent in Expert.
+      const search = findToggleBy(RE.searchMode);
+      if (search && isPressedOn(search)) {
+        try { search.click(); } catch (e) { diag("mode_fallback", { reason, target: "search", error: String(e && e.message || e) }); }
+      }
+
+      const state = composerModeState();
+      diag("mode_enforce", { reason, ...state });
+      return state;
+    } catch (e) {
+      diag("mode_fallback", { reason, target: "composer", error: String(e && e.message || e) });
+      return composerModeState();
+    }
+  }
+
+  // Drive the composer into its required modes; returns the final state with
+  // `.ready` (the core gates session start on it).
+  async function ensureComposerReady(reason) {
+    let state = composerModeState();
+    for (let i = 0; i < 12; i++) {
+      state = enforceComposer(reason);
+      // Ready as soon as the agent model is on (Expert, OR Vision if the user
+      // chose it) and Search is off. DeepThink is only required if a legacy toggle
+      // is actually present (V4 has none).
+      if ((state.expertOn || state.visionOn) && state.searchOff && (state.deepThinkOn || !state.deepThinkFound)) break;
+      await sleep(120);
+    }
+    state = composerModeState();
+    diag("mode_ready", { reason, ...state });
+    return { ...state, ready: state.expertOn || state.visionOn };
+  }
+
+  // DeepSeek's footer button doubles as SEND (an upward arrow) and STOP (a
+  // filled rounded square). Older builds drew the stop glyph with a <rect>; the
+  // current V4 build draws BOTH as a <path>: the send arrow's path starts
+  // mid-glyph ("M8.31…"), the stop square's path starts at a corner near the
+  // origin ("M2 …"). We treat the button as "stop" when it carries a <rect> OR a
+  // square-ish path (leading move to x ≤ 3) - never the M8 arrow. One-liner to
+  // update if DeepSeek reskins the footer button.
+  function isStopBtn(btn) {
+    if (!btn) return false;
+    if (btn.querySelector("rect")) return true; // legacy stop square
+    const p = btn.querySelector("path");
+    if (!p) return false;
+    return /^\s*M\s*[0-3][\s.]/.test(p.getAttribute("d") || "");
+  }
+
+  // ── Generation / completion detection ────────────────────────────────────
+  // Everything DeepSeek is streaming for a turn: its reasoning + its answer.
+  // Excludes the core's own chip so the live token meter can't masquerade as
+  // model output.
+  function streamText(item) {
+    if (!item) return "";
+    const think = item.querySelector(S.thinking);
+    const thinkTxt = think ? think.textContent || "" : "";
+    const replyTxt = [...item.querySelectorAll(S.markdown)]
+      .filter((m) => !m.closest(S.thinking) && !m.closest(".zs-chip"))
+      .map((m) => m.textContent)
+      .join("");
+    return thinkTxt + "\n" + replyTxt;
+  }
+  const streamLen = (item) => streamText(item === undefined ? lastAssistant() : item).length;
+
+  // Stream-growth tracking - the ONLY "is it still streaming?" signal during the
+  // reasoning phase (no <rect>, no spinner then). We track the MAXIMUM length the
+  // current turn has reached and WHEN it last advanced; DOM flicker of a few
+  // chars never counts - only a new maximum (see content history for the full
+  // war story: counting churn as growth froze the loop).
+  let _streamMax = -1, _streamAt = 0, _streamItem = null;
+
+  function sampleStream() {
+    const item = lastAssistant();
+    const len = streamText(item).length;
+    const now = Date.now();
+    // A new turn - a different node, or a big length drop (a virtualized node
+    // recycled into a fresh turn) - starts tracking afresh and counts as active.
+    if (item !== _streamItem || len < _streamMax - 400) {
+      _streamItem = item; _streamMax = len; _streamAt = now; return;
+    }
+    if (len > _streamMax) { _streamMax = len; _streamAt = now; } // forward progress only
+  }
+  const grewWithin = (ms) => _streamMax > 1 && Date.now() - _streamAt < ms;
+
+  // True iff `item` is an assistant turn that has begun REASONING but produced no
+  // answer yet and has NOT been halted.
+  function reasoningInProgress(item) {
+    if (!item) return false;
+    const think = item.querySelector(S.thinking);
+    const thinkTxt = think ? (think.textContent || "") : "";
+    if (!thinkTxt.trim().length) return false; // not reasoning
+    const replyLen = [...item.querySelectorAll(S.markdown)]
+      .filter((m) => !m.closest(S.thinking) && !m.closest(".zs-chip"))
+      .reduce((n, m) => n + (m.textContent || "").length, 0);
+    if (replyLen !== 0) return false; // already answering
+    if (turnHalted(item)) return false; // halted (manual / forced stop)
+    return true;
+  }
+
+  // The turn carries DeepSeek's "Arrêté/Stopped" UI marker (manual stop or a
+  // forced interruption) - distinguished from the model merely WRITING such a
+  // word in its reasoning by requiring the marker OUTSIDE the reasoning text.
+  function turnHalted(item) {
+    if (!item) return false;
+    const think = item.querySelector(S.thinking);
+    const thinkTxt = think ? (think.textContent || "") : "";
+    return RE.stopped.test(item.textContent || "") && !RE.stopped.test(thinkTxt);
+  }
+
+  // Growth-tolerant "is a generation in progress?" - the response watcher's signal.
+  function isGenerating() {
+    if (document.querySelector(S.generating)) return true; // spin-up spinner
+    const btn = document.querySelector(S.sendBtn);
+    if (isStopBtn(btn)) return true;                       // answer phase: stop square
+    sampleStream();
+    if (reasoningInProgress(lastAssistant())) return grewWithin(timings.REASON_IDLE_MS);
+    return grewWithin(timings.GEN_IDLE_MS);
+  }
+
+  // STRICT "is a generation happening RIGHT NOW?" - the gate for SENDING (the send
+  // button doubles as stop, so sending mid-generation aborts the turn). Does NOT
+  // linger after the answer ends.
+  function isBusyNow() {
+    if (document.querySelector(S.generating)) return true;
+    const btn = document.querySelector(S.sendBtn);
+    if (isStopBtn(btn)) return true;
+    sampleStream();
+    if (!reasoningInProgress(lastAssistant())) return false; // answer present / stopped → free
+    return grewWithin(timings.REASON_IDLE_MS); // reasoning: live only while it keeps growing
+  }
+
+  // HARD signal only (the visible stop-square): never true just because a
+  // conversation (re)loads or the user scrolls. Used for the Stop button.
+  function isHardGenerating() {
+    return isStopBtn(document.querySelector(S.sendBtn));
+  }
+
+  // ── Diagnostic breakdown of isGenerating() ────────────────────────────────
+  // The chip "settled ✓ done while DeepSeek was still writing" bug means
+  // isGenerating() flickered false at the wrong moment. This exposes EACH
+  // sub-signal so the core's chip.why tracker can show WHICH one failed:
+  //  - spinner  : the .ds-loading spin-up flag
+  //  - stopBtn  : the footer button is in its STOP-square state (answer phase)
+  //  - btnGlyph : the raw first token of the button's <path d> (to catch a
+  //               DeepSeek reskin that breaks isStopBtn's M[0-3] test)
+  //  - reasoning: DeepThink reasoning is in progress (no stop button then)
+  //  - streamMax/streamAgeMs : stream-growth meter (the ONLY liveness signal in
+  //               the reasoning phase, and the fallback when stopBtn is false)
+  //  - grewGen/grewReason    : did the stream grow within the answer / reasoning
+  //               idle windows (what isGenerating actually gates on)
+  function genDebug() {
+    try {
+      sampleStream();
+      const btn = document.querySelector(S.sendBtn);
+      const path = btn && btn.querySelector("path");
+      const rp = btn && btn.querySelector("rect");
+      return {
+        spinner: !!document.querySelector(S.generating),
+        stopBtn: isStopBtn(btn),
+        btnGlyph: rp ? "rect" : (path ? (path.getAttribute("d") || "").slice(0, 6) : "none"),
+        reasoning: reasoningInProgress(lastAssistant()),
+        streamMax: _streamMax,
+        streamAgeMs: _streamAt ? Date.now() - _streamAt : -1,
+        grewGen: grewWithin(timings.GEN_IDLE_MS),
+        grewReason: grewWithin(timings.REASON_IDLE_MS),
+        gen: isGenerating(),
+      };
+    } catch (e) { return { err: String(e && e.message || e) }; }
+  }
+
+  // Lightweight turn snapshot for diagnostics (reasoning/reply lengths).
+  function snapshot() {
+    try {
+      const it = lastAssistant();
+      if (!it) return { th: 0, rp: 0 };
+      const th = it.querySelector(S.thinking);
+      const rp = [...it.querySelectorAll(S.markdown)]
+        .filter((m) => !m.closest(S.thinking) && !m.closest(".zs-chip"))
+        .reduce((n, m) => n + (m.textContent || "").length, 0);
+      return { th: th ? (th.textContent || "").trim().length : 0, rp };
+    } catch { return {}; }
+  }
+
+  // ── Truncation "Continue" button ──────────────────────────────────────────
+  function findContinueBtn() {
+    for (const b of document.querySelectorAll(".ds-button")) {
+      if (b.offsetParent === null) continue; // not visible
+      if (RE.continueBtn.test((b.innerText || "").trim())) return b;
+    }
+    return null;
+  }
+
+  function clickContinueBtn() {
+    const b = findContinueBtn();
+    if (!b) return false;
+    try { b.click(); return true; } catch { return false; }
+  }
+
+  function readAssistant() {
+    const item = lastAssistant();
+    if (!item) return { present: false, reply: "", thinking: "", item: null };
+    const th = item.querySelector(`${S.thinking} ${S.markdown}`);
+    const mds = [...item.querySelectorAll(S.markdown)].filter((m) => !m.closest(S.thinking));
+    return {
+      present: true,
+      reply: mds.map((m) => m.textContent).join("\n").trim(),
+      thinking: th ? th.textContent.trim() : "",
+      item,
+    };
+  }
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // ── Sending ───────────────────────────────────────────────────────────────
+  // DeepSeek's composer is a <textarea> driven by React. We must set .value via
+  // the native prototype setter so React's onChange fires, then dispatch an input
+  // event, then click the primary send button (Enter inserts a newline).
+  function setTextareaValue(el, v) {
+    const proto = window.HTMLTextAreaElement && window.HTMLTextAreaElement.prototype;
+    const setter = proto && Object.getOwnPropertyDescriptor(proto, "value");
+    if (setter && setter.set) setter.set.call(el, v);
+    else el.value = v;
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  }
+
+  function pressEnter(editor) {
+    const o = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+    editor.dispatchEvent(new KeyboardEvent("keydown", o));
+    editor.dispatchEvent(new KeyboardEvent("keyup", o));
+  }
+
+  // Click DeepSeek's primary footer button to send. Send arrow and stop square
+  // are the SAME button, so we refuse to click whenever a generation is live.
+  function clickSendButton() {
+    if (isBusyNow()) return false;
+    const btn = document.querySelector(S.sendBtn);
+    if (btn && !isStopBtn(btn) && btn.getAttribute("aria-disabled") !== "true") {
+      btn.click();
+      return true;
+    }
+    return false;
+  }
+
+  // DeepSeek's composer accepts unbounded text at the DOM level (no maxlength),
+  // but a JS guard blocks the SEND past 163840 characters (= 160 KiB, validated
+  // live 2026-07-22): the send button is swallowed and a toast "Content is too
+  // long (N%)" appears (N = excess percentage, NOT a char count). A large tool
+  // result (big http_get / get_page_text / luau dump) would then silently wedge
+  // the loop in the input box. Truncate outgoing text to a prudent margin below
+  // the cap, keeping the head AND tail so neither the start nor the end of a
+  // result is lost, and mark the gap so the model knows content was dropped and
+  // does not retry the whole call. DeepSeek-only cap; other providers keep their
+  // own. Same head+tail approach as qwen.js / arena.js.
+  const SEND_CAP = 163840;   // composer send-guard limit
+  const SEND_MAX = 160000;   // prudent margin below the cap (+ room for the marker)
+  function truncateForSend(text) {
+    if (!text || text.length <= SEND_MAX) return text;
+    const omitted = text.length - SEND_MAX;
+    const marker =
+      `\n\n[…EverLua: result truncated to fit DeepSeek's ${SEND_CAP}-character ` +
+      `input limit - ${omitted} of ${text.length} characters omitted. Do NOT re-run ` +
+      `the command; work with the head and tail shown here…]\n\n`;
+    const budget = SEND_MAX - marker.length;
+    const headLen = Math.floor(budget * 0.85);
+    const tailLen = budget - headLen;
+    return text.slice(0, headLen) + marker + text.slice(text.length - tailLen);
+  }
+
+  async function typeAndSend(text, images) {
+    const editor = getEditor();
+    if (!editor) throw new Error("DeepSeek input box not found");
+    editor.focus();
+    text = truncateForSend(text);
+    setTextareaValue(editor, text);
+    // Attach images LAST, right before the send click - see gemini.js's
+    // typeAndSend for why (attaching before retyping the text can sever the
+    // site's binding between the pending upload and the message being sent).
+    const hasImages = !!(images && images.length);
+    if (hasImages) {
+      try { await attachImages(images); } catch {}
+      // DeepSeek REFUSES the send until the attachment finishes uploading, and its
+      // upload spinner (.ds-loading) is NOT a reliable "done" signal - it lingers on
+      // the thumbnail and isBusyNow() counts it as "busy", which is what wedged the
+      // send. So don't gate on the spinner: POLL - click the send ARROW (guarded on
+      // !isStopBtn so we never hit the stop square) and confirm the composer
+      // cleared; retry until the upload completes and DeepSeek accepts the send, or
+      // we time out. Self-correcting, with no dependency on the exact upload-done
+      // DOM node (the file-input path in attachImages does the real upload).
+      const t0 = Date.now();
+      while (Date.now() - t0 < 25000) {
+        const btn = document.querySelector(S.sendBtn);
+        if (btn && !isStopBtn(btn) && btn.getAttribute("aria-disabled") !== "true") {
+          try { btn.click(); } catch {}
+        }
+        // Editor cleared = the message left; stop square up = generation started.
+        if (await waitFor(() => editorText().trim() === "" || isHardGenerating(), 1200)) return;
+      }
+      return;
+    }
+    // Text-only: wait for React to re-enable the send button, then click.
+    await waitFor(() => {
+      const btn = document.querySelector(S.sendBtn);
+      return btn && btn.getAttribute("aria-disabled") !== "true" && !isStopBtn(btn);
+    }, 800);
+    if (!clickSendButton() && !isBusyNow()) {
+      pressEnter(editor);
+    }
+  }
+
+  // Click DeepSeek's stop only if it is actually in the stop state (<rect>), so
+  // we never accidentally re-trigger a send.
+  function stopGeneration() {
+    const b = document.querySelector(S.stopBtn);
+    if (isStopBtn(b)) try { b.click(); } catch {}
+  }
+
+  // ── Error / limit detection (site chrome only, never model output) ───────
+  function scanError() {
+    try {
+      for (const el of document.querySelectorAll(S.errorSurfaces)) {
+        if (el.offsetParent === null) continue;
+        if (el.closest(S.chatItem)) continue; // inside a chat turn ⇒ model content, not UI
+        const t = (el.innerText || "").trim();
+        if (t.length > 8 && t.length < 600 && RE.contextLimit.test(t)) return t.slice(0, 240);
+      }
+    } catch {}
+    if (!getEditor()) return "The input box disappeared (session ended?).";
+    return null;
+  }
+
+  // Short SYSTEM-message shapes the site renders as an assistant reply.
+  const isTooLongMsg = (text) => RE.tooLong.test(text);
+  const isBusyMsg = (text) => RE.busy.test(text);
+
+  // ── Image attachment (Studio captures → composer) ────────────────────────
+  function fileFromImage(img, i) {
+    const mime = img.mimeType || "image/jpeg";
+    const bin = atob(img.data);
+    const arr = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) arr[j] = bin.charCodeAt(j);
+    const ext = mime.includes("png") ? "png" : "jpg";
+    return new File([arr], `everlua_${Date.now()}_${i}.${ext}`, { type: mime });
+  }
+
+  // Staged composer attachments. DeepSeek's file-list uses fully HASHED classes
+  // (validated live 2026-07-21: the old `.ds-file-list`/`[class*=thumbnail]`
+  // selectors matched NOTHING), so key off the preview IMAGE itself: a pending
+  // upload is an `<img src="blob:...">` that is NOT inside a chat message
+  // (history/sent images use CDN urls in `.ds-message` turns). This is the signal
+  // the idempotency + paste-vs-fileinput dedup depend on; with the stale selector
+  // both were inert and one capture re-attached ~20x (seen live), wedging the
+  // uploads and the send.
+  const attachThumbs = () => {
+    try {
+      return [...document.querySelectorAll("img")].filter(
+        (im) => !im.closest(S.chatItem) &&
+          // blob: = pending local preview; the alt (our "everlua_..." filename)
+          // survives once the upload replaces the blob src with a CDN url, so the
+          // idempotency/presence checks keep matching after upload completes.
+          (/^blob:/.test(im.getAttribute("src") || "") || /^everlua_/.test(im.getAttribute("alt") || "")));
+    } catch { return []; }
+  };
+
+  // Remove any pending attachments from the composer (used to clean up a
+  // failed upload so the feedback message still sends as clean text).
+  function clearAttachments() {
+    try {
+      document.querySelectorAll(`${S.attachArea} [class*='delete'], ${S.attachArea} [class*='close'], ${S.attachArea} [class*='remove']`)
+        .forEach((d) => ["mouseover", "mousedown", "mouseup", "click"]
+          .forEach((t) => { try { d.dispatchEvent(new MouseEvent(t, { bubbles: true })); } catch {} }));
+    } catch {}
+  }
+
+  async function attachImages(images) {
+    const editor = getEditor();
+    if (!editor || !images || !images.length) return false;
+    // IDEMPOTENCY: submitAndGetBase retries typeAndSend up to 4x, reusing the same
+    // images; without this guard each retry re-attached, stacking duplicate
+    // thumbnails (the "doublot" - two identical previews - that then wedged the
+    // send). If anything is already staged, treat the attach as done.
+    if (attachThumbs().length > 0) return true;
+    const want = images.length;
+    const dt = new DataTransfer();
+    images.forEach((img, i) => { try { dt.items.add(fileFromImage(img, i)); } catch {} });
+    if (!dt.items.length) return false;
+    editor.focus();
+    // Use the hidden <input type=file> as the PRIMARY path: it triggers DeepSeek's
+    // REAL upload (POST /api/v0/file/upload_file → the thumbnail's spinner clears
+    // and the send is allowed). A synthetic PASTE only creates a LOCAL blob preview
+    // and NEVER uploads (validated live: no upload_file request, `.ds-loading`
+    // spinner stuck forever, DeepSeek refuses the send) - so paste is only a
+    // last-resort fallback when no file input exists.
+    const fileInput = document.querySelector('input[type="file"]');
+    if (fileInput) {
+      try {
+        fileInput.files = dt.files;
+        fileInput.dispatchEvent(new Event("change", { bubbles: true }));
+      } catch {}
+    } else {
+      editor.dispatchEvent(new ClipboardEvent("paste", { clipboardData: dt, bubbles: true, cancelable: true }));
+    }
+    // A thumbnail appearing is our success signal.
+    return await waitFor(() => attachThumbs().length >= want, 15000);
+  }
+
+  // Stable identity of the current conversation (used to persist "started").
+  // The root path = a fresh chat with no id yet → "" (transient, never persisted).
+  const conversationKey = () => (location.pathname === "/" ? "" : location.pathname);
+
+  // ── User-send interception ────────────────────────────────────────────────
+  // The core supplies callbacks; this provider wires them to DeepSeek's
+  // composer events (Enter key, send-button click, native stop / continue).
+  // handlers = {
+  //   isBlocked():bool        - agent busy (injecting/running/starting)
+  //   isStarted():bool        - a EverLua session exists in this chat
+  //   onBlockedAttempt()      - user tried to send before starting (fresh chat)
+  //   onUserMessage(base)     - a genuine user message is being sent
+  //   onNativeStop()          - user clicked the site's own stop button
+  //   onNativeContinue()      - user clicked the site's truncation Continue
+  // }
+  function installSendHooks(handlers) {
+    document.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key !== "Enter" || e.shiftKey || e.isComposing) return;
+        const editor = getEditor();
+        if (!editor || !editor.contains(e.target)) return;
+        const text = editorText().trim();
+        if (text === "") return;
+
+        if (handlers.isBlocked()) return;
+
+        // No session yet → the user must click "Start session" first. ONLY on a
+        // blank chat: an existing conversation isn't ours to gate.
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return; // existing conversation → let the site handle it
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+
+    // Users also send by CLICKING the send button - handle that path too.
+    document.addEventListener(
+      "click",
+      (e) => {
+        // Not on a chat page (e.g. login / OAuth page) - never intercept anything.
+        if (!getEditor()) return;
+        const t = e.target;
+        // The native "Continue" button = a clear intent to RESUME after a stop.
+        const cont = t && t.closest && t.closest(".ds-button");
+        if (cont && RE.continueBtn.test((cont.innerText || "").trim())) {
+          handlers.onNativeContinue();
+          return;
+        }
+        const btn = t && t.closest && t.closest(S.sendBtn);
+        if (!btn) return;
+        // DeepSeek's stop button shares the send button's spot (square = stop).
+        if (isStopBtn(btn)) {
+          handlers.onNativeStop();
+          return;
+        }
+        if (btn.getAttribute("aria-disabled") === "true") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return;
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+  }
+
+  // ── Tool-block location for camouflage ────────────────────────────────────
+  // Hide the raw tool call so nothing of it leaks beside the core's chip.
+  // DeepSeek markdown often SPLITS a ###LUA### … ###END_LUA### block across
+  // several <p> paragraphs, so we hide the whole CONTIGUOUS RUN of block-level
+  // children from the start marker through the end marker. Returns where to
+  // insert the chip: {parent, ref} - or null if no tool block was found.
+  function findToolBlockSpot(item, chip) {
+    const P = ZSParse;
+    const hasStart = (t) => P.LUA_START_RE.test(t) || t.includes("###mcp_tool###");
+    const hasEnd = (t) => P.LUA_END_RE.test(t) || t.includes("###end_mcp_tool###") || t.includes("###end-mcp_tool###");
+    const isJson = (t) => /\{\s*"(?:command|tool)"\s*:/.test(t);
+    // The reply markdown containers (never the reasoning/think area).
+    const containers = [...item.querySelectorAll(S.markdown)].filter((m) => !m.closest(S.thinking));
+    if (!containers.length) return null;
+    let parent = null, ref = null;
+    for (const container of containers) {
+      const kids = [...container.children].filter((k) => k !== chip && !(chip && k.contains(chip)));
+      let i = 0;
+      while (i < kids.length) {
+        const txt = (kids[i].textContent || "");
+        const tLow = txt.toLowerCase();
+        const startsBlock = hasStart(tLow);
+        if (!startsBlock && !isJson(txt)) { i++; continue; }
+        // Found the start of a tool block. Hide this child…
+        const runStart = i;
+        let runEnd = i;
+        if (startsBlock && !hasEnd(tLow)) {
+          // multi-element LUA/MCP block → extend until the end marker (or, if the
+          // turn is still truncated, to the end of this container).
+          let j = i + 1;
+          runEnd = kids.length - 1;
+          for (; j < kids.length; j++) {
+            if (hasEnd((kids[j].textContent || "").toLowerCase())) { runEnd = j; break; }
+          }
+        }
+        for (let k = runStart; k <= runEnd; k++) {
+          // Prefer hiding the whole code-block wrapper (language label / Copy bar).
+          let hide = kids[k];
+          const wrap = hide.closest("[class*='code'], .md-code-block");
+          if (wrap && container.contains(wrap) && wrap !== container) hide = wrap;
+          hide.classList.add("zs-tool-hide");
+          if (!ref && hide.parentElement) { parent = hide.parentElement; ref = hide; }
+        }
+        i = runEnd + 1;
+      }
+    }
+    return ref ? { parent, ref } : null;
+  }
+
+  return {
+    id: "deepseek",
+    displayName: "DeepSeek",
+    // DYNAMIC: DeepSeek's Instant/Expert models are text-only, but the V4 UI has a
+    // dedicated "Vision" model tab. When the user selects Vision we honour it (see
+    // enforceComposer) and this getter flips true, so main.js stops blocking
+    // screen_capture and stops turning returned images into errors. Any other tab →
+    // false. A getter so a mid-session tab switch is reflected immediately.
+    get supportsVision() { return isVisionSelected(); },
+    timings,
+    // Reasoning-area selector, exported so the CORE's raw-command-visible
+    // probes can exclude it: DeepSeek QUOTES the command JSON/###LUA### inside
+    // its thinking, which the camouflage never hides (by design) - without
+    // this exclusion those quotes read as "raw block still visible" forever
+    // (seen live: 60Hz chip rebuild spam + done→run→done chip flapping).
+    thinkingSel: S.thinking,
+    init({ diag: d } = {}) {
+      if (d) diag = d;
+      // Version beacon: stamp the loaded build onto <html> so a reload can be
+      // confirmed from the page (read document.documentElement.dataset.zsDsVer).
+      // BUMP DS_VER on meaningful deepseek.js changes worth verifying live.
+      try { document.documentElement.setAttribute("data-zs-ds-ver", "2026-07_vision-badge-priority"); } catch {}
+    },
+    // turns
+    allItems, isUserItem, isAssistantItem, itemText, classifyText,
+    assistantCount, userCount, lastAssistant, lastAssistantId, itemKey, readAssistant,
+    streamLen, snapshot,
+    // composer / state
+    getEditor, editorText, chatIsEmpty, isFreshChat, composerFrame, barMount,
+    setInputLock, typeAndSend, stopGeneration,
+    isGenerating, isBusyNow, isHardGenerating, genDebug,
+    enforceComposer, ensureComposerReady,
+    turnHalted, findContinueBtn, clickContinueBtn,
+    scanError, isTooLongMsg, isBusyMsg,
+    // actions
+    attachImages, clearAttachments, conversationKey,
+    installSendHooks, findToolBlockSpot,
+  };
+})();

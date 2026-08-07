@@ -1,1 +1,361 @@
-const a0_0x2cfd9f=a0_0x10a9;(function(_0x25a470,_0x4e64a6){const _0x3fc0bf=a0_0x10a9,_0x7a16e4=_0x25a470();while(!![]){try{const _0x3e29ae=-parseInt(_0x3fc0bf(0x15d))/0x1+parseInt(_0x3fc0bf(0x16c))/0x2*(-parseInt(_0x3fc0bf(0x15b))/0x3)+parseInt(_0x3fc0bf(0x13c))/0x4*(parseInt(_0x3fc0bf(0x184))/0x5)+parseInt(_0x3fc0bf(0x14d))/0x6+parseInt(_0x3fc0bf(0x175))/0x7*(-parseInt(_0x3fc0bf(0x15a))/0x8)+parseInt(_0x3fc0bf(0x185))/0x9*(parseInt(_0x3fc0bf(0x179))/0xa)+parseInt(_0x3fc0bf(0x14f))/0xb;if(_0x3e29ae===_0x4e64a6)break;else _0x7a16e4['push'](_0x7a16e4['shift']());}catch(_0x27d589){_0x7a16e4['push'](_0x7a16e4['shift']());}}}(a0_0x2039,0xb23ec));const PORT=0x44cd,URL=a0_0x2cfd9f(0x17e)+PORT,PROVIDER_URLS=[a0_0x2cfd9f(0x18a),'https://chat.deepseek.com/*',a0_0x2cfd9f(0x14a),a0_0x2cfd9f(0x146),a0_0x2cfd9f(0x148),a0_0x2cfd9f(0x172),a0_0x2cfd9f(0x17d),a0_0x2cfd9f(0x189),'https://www.meta.ai/*',a0_0x2cfd9f(0x164)],RECONNECT_MIN=0x3e8,RECONNECT_MAX=0x1388,HEARTBEAT_MS=0x2710,STALE_SOCKET_MS=0x61a8,REQUEST_TIMEOUT_DEFAULT=0x1fbd0;let ws=null,connected=![],reconnectDelay=RECONNECT_MIN,reconnectTimer=null,heartbeatTimer=null,lastMessageAt=0x0,nextId=0x1;const pending=new Map();let toolsCache=[],mcpAlive=![],serversCache=[],studioConnected=null,studioApp=null,studioProc=null;function log(..._0x5e19e0){const _0x537d15=a0_0x2cfd9f;console['log'](_0x537d15(0x143),..._0x5e19e0);}function connect(){const _0x7298c7=a0_0x2cfd9f;if(ws&&(ws[_0x7298c7(0x186)]===WebSocket['OPEN']||ws[_0x7298c7(0x186)]===WebSocket[_0x7298c7(0x177)]))return;clearTimeout(reconnectTimer);try{ws=new WebSocket(URL);}catch(_0x35522c){log(_0x7298c7(0x161),_0x35522c),scheduleReconnect();return;}ws[_0x7298c7(0x150)]=()=>{const _0x236b6c=_0x7298c7;connected=!![],reconnectDelay=RECONNECT_MIN,lastMessageAt=Date[_0x236b6c(0x156)](),log('connected\x20to\x20bridge'),startHeartbeat(),broadcastStatus();},ws[_0x7298c7(0x14b)]=_0x36c126=>{const _0x28b835=_0x7298c7;lastMessageAt=Date[_0x28b835(0x156)]();let _0x49fbfb;try{_0x49fbfb=JSON[_0x28b835(0x147)](_0x36c126[_0x28b835(0x176)]);}catch{return;}handleBridgeMessage(_0x49fbfb);},ws['onclose']=()=>{const _0xacc0b5=_0x7298c7;connected=![],mcpAlive=![],studioConnected=null,studioApp=null,studioProc=null,serversCache=[],stopHeartbeat(),failAllPending(_0xacc0b5(0x190)),broadcastStatus(),scheduleReconnect();},ws[_0x7298c7(0x140)]=()=>{const _0x3f6784=_0x7298c7;try{ws[_0x3f6784(0x163)]();}catch{}};}function scheduleReconnect(){const _0x2958f3=a0_0x2cfd9f;clearTimeout(reconnectTimer),reconnectTimer=setTimeout(connect,reconnectDelay),reconnectDelay=Math[_0x2958f3(0x13d)](reconnectDelay*1.7,RECONNECT_MAX);}function startHeartbeat(){stopHeartbeat(),heartbeatTimer=setInterval(()=>{const _0x25f607=a0_0x10a9;if(connected){if(lastMessageAt&&Date[_0x25f607(0x156)]()-lastMessageAt>STALE_SOCKET_MS){log(_0x25f607(0x17c));try{ws[_0x25f607(0x163)]();}catch{}return;}send({'type':_0x25f607(0x174)})[_0x25f607(0x187)](()=>{}),refreshStudioStatus();}},HEARTBEAT_MS);}function stopHeartbeat(){clearInterval(heartbeatTimer),heartbeatTimer=null;}function waitForConnection(_0x3ef16f=0x1f40){return new Promise(_0x2329d0=>{const _0x312127=a0_0x10a9;if(connected&&ws&&ws['readyState']===WebSocket['OPEN'])return _0x2329d0(!![]);connect();const _0x3a7a0b=Date[_0x312127(0x156)](),_0x2106b8=setInterval(()=>{const _0x52b41b=_0x312127;if(connected&&ws&&ws[_0x52b41b(0x186)]===WebSocket[_0x52b41b(0x153)])clearInterval(_0x2106b8),_0x2329d0(!![]);else Date[_0x52b41b(0x156)]()-_0x3a7a0b>_0x3ef16f&&(clearInterval(_0x2106b8),_0x2329d0(![]));},0x64);});}async function send(_0x450996,_0x293532=REQUEST_TIMEOUT_DEFAULT){const _0x3f0dd=a0_0x2cfd9f;return(!connected||!ws||ws[_0x3f0dd(0x186)]!==WebSocket[_0x3f0dd(0x153)])&&await waitForConnection(0x1f40),new Promise(_0xc5b8f8=>{const _0x565712=_0x3f0dd;if(!connected||!ws||ws['readyState']!==WebSocket[_0x565712(0x153)]){_0xc5b8f8({'ok':![],'kind':'disconnected','error':_0x565712(0x183)});return;}const _0x494f7f=nextId++,_0xa69b63={..._0x450996,'id':_0x494f7f},_0x22d0ef=setTimeout(()=>{const _0x435f80=_0x565712;pending[_0x435f80(0x160)](_0x494f7f)&&(pending[_0x435f80(0x181)](_0x494f7f),_0xc5b8f8({'ok':![],'kind':'timeout','error':'bridge\x20did\x20not\x20respond\x20in\x20time'}));},_0x293532);pending['set'](_0x494f7f,{'resolve':_0xc5b8f8,'timer':_0x22d0ef});try{ws[_0x565712(0x180)](JSON[_0x565712(0x16d)](_0xa69b63));}catch(_0x8e1dd8){clearTimeout(_0x22d0ef),pending['delete'](_0x494f7f),_0xc5b8f8({'ok':![],'kind':_0x565712(0x169),'error':String(_0x8e1dd8)});}});}let studioProbing=![];async function refreshStudioStatus(){const _0x48a077=a0_0x2cfd9f;if(studioProbing||!connected)return;studioProbing=!![];try{const _0x37b547=await send({'type':'studio_status'},0x2ee0),_0x358ccd=_0x37b547&&_0x37b547['ok']&&typeof _0x37b547['studio']===_0x48a077(0x16e)?_0x37b547[_0x48a077(0x152)]:null;_0x358ccd!==studioConnected&&(studioConnected=_0x358ccd,broadcastStatus());}finally{studioProbing=![];}}function handleBridgeMessage(_0x17b7c6){const _0x15d8a4=a0_0x2cfd9f;_0x15d8a4(0x152)in _0x17b7c6&&(typeof _0x17b7c6[_0x15d8a4(0x152)]===_0x15d8a4(0x16e)||_0x17b7c6[_0x15d8a4(0x152)]===null)&&(studioConnected=_0x17b7c6[_0x15d8a4(0x152)]);_0x15d8a4(0x15f)in _0x17b7c6&&(typeof _0x17b7c6[_0x15d8a4(0x15f)]===_0x15d8a4(0x16e)||_0x17b7c6[_0x15d8a4(0x15f)]===null)&&(studioApp=_0x17b7c6['studio_app']);_0x15d8a4(0x157)in _0x17b7c6&&(typeof _0x17b7c6['studio_proc']===_0x15d8a4(0x16e)||_0x17b7c6['studio_proc']===null)&&(studioProc=_0x17b7c6[_0x15d8a4(0x157)]);if(_0x17b7c6[_0x15d8a4(0x155)]===_0x15d8a4(0x167)){resolvePending(_0x17b7c6['id'],{'ok':!![],'studio':studioConnected}),broadcastStatus();return;}if(_0x17b7c6['type']==='connected'){mcpAlive=!!_0x17b7c6[_0x15d8a4(0x151)];if(Array[_0x15d8a4(0x144)](_0x17b7c6['tools']))toolsCache=_0x17b7c6[_0x15d8a4(0x165)];if(Array['isArray'](_0x17b7c6[_0x15d8a4(0x178)]))serversCache=_0x17b7c6[_0x15d8a4(0x178)];broadcastStatus();return;}if(_0x17b7c6[_0x15d8a4(0x155)]==='pong'){resolvePending(_0x17b7c6['id'],{'ok':!![]});return;}if(_0x17b7c6[_0x15d8a4(0x155)]==='tools'){if(Array[_0x15d8a4(0x144)](_0x17b7c6['tools']))toolsCache=_0x17b7c6[_0x15d8a4(0x165)];if(Array[_0x15d8a4(0x144)](_0x17b7c6[_0x15d8a4(0x178)]))serversCache=_0x17b7c6['servers'];mcpAlive=!!_0x17b7c6[_0x15d8a4(0x151)],resolvePending(_0x17b7c6['id'],{'ok':!![],'tools':toolsCache}),broadcastStatus();return;}if(_0x17b7c6[_0x15d8a4(0x155)]==='tool_result'){resolvePending(_0x17b7c6['id'],_0x17b7c6['ok']?{'ok':!![],'text':_0x17b7c6[_0x15d8a4(0x182)],'images':_0x17b7c6[_0x15d8a4(0x170)]||[]}:{'ok':![],'kind':_0x17b7c6[_0x15d8a4(0x149)],'error':_0x17b7c6[_0x15d8a4(0x18e)]});return;}if(_0x17b7c6['type']===_0x15d8a4(0x173)){mcpAlive=!!_0x17b7c6['alive'];if(Array[_0x15d8a4(0x144)](_0x17b7c6['tools']))toolsCache=_0x17b7c6[_0x15d8a4(0x165)];if(Array[_0x15d8a4(0x144)](_0x17b7c6[_0x15d8a4(0x178)]))serversCache=_0x17b7c6['servers'];resolvePending(_0x17b7c6['id'],{'ok':!!_0x17b7c6['ok'],'alive':_0x17b7c6['alive'],'error':_0x17b7c6[_0x15d8a4(0x18e)]}),broadcastStatus();return;}if(_0x17b7c6['type']===_0x15d8a4(0x171)){resolvePending(_0x17b7c6['id'],{'ok':!!_0x17b7c6['ok'],'error':_0x17b7c6[_0x15d8a4(0x18e)],'restarting':!!_0x17b7c6[_0x15d8a4(0x168)]});return;}if(_0x17b7c6[_0x15d8a4(0x155)]===_0x15d8a4(0x18e)){resolvePending(_0x17b7c6['id'],{'ok':![],'error':_0x17b7c6[_0x15d8a4(0x18e)]});return;}}function resolvePending(_0x2dd57a,_0x1bbde2){const _0x16b243=a0_0x2cfd9f,_0x59c440=pending['get'](_0x2dd57a);if(!_0x59c440)return;clearTimeout(_0x59c440[_0x16b243(0x141)]),pending[_0x16b243(0x181)](_0x2dd57a),_0x59c440[_0x16b243(0x145)](_0x1bbde2);}function a0_0x2039(){const _0x129bee=['mtKZndi2mZfcCM1rCvG','B25VCgvU','BwnWx2fSAxzL','C3r1zgLV','t1bftG','BgLZDf90B29SCW','DhLWzq','BM93','C3r1zgLVx3bYB2m','ywrKx3nLCNzLCG','y2XLyxi','mteZndG4ENbwzxDO','m0D0s0jkuW','y29TBwfUza','mteZndq5ogrtAvLOza','B25tDgfYDhvW','C3r1zgLVx2fWCa','AgfZ','v2vIu29JA2v0ign0B3iGzMfPBgvK','CNvUDgLTzq','y2XVC2u','Ahr0Chm6lY9TzxrHlMfPlYO','Dg9VBhm','yxjNCW','C3r1zgLVx3n0yxr1CW','CMvZDgfYDgLUzW','zgLZy29UBMvJDgvK','C2vYDMvYx2LK','ywrKtgLZDgvUzxi','mJq0mZKYmNLUyLbwvG','C3rYAw5NAwz5','yM9VBgvHBG','CMvTB3zLx3nLCNzLCG','Aw1Hz2vZ','C2vYDMvYx2nOyw5Nzwq','Ahr0Chm6lY9JAgf0lNOUywKVkG','BwnWx3n0yxr1CW','CgLUzW','ndi3A0fxtMTI','zgf0yq','q09otKvdveLorW','C2vYDMvYCW','mtuWnZqWCvzvDg1X','BgvUz3rO','CMvZDgfYDf9Ty3a','C29JA2v0ihn0ywXLlcbMB3jJAw5NihjLy29UBMvJDa','Ahr0Chm6lY9JAgf0lNf3zw4UywKVkG','D3m6lY8XmJCUmc4WlJe6','DgfICW','C2vUza','zgvSzxrL','Dgv4Da','yNjPzgDLig5VDcbJB25Uzwn0zwq','nvrSAvvXrW','ndK1Exblr09s','CMvHzhLtDgf0zq','y2f0y2G','zw52','Ahr0Chm6lY9HCMvUys5HAs8Q','Ahr0Chm6lY9JAgf0z3b0lMnVBs8Q','B25jBNn0ywXSzwq','BMfTzq','B25nzxnZywDL','zxjYB3i','DgLTzw91Da','yNjPzgDLignVBM5Ly3rPB24Gy2XVC2vK','mZG0mdGWngjxsuHhBG','BwLU','C3rHDhvZ','y2fSBf90B29S','B25LCNjVCG','DgLTzxi','CMvJB25Uzwn0','w3PZlwjNxq','AxnbCNjHEq','CMvZB2X2zq','Ahr0Chm6lY93D3CUA2LTAs5JB20VkG','CgfYC2u','Ahr0Chm6lY9RAw1PlMnVBs8Q','A2LUza','Ahr0Chm6lY9Nzw1PBMKUz29Vz2XLlMnVBs8Q','B25TzxnZywDL','Dw5RBM93BIbTzxnZywDL','mJqYntiZmg5vrMjsEa','C2vUze1LC3nHz2u'];a0_0x2039=function(){return _0x129bee;};return a0_0x2039();}function failAllPending(_0x499342){const _0x4ad46b=a0_0x2cfd9f;for(const [,_0x5c6ceb]of pending){clearTimeout(_0x5c6ceb[_0x4ad46b(0x141)]),_0x5c6ceb[_0x4ad46b(0x145)]({'ok':![],'kind':_0x4ad46b(0x169),'error':_0x499342});}pending[_0x4ad46b(0x159)]();}function a0_0x10a9(_0x5daac9,_0x371245){_0x5daac9=_0x5daac9-0x13c;const _0x203959=a0_0x2039();let _0x10a963=_0x203959[_0x5daac9];if(a0_0x10a9['lyRbSP']===undefined){var _0xba8816=function(_0x37a61e){const _0x1bc533='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5e19e0='',_0x35522c='';for(let _0x36c126=0x0,_0x49fbfb,_0x3ef16f,_0x2329d0=0x0;_0x3ef16f=_0x37a61e['charAt'](_0x2329d0++);~_0x3ef16f&&(_0x49fbfb=_0x36c126%0x4?_0x49fbfb*0x40+_0x3ef16f:_0x3ef16f,_0x36c126++%0x4)?_0x5e19e0+=String['fromCharCode'](0xff&_0x49fbfb>>(-0x2*_0x36c126&0x6)):0x0){_0x3ef16f=_0x1bc533['indexOf'](_0x3ef16f);}for(let _0x3a7a0b=0x0,_0x2106b8=_0x5e19e0['length'];_0x3a7a0b<_0x2106b8;_0x3a7a0b++){_0x35522c+='%'+('00'+_0x5e19e0['charCodeAt'](_0x3a7a0b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x35522c);};a0_0x10a9['VRIAIF']=_0xba8816,a0_0x10a9['talkLt']={},a0_0x10a9['lyRbSP']=!![];}const _0xc2d27c=_0x203959[0x0],_0x28b744=_0x5daac9+_0xc2d27c,_0x59292c=a0_0x10a9['talkLt'][_0x28b744];return!_0x59292c?(_0x10a963=a0_0x10a9['VRIAIF'](_0x10a963),a0_0x10a9['talkLt'][_0x28b744]=_0x10a963):_0x10a963=_0x59292c,_0x10a963;}function statusObj(){const _0x503774=a0_0x2cfd9f;return{'type':'zs-status','connected':connected,'mcpAlive':mcpAlive,'studio':studioConnected,'studioApp':studioApp,'studioProc':studioProc,'tools':toolsCache[_0x503774(0x17a)],'servers':serversCache};}function broadcastStatus(){const _0x54429d=a0_0x2cfd9f;chrome[_0x54429d(0x162)][_0x54429d(0x14e)](statusObj())[_0x54429d(0x187)](()=>{}),chrome[_0x54429d(0x17f)]['query']({'url':PROVIDER_URLS},_0x31da3a=>{const _0x53e15f=_0x54429d;for(const _0x13e95d of _0x31da3a)chrome[_0x53e15f(0x17f)][_0x53e15f(0x14e)](_0x13e95d['id'],statusObj())[_0x53e15f(0x187)](()=>{});});}chrome[a0_0x2cfd9f(0x162)][a0_0x2cfd9f(0x18d)][a0_0x2cfd9f(0x16b)]((_0x2ec9e1,_0x213cfc,_0x1cfd3f)=>{return((async()=>{const _0x23c2cf=a0_0x10a9;switch(_0x2ec9e1['type']){case _0x23c2cf(0x13e):if(!connected)connect();_0x1cfd3f(statusObj());break;case'list_tools':{const _0x108f2f=await send({'type':_0x23c2cf(0x154)},0x2710);if(_0x108f2f['ok'])_0x1cfd3f({'ok':!![],'tools':_0x108f2f[_0x23c2cf(0x165)]});else _0x1cfd3f({'ok':toolsCache[_0x23c2cf(0x17a)]>0x0,'tools':toolsCache,'error':_0x108f2f[_0x23c2cf(0x18e)]});break;}case _0x23c2cf(0x13f):{const _0x557d7e=(_0x2ec9e1[_0x23c2cf(0x18f)]||0x1d4c0)+0x2710,_0x14ca38=await send({'type':'call_tool','name':_0x2ec9e1[_0x23c2cf(0x18c)],'arguments':_0x2ec9e1['arguments'],'timeout':_0x2ec9e1['timeout']},_0x557d7e);_0x1cfd3f(_0x14ca38);break;}case'restart_mcp':{const _0x464036=await send({'type':_0x23c2cf(0x17b)},0x7530);_0x1cfd3f(_0x464036);break;}case _0x23c2cf(0x158):{const _0x12b761=await send({'type':_0x23c2cf(0x158),'server_id':_0x2ec9e1[_0x23c2cf(0x16a)],'command':_0x2ec9e1[_0x23c2cf(0x15c)],'args':_0x2ec9e1[_0x23c2cf(0x166)],'env':_0x2ec9e1[_0x23c2cf(0x188)]},0x3a98);_0x1cfd3f(_0x12b761);break;}case _0x23c2cf(0x16f):{const _0x2610d6=await send({'type':'remove_server','server_id':_0x2ec9e1['server_id']},0x3a98);_0x1cfd3f(_0x2610d6);break;}case _0x23c2cf(0x142):reconnectDelay=RECONNECT_MIN,connect(),_0x1cfd3f({'ok':!![]});break;default:_0x1cfd3f({'ok':![],'error':_0x23c2cf(0x14c)});}})()),!![];}),chrome[a0_0x2cfd9f(0x162)][a0_0x2cfd9f(0x15e)]['addListener'](connect),chrome[a0_0x2cfd9f(0x162)][a0_0x2cfd9f(0x18b)][a0_0x2cfd9f(0x16b)](connect),connect();
+// SPDX-License-Identifier: GPL-3.0-only
+// background.js - service worker.
+// Owns ONE resilient WebSocket to the local bridge (ws://127.0.0.1:PORT).
+// Keeping the socket here (not in the content script) avoids https→ws mixed
+// content issues and centralises reconnect / timeout logic.
+//
+// Contract with content.js: every sendMessage ALWAYS gets a response object,
+// even when the bridge is offline. The agentic loop must never hang waiting.
+
+const PORT = 17613;
+const URL = `ws://127.0.0.1:${PORT}`;
+
+// Chat sites where a EverLua provider content script runs. Status pushes go
+// to every tab matching these. Add the new provider's URL pattern here (and in
+// manifest.json content_scripts + host_permissions) when integrating another AI.
+const PROVIDER_URLS = ["https://chatgpt.com/*", "https://chat.deepseek.com/*", "https://gemini.google.com/*", "https://www.kimi.com/*", "https://kimi.com/*", "https://chat.z.ai/*", "https://chat.qwen.ai/*", "https://arena.ai/*", "https://www.meta.ai/*", "https://meta.ai/*"];
+
+const RECONNECT_MIN = 1000;
+const RECONNECT_MAX = 5000;
+const HEARTBEAT_MS = 10000;
+// If no message (incl. pong) arrives within this window while we believe we're
+// connected, the socket is half-open: force a reconnect instead of letting
+// pending requests slowly time out.
+const STALE_SOCKET_MS = 25000;
+const REQUEST_TIMEOUT_DEFAULT = 130000; // a bit above the 120s tool timeout
+
+let ws = null;
+let connected = false;
+let reconnectDelay = RECONNECT_MIN;
+let reconnectTimer = null;
+let heartbeatTimer = null;
+let lastMessageAt = 0; // timestamp of the last frame received from the bridge
+let nextId = 1;
+const pending = new Map(); // id -> {resolve, timer}
+let toolsCache = [];
+let mcpAlive = false;
+let serversCache = [];
+// true/false = a PLACE is loaded and usable in Roblox Studio; null = unknown.
+// The MCP process stays alive when Studio is closed or its MCP option is off,
+// so this is probed separately (bridge "studio_status").
+let studioConnected = null;
+// true/false = a Roblox Studio app is connected to the MCP server at all; null =
+// unknown. studioApp=true with studioConnected=false means "Studio open but no
+// place"; studioApp=false means "Studio closed OR its MCP option disabled".
+let studioApp = null;
+// true/false = a Roblox Studio WINDOW/PROCESS exists on this machine (checked
+// bridge-side via tasklist); null = unknown/old bridge. Distinguishes the two
+// studioApp=false sub-cases the UI must word differently: Studio genuinely not
+// launched ("open Roblox Studio") vs Studio OPEN but its MCP plugin never
+// registered with the bridge - the documented fix for the latter is opening
+// Assistant Settings > MCP Servers inside Studio (validated live 3x), which
+// "open Roblox Studio" wording completely fails to convey.
+let studioProc = null;
+
+function log(...a) {
+  console.log("[zs-bg]", ...a);
+}
+
+// ── WebSocket lifecycle ─────────────────────────────────────────────────
+function connect() {
+  if (ws && (ws.readyState === WebSocket.OPEN || ws.readyState === WebSocket.CONNECTING)) {
+    return;
+  }
+  clearTimeout(reconnectTimer);
+  try {
+    ws = new WebSocket(URL);
+  } catch (e) {
+    log("WebSocket ctor failed", e);
+    scheduleReconnect();
+    return;
+  }
+
+  ws.onopen = () => {
+    connected = true;
+    reconnectDelay = RECONNECT_MIN;
+    lastMessageAt = Date.now();
+    log("connected to bridge");
+    startHeartbeat();
+    broadcastStatus();
+  };
+
+  ws.onmessage = (ev) => {
+    lastMessageAt = Date.now();
+    let msg;
+    try {
+      msg = JSON.parse(ev.data);
+    } catch {
+      return;
+    }
+    handleBridgeMessage(msg);
+  };
+
+  ws.onclose = () => {
+    connected = false;
+    mcpAlive = false;
+    studioConnected = null;
+    studioApp = null;
+    studioProc = null;
+    serversCache = [];
+    stopHeartbeat();
+    failAllPending("bridge connection closed");
+    broadcastStatus();
+    scheduleReconnect();
+  };
+
+  ws.onerror = () => {
+    // onclose will follow; nothing to do here but avoid an unhandled error.
+    try { ws.close(); } catch {}
+  };
+}
+
+function scheduleReconnect() {
+  clearTimeout(reconnectTimer);
+  reconnectTimer = setTimeout(connect, reconnectDelay);
+  reconnectDelay = Math.min(reconnectDelay * 1.7, RECONNECT_MAX);
+}
+
+function startHeartbeat() {
+  stopHeartbeat();
+  heartbeatTimer = setInterval(() => {
+    if (connected) {
+      // Half-open socket: the WS still reports OPEN but nothing comes through.
+      // The pong (and every other frame) refreshes lastMessageAt; if it has
+      // gone stale, drop the dead socket so onclose triggers a reconnect.
+      if (lastMessageAt && Date.now() - lastMessageAt > STALE_SOCKET_MS) {
+        log("socket stale, forcing reconnect");
+        try { ws.close(); } catch {}
+        return;
+      }
+      // Keeps the MV3 service worker alive AND detects a half-open socket.
+      send({ type: "ping" }).catch(() => {});
+      refreshStudioStatus();
+    }
+  }, HEARTBEAT_MS);
+}
+
+function stopHeartbeat() {
+  clearInterval(heartbeatTimer);
+  heartbeatTimer = null;
+}
+
+// Resolve once the socket is OPEN, or false after `timeout` ms.
+function waitForConnection(timeout = 8000) {
+  return new Promise((resolve) => {
+    if (connected && ws && ws.readyState === WebSocket.OPEN) return resolve(true);
+    connect(); // nudge a (re)connection - important after a worker wake-up
+    const t0 = Date.now();
+    const iv = setInterval(() => {
+      if (connected && ws && ws.readyState === WebSocket.OPEN) {
+        clearInterval(iv);
+        resolve(true);
+      } else if (Date.now() - t0 > timeout) {
+        clearInterval(iv);
+        resolve(false);
+      }
+    }, 100);
+  });
+}
+
+// ── request/response over the socket ────────────────────────────────────
+async function send(obj, timeout = REQUEST_TIMEOUT_DEFAULT) {
+  // The MV3 service worker can be suspended; the first message after a wake-up
+  // arrives before the socket has re-opened. Wait for it instead of failing -
+  // otherwise Kimi wrongly hears "bridge offline".
+  if (!connected || !ws || ws.readyState !== WebSocket.OPEN) {
+    await waitForConnection(8000);
+  }
+  return new Promise((resolve) => {
+    if (!connected || !ws || ws.readyState !== WebSocket.OPEN) {
+      resolve({ ok: false, kind: "disconnected", error: "bridge not connected" });
+      return;
+    }
+    const id = nextId++;
+    const payload = { ...obj, id };
+    const timer = setTimeout(() => {
+      if (pending.has(id)) {
+        pending.delete(id);
+        resolve({ ok: false, kind: "timeout", error: "bridge did not respond in time" });
+      }
+    }, timeout);
+    pending.set(id, { resolve, timer });
+    try {
+      ws.send(JSON.stringify(payload));
+    } catch (e) {
+      clearTimeout(timer);
+      pending.delete(id);
+      resolve({ ok: false, kind: "disconnected", error: String(e) });
+    }
+  });
+}
+
+// Ask the bridge whether a Roblox Studio instance is actually connected to the
+// MCP server. Broadcasts only on change so the UI updates promptly but quietly.
+let studioProbing = false;
+async function refreshStudioStatus() {
+  if (studioProbing || !connected) return;
+  studioProbing = true;
+  try {
+    const r = await send({ type: "studio_status" }, 12000);
+    const v = r && r.ok && typeof r.studio === "boolean" ? r.studio : null;
+    if (v !== studioConnected) {
+      studioConnected = v;
+      broadcastStatus();
+    }
+  } finally {
+    studioProbing = false;
+  }
+}
+
+function handleBridgeMessage(msg) {
+  if ("studio" in msg && (typeof msg.studio === "boolean" || msg.studio === null)) {
+    studioConnected = msg.studio;
+  }
+  if ("studio_app" in msg && (typeof msg.studio_app === "boolean" || msg.studio_app === null)) {
+    studioApp = msg.studio_app;
+  }
+  if ("studio_proc" in msg && (typeof msg.studio_proc === "boolean" || msg.studio_proc === null)) {
+    studioProc = msg.studio_proc;
+  }
+  if (msg.type === "studio_status") {
+    resolvePending(msg.id, { ok: true, studio: studioConnected });
+    broadcastStatus();
+    return;
+  }
+  if (msg.type === "connected") {
+    mcpAlive = !!msg.mcp_alive;
+    if (Array.isArray(msg.tools)) toolsCache = msg.tools;
+    if (Array.isArray(msg.servers)) serversCache = msg.servers;
+    broadcastStatus();
+    return;
+  }
+  if (msg.type === "pong") {
+    resolvePending(msg.id, { ok: true });
+    return;
+  }
+  if (msg.type === "tools") {
+    if (Array.isArray(msg.tools)) toolsCache = msg.tools;
+    if (Array.isArray(msg.servers)) serversCache = msg.servers;
+    mcpAlive = !!msg.mcp_alive;
+    resolvePending(msg.id, { ok: true, tools: toolsCache });
+    broadcastStatus();
+    return;
+  }
+  if (msg.type === "tool_result") {
+    resolvePending(msg.id, msg.ok
+      ? { ok: true, text: msg.text, images: msg.images || [] }
+      : { ok: false, kind: msg.kind, error: msg.error });
+    return;
+  }
+  if (msg.type === "mcp_status") {
+    mcpAlive = !!msg.alive;
+    if (Array.isArray(msg.tools)) toolsCache = msg.tools;
+    if (Array.isArray(msg.servers)) serversCache = msg.servers;
+    resolvePending(msg.id, { ok: !!msg.ok, alive: msg.alive, error: msg.error });
+    broadcastStatus();
+    return;
+  }
+  if (msg.type === "server_changed") {
+    // The bridge acks, then restarts itself to reload config.json. The socket
+    // will drop right after this - the content script shows a spinner until the
+    // reconnect lands and a fresh status arrives.
+    resolvePending(msg.id, { ok: !!msg.ok, error: msg.error, restarting: !!msg.restarting });
+    return;
+  }
+  if (msg.type === "error") {
+    resolvePending(msg.id, { ok: false, error: msg.error });
+    return;
+  }
+}
+
+function resolvePending(id, value) {
+  const p = pending.get(id);
+  if (!p) return;
+  clearTimeout(p.timer);
+  pending.delete(id);
+  p.resolve(value);
+}
+
+function failAllPending(reason) {
+  for (const [, p] of pending) {
+    clearTimeout(p.timer);
+    p.resolve({ ok: false, kind: "disconnected", error: reason });
+  }
+  pending.clear();
+}
+
+// ── status push to any open DeepSeek tab + popup ─────────────────────────
+function statusObj() {
+  return { type: "zs-status", connected, mcpAlive, studio: studioConnected, studioApp, studioProc, tools: toolsCache.length, servers: serversCache };
+}
+
+function broadcastStatus() {
+  chrome.runtime.sendMessage(statusObj()).catch(() => {});
+  chrome.tabs.query({ url: PROVIDER_URLS }, (tabs) => {
+    for (const t of tabs) chrome.tabs.sendMessage(t.id, statusObj()).catch(() => {});
+  });
+}
+
+// ── messages from content.js / popup.js ─────────────────────────────────
+chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+  (async () => {
+    switch (msg.type) {
+      case "status":
+        if (!connected) connect(); // self-heal after a worker wake-up
+        sendResponse(statusObj());
+        break;
+      case "list_tools": {
+        // Prefer a live refresh; fall back to cache so the loop never stalls.
+        // 10s, not 25s: a catalogue request only blocks this long when one of the
+        // MCP servers is dead (typically Roblox in a degraded, Blender-only
+        // session), and in that exact case we already hold a perfectly good cached
+        // catalogue. Waiting the full 25s just froze the boot for no new data.
+        const r = await send({ type: "list_tools" }, 10000);
+        if (r.ok) sendResponse({ ok: true, tools: r.tools });
+        else sendResponse({ ok: toolsCache.length > 0, tools: toolsCache, error: r.error });
+        break;
+      }
+      case "call_tool": {
+        const timeout = (msg.timeout || 120000) + 10000;
+        const r = await send(
+          { type: "call_tool", name: msg.name, arguments: msg.arguments, timeout: msg.timeout },
+          timeout
+        );
+        sendResponse(r);
+        break;
+      }
+      case "restart_mcp": {
+        const r = await send({ type: "restart_mcp" }, 30000);
+        sendResponse(r);
+        break;
+      }
+      case "add_server": {
+        const r = await send({
+          type: "add_server", server_id: msg.server_id,
+          command: msg.command, args: msg.args, env: msg.env,
+        }, 15000);
+        sendResponse(r);
+        break;
+      }
+      case "remove_server": {
+        const r = await send({ type: "remove_server", server_id: msg.server_id }, 15000);
+        sendResponse(r);
+        break;
+      }
+      case "reconnect":
+        reconnectDelay = RECONNECT_MIN;
+        connect();
+        sendResponse({ ok: true });
+        break;
+      default:
+        sendResponse({ ok: false, error: "unknown message" });
+    }
+  })();
+  return true; // async sendResponse
+});
+
+// Wake/keepalive hooks.
+chrome.runtime.onStartup.addListener(connect);
+chrome.runtime.onInstalled.addListener(connect);
+
+connect();

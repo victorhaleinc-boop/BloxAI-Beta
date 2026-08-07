@@ -1,1 +1,711 @@
-function a0_0x276d(_0x1354dd,_0x2ae815){_0x1354dd=_0x1354dd-0x145;const _0x5d24f5=a0_0x5d24();let _0x276dc4=_0x5d24f5[_0x1354dd];if(a0_0x276d['lfcoEv']===undefined){var _0x24f76e=function(_0x426546){const _0x137af1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3aee89='',_0x182835='';for(let _0x42ec9d=0x0,_0x3f18ba,_0x26394e,_0x215376=0x0;_0x26394e=_0x426546['charAt'](_0x215376++);~_0x26394e&&(_0x3f18ba=_0x42ec9d%0x4?_0x3f18ba*0x40+_0x26394e:_0x26394e,_0x42ec9d++%0x4)?_0x3aee89+=String['fromCharCode'](0xff&_0x3f18ba>>(-0x2*_0x42ec9d&0x6)):0x0){_0x26394e=_0x137af1['indexOf'](_0x26394e);}for(let _0x12ba47=0x0,_0x48065a=_0x3aee89['length'];_0x12ba47<_0x48065a;_0x12ba47++){_0x182835+='%'+('00'+_0x3aee89['charCodeAt'](_0x12ba47)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x182835);};a0_0x276d['TWUVOa']=_0x24f76e,a0_0x276d['otKPhr']={},a0_0x276d['lfcoEv']=!![];}const _0x26704c=_0x5d24f5[0x0],_0x5586e0=_0x1354dd+_0x26704c,_0x50ec6d=a0_0x276d['otKPhr'][_0x5586e0];return!_0x50ec6d?(_0x276dc4=a0_0x276d['TWUVOa'](_0x276dc4),a0_0x276d['otKPhr'][_0x5586e0]=_0x276dc4):_0x276dc4=_0x50ec6d,_0x276dc4;}(function(_0x243ef3,_0x1de0cd){const _0x4e9305=a0_0x276d,_0x633284=_0x243ef3();while(!![]){try{const _0x4db426=parseInt(_0x4e9305(0x1ab))/0x1+-parseInt(_0x4e9305(0x161))/0x2*(parseInt(_0x4e9305(0x18b))/0x3)+-parseInt(_0x4e9305(0x1ad))/0x4*(parseInt(_0x4e9305(0x187))/0x5)+parseInt(_0x4e9305(0x18c))/0x6*(parseInt(_0x4e9305(0x168))/0x7)+parseInt(_0x4e9305(0x1c6))/0x8+parseInt(_0x4e9305(0x1cd))/0x9+parseInt(_0x4e9305(0x193))/0xa;if(_0x4db426===_0x1de0cd)break;else _0x633284['push'](_0x633284['shift']());}catch(_0x2b56b8){_0x633284['push'](_0x633284['shift']());}}}(a0_0x5d24,0x45b05));function a0_0x5d24(){const _0x4560a1=['zMfSC2u','r2vTAw5Pj3mGy29TCg9ZzxiGD2L0Ag91DcbMCMvLEMLUzYb0AguGCgfNzs4Grg8GtK9uihjLlxj1BIb0AguGy29TBwfUzdSG','zMXVB3i','zgf0ys16CY1SB2nRzwq','zxHLy0nVBw1HBMq','CMLJAc10zxH0yxjLyq','BM9Kzvr5Cgu','yxr0ywnOlM5VrhrjDgvTCW','nJe5mZG0D0r0DvvU','C2vUzc5Yzxr5Cgu','CxvLCNLtzwXLy3rVCG','DxnLCI1XDwvYEq','y29UDgv4DeXPBwL0','AxntDgfYDgvK','C2XPy2u','mtaZmde3nNjnAw52Cq','w2fYAweTBgfIzwWQpsD1ChbYAw1LCIDDlcbByxjPys1SywjLBcO9j2vTB3zLj10SifTJBgfZCYO9j2rLBgv0zsDDlcbBy2XHC3mQpsDYzw1VDMuNxq','vvnfuI1rvuvswq','Aw5Zzxj0tgLUzujYzwfR','y29UDgfPBNm','DgfNtMfTzq','z2v0qxr0CMLIDxrL','Dg9Vtg9UzW','Aw5WDxqTyxjLys12mG','y2XHC3nmAxn0','yNv0Dg9U','y29UDgvUDgvKAxrHyMXL','BgvUz3rO','yxr0ywnOlNnWAw5UzxjdBgvHCMvK','Cg5N','Bw9Kzv9YzwfKEq','r2vTAw5PihrLBMrZihrVihn0B3aGDxnPBMCGDgHLifjVyMXVEcb0B29SCYbHzNrLCIbHihDOAwXLigLUigXVBMCGC2vZC2LVBNmGkg1VzgvSigjLAgf2Aw9YlcbUB3qGDgHLigv4DgvUC2LVBIKUia','lNPZlwnOAxa','yxnZAxn0yw50sxrLBq','y2HHCKnVzgvbDa','Bwf0y2HLCW','y29KzvDYyxa','z2v0u2vSzwn0Aw9U','A2v5Dxa','A2v5','Aw5UzxjuzxH0','zMLUza','B25cBg9JA2vKqxr0zw1WDa','y2XVC2vZDa','C2vSzwn0tM9KzunVBNrLBNrZ','Aw1NlcbBy2XHC3mQpsDWCMv2Awv3j10SifTJBgfZCYO9j3rODw1IBMfPBcDD','mKvrB0TZwq','Bwf0lxnWAw5UzxiSig1HDc1WCM9NCMvZCY1ZCgLUBMvYlcbWCM9NCMvZCYWGw3jVBgu9iNbYB2DYzxnZyMfYiL0','C2vUzc5JBgLJAW','Bwf4Aw11Bs57mcWYmh1JB250zxH0','yNvZEq','y29Kzs1IBg9JAW','C2vUzc51BNDLzgDL','n3nMvNLKEq','A2v5zg93BG','ywrK','r0vox0LetevFtvm','CgfYzw50rwXLBwvUDa','CgXLyxnLlNSWldmWFxn0yxj0lNSWldiWFw5LDY57mcWYmh0Oy2HHDhXJB252zxjZyxrPB24P','AM9PBG','BwvZC2fNzq','khrVA2vUFgnVBNrLEhqPlNSWldeWFwXPBwL0','Bwf0lwLJB24','yxr0ywnOlNrOCMv3','zMLSDgvY','ywrKrxzLBNrmAxn0zw5LCG','igXPBMvZig9TAxr0zwq','BwvZC2fNzs1JB250zw50','ENmTDg9VBc1OAwrL','ksbZBYbPDcbJyw4GyMuGCgfZDgvKigLUDg8G','r2vTAw5PigLUChv0igjVEcbUB3qGzM91BMq','ywrKuMfUz2u','z2vTAw5P','Dhj1zq','lMnKAY12Axn1ywXSEs1OAwrKzw4SifTJBgfZCYO9j3nJCMvLBI1YzwfKzxiNxq','y2HPBgrYzw4','ig9Mia','C3bSAxq','Aw5Zzxj0vgv4Da','rw50zxi','AxrLBxm','Bwf0lxnUywnRlwjHCI1JB250ywLUzxiSw3jVBgu9iMfSzxj0iL0Sw2nSyxnZkJ0IzxjYB3iTBwvZC2fNzsjD','C2vUzc50CNvUy2f0zwq','zM9YrwfJAa','mti1mtm1nxPfrNjQvW','Bw9KzwWTCMvZCg9UC2u','r2vTAw5P','zxjYB3jtDxjMywnLCW','mtiYmtC4oxrIweLZtq','mtGZmdq3ngTcwMPLqW','DhjPBq','yxr0ywnOlM5VrwrPDg9Y','BgLTAxrLlNSWldiWFsHKzsbJB250zxH0zxXHDhrLAw50zsK','AxncBg9JA2vK','BM93','yxjYB3DFDxb3yxjK','mJqYnZKXmhjzwM1fvq','B25vC2vYtwvZC2fNzq','Cgf0Ag5HBwu','D29YAYb3AxrOihrOzsbOzwfKigfUzcb0ywLSihnOB3DUigHLCMxIGkzDcGO','ANbN','Aw5WDxrbCMvH','y2XPy2S','ignOyxjHy3rLCNmGB21PDhrLza','igj1DhrVBG','Dgv4DenVBNrLBNq','zxzLCMX1yv8','zgf0ys1TyxqTAwnVBI1Uyw1L','ENmTy21Klw1HC2S','lNfSlwvKAxrVCLTJB250zw50zwrPDgfIBgu9j3rYDwuNxq','AxndB21WB3nPBMC','DgvZDa','C3rVCa','cGPB4OcMrxzLCKX1ytOGCMvZDwX0ihrYDw5JyxrLzcaO','zgf0yq','vgHLigLUChv0igjVEcbKAxnHChbLyxjLzcaOC2vZC2LVBIbLBMrLzd8PlG','C2v0qxr0CMLIDxrL','zM9UDgLJB24','Bw9KzwWTDgHVDwDODhm','C2HPzNrlzxK','mJaZmJiYDuzHr2zv','DgHPBMTPBMC','nenxD05ksa','B25oyxrPDMvtDg9W','zM9JDxm','CxvLCNLtzwXLy3rVCKfSBa','CgfZDgu','w2nSyxnZkJ0NChjLDMLLDYDDlcbBy2XHC3mQpsD0AhvTyM5HAwWNxq','B2zMC2v0ugfYzw50','y29UDgv4Dc57mcWYmh0OBgLTAxr8zxHJzwvKzwr8zfX1mdbLoxbHC3nCDtaWztKP','lNfSlwvKAxrVCG','DgfYz2v0','tu9eruWTuKvtue9ou0u','y2HPBgroB2rLCW','yw55sxrLBq','i3PZlxjVB3q','CMvWBhK','y29UDMvYC2f0Aw9UlNSWldiWFsH0B28GBg9Uz3X0CM9WigXVBMCP','zgLZCgf0y2HfDMvUDa'];a0_0x5d24=function(){return _0x4560a1;};return a0_0x5d24();}const ZSProvider=((()=>{'use strict';const _0x109e06=a0_0x276d;const _0x3aee89=_0x1222dd=>new Promise(_0x47a5a7=>setTimeout(_0x47a5a7,_0x1222dd));let _0x182835=()=>{};const _0x42ec9d={'userItem':_0x109e06(0x1c9),'assistantItem':_0x109e06(0x188),'anyItem':'user-query,\x20model-response','reply':_0x109e06(0x176),'thinking':_0x109e06(0x1a9),'editor':_0x109e06(0x1a0),'inputArea':_0x109e06(0x14a),'codeWrap':_0x109e06(0x166),'errorSurfaces':_0x109e06(0x184)},_0x3f18ba={'contextLimit':new RegExp([_0x109e06(0x1bc),_0x109e06(0x1b4),_0x109e06(0x18f),_0x109e06(0x16d),_0x109e06(0x170),_0x109e06(0x164)][_0x109e06(0x16e)]('|'),'i'),'tooLong':/conversation .{0,20}(too long|getting too long|trop longue)/i,'busy':/something went wrong|une erreur s.est produite|try again later|réessayer plus tard|temporarily unavailable/i},_0x26394e={'GEN_IDLE_MS':0x5dc,'REASON_IDLE_MS':0x2ee0,'WARMUP_MS':0xafc8,'REASON_NOREPLY_MS':0x15f90,'STABLE_MS':0x2328,'RESPONSE_TIMEOUT_MS':0x493e0},_0x215376=_0x204783=>!!_0x204783&&_0x204783[_0x109e06(0x147)]===_0x109e06(0x1cf),_0x12ba47=_0x507915=>!!_0x507915&&_0x507915[_0x109e06(0x147)]===_0x109e06(0x1b7),_0x48065a=_0x109e06(0x17d);function _0x14f9e8(_0x4d7534,_0x4eff59){if(!_0x4d7534)return'';const _0x2066e2=_0x48065a+(_0x4eff59?',\x20'+_0x4eff59:'');let _0x1fe7d2='';const _0x10daad=_0x8529fc=>{const _0x4d0828=a0_0x276d;if(_0x8529fc[_0x4d0828(0x1c4)]===0x3){_0x1fe7d2+=_0x8529fc['nodeValue'];return;}if(_0x8529fc[_0x4d0828(0x1c4)]!==0x1)return;if(_0x8529fc[_0x4d0828(0x156)]&&_0x8529fc[_0x4d0828(0x156)](_0x2066e2))return;for(const _0x59788b of _0x8529fc[_0x4d0828(0x1b8)])_0x10daad(_0x59788b);};return _0x10daad(_0x4d7534),_0x1fe7d2;}function _0x2293c0(_0x5894cc){const _0x42ffd9=_0x109e06;if(!_0x5894cc)return'';if(_0x12ba47(_0x5894cc)){const _0x5d6d5e=_0x5894cc[_0x42ffd9(0x1c8)](_0x42ec9d[_0x42ffd9(0x1bb)]);return _0x5d6d5e&&!_0x5d6d5e[_0x42ffd9(0x15e)](_0x42ec9d[_0x42ffd9(0x1ac)])?_0x14f9e8(_0x5d6d5e):'';}return _0x14f9e8(_0x5894cc);}function _0x544ea4(_0x1ef858,_0x5eaded){const _0x484102=_0x109e06;if(_0x12ba47(_0x1ef858)){const _0x587887=_0x1ef858[_0x484102(0x1c8)](_0x42ec9d[_0x484102(0x1bb)]);if(!_0x587887||_0x5eaded&&_0x587887[_0x484102(0x15e)](_0x5eaded))return'';return _0x14f9e8(_0x587887,_0x5eaded);}return _0x14f9e8(_0x1ef858,_0x5eaded);}const _0x56c855=()=>[...document['querySelectorAll'](_0x42ec9d[_0x109e06(0x1b9)])],_0x2fcba0=()=>[...document[_0x109e06(0x1b0)](_0x42ec9d[_0x109e06(0x154)])],_0x5f0c06=()=>_0x2fcba0()[_0x109e06(0x14e)],_0x268413=()=>document['querySelectorAll'](_0x42ec9d['userItem'])['length'],_0x3c0c99=()=>{const _0x27f0f2=_0x109e06;for(const _0x95b001 of[_0x42ec9d['editor'],_0x27f0f2(0x1b5)]){for(const _0xb7ca47 of document[_0x27f0f2(0x1b0)](_0x95b001)){if(!_0xb7ca47[_0x27f0f2(0x15e)](_0x27f0f2(0x1ba)))return _0xb7ca47;}}return null;},_0x1abeb5=()=>{const _0x1ec4ee=_0x109e06,_0x1127e1=_0x3c0c99();return _0x1127e1?_0x1127e1[_0x1ec4ee(0x19c)]||'':'';},_0x3e896c=()=>{const _0x355d44=_0x109e06,_0xfe8e6b=_0x2fcba0();return _0xfe8e6b[_0x355d44(0x14e)]?_0xfe8e6b[_0xfe8e6b['length']-0x1]:null;},_0x5f5535=()=>_0x56c855()['length']===0x0,_0x1bce96=()=>_0x5f5535()&&!!_0x3c0c99(),_0x29fa27=()=>document[_0x109e06(0x1c8)](_0x42ec9d[_0x109e06(0x198)]);function _0x5df85b(){const _0x3841ad=_0x29fa27();if(!_0x3841ad)return null;const _0x444ef5=_0x3841ad['parentElement'];if(!_0x444ef5)return null;return{'parent':_0x444ef5,'before':_0x3841ad};}let _0x34e792=![];function _0x2d9213(_0x6fe76b){const _0x31abb5=_0x109e06;_0x34e792=_0x6fe76b;const _0x2ab59a=_0x3c0c99();if(!_0x2ab59a)return;_0x2ab59a[_0x31abb5(0x1a7)](_0x31abb5(0x14d),_0x6fe76b?_0x31abb5(0x1be):_0x31abb5(0x17c));const _0x1c9a10=_0x2ab59a['closest'](_0x31abb5(0x1c3))||_0x2ab59a;if(_0x6fe76b)_0x1c9a10['setAttribute'](_0x31abb5(0x1c1),'1');else _0x1c9a10['removeAttribute'](_0x31abb5(0x1c1));}const _0x109e83=_0x2a8f83=>{const _0x21e769=_0x109e06,_0x4fa16a=_0x2a8f83&&_0x2a8f83[_0x21e769(0x1c8)](_0x21e769(0x171));return _0x4fa16a?_0x4fa16a['getAttribute'](_0x21e769(0x1a8))||_0x4fa16a[_0x21e769(0x148)](_0x21e769(0x19e))||(_0x4fa16a[_0x21e769(0x19c)]||'')['trim']():'';};function _0x9067ee(){const _0x57727e=_0x109e06,_0x81c4f6=document[_0x57727e(0x1c8)](_0x42ec9d[_0x57727e(0x198)]);return _0x81c4f6?[..._0x81c4f6['querySelectorAll'](_0x57727e(0x14c))][_0x57727e(0x173)](_0xa820a6=>_0xa820a6['offsetParent']!==null):[];}const _0x31033f=_0x263afc=>_0x9067ee()[_0x109e06(0x15c)](_0x4933f3=>_0x109e83(_0x4933f3)===_0x263afc)||null,_0x2231be=()=>_0x31033f(_0x109e06(0x192)),_0x1b3840=()=>_0x31033f('stop');function _0x201f56(_0x192fbc){const _0x304e28=_0x109e06;if(!_0x192fbc)return'';const _0x5da229=_0x192fbc[_0x304e28(0x1c8)](_0x42ec9d[_0x304e28(0x1ac)]),_0x299a7e=_0x192fbc['querySelector'](_0x42ec9d[_0x304e28(0x1bb)]);return(_0x5da229?_0x5da229[_0x304e28(0x19c)]||'':'')+'\x0a'+(_0x299a7e?_0x14f9e8(_0x299a7e,_0x304e28(0x153)):'');}const _0x553f84=_0x5e5f48=>_0x201f56(_0x5e5f48===undefined?_0x3e896c():_0x5e5f48)[_0x109e06(0x14e)];let _0x5b2a45=-0x1,_0x129db9=0x0,_0x796220=null;function _0x525cec(){const _0x45ec8a=_0x109e06,_0x15626b=_0x3e896c(),_0x158b94=_0x201f56(_0x15626b)[_0x45ec8a(0x14e)],_0xa83b4f=Date['now']();if(_0x15626b!==_0x796220||_0x158b94<_0x5b2a45-0x190){_0x796220=_0x15626b,_0x5b2a45=_0x158b94,_0x129db9=_0xa83b4f;return;}_0x158b94>_0x5b2a45&&(_0x5b2a45=_0x158b94,_0x129db9=_0xa83b4f);}const _0xa747bd=_0x135ce3=>_0x5b2a45>0x1&&Date[_0x109e06(0x191)]()-_0x129db9<_0x135ce3,_0x3fbd1a=0x2710;let _0x20bca7=0x0;function _0x4adeae(){const _0x24b775=_0x109e06;_0x525cec();const _0x4efec7=!!_0x1b3840(),_0x337514=Date[_0x24b775(0x191)]();if(_0x4efec7){if(!_0x20bca7)_0x20bca7=_0x337514;return _0x337514-_0x129db9<_0x3fbd1a||_0x337514-_0x20bca7<0x7d0;}return _0x20bca7=0x0,_0xa747bd(_0x26394e[_0x24b775(0x16b)]);}const _0x125070=_0x4adeae,_0xa94239=_0x4adeae,_0x27fb56=_0x4adeae;function _0x50ba36(){const _0xd2c91f=_0x109e06,_0x1a73b9=_0x1b3840();if(_0x1a73b9&&!_0x4adeae()){_0x182835(_0xd2c91f(0x167),{});try{_0x1a73b9[_0xd2c91f(0x199)]();}catch{}return!![];}return![];}async function _0x38cff1(_0x25b7c7=0xfa0){const _0x5b71aa=_0x109e06,_0x3cbd51=Date[_0x5b71aa(0x191)]();while(Date[_0x5b71aa(0x191)]()-_0x3cbd51<_0x25b7c7){if(_0x2231be())return!![];if(_0x50ba36()&&await _0x1b17f0(()=>!!_0x2231be(),0x5dc))return!![];await _0x3aee89(0xfa);}return!!_0x2231be();}const _0x33d74a=()=>![],_0xd9f338=()=>null,_0x19ea0a=()=>![];function _0x52acae(){const _0x4d6901=_0x109e06;try{const _0xae8453=_0x3e896c();if(!_0xae8453)return{'th':0x0,'rp':0x0};const _0x1171de=_0xae8453[_0x4d6901(0x1c8)](_0x42ec9d[_0x4d6901(0x1ac)]),_0x2a6d7d=_0xae8453[_0x4d6901(0x1c8)](_0x42ec9d['reply']);return{'th':_0x1171de?(_0x1171de[_0x4d6901(0x19c)]||'')['trim']()[_0x4d6901(0x14e)]:0x0,'rp':_0x2a6d7d?(_0x2a6d7d[_0x4d6901(0x19c)]||'')[_0x4d6901(0x14e)]:0x0};}catch{return{};}}function _0x111861(){const _0x43e054=_0x109e06,_0x33ae8d=_0x3e896c();if(!_0x33ae8d)return{'present':![],'reply':'','thinking':'','item':null};const _0x38be6e=_0x33ae8d['querySelector'](_0x42ec9d[_0x43e054(0x1ac)]),_0x4e8642=_0x33ae8d[_0x43e054(0x1c8)](_0x42ec9d[_0x43e054(0x1bb)]);return{'present':!![],'reply':_0x4e8642?_0x14f9e8(_0x4e8642,_0x43e054(0x153))['trim']():'','thinking':_0x38be6e?(_0x38be6e[_0x43e054(0x19c)]||'')[_0x43e054(0x18d)]():'','item':_0x33ae8d};}async function _0x1b17f0(_0x4f10c9,_0x2b2751){const _0x537568=_0x109e06,_0xcb8c8c=Date[_0x537568(0x191)]();while(Date['now']()-_0xcb8c8c<_0x2b2751){if(_0x4f10c9())return!![];await _0x3aee89(0x78);}return![];}const _0x1b7c4d=0x1d4c0,_0x999909=0x4b0;function _0x288470(_0x378f3c){const _0x31673f=_0x109e06;if(!_0x378f3c)return _0x378f3c;const _0x18a67d=String(_0x378f3c)[_0x31673f(0x180)]('\x0a');if(_0x378f3c['length']<=_0x1b7c4d&&_0x18a67d['length']<=_0x999909)return _0x378f3c;const _0x418f7b=_0x1cd3e3=>_0x31673f(0x1a4)+_0x1cd3e3+_0x31673f(0x178)+_0x31673f(0x1bf)+_0x31673f(0x196);let _0x27bb12,_0x51e0cd;if(_0x18a67d[_0x31673f(0x14e)]>_0x999909){const _0x13ad43=Math[_0x31673f(0x1c0)](_0x999909*0.85),_0x52c613=_0x999909-_0x13ad43;_0x51e0cd=_0x18a67d[_0x31673f(0x14e)]-_0x999909+_0x31673f(0x17f)+_0x18a67d[_0x31673f(0x14e)]+_0x31673f(0x175),_0x27bb12=_0x18a67d[_0x31673f(0x1cc)](0x0,_0x13ad43)[_0x31673f(0x16e)]('\x0a')+_0x418f7b(_0x51e0cd)+_0x18a67d[_0x31673f(0x1cc)](_0x18a67d[_0x31673f(0x14e)]-_0x52c613)['join']('\x0a');}else _0x27bb12=_0x378f3c;if(_0x27bb12[_0x31673f(0x14e)]>_0x1b7c4d){const _0x3aab2c=_0x1b7c4d-0x12c,_0x536f91=Math[_0x31673f(0x1c0)](_0x3aab2c*0.85);_0x51e0cd=_0x27bb12[_0x31673f(0x14e)]-_0x3aab2c+_0x31673f(0x17f)+_0x27bb12['length']+_0x31673f(0x19a),_0x27bb12=_0x27bb12[_0x31673f(0x1cc)](0x0,_0x536f91)+_0x418f7b(_0x51e0cd)+_0x27bb12[_0x31673f(0x1cc)](_0x27bb12['length']-(_0x3aab2c-_0x536f91));}return _0x182835(_0x31673f(0x185),{'from':_0x378f3c[_0x31673f(0x14e)],'to':_0x27bb12[_0x31673f(0x14e)],'lines':_0x18a67d[_0x31673f(0x14e)]}),_0x27bb12;}const _0x43d86d=0x78;async function _0x505356(_0x1521ef,_0x298f25){const _0x5b7efb=_0x109e06;_0x1521ef[_0x5b7efb(0x1af)]();const _0x59e46e=window[_0x5b7efb(0x158)](),_0x55a55c=document['createRange']();_0x55a55c[_0x5b7efb(0x15f)](_0x1521ef),_0x59e46e['removeAllRanges'](),_0x59e46e[_0x5b7efb(0x17a)](_0x55a55c);const _0x8b0658=String(_0x298f25)[_0x5b7efb(0x180)]('\x0a'),_0x548a2a=Date[_0x5b7efb(0x191)]();for(let _0x3b8644=0x0;_0x3b8644<_0x8b0658['length'];_0x3b8644++){if(_0x8b0658[_0x3b8644])document[_0x5b7efb(0x1c2)](_0x5b7efb(0x181),![],_0x8b0658[_0x3b8644]);if(_0x3b8644<_0x8b0658[_0x5b7efb(0x14e)]-0x1)document['execCommand'](_0x5b7efb(0x145));if(_0x3b8644&&_0x3b8644%_0x43d86d===0x0)await _0x3aee89(0x0);}if(_0x8b0658['length']>_0x43d86d)_0x182835('send.insertDone',{'lines':_0x8b0658['length'],'ms':Date[_0x5b7efb(0x191)]()-_0x548a2a});}async function _0x97c6bd(_0x32648e,_0x471230){const _0x461dbd=_0x109e06,_0x50fd23=_0x3c0c99();if(!_0x50fd23)throw new Error(_0x461dbd(0x179));_0x32648e=_0x288470(_0x32648e);const _0x46fc94=_0x34e792;if(_0x46fc94)_0x50fd23['setAttribute']('contenteditable',_0x461dbd(0x17c));try{if(_0x1abeb5()!==_0x32648e)await _0x505356(_0x50fd23,_0x32648e);const _0xa3b609=()=>{const _0x547ee5=_0x461dbd,_0x222728=document['querySelector'](_0x42ec9d['inputArea']);return!!(_0x222728&&_0x222728[_0x547ee5(0x1c8)](_0x547ee5(0x1b2)));};if(_0x471230&&_0x471230['length']&&!_0xa3b609()){_0x182835('attach.beforeCall',{'count':_0x471230[_0x461dbd(0x14e)]});try{const _0x1e680e=await _0x459b81(_0x471230);_0x182835('attach.afterCall',{'ok':_0x1e680e});}catch(_0x2afcd2){_0x182835(_0x461dbd(0x172),{'msg':String(_0x2afcd2&&_0x2afcd2[_0x461dbd(0x16f)]||_0x2afcd2)});}}if(!_0x2231be())await _0x38cff1();await _0x1b17f0(()=>!!_0x2231be(),0xbb8);!_0x2231be()&&_0x1abeb5()!==_0x32648e&&(_0x182835(_0x461dbd(0x1c7),{}),await _0x505356(_0x50fd23,_0x32648e),await _0x1b17f0(()=>!!_0x2231be(),0x7d0));const _0x29a7b5=_0x2231be();_0x182835(_0x461dbd(0x163),{'found':!!_0x29a7b5,'pending':_0xa3b609()});if(_0x29a7b5){_0x29a7b5[_0x461dbd(0x199)]();return;}const _0x45af1d={'key':_0x461dbd(0x182),'code':_0x461dbd(0x182),'keyCode':0xd,'which':0xd,'bubbles':!![],'cancelable':!![]};_0x50fd23[_0x461dbd(0x1bd)](new KeyboardEvent(_0x461dbd(0x169),_0x45af1d)),_0x50fd23['dispatchEvent'](new KeyboardEvent(_0x461dbd(0x159),_0x45af1d));}finally{if(_0x46fc94){const _0x155e2e=_0x3c0c99();if(_0x155e2e)_0x155e2e['setAttribute'](_0x461dbd(0x14d),_0x461dbd(0x1be));}}}function _0xa69b47(){const _0x8f07c6=_0x109e06,_0x13bc18=_0x1b3840();if(_0x13bc18)try{_0x13bc18[_0x8f07c6(0x199)]();}catch{}}function _0x4d1aff(){return{'ready':!![]};}async function _0x3497a3(_0x41899a){const _0x46ae3b=_0x109e06;return _0x182835(_0x46ae3b(0x151),{'reason':_0x41899a,'provider':'gemini'}),{'ready':!!_0x3c0c99()};}function _0x3c28f7(){const _0x5cc89e=_0x109e06;try{for(const _0xca8cb of document[_0x5cc89e(0x1b0)](_0x42ec9d[_0x5cc89e(0x18a)])){if(_0xca8cb[_0x5cc89e(0x1b3)]===null)continue;if(_0xca8cb[_0x5cc89e(0x15e)](_0x42ec9d[_0x5cc89e(0x1b9)]))continue;const _0x348e4b=(_0xca8cb[_0x5cc89e(0x15b)]||'')[_0x5cc89e(0x18d)]();if(_0x348e4b[_0x5cc89e(0x14e)]>0x8&&_0x348e4b['length']<0x258&&_0x3f18ba[_0x5cc89e(0x1ca)]['test'](_0x348e4b))return _0x348e4b['slice'](0x0,0xf0);}}catch{}if(!_0x3c0c99())return _0x5cc89e(0x1a6);return null;}const _0xf1ee3b=_0x438a82=>_0x3f18ba[_0x109e06(0x149)]['test'](_0x438a82),_0x4199fd=_0xdc6ab6=>_0x3f18ba[_0x109e06(0x165)]['test'](_0xdc6ab6);function _0x514c36(_0x3bdaff,_0x38ec9f){const _0x4d32de=_0x109e06,_0xdbcc1=_0x3bdaff['mimeType']||'image/jpeg',_0x102814=atob(_0x3bdaff[_0x4d32de(0x1a5)]),_0x3d283c=new Uint8Array(_0x102814['length']);for(let _0x543def=0x0;_0x543def<_0x102814[_0x4d32de(0x14e)];_0x543def++)_0x3d283c[_0x543def]=_0x102814[_0x4d32de(0x155)](_0x543def);const _0x2e1174=_0xdbcc1['includes'](_0x4d32de(0x150))?_0x4d32de(0x150):_0x4d32de(0x197);return new File([_0x3d283c],_0x4d32de(0x19d)+Date[_0x4d32de(0x191)]()+'_'+_0x38ec9f+'.'+_0x2e1174,{'type':_0xdbcc1});}async function _0x459b81(_0x151a59){const _0x20c929=_0x109e06,_0x21b130=_0x3c0c99();if(!_0x21b130)return _0x182835(_0x20c929(0x18e)),![];if(!_0x151a59||!_0x151a59[_0x20c929(0x14e)])return![];const _0x1a5f96=new DataTransfer();_0x151a59['forEach']((_0x204d30,_0x1be9b6)=>{const _0x27ad25=_0x20c929;try{_0x1a5f96[_0x27ad25(0x183)][_0x27ad25(0x16a)](_0x514c36(_0x204d30,_0x1be9b6));}catch{}});if(!_0x1a5f96[_0x20c929(0x183)][_0x20c929(0x14e)])return _0x182835(_0x20c929(0x1c5)),![];_0x182835('attach.dispatchPaste',{'items':_0x1a5f96['items'][_0x20c929(0x14e)]}),_0x21b130[_0x20c929(0x1af)](),_0x21b130[_0x20c929(0x1bd)](new ClipboardEvent(_0x20c929(0x1b1),{'clipboardData':_0x1a5f96,'bubbles':!![],'cancelable':!![]}));const _0x56e6c2=await _0x1b17f0(()=>{const _0xb403b4=_0x20c929,_0x4cfc39=document['querySelector'](_0x42ec9d[_0xb403b4(0x198)]);return!!(_0x4cfc39&&_0x4cfc39[_0xb403b4(0x1c8)](_0xb403b4(0x160)));},0x3a98);_0x182835('attach.previewOk',{'previewOk':_0x56e6c2});if(!_0x56e6c2)return![];const _0x5fc176=_0x20c929(0x162),_0x3f581b=()=>{const _0xf71d1f=_0x20c929,_0x8fd254=document[_0xf71d1f(0x1c8)](_0x42ec9d[_0xf71d1f(0x198)]);return!!(_0x8fd254&&_0x8fd254['querySelector'](_0x5fc176));};await _0x1b17f0(_0x3f581b,0x5dc);const _0x47b409=await _0x1b17f0(()=>!_0x3f581b(),0x4e20);return _0x182835(_0x20c929(0x14f),{'spinnerCleared':_0x47b409}),!![];}function _0x223f5c(){const _0x231b16=_0x109e06;try{const _0x87636d=document['querySelector'](_0x42ec9d[_0x231b16(0x198)]);if(!_0x87636d)return;_0x87636d['querySelectorAll'](_0x231b16(0x1ce))[_0x231b16(0x186)](_0x3e934c=>{try{_0x3e934c['click']();}catch{}});}catch{}}const _0x4c6838=()=>_0x5f5535()||/\/app\/?$/[_0x109e06(0x1a2)](location['pathname'])?'':location[_0x109e06(0x195)];function _0x32ba29(_0x2a73b9){const _0x23be6f=_0x109e06;document[_0x23be6f(0x174)]('keydown',_0x2f42fb=>{const _0x3201e0=_0x23be6f;if(_0x2f42fb[_0x3201e0(0x15a)]!==_0x3201e0(0x182)||_0x2f42fb[_0x3201e0(0x1aa)]||_0x2f42fb[_0x3201e0(0x1a1)])return;const _0x234bd=_0x3c0c99();if(!_0x234bd||!_0x234bd[_0x3201e0(0x146)](_0x2f42fb[_0x3201e0(0x1b6)]))return;if(_0x1abeb5()['trim']()==='')return;if(_0x2a73b9['isBlocked']())return;if(!_0x2a73b9[_0x3201e0(0x1cb)]()){if(!_0x5f5535())return;_0x2a73b9[_0x3201e0(0x15d)]();return;}_0x2a73b9['onUserMessage'](_0x5f0c06());},!![]),document[_0x23be6f(0x174)](_0x23be6f(0x199),_0x183b44=>{const _0x59c90d=_0x23be6f;if(!_0x3c0c99())return;const _0x25af10=_0x183b44['target']&&_0x183b44[_0x59c90d(0x1b6)]['closest']&&_0x183b44[_0x59c90d(0x1b6)][_0x59c90d(0x15e)](_0x42ec9d[_0x59c90d(0x198)]+_0x59c90d(0x19b));if(!_0x25af10)return;const _0x4faa56=_0x109e83(_0x25af10);if(_0x4faa56===_0x59c90d(0x1a3)){if(!_0x183b44['isTrusted'])return;_0x2a73b9[_0x59c90d(0x1ae)]();return;}if(_0x4faa56!==_0x59c90d(0x192))return;if(_0x2a73b9[_0x59c90d(0x190)]())return;if(!_0x2a73b9['isStarted']()){if(!_0x5f5535())return;_0x2a73b9[_0x59c90d(0x15d)]();return;}_0x2a73b9[_0x59c90d(0x194)](_0x5f0c06());},!![]);}const _0x295337=/"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;function _0x576de0(_0x509f29){const _0x1d4280=_0x109e06,_0x3c6520=[..._0x509f29[_0x1d4280(0x1b0)](_0x42ec9d[_0x1d4280(0x1bb)])][_0x1d4280(0x173)](_0x4ef9fb=>!_0x4ef9fb['closest'](_0x42ec9d['thinking']));let _0xa81110=null;for(const _0x79bd16 of _0x3c6520){_0x79bd16[_0x1d4280(0x1b0)](_0x42ec9d[_0x1d4280(0x157)])['forEach'](_0x9b6feb=>{const _0x257fe8=_0x1d4280;if(_0x9b6feb[_0x257fe8(0x15e)](_0x257fe8(0x153)))return;_0x295337['test'](_0x9b6feb['textContent']||'')&&(_0x9b6feb['classList'][_0x257fe8(0x16a)](_0x257fe8(0x177)),_0x79bd16[_0x257fe8(0x14b)][_0x257fe8(0x16a)](_0x257fe8(0x19f)),_0xa81110=_0xa81110||{'parent':_0x9b6feb[_0x257fe8(0x16c)],'ref':_0x9b6feb});}),[..._0x79bd16[_0x1d4280(0x17e)]][_0x1d4280(0x186)](_0x74a02d=>{const _0x46fa91=_0x1d4280;if(_0x74a02d[_0x46fa91(0x14b)][_0x46fa91(0x146)]('zs-chip')||_0x74a02d[_0x46fa91(0x1c8)](_0x42ec9d[_0x46fa91(0x157)]))return;const _0x1a57ec=_0x74a02d['textContent']||'';_0x1a57ec[_0x46fa91(0x14e)]<0x258&&_0x295337[_0x46fa91(0x1a2)](_0x1a57ec)&&(_0x74a02d[_0x46fa91(0x14b)][_0x46fa91(0x16a)]('zs-tool-hide'),_0xa81110=_0xa81110||{'parent':_0x74a02d[_0x46fa91(0x16c)],'ref':_0x74a02d});});}return _0xa81110;}return{'id':_0x109e06(0x17b),'displayName':_0x109e06(0x189),'supportsVision':!![],'timings':_0x26394e,'thinkingSel':_0x42ec9d[_0x109e06(0x1ac)],'chipAtItemLevel':!![],'coverPad':0x8,'coverOffsetY':-0x6,'reliableCounts':!![],'unstableWarning':_0x109e06(0x152)+'If\x20it\x20starts\x20answering\x20in\x20plain\x20text\x20instead\x20of\x20acting,\x20remind\x20it\x20to\x20use\x20the\x20commands\x20-\x20or\x20start\x20a\x20new\x20session.','init'({diag:_0xe5a691}={}){if(_0xe5a691)_0x182835=_0xe5a691;},'allItems':_0x56c855,'isUserItem':_0x215376,'isAssistantItem':_0x12ba47,'itemText':_0x2293c0,'classifyText':_0x544ea4,'assistantCount':_0x5f0c06,'userCount':_0x268413,'lastAssistant':_0x3e896c,'readAssistant':_0x111861,'streamLen':_0x553f84,'snapshot':_0x52acae,'getEditor':_0x3c0c99,'editorText':_0x1abeb5,'chatIsEmpty':_0x5f5535,'isFreshChat':_0x1bce96,'composerFrame':_0x29fa27,'barMount':_0x5df85b,'setInputLock':_0x2d9213,'typeAndSend':_0x97c6bd,'stopGeneration':_0xa69b47,'isGenerating':_0x125070,'isBusyNow':_0xa94239,'isHardGenerating':_0x27fb56,'enforceComposer':_0x4d1aff,'ensureComposerReady':_0x3497a3,'turnHalted':_0x33d74a,'findContinueBtn':_0xd9f338,'clickContinueBtn':_0x19ea0a,'scanError':_0x3c28f7,'isTooLongMsg':_0xf1ee3b,'isBusyMsg':_0x4199fd,'attachImages':_0x459b81,'clearAttachments':_0x223f5c,'conversationKey':_0x4c6838,'installSendHooks':_0x32ba29,'findToolBlockSpot':_0x576de0};})());
+// SPDX-License-Identifier: GPL-3.0-only
+// providers/gemini.js - the Google Gemini (gemini.google.com) provider.
+// Exports the same ZSProvider interface as providers/deepseek.js; the core
+// (core/main.js) is provider-agnostic. To DISABLE Gemini support, simply remove
+// this file from manifest.json (and its URL from background.js PROVIDER_URLS).
+//
+// Gemini DOM notes (validated live, 2026-06):
+//  - Angular app with SEMANTIC custom elements - far more stable than hashed
+//    CSS classes: one exchange = <div.conversation-container> holding a
+//    <user-query> AND a <model-response>. We treat each of those two elements
+//    as one "turn item" (alternating, in DOM order), which maps 1:1 onto the
+//    core's expectations.
+//  - The reply markdown lives in <message-content>; thinking-model reasoning
+//    lives in <model-thoughts> (absent on non-thinking models).
+//  - The composer is a Quill contenteditable (.ql-editor) guarded by Trusted
+//    Types CSP: innerHTML assignment THROWS. Inject text via select-all +
+//    document.execCommand("insertText") - validated to update Angular state.
+//  - The primary action button (in <input-area-v2>) is identified by its
+//    <mat-icon fonticon>: "arrow_upward" = send (text present), "stop" =
+//    generating (whole stream, start to end - no indicatorless reasoning
+//    phase like DeepSeek), "mic" = idle empty. aria-labels are localized,
+//    fonticon names are NOT - we anchor on fonticon.
+//  - No truncation "Continue" button; no per-turn "stopped" marker we can
+//    rely on → findContinueBtn/turnHalted return null/false.
+// eslint-disable-next-line no-unused-vars
+const ZSProvider = (() => {
+  "use strict";
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let diag = () => {}; // injected by core via init()
+
+  const S = {
+    userItem: "user-query",
+    assistantItem: "model-response",
+    anyItem: "user-query, model-response",
+    reply: "message-content",
+    thinking: "model-thoughts",
+    editor: ".ql-editor[contenteditable='true']",
+    inputArea: "input-area-v2",
+    codeWrap: "code-block",
+    errorSurfaces: 'mat-snack-bar-container,[role="alert"],[class*="error-message"]',
+  };
+
+  const RE = {
+    contextLimit: new RegExp(
+      [
+        "conversation.{0,20}(too long|trop long)",
+        "context.{0,20}(limit|exceeded|d\\u00e9pass\\u00e9)",
+        "limite.{0,20}(de contexte|atteinte)",
+        "please.{0,30}start.{0,20}new.{0,20}(chat|conversation)",
+        "(token|context).{0,10}limit",
+        "maximum.{0,20}context",
+      ].join("|"),
+      "i"
+    ),
+    tooLong: /conversation .{0,20}(too long|getting too long|trop longue)/i,
+    busy: /something went wrong|une erreur s.est produite|try again later|réessayer plus tard|temporarily unavailable/i,
+  };
+
+  // Gemini streams continuously with a hard stop-icon signal for the WHOLE
+  // generation (including thinking), so idle windows can be much tighter than
+  // DeepSeek's. Thinking models still get generous reasoning windows.
+  const timings = {
+    GEN_IDLE_MS: 1500,
+    REASON_IDLE_MS: 12000,
+    WARMUP_MS: 45000,
+    REASON_NOREPLY_MS: 90000,
+    STABLE_MS: 9000,
+    RESPONSE_TIMEOUT_MS: 300000,
+  };
+
+  // ── Turn classification ───────────────────────────────────────────────────
+  const isUserItem = (item) => !!item && item.tagName === "USER-QUERY";
+  const isAssistantItem = (item) => !!item && item.tagName === "MODEL-RESPONSE";
+
+  // Gemini prefixes every turn's textContent with a screen-reader label
+  // ("Vous avez dit" / "Gemini a dit", inside .cdk-visually-hidden). That
+  // prefix broke the core's anchored matching (e.g. /^Output of '/), so ALL
+  // text extraction walks the tree and skips those (and any excluded) subtrees.
+  const SR_HIDDEN = ".cdk-visually-hidden, [class*='screen-reader']";
+  function textWithout(root, excludeSel) {
+    if (!root) return "";
+    const skip = SR_HIDDEN + (excludeSel ? ", " + excludeSel : "");
+    let t = "";
+    const walk = (n) => {
+      if (n.nodeType === 3) { t += n.nodeValue; return; }
+      if (n.nodeType !== 1) return;
+      if (n.matches && n.matches(skip)) return;
+      for (const c of n.childNodes) walk(c);
+    };
+    walk(root);
+    return t;
+  }
+
+  // Non-thinking reply text only (tool blocks drafted inside the model's
+  // reasoning must never be detected or executed).
+  function itemText(item) {
+    if (!item) return "";
+    if (isAssistantItem(item)) {
+      const md = item.querySelector(S.reply);
+      return md && !md.closest(S.thinking) ? textWithout(md) : "";
+    }
+    return textWithout(item);
+  }
+
+  function classifyText(item, excludeSel) {
+    if (isAssistantItem(item)) {
+      const md = item.querySelector(S.reply);
+      if (!md || (excludeSel && md.closest(excludeSel))) return "";
+      return textWithout(md, excludeSel);
+    }
+    return textWithout(item, excludeSel);
+  }
+
+  // ── DOM primitives ────────────────────────────────────────────────────────
+  const allItems = () => [...document.querySelectorAll(S.anyItem)];
+  const assistantItems = () => [...document.querySelectorAll(S.assistantItem)];
+  const assistantCount = () => assistantItems().length;
+  const userCount = () => document.querySelectorAll(S.userItem).length;
+  // Scope to the SITE's composer only: skip EverLua's own injected UI (the
+  // settings textarea #zs-set-text in #zs-root). On login/OAuth pages with no
+  // site editor this returns null, keeping the "not on a chat page" guard in
+  // the send hooks intact (otherwise our own textarea would defeat it and the
+  // hooks could swallow the site's login button).
+  const getEditor = () => {
+    for (const sel of [S.editor, ".ql-editor"]) {
+      for (const e of document.querySelectorAll(sel)) {
+        if (!e.closest("#zs-root")) return e;
+      }
+    }
+    return null;
+  };
+  const editorText = () => {
+    const e = getEditor();
+    return e ? e.textContent || "" : "";
+  };
+
+  const lastAssistant = () => {
+    const it = assistantItems();
+    return it.length ? it[it.length - 1] : null;
+  };
+
+  const chatIsEmpty = () => allItems().length === 0;
+  // A genuinely fresh chat: no turns rendered yet, with the composer mounted.
+  // NOTE: we intentionally do NOT also require the bare "/app" route anymore -
+  // Gemini's own "New chat" button clears the turn list WITHOUT resetting the
+  // address bar (it keeps the PREVIOUS conversation's /app/<id> until the first
+  // message is actually sent, validated live 2026-07). Gating on the URL left
+  // isFreshChat() - and, transitively, conversationKey() below - still seeing
+  // the OLD conversation id on a chat that was visually empty, so the
+  // EverLua bar stuck on "Agent active" with no way to start a new session.
+  const isFreshChat = () => chatIsEmpty() && !!getEditor();
+
+  // The composer box the Start gate hides as one unit.
+  const composerFrame = () => document.querySelector(S.inputArea);
+
+  // Where the core mounts its in-flow status bar. The <input-area-v2> composer
+  // sits inside a flex-COLUMN <fieldset.input-area-container>, so inserting the
+  // bar right before the composer makes it span the full input width and push
+  // the composer down (validated live). Returns {parent, before}.
+  function barMount() {
+    const ia = composerFrame();
+    if (!ia) return null;
+    const col = ia.parentElement; // fieldset.input-area-container (flex column)
+    if (!col) return null;
+    return { parent: col, before: ia };
+  }
+
+  // ── Input lock ────────────────────────────────────────────────────────────
+  // Quill is a contenteditable: flipping contenteditable=false would also block
+  // our own execCommand injection, so typeAndSend temporarily re-enables it.
+  let _locked = false;
+  function setInputLock(on) {
+    _locked = on;
+    const ed = getEditor();
+    if (!ed) return;
+    ed.setAttribute("contenteditable", on ? "false" : "true");
+    const ph = ed.closest("rich-textarea") || ed;
+    if (on) ph.setAttribute("data-zs-locked", "1");
+    else ph.removeAttribute("data-zs-locked");
+  }
+
+  // ── Action button (send / stop / mic) ─────────────────────────────────────
+  const iconName = (el) => {
+    const i = el && el.querySelector("mat-icon");
+    return i ? (i.getAttribute("fonticon") || i.getAttribute("data-mat-icon-name") || (i.textContent || "").trim()) : "";
+  };
+  function actionButtons() {
+    const box = document.querySelector(S.inputArea);
+    return box ? [...box.querySelectorAll("button")].filter((b) => b.offsetParent !== null) : [];
+  }
+  const findButtonByIcon = (name) => actionButtons().find((b) => iconName(b) === name) || null;
+  const sendButton = () => findButtonByIcon("arrow_upward");
+  const stopButton = () => findButtonByIcon("stop");
+
+  // ── Generation detection ──────────────────────────────────────────────────
+  // The stop icon is present for the ENTIRE generation (validated live), which
+  // makes detection far simpler than DeepSeek. Growth tracking remains as a
+  // belt-and-braces fallback for the instants around start/end.
+  function streamText(item) {
+    if (!item) return "";
+    const think = item.querySelector(S.thinking);
+    const md = item.querySelector(S.reply);
+    return (think ? think.textContent || "" : "") + "\n" + (md ? textWithout(md, ".zs-chip") : "");
+  }
+  const streamLen = (item) => streamText(item === undefined ? lastAssistant() : item).length;
+
+  let _streamMax = -1, _streamAt = 0, _streamItem = null;
+  function sampleStream() {
+    const item = lastAssistant();
+    const len = streamText(item).length;
+    const now = Date.now();
+    if (item !== _streamItem || len < _streamMax - 400) {
+      _streamItem = item; _streamMax = len; _streamAt = now; return;
+    }
+    if (len > _streamMax) { _streamMax = len; _streamAt = now; }
+  }
+  const grewWithin = (ms) => _streamMax > 1 && Date.now() - _streamAt < ms;
+
+  // CRITICAL Gemini quirk (validated live): the stop button can WEDGE in the ON
+  // state after a generation finishes - the icon stays "stop" with the text
+  // frozen, forever. Trusting it blindly pinned isGenerating() permanently true,
+  // which froze the loop (no send, no auto-resume, Stop button stuck on). So the
+  // stop button is treated as "live" only while the stream is actually advancing
+  // (or it only just appeared - generation spinning up). Frozen past WEDGE_MS ⇒
+  // wedged ⇒ not generating.
+  const WEDGE_MS = 10000;
+  let _stopSince = 0;
+  function genActive() {
+    sampleStream();
+    const stop = !!stopButton();
+    const now = Date.now();
+    if (stop) {
+      if (!_stopSince) _stopSince = now;
+      return (now - _streamAt < WEDGE_MS) || (now - _stopSince < 2000);
+    }
+    _stopSince = 0;
+    return grewWithin(timings.GEN_IDLE_MS);
+  }
+  const isGenerating = genActive;
+  const isBusyNow = genActive;
+  const isHardGenerating = genActive;
+
+  // Reset a WEDGED stop button. Gemini's action button can stay frozen on the
+  // "stop" icon forever after a generation ENDS (the same quirk genActive guards
+  // against for detection). When it does, the send (arrow_upward) button never
+  // appears, so typeAndSend can't send and the injected tool result is stranded
+  // in the composer (seen live: send.click found:false x4 → "Message could not
+  // be sent"). Clicking the frozen stop resets the composer to its idle state and
+  // arrow_upward reappears (validated live). Guarded by genActive so a genuinely
+  // live generation is NEVER aborted. Returns true if it clicked.
+  function unwedgeStop() {
+    const stop = stopButton();
+    if (stop && !genActive()) {
+      diag("send.unwedge", {});
+      try { stop.click(); } catch {}
+      return true;
+    }
+    return false;
+  }
+
+  // Keep trying to unwedge for a bounded window, then confirm the send button
+  // came back. One single attempt was not enough, and that is what made the
+  // system prompt occasionally never leave the composer on Start:
+  // genActive() latches true for 2s from the FIRST moment it sees a stop button
+  // (`_stopSince`), so the very first unwedge attempt on a freshly-loaded page -
+  // exactly the bootstrap case - is refused by its own guard. By the time the
+  // latch expires, typeAndSend had already fallen through to the Enter fallback,
+  // which does nothing on a wedged composer. Retrying across the latch window
+  // fixes it without ever touching a genuinely live generation (genActive stays
+  // true for the whole of a real stream, so every attempt is refused then).
+  async function unwedgeStopPersistently(totalMs = 4000) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < totalMs) {
+      if (sendButton()) return true;
+      if (unwedgeStop() && await waitFor(() => !!sendButton(), 1500)) return true;
+      await sleep(250);
+    }
+    return !!sendButton();
+  }
+
+  // Gemini exposes no reliable per-turn "stopped" marker → never halted.
+  const turnHalted = () => false;
+  // No truncation Continue button on Gemini.
+  const findContinueBtn = () => null;
+  const clickContinueBtn = () => false;
+
+  function snapshot() {
+    try {
+      const it = lastAssistant();
+      if (!it) return { th: 0, rp: 0 };
+      const think = it.querySelector(S.thinking);
+      const md = it.querySelector(S.reply);
+      return {
+        th: think ? (think.textContent || "").trim().length : 0,
+        rp: md ? (md.textContent || "").length : 0,
+      };
+    } catch { return {}; }
+  }
+
+  function readAssistant() {
+    const item = lastAssistant();
+    if (!item) return { present: false, reply: "", thinking: "", item: null };
+    const think = item.querySelector(S.thinking);
+    const md = item.querySelector(S.reply);
+    return {
+      present: true,
+      reply: md ? textWithout(md, ".zs-chip").trim() : "",
+      thinking: think ? (think.textContent || "").trim() : "",
+      item,
+    };
+  }
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // ── Sending ───────────────────────────────────────────────────────────────
+  // Gemini's composer is a Quill editor wrapped by an Angular ControlValueAccessor.
+  // We run in the extension's ISOLATED world, so the page's `window.Quill`
+  // (and its instance API) is NOT reachable - we can only touch the shared DOM.
+  // document.execCommand("insertText") drives the browser's native editing
+  // pipeline, which fires the beforeinput/input events Quill's editor listens
+  // to → its model updates, .ql-blank clears, the Angular CVA syncs and the send
+  // button appears. This works reliably WHEN the composer is actually visible
+  // (the Start gate is removed before the loop sends), which it always is during
+  // the agentic loop. A selectAll first guarantees we replace any stale content.
+  // PERF + FIDELITY (measured live, 2026): a single execCommand("insertText") of a
+  // MULTI-LINE string is catastrophically slow in Gemini's Quill editor - every
+  // "\n" makes Quill split the content into a new <p> block and re-normalise the
+  // whole document, ~80ms PER LINE (linear). A ~90-line system prompt froze the
+  // composer for ~7s under the "Working…" cover (big tool outputs stalled too).
+  // We instead insert each line with insertText and join them with insertLineBreak
+  // (a SOFT break, like Shift+Enter): the content stays in ONE block (~3ms/line,
+  // ~430ms for 150 lines) yet Gemini STILL transmits the message as real, separate
+  // lines (validated: the sent turn renders one query-text-line per line). Keeping
+  // real line structure matters - an earlier attempt that flattened newlines to
+  // U+2028 made the image-capable "Flash" model misfire into GENERATING AN IMAGE
+  // at boot, because the prompt arrived as one mangled line. The first op runs over
+  // the select-all so any stale content is replaced; empty lines skip insertText
+  // (an empty insertText collapses the selection and breaks the following inserts).
+  // Gemini has no server-side composer cap worth hitting, but its EDITOR does:
+  // the insert cost below is paid per LINE, synchronously, on the page's main
+  // thread, and it degrades as the document grows. A big tool result (validated
+  // live: a 2599-line http_get) froze the whole page for ~a minute - nothing
+  // clickable, the "Agent is working…" cover stuck, then it resumed on its own
+  // once the insert finished. So the cap here is about the DOM cost, not the
+  // model's context: keep head+tail, drop the middle, and tell the model that
+  // content was dropped so it does not re-run the command.
+  const SEND_MAX_CHARS = 120000;
+  const SEND_MAX_LINES = 1200;   // the line count is what actually hurts
+  function truncateForSend(text) {
+    if (!text) return text;
+    const lines = String(text).split("\n");
+    if (text.length <= SEND_MAX_CHARS && lines.length <= SEND_MAX_LINES) return text;
+    const marker = (what) =>
+      `\n\n[…EverLua: result truncated (${what}) so it can be pasted into ` +
+      `Gemini's composer without freezing the page. Do NOT re-run the command; ` +
+      `work with the head and tail shown here…]\n\n`;
+    let out, note;
+    if (lines.length > SEND_MAX_LINES) {
+      const head = Math.floor(SEND_MAX_LINES * 0.85);
+      const tail = SEND_MAX_LINES - head;
+      note = `${lines.length - SEND_MAX_LINES} of ${lines.length} lines omitted`;
+      out = lines.slice(0, head).join("\n") + marker(note) + lines.slice(lines.length - tail).join("\n");
+    } else {
+      out = text;
+    }
+    if (out.length > SEND_MAX_CHARS) {
+      const budget = SEND_MAX_CHARS - 300;
+      const head = Math.floor(budget * 0.85);
+      note = `${out.length - budget} of ${out.length} characters omitted`;
+      out = out.slice(0, head) + marker(note) + out.slice(out.length - (budget - head));
+    }
+    diag("send.truncated", { from: text.length, to: out.length, lines: lines.length });
+    return out;
+  }
+
+  // Yield to the event loop between chunks. Without this the whole insert is one
+  // uninterruptible synchronous burst: the page cannot repaint or respond to a
+  // click for its entire duration (the "I can't click anything anymore" report).
+  // Yielding does not make the insert faster, it makes the page stay alive while
+  // it happens - and lets the Stop button remain usable.
+  const INSERT_CHUNK_LINES = 120;
+  async function setEditorText(ed, text) {
+    ed.focus();
+    const sel = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(ed);
+    sel.removeAllRanges();
+    sel.addRange(range);
+    const lines = String(text).split("\n");
+    const t0 = Date.now();
+    for (let i = 0; i < lines.length; i++) {
+      if (lines[i]) document.execCommand("insertText", false, lines[i]);
+      if (i < lines.length - 1) document.execCommand("insertLineBreak");
+      if (i && i % INSERT_CHUNK_LINES === 0) await sleep(0);
+    }
+    if (lines.length > INSERT_CHUNK_LINES) diag("send.insertDone", { lines: lines.length, ms: Date.now() - t0 });
+  }
+
+  async function typeAndSend(text, images) {
+    const ed = getEditor();
+    if (!ed) throw new Error("Gemini input box not found");
+    // Cap BEFORE any comparison below, so the retry path's `editorText() !== text`
+    // test compares against what we actually typed.
+    text = truncateForSend(text);
+    const relock = _locked;
+    if (relock) ed.setAttribute("contenteditable", "true"); // injection needs it editable
+    try {
+      // submitAndGetBase RETRIES this whole function (up to 4x) when the send
+      // doesn't land within its window. Naively redoing both steps every retry
+      // is destructive: (1) setEditorText's select-all + insertText wipes the
+      // editor's internal reference to whatever is already pending, and (2)
+      // pasting again attaches ANOTHER duplicate file on top of the first
+      // (validated live: 3 retries produced 3 separate attach.dispatchPaste
+      // calls with 3 different files, and the model's replies stayed generic
+      // - it never got one coherent image). So: only retype if the text isn't
+      // already there, and only attach if nothing is pending yet.
+      if (editorText() !== text) await setEditorText(ed, text);
+      const hasPendingAttachment = () => {
+        const box = document.querySelector(S.inputArea);
+        return !!(box && box.querySelector("[class*='preview'], [class*='thumbnail']"));
+      };
+      if (images && images.length && !hasPendingAttachment()) {
+        diag("attach.beforeCall", { count: images.length });
+        try { const ok = await attachImages(images); diag("attach.afterCall", { ok }); }
+        catch (e) { diag("attach.threw", { msg: String((e && e.message) || e) }); }
+      }
+      // A generation that just ended can leave the action button WEDGED on the
+      // stop icon (see unwedgeStop), so arrow_upward never appears and the send
+      // fails. If the stream is frozen yet a stop button shows, reset it first.
+      if (!sendButton()) await unwedgeStopPersistently();
+      // Wait for Angular to render the send (arrow_upward) button - proof that
+      // it registered the text. The Quill-API injection (see setEditorText)
+      // fires text-change so this resolves; if it doesn't, the send won't work.
+      await waitFor(() => !!sendButton(), 3000);
+      // Last resort before the Enter fallback: re-type. A composer that was
+      // wedged when setEditorText ran can swallow the insert entirely, leaving
+      // an empty editor and therefore no send button - the "Start did nothing,
+      // the system prompt was never sent" report. Retyping now that the stop is
+      // cleared is safe: the editor is either empty or holds our own text.
+      if (!sendButton() && editorText() !== text) {
+        diag("send.retype", {});
+        await setEditorText(ed, text);
+        await waitFor(() => !!sendButton(), 2000);
+      }
+      const btn = sendButton();
+      diag("send.click", { found: !!btn, pending: hasPendingAttachment() });
+      if (btn) { btn.click(); return; }
+      // Fallback: Enter sends in Gemini's composer.
+      const o = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+      ed.dispatchEvent(new KeyboardEvent("keydown", o));
+      ed.dispatchEvent(new KeyboardEvent("keyup", o));
+    } finally {
+      if (relock) { const e2 = getEditor(); if (e2) e2.setAttribute("contenteditable", "false"); }
+    }
+  }
+
+  function stopGeneration() {
+    const b = stopButton();
+    if (b) try { b.click(); } catch {}
+  }
+
+  // No site modes to enforce on Gemini (model picker is left to the user).
+  function enforceComposer() { return { ready: true }; }
+  async function ensureComposerReady(reason) {
+    diag("mode_ready", { reason, provider: "gemini" });
+    return { ready: !!getEditor() };
+  }
+
+  // ── Error / limit detection (site chrome only) ────────────────────────────
+  function scanError() {
+    try {
+      for (const el of document.querySelectorAll(S.errorSurfaces)) {
+        if (el.offsetParent === null) continue;
+        if (el.closest(S.anyItem)) continue; // model content, not UI chrome
+        const t = (el.innerText || "").trim();
+        if (t.length > 8 && t.length < 600 && RE.contextLimit.test(t)) return t.slice(0, 240);
+      }
+    } catch {}
+    if (!getEditor()) return "The input box disappeared (session ended?).";
+    return null;
+  }
+  const isTooLongMsg = (text) => RE.tooLong.test(text);
+  const isBusyMsg = (text) => RE.busy.test(text);
+
+  // ── Image attachment (best effort: paste onto the composer) ──────────────
+  function fileFromImage(img, i) {
+    const mime = img.mimeType || "image/jpeg";
+    const bin = atob(img.data);
+    const arr = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) arr[j] = bin.charCodeAt(j);
+    const ext = mime.includes("png") ? "png" : "jpg";
+    return new File([arr], `everlua_${Date.now()}_${i}.${ext}`, { type: mime });
+  }
+  async function attachImages(images) {
+    const ed = getEditor();
+    if (!ed) { diag("attach.noEditor"); return false; }
+    if (!images || !images.length) return false;
+    const dt = new DataTransfer();
+    images.forEach((img, i) => { try { dt.items.add(fileFromImage(img, i)); } catch {} });
+    if (!dt.items.length) { diag("attach.noDtItems"); return false; }
+    diag("attach.dispatchPaste", { items: dt.items.length });
+    ed.focus();
+    ed.dispatchEvent(new ClipboardEvent("paste", { clipboardData: dt, bubbles: true, cancelable: true }));
+    // An upload preview appearing in the input area is the FAST accepted-signal,
+    // but it renders instantly from a local blob: URL - well before Gemini
+    // finishes uploading the file to its backend. Sending while the upload's
+    // own progress spinner is still up silently drops the attachment (validated
+    // live: the message went out text-only and the file sat in the composer,
+    // unsent, indefinitely - even though the preview had long since appeared).
+    const previewOk = await waitFor(() => {
+      const box = document.querySelector(S.inputArea);
+      return !!(box && box.querySelector("img, [class*='preview'], [class*='thumbnail']"));
+    }, 15000);
+    diag("attach.previewOk", { previewOk });
+    if (!previewOk) return false;
+    // Gemini's uploader renders a <mat-spinner> (Angular Material) inside the
+    // file-preview container while the paste is still uploading to its backend
+    // - NOT mat-progress-spinner. Missing it here made the wait resolve instantly,
+    // so the send fired mid-upload and the file was dropped (text went out alone,
+    // the attachment stuck loading in the composer). Verified live: the mat-spinner
+    // is present ~2-4s (grows with file size), then removed on completion.
+    const spinnerSel = 'mat-spinner, mat-progress-spinner, progress, [role="progressbar"]';
+    const hasSpinner = () => {
+      const box = document.querySelector(S.inputArea);
+      return !!(box && box.querySelector(spinnerSel));
+    };
+    // The preview wrapper and the spinner mount in the SAME Angular render, so a
+    // "no spinner ⇒ done" check can win a frame before the spinner appears and
+    // resolve prematurely. First give the spinner a short window to show up; if it
+    // never does (tiny file, instant upload) that's fine - proceed either way.
+    await waitFor(hasSpinner, 1500);
+    const spinnerCleared = await waitFor(() => !hasSpinner(), 20000);
+    diag("attach.spinnerCleared", { spinnerCleared });
+    return true;
+  }
+  function clearAttachments() {
+    try {
+      const box = document.querySelector(S.inputArea);
+      if (!box) return;
+      box.querySelectorAll("[aria-label*='upprimer'], [aria-label*='emove'], [class*='delete'], [class*='remove']")
+        .forEach((d) => { try { d.click(); } catch {} });
+    } catch {}
+  }
+
+
+  // A conversation with NO turns rendered yet is treated as transient ("") so
+  // the core never persists it - and never stays sticky on it - as "started".
+  // This covers both the bare "/app" route AND Gemini's "New chat" button,
+  // which clears the turn list but keeps the PREVIOUS conversation's /app/<id>
+  // in the address bar until the first message is actually sent (see
+  // isFreshChat() above for the full story).
+  const conversationKey = () =>
+    (chatIsEmpty() || /\/app\/?$/.test(location.pathname)) ? "" : location.pathname;
+
+  // ── User-send interception ────────────────────────────────────────────────
+  function installSendHooks(handlers) {
+    document.addEventListener(
+      "keydown",
+      (e) => {
+        if (e.key !== "Enter" || e.shiftKey || e.isComposing) return;
+        const ed = getEditor();
+        if (!ed || !ed.contains(e.target)) return;
+        if (editorText().trim() === "") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return; // existing conversation → not ours to gate
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+
+    document.addEventListener(
+      "click",
+      (e) => {
+        if (!getEditor()) return;
+        const btn = e.target && e.target.closest && e.target.closest(`${S.inputArea} button`);
+        if (!btn) return;
+        const ic = iconName(btn);
+        if (ic === "stop") {
+          // Only a REAL user click is a native stop. unwedgeStop() clicks this
+          // same button programmatically to reset a frozen stop icon before a
+          // send - that synthetic click (isTrusted=false) must NOT be mistaken
+          // for the user halting the agent, or the next legit command gets
+          // marked "stopped" and the loop wrongly winds down (seen live).
+          if (!e.isTrusted) return;
+          handlers.onNativeStop();
+          return;
+        }
+        if (ic !== "arrow_upward") return;
+        if (handlers.isBlocked()) return;
+        if (!handlers.isStarted()) {
+          if (!chatIsEmpty()) return;
+          handlers.onBlockedAttempt(); // nudge only; never block plain chat
+          return;
+        }
+        handlers.onUserMessage(assistantCount());
+      },
+      true
+    );
+  }
+
+  // ── Tool-block location for camouflage ────────────────────────────────────
+  // Gemini wraps each fenced code block in a <code-block> element (markers and
+  // JSON survive intact in textContent), and a whole ###LUA###…###END_LUA### or
+  // ###MCP_TOOL### block is ONE atomic code-block. So hiding is simple and
+  // robust: hide every <code-block> in the reply whose text carries a command
+  // shape, plus any bare top-level paragraph that holds an inline command (the
+  // model is told to use code blocks, but this catches a stray inline one).
+  // The host-walk the DeepSeek provider uses is WRONG here - it descends inside
+  // a code-block, so hiding the wrapper then fails. The core anchors the chip at
+  // the turn level (chipAtItemLevel), so the returned position is unused; this
+  // function's real job is applying the .zs-tool-hide classes correctly.
+  const CMD_SHAPE = /"(?:command|tool)"\s*:\s*"|###\s*lua|###mcp_tool###/i;
+  function findToolBlockSpot(item /*, chip */) {
+    const replies = [...item.querySelectorAll(S.reply)].filter((m) => !m.closest(S.thinking));
+    let hidAny = null;
+    for (const mc of replies) {
+      // 1. Fenced code blocks carrying a command.
+      mc.querySelectorAll(S.codeWrap).forEach((cb) => {
+        if (cb.closest(".zs-chip")) return;
+        if (CMD_SHAPE.test(cb.textContent || "")) {
+          cb.classList.add("zs-tool-hide");
+          // Angular recreates <code-block> nodes (markdown settle at end of
+          // stream + again when the next turn is sent), stripping the class
+          // above and flashing the raw command until the next sweep. The
+          // <message-content> element KEEPS its identity through those
+          // re-renders (validated live), so also mark it: the overlay.css
+          // rule `message-content.zs-cmd-mask code-block` keeps every
+          // recreated block hidden with zero flash.
+          mc.classList.add("zs-cmd-mask");
+          hidAny = hidAny || { parent: cb.parentElement, ref: cb };
+        }
+      });
+      // 2. Bare top-level blocks with an inline command (no code-block inside).
+      [...mc.children].forEach((el) => {
+        if (el.classList.contains("zs-chip") || el.querySelector(S.codeWrap)) return;
+        const t = el.textContent || "";
+        if (t.length < 600 && CMD_SHAPE.test(t)) {
+          el.classList.add("zs-tool-hide");
+          hidAny = hidAny || { parent: el.parentElement, ref: el };
+        }
+      });
+    }
+    return hidAny;
+  }
+
+  return {
+    id: "gemini",
+    displayName: "Gemini",
+    // Gemini's web model is natively multimodal (image understanding), so
+    // screen_capture is safe to expose here. Other providers default this
+    // to false until confirmed live (see main.js BLOCKED_TOOLS gate).
+    supportsVision: true,
+    timings,
+    // Reasoning-area selector, exported so the CORE's raw-command-visible probes
+    // exclude it (same fix as DeepSeek): Gemini's thinking models (2.5 Pro/Flash)
+    // render their reasoning in <model-thoughts> and often QUOTE the command
+    // JSON/###LUA### there. The camouflage never hides that quote (by design), so
+    // without this exclusion the core reads it as "raw block still visible"
+    // forever - the chip then FLAPS done→run→done and rebuilds on every sweep.
+    thinkingSel: S.thinking,
+    // Gemini (Angular) re-renders a turn's content subtree on every update,
+    // wiping any chip placed inside it. Tell the core to anchor chips at the
+    // turn-element level instead, where they survive those re-renders.
+    chipAtItemLevel: true,
+    // The "Working…" input cover overshoots the editor box by this many px on
+    // each side. Gemini's Quill keeps typed text near the rounded corners, so a
+    // few px of bleed hides the slivers that would otherwise peek (see placeBar /
+    // inputCover). Providers with a native <textarea> omit this (default 0).
+    coverPad: 8,
+    // Gemini's .ql-editor rect sits a few px below the visual input-box centre,
+    // so nudge the "Agent is working…" cover up to read as vertically centred.
+    coverOffsetY: -6,
+    // Gemini's turn elements are semantic and never virtualized away, so
+    // assistantCount() reliably increases for every new reply. The core's
+    // watcher uses this to refuse finalizing before this send's reply turn
+    // exists (fixes premature loop.end on the previous turn's stable text).
+    reliableCounts: true,
+    // Shown as a permanent, non-intrusive notice in the EverLua panel.
+    // Gemini drifts away from emitting tool blocks after a while in long
+    // sessions - observed live, model behavior, not something the prompt fixes.
+    unstableWarning:
+      "Gemini tends to stop using the Roblox tools after a while in long sessions (model behavior, not the extension). " +
+      "If it starts answering in plain text instead of acting, remind it to use the commands - or start a new session.",
+    init({ diag: d } = {}) { if (d) diag = d; },
+    // turns
+    allItems, isUserItem, isAssistantItem, itemText, classifyText,
+    assistantCount, userCount, lastAssistant, readAssistant,
+    streamLen, snapshot,
+    // composer / state
+    getEditor, editorText, chatIsEmpty, isFreshChat, composerFrame, barMount,
+    setInputLock, typeAndSend, stopGeneration,
+    isGenerating, isBusyNow, isHardGenerating,
+    enforceComposer, ensureComposerReady,
+    turnHalted, findContinueBtn, clickContinueBtn,
+    scanError, isTooLongMsg, isBusyMsg,
+    // actions
+    attachImages, clearAttachments, conversationKey,
+    installSendHooks, findToolBlockSpot,
+  };
+})();

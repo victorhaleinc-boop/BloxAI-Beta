@@ -1,1 +1,4387 @@
-function a0_0x403b(_0x577606,_0x2dae90){_0x577606=_0x577606-0xf5;const _0x3399cf=a0_0x3399();let _0x403b32=_0x3399cf[_0x577606];if(a0_0x403b['lpXhxD']===undefined){var _0x375688=function(_0x51817c){const _0x39ca1c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4266bb='',_0x3b09e3='';for(let _0x361327=0x0,_0x216185,_0x566730,_0x34015e=0x0;_0x566730=_0x51817c['charAt'](_0x34015e++);~_0x566730&&(_0x216185=_0x361327%0x4?_0x216185*0x40+_0x566730:_0x566730,_0x361327++%0x4)?_0x4266bb+=String['fromCharCode'](0xff&_0x216185>>(-0x2*_0x361327&0x6)):0x0){_0x566730=_0x39ca1c['indexOf'](_0x566730);}for(let _0x278bba=0x0,_0x40e1f4=_0x4266bb['length'];_0x278bba<_0x40e1f4;_0x278bba++){_0x3b09e3+='%'+('00'+_0x4266bb['charCodeAt'](_0x278bba)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3b09e3);};a0_0x403b['VECtYO']=_0x375688,a0_0x403b['qyWhZe']={},a0_0x403b['lpXhxD']=!![];}const _0x526ef0=_0x3399cf[0x0],_0x5b0ed9=_0x577606+_0x526ef0,_0x2b8f06=a0_0x403b['qyWhZe'][_0x5b0ed9];return!_0x2b8f06?(_0x403b32=a0_0x403b['VECtYO'](_0x403b32),a0_0x403b['qyWhZe'][_0x5b0ed9]=_0x403b32):_0x403b32=_0x2b8f06,_0x403b32;}(function(_0x1dfff3,_0x3cbbc2){const _0x30dd08=a0_0x403b,_0x1dd90b=_0x1dfff3();while(!![]){try{const _0x83e341=parseInt(_0x30dd08(0x208))/0x1*(-parseInt(_0x30dd08(0x36a))/0x2)+parseInt(_0x30dd08(0x1e1))/0x3*(parseInt(_0x30dd08(0x1ed))/0x4)+parseInt(_0x30dd08(0x3af))/0x5*(-parseInt(_0x30dd08(0x273))/0x6)+-parseInt(_0x30dd08(0x40b))/0x7*(parseInt(_0x30dd08(0x3fd))/0x8)+parseInt(_0x30dd08(0x2da))/0x9+-parseInt(_0x30dd08(0x171))/0xa*(parseInt(_0x30dd08(0x308))/0xb)+parseInt(_0x30dd08(0x110))/0xc*(parseInt(_0x30dd08(0x2a8))/0xd);if(_0x83e341===_0x3cbbc2)break;else _0x1dd90b['push'](_0x1dd90b['shift']());}catch(_0x364f0e){_0x1dd90b['push'](_0x1dd90b['shift']());}}}(a0_0x3399,0xe7080),((()=>{'use strict';const _0x5760a2=a0_0x403b;const _0x4266bb=ZSProvider,_0x3b09e3=_0x4266bb[_0x5760a2(0x27f)],_0x361327=_0x2dfb67=>new Promise(_0x27c9a4=>setTimeout(_0x27c9a4,_0x2dfb67)),_0x216185=(..._0x1547d6)=>console['log'](_0x5760a2(0x102),..._0x1547d6),_0x566730=![],_0x34015e=[0x190,0x578],_0x278bba=0x514;function _0x40e1f4(){const _0x117a09=_0x5760a2;if(!_0x566730)return Promise[_0x117a09(0x3cf)]();const [_0x56325a,_0x1e3d88]=_0x34015e;return _0x361327(_0x56325a+Math[_0x117a09(0x2e2)]()*(_0x1e3d88-_0x56325a));}const ZS_DIAG_MAX=0x12c,_0x2fc1af=[];function _0x47a0f8(_0x28e407,_0x4622bb){const _0x257dd4=_0x5760a2,_0x3ffbe5={..._0x4266bb[_0x257dd4(0x3c3)](),'gen':_0x4266bb[_0x257dd4(0x32e)](),'run':_0x294e58[_0x257dd4(0x2d7)]},_0x1866ef={'t':Date[_0x257dd4(0x416)](),'iso':new Date()['toISOString']()[_0x257dd4(0x3ef)](0xb,0x17),'event':_0x28e407,'data':_0x4622bb||null,'snap':_0x3ffbe5};_0x2fc1af[_0x257dd4(0x190)](_0x1866ef);if(_0x2fc1af['length']>ZS_DIAG_MAX)_0x2fc1af['shift']();try{console[_0x257dd4(0x180)](_0x257dd4(0x36c),_0x1866ef['iso'],_0x28e407,JSON[_0x257dd4(0x327)]({..._0x4622bb,..._0x3ffbe5}));}catch{}try{let _0x1619c8=document[_0x257dd4(0x1d8)](_0x257dd4(0x400));!_0x1619c8&&(_0x1619c8=document[_0x257dd4(0x3bf)](_0x257dd4(0x360)),_0x1619c8[_0x257dd4(0x129)]=_0x257dd4(0x3cd),_0x1619c8['id']=_0x257dd4(0x400),(document['body']||document[_0x257dd4(0x198)])['appendChild'](_0x1619c8)),_0x1619c8['textContent']=JSON[_0x257dd4(0x327)](_0x2fc1af);}catch{}try{window[_0x257dd4(0x362)]=_0x2fc1af;}catch{}}_0x4266bb[_0x5760a2(0x3e3)]({'diag':_0x47a0f8});{const _0x2fa79b=0xfa,_0x48b41c=0x320;let _0x782349=Date['now']();setInterval(()=>{const _0x4334a1=_0x5760a2,_0x120d08=Date['now'](),_0x117722=_0x120d08-_0x782349;_0x782349=_0x120d08,_0x117722>_0x48b41c&&_0x47a0f8(_0x4334a1(0x1d4),{'ms':_0x117722,'overBy':_0x117722-_0x2fa79b,'toolRunning':_0x294e58[_0x4334a1(0x125)],'running':_0x294e58['running'],'injecting':_0x294e58['injecting']});},_0x2fa79b);}const _0x2d3489=_0x5760a2(0x403),_0x1f6073=chrome[_0x5760a2(0x331)][_0x5760a2(0x411)]()[_0x5760a2(0x2a0)],_0x54b750=[{'name':_0x5760a2(0x100),'url':_0x5760a2(0x3bd)},{'name':_0x5760a2(0x281),'url':_0x5760a2(0x3b1)},{'name':_0x5760a2(0x2cd),'url':'https://gemini.google.com/app'},{'name':'Kimi','url':_0x5760a2(0x402)},{'name':_0x5760a2(0x393),'url':_0x5760a2(0x131)},{'name':_0x5760a2(0x16e),'url':_0x5760a2(0x24a)},{'name':'Arena','url':_0x5760a2(0x2fe)},{'name':_0x5760a2(0x19a),'url':_0x5760a2(0x13c)}],_0x294e58={'running':![],'stop':![],'stopping':![],'userStopped':![],'lastGenAt':0x0,'started':![],'starting':![],'startingKey':null,'startGen':0x0,'loopKey':null,'bootBaselineId':null,'injecting':![],'toolRunning':![],'toolStart':0x0,'toolName':'','toolItem':null,'toolArg':'','toolList':[],'toolNames':new Set(),'toolCallsSinceReminder':0x0,'goalActive':![],'goalContinuations':0x0,'pendingUiKit':undefined,'pendingUiTheme':undefined,'uiKitSyncing':![],'uiKitRetryAt':0x0,'bridge':{'connected':![],'mcpAlive':![],'tools':0x0},'pendingImages':null,'imageTools':new Set(),'parked':![],'toolsAt':0x0};async function _0x584ce8(_0x1b93ed,_0x430e4d){const _0x82d197=_0x5760a2,_0x140f71=Date['now']();while(Date[_0x82d197(0x416)]()-_0x140f71<_0x430e4d){if(_0x1b93ed())return!![];await _0x361327(0x78);}return![];}async function _0x34fbf7(){const _0x569a50=_0x5760a2;if(!document['hidden']||_0x294e58[_0x569a50(0x2fa)])return!_0x294e58[_0x569a50(0x2fa)];_0x294e58[_0x569a50(0x20c)]=!![];try{_0x46a0bb['setStarting']();}catch{}try{await new Promise(_0x1ff212=>{const _0xea3dcc=_0x569a50,_0x252bd7=()=>{const _0x59407f=a0_0x403b;document[_0x59407f(0x23e)](_0x59407f(0x29a),_0x3c976f),clearInterval(_0x5dcd87),_0x1ff212();},_0x3c976f=()=>{if(!document['hidden'])_0x252bd7();};document[_0xea3dcc(0x3ed)]('visibilitychange',_0x3c976f);const _0x5dcd87=setInterval(()=>{const _0x120776=_0xea3dcc;if(_0x294e58[_0x120776(0x2fa)]||!document['hidden'])_0x252bd7();},0x3e8);});}finally{_0x294e58['parked']=![];try{_0x46a0bb[_0x569a50(0x2a9)]();}catch{}}return!_0x294e58[_0x569a50(0x2fa)];}async function _0x1a3be7(){const _0x2f88bf=_0x5760a2;if(!document[_0x2f88bf(0x130)]||_0x294e58[_0x2f88bf(0x2fa)])return 0x0;const _0x358633=Date[_0x2f88bf(0x416)]();await _0x34fbf7();const _0x5e1106=Date['now']()-_0x358633;_0x47a0f8(_0x2f88bf(0x188),{'parkedMs':_0x5e1106});if(!_0x294e58[_0x2f88bf(0x2fa)])await _0x361327(0x190);return _0x5e1106;}function _0x53c5ee(){const _0x2d33c7=_0x5760a2;_0x294e58[_0x2d33c7(0x35d)]=_0x4266bb[_0x2d33c7(0x172)]?_0x4266bb[_0x2d33c7(0x172)]():undefined;}async function _0x5dbc5e(_0x1b851c,_0x3ce168){const _0x152c4f=_0x5760a2;_0x53c5ee(),_0x47a0f8('send',{'text':String(_0x1b851c)['slice'](0x0,0x3c),'busy':_0x4266bb['isBusyNow']()}),_0x294e58['injecting']=!![],_0x46a0bb[_0x152c4f(0x1f7)](!![]);try{const _0xd297c1=_0x4266bb[_0x152c4f(0x10e)](),_0x31c9d0=_0xd297c1?_0x4266bb[_0x152c4f(0x31c)](_0xd297c1):0x0;await _0x361327(0xc8);_0xd297c1&&_0xd297c1===_0x4266bb[_0x152c4f(0x10e)]()&&_0x4266bb[_0x152c4f(0x31c)](_0xd297c1)>_0x31c9d0&&await _0x584ce8(()=>!_0x4266bb[_0x152c4f(0x32e)](),0xfa0);_0x4266bb['id']===_0x152c4f(0x297)&&(_0x47a0f8(_0x152c4f(0x194),{'ms':_0x278bba}),await _0x361327(_0x278bba));const _0xea5eac=_0x4266bb[_0x152c4f(0x1d5)](),_0x42363b=_0x4266bb[_0x152c4f(0x181)]();_0x294e58[_0x152c4f(0x3f3)]=_0x42363b,_0x294e58[_0x152c4f(0x14c)]=Date['now']()+0x9c4;const _0x3bd77e=()=>_0x4266bb[_0x152c4f(0x181)]()>_0x42363b||_0x4266bb[_0x152c4f(0x1d5)]()>_0xea5eac;let _0x1e0aec=0x0,_0x565aec=![];while(!_0x565aec&&!_0x3bd77e()&&_0x1e0aec<0x4&&!_0x294e58[_0x152c4f(0x2fa)]){if(document[_0x152c4f(0x130)]){_0x47a0f8(_0x152c4f(0x279),{'tries':_0x1e0aec});if(!await _0x34fbf7()||_0x294e58[_0x152c4f(0x2fa)])break;}await _0x40e1f4(),_0x47a0f8(_0x152c4f(0x2fc),{'hasImages':!!(_0x3ce168&&_0x3ce168[_0x152c4f(0x2ba)])}),await _0x4266bb[_0x152c4f(0x249)](_0x1b851c,_0x3ce168),_0x294e58[_0x152c4f(0x14c)]=Date[_0x152c4f(0x416)]()+0x9c4,await _0x584ce8(()=>{const _0x1fc13f=_0x152c4f;if(_0x4266bb[_0x1fc13f(0x39b)]()['trim']()==='')_0x565aec=!![];return _0x565aec||_0x3bd77e();},0xdac),_0x1e0aec++;}if(_0x565aec)_0x47a0f8('send.cleared',{'tries':_0x1e0aec});return!_0x565aec&&!_0x3bd77e()&&!_0x294e58[_0x152c4f(0x2fa)]&&(_0x47a0f8('send.failed',{'tries':_0x1e0aec}),_0x46a0bb[_0x152c4f(0x12f)](_0x152c4f(0x239),_0x152c4f(0x2c6),_0x4266bb['displayName']+_0x152c4f(0x30e)+_0x1e0aec+_0x152c4f(0x29c)+_0x152c4f(0x30a))),_0xea5eac;}finally{if(!_0x294e58['starting']&&!_0x294e58[_0x152c4f(0x2d7)])_0x46a0bb[_0x152c4f(0x1f7)](![]);setTimeout(()=>_0x294e58['injecting']=![],0x190),setTimeout(_0x38abbb,0xc8),setTimeout(_0x38abbb,0x2bc);}}async function _0x34a090(_0x3e9070){const _0x43fba7=_0x5760a2,_0x1ca621=Date[_0x43fba7(0x416)](),_0x861033=_0x3b09e3[_0x43fba7(0x106)];let _0x30ff0b=Date[_0x43fba7(0x416)]();const _0xe4232e=_0x3b09e3[_0x43fba7(0x224)];let _0x1c128f=![],_0x15dbde=0x0,_0x50d2d7=0x0,_0x47e9d0=null,_0x145e96=Date[_0x43fba7(0x416)](),_0x2dc5ef=0x0,_0x20e501=0x0,_0x111945=0x0,_0x1e6235=null,_0x6246df=0x0,_0x1a5780=0x0;const _0x5e5304=_0x2ae940=>{const _0x564f90=_0x43fba7,_0x3dbfac=Date[_0x564f90(0x416)]();_0x47a0f8('stopGoneToResp',{'kind':_0x2ae940,'stopGoneToRespMs':_0x20e501?_0x3dbfac-_0x20e501:null,'genStableForMs':_0x2dc5ef?_0x3dbfac-_0x2dc5ef:null,'lastChangeAgoMs':_0x3dbfac-_0x145e96,'genFlickers':_0x111945,'waitedBlock':_0x6246df,'waitedFlicker':_0x1a5780,'totalMs':_0x3dbfac-_0x1ca621});};let _0x4ec68e=0x0,_0x3cabb8=null,_0x10de48=![],_0x1b2e31=0x0,_0x578357='',_0x189066=0x0,_0x4d82fb=0x0,_0x996ec4=0x0;const _0x238741=_0x3b09e3[_0x43fba7(0x13f)],_0x4b12aa=_0x3b09e3[_0x43fba7(0x27e)],_0x4f1908=0x7530,_0x38bd9e=0x1f40,_0x5e1ac4=0x9c4;while(Date['now']()-_0x30ff0b<_0x861033){if(_0x294e58['stop'])return{'kind':_0x43fba7(0x413)};if(document['hidden']&&!_0x294e58[_0x43fba7(0x2fa)]){const _0x5f4ce6=await _0x1a3be7();if(_0x294e58[_0x43fba7(0x2fa)])return{'kind':_0x43fba7(0x413)};if(_0x5f4ce6){_0x30ff0b+=_0x5f4ce6,_0x145e96+=_0x5f4ce6;if(_0x15dbde)_0x15dbde+=_0x5f4ce6;if(_0x2dc5ef)_0x2dc5ef+=_0x5f4ce6;if(_0x4ec68e)_0x4ec68e+=_0x5f4ce6;if(_0x1b2e31)_0x1b2e31+=_0x5f4ce6;if(_0x189066)_0x189066+=_0x5f4ce6;if(_0x4d82fb)_0x4d82fb+=_0x5f4ce6;if(_0x996ec4)_0x996ec4+=_0x5f4ce6;if(_0x20e501)_0x20e501+=_0x5f4ce6;}continue;}const _0x44c7ff=_0x4266bb[_0x43fba7(0x32e)]();if(_0x44c7ff)_0x30ff0b=Date[_0x43fba7(0x416)]();const _0x2eba0f=_0x4266bb[_0x43fba7(0x156)](),_0x3da966=_0x4266bb[_0x43fba7(0x172)]?_0x4266bb[_0x43fba7(0x172)]():undefined,_0x3d5d53=_0x3da966!==undefined&&_0x3da966!==null?_0x3da966!==_0x294e58[_0x43fba7(0x35d)]:_0x4266bb[_0x43fba7(0x1d5)]()>_0x3e9070;_0x2eba0f[_0x43fba7(0x26c)]!==_0x3cabb8&&(_0x3cabb8=_0x2eba0f['item'],_0x10de48=![],_0x1b2e31=0x0,_0x578357='');if(_0x2eba0f['reply']&&_0x2eba0f[_0x43fba7(0x260)]['length']||_0x2eba0f['thinking']&&_0x2eba0f[_0x43fba7(0x10a)][_0x43fba7(0x2ba)])_0x10de48=!![];if(_0x2eba0f[_0x43fba7(0x260)]&&_0x2eba0f['reply'][_0x43fba7(0x2ba)])_0x578357=_0x2eba0f[_0x43fba7(0x260)];if(!_0x1c128f){const _0x3eadf0=!!(_0x2eba0f[_0x43fba7(0x260)]&&_0x2eba0f[_0x43fba7(0x260)][_0x43fba7(0x2ba)]||_0x2eba0f[_0x43fba7(0x10a)]&&_0x2eba0f[_0x43fba7(0x10a)][_0x43fba7(0x2ba)]);if(_0x44c7ff||_0x3d5d53&&_0x3eadf0)_0x1c128f=!![];else{if(!_0x4ec68e)_0x4ec68e=Date['now']();if(Date[_0x43fba7(0x416)]()-_0x4ec68e>0xea60)return _0x47a0f8(_0x43fba7(0x25d),{'branch':'preStart','rep':(_0x2eba0f[_0x43fba7(0x260)]||'')['length']}),{'kind':_0x43fba7(0x12d)};await _0x361327(0xc8);continue;}}const _0xcee431=(_0x2eba0f['reply']||'')[_0x43fba7(0x161)](/\s+/g,'\x20')[_0x43fba7(0x335)]();_0xcee431!==_0x47e9d0&&(_0x47e9d0=_0xcee431,_0x145e96=Date[_0x43fba7(0x416)](),_0x30ff0b=Date['now']());if(_0x44c7ff)_0x2dc5ef=0x0;else{if(!_0x2dc5ef)_0x2dc5ef=Date[_0x43fba7(0x416)]();}if(_0x1c128f&&!_0x44c7ff&&!_0x20e501)_0x20e501=Date[_0x43fba7(0x416)]();if(_0x1e6235===![]&&_0x44c7ff&&_0x20e501)_0x111945++;_0x1e6235=_0x44c7ff;if(Date[_0x43fba7(0x416)]()-_0x50d2d7>0x3e8){_0x50d2d7=Date[_0x43fba7(0x416)]();const _0x442594=_0x4266bb[_0x43fba7(0x19e)]();if(_0x442594)return{'kind':'context_limit','detail':_0x442594};}const _0x5c8f81=ZSParse[_0x43fba7(0x2b1)](_0x2eba0f[_0x43fba7(0x260)])&&Date[_0x43fba7(0x416)]()-_0x145e96<0x1770,_0xfb60a3=!_0x44c7ff&&_0x2dc5ef&&Date['now']()-_0x2dc5ef>_0x5e1ac4,_0x3fc9c2=_0x5c8f81&&!_0xfb60a3,_0x392bf1=_0x1c128f&&_0x2eba0f[_0x43fba7(0x260)]&&Date[_0x43fba7(0x416)]()-_0x145e96>_0xe4232e&&!(_0x44c7ff&&ZSParse[_0x43fba7(0x2b1)](_0x2eba0f[_0x43fba7(0x260)]));if((_0x44c7ff||_0x3fc9c2)&&!_0x392bf1){if(_0x20e501){if(_0x44c7ff)_0x1a5780++;else{if(_0x3fc9c2)_0x6246df++;}}_0x15dbde=0x0,await _0x361327(0xa0);continue;}if(_0x392bf1&&_0x44c7ff)_0x216185(_0x43fba7(0x277));if(_0x4266bb['reliableCounts']&&!_0x3d5d53){if(!_0x4d82fb)_0x4d82fb=Date[_0x43fba7(0x416)]();const _0x30d42a=Date['now']()-_0x4d82fb;_0x30d42a>0x320&&(!_0x294e58['_noTurnLoggedAt']||Date[_0x43fba7(0x416)]()-_0x294e58[_0x43fba7(0x17b)]>0xbb8)&&(_0x294e58['_noTurnLoggedAt']=Date[_0x43fba7(0x416)](),_0x47a0f8('noTurnGrace.wait',{'waitedMs':_0x30d42a,'curTok':_0x4266bb[_0x43fba7(0x172)]?_0x4266bb[_0x43fba7(0x172)]():undefined,'sendToken':_0x294e58[_0x43fba7(0x35d)],'assistantCount':_0x4266bb[_0x43fba7(0x1d5)]?_0x4266bb['assistantCount']():undefined,'base':_0x3e9070,'gen':_0x44c7ff,'started':_0x1c128f,'replyLen':(_0x2eba0f[_0x43fba7(0x260)]||'')[_0x43fba7(0x2ba)]}));if(Date[_0x43fba7(0x416)]()-_0x4d82fb<_0x4f1908){await _0x361327(0xc8);continue;}}else _0x4d82fb=0x0,_0x294e58[_0x43fba7(0x17b)]=0x0;if(!_0x15dbde)_0x15dbde=Date[_0x43fba7(0x416)]();if(Date['now']()-_0x15dbde<0x1f4){await _0x361327(0x78);continue;}if(!_0x10de48){if(!_0x1b2e31)_0x1b2e31=Date[_0x43fba7(0x416)]();if(Date[_0x43fba7(0x416)]()-_0x1b2e31<_0x238741){await _0x361327(0xc8);continue;}return _0x47a0f8(_0x43fba7(0x25d),{'branch':_0x43fba7(0x229),'rep':(_0x2eba0f[_0x43fba7(0x260)]||'')[_0x43fba7(0x2ba)],'lastGood':_0x578357[_0x43fba7(0x2ba)]}),{'kind':_0x43fba7(0x12d)};}if(_0x2eba0f['thinking']&&_0x2eba0f[_0x43fba7(0x10a)]['length']&&!(_0x2eba0f[_0x43fba7(0x260)]&&_0x2eba0f[_0x43fba7(0x260)][_0x43fba7(0x2ba)])&&!_0x4266bb[_0x43fba7(0x1b2)](_0x2eba0f[_0x43fba7(0x26c)])){if(!_0x189066)_0x189066=Date[_0x43fba7(0x416)]();if(Date[_0x43fba7(0x416)]()-_0x189066<_0x4b12aa){await _0x361327(0xc8);continue;}}else _0x189066=0x0;let _0x267959=_0x2eba0f['reply'];!_0x267959&&_0x578357&&(_0x267959=_0x578357,_0x47a0f8(_0x43fba7(0x2cf),{'len':_0x267959[_0x43fba7(0x2ba)]}));if(_0x267959[_0x43fba7(0x2ba)]<0x190&&_0x4266bb['isTooLongMsg'](_0x267959))return{'kind':_0x43fba7(0xf5)};const _0x207e8a=_0x4266bb[_0x43fba7(0x309)]&&(ZSParse[_0x43fba7(0xf7)](_0x267959)||ZSParse['LUA_END_RE']['test'](_0x267959)&&!ZSParse[_0x43fba7(0x349)][_0x43fba7(0x1b6)](_0x267959)||/"(?:datamodel_type|edits|old_string|new_string|file_path|target_file)"\s*:/[_0x43fba7(0x1b6)](_0x267959)&&!/"command"\s*:/[_0x43fba7(0x1b6)](_0x267959));if(_0x207e8a&&_0x4266bb[_0x43fba7(0x309)](_0x2eba0f[_0x43fba7(0x26c)])){if(!_0x996ec4)_0x996ec4=Date[_0x43fba7(0x416)]();if(Date[_0x43fba7(0x416)]()-_0x996ec4<_0x38bd9e){await _0x361327(0xfa);continue;}}else _0x996ec4=0x0;if(_0x4266bb['isComparisonTurn']&&_0x4266bb[_0x43fba7(0x111)](_0x2eba0f['item'])){if(_0x4266bb[_0x43fba7(0x32e)]()){await _0x361327(0xfa);continue;}if(_0x4266bb[_0x43fba7(0x1c4)]&&_0x4266bb[_0x43fba7(0x1c4)]()){_0x47a0f8(_0x43fba7(0x214)),await _0x361327(0x190);continue;}await _0x361327(0xfa);continue;}if(ZSParse['hasToolSignature'](_0x267959)){const _0x45bb18=ZSParse['parseToolCalls'](_0x267959);if(_0x45bb18[_0x43fba7(0x2ba)])return _0x5e5304(_0x43fba7(0x195)),{'kind':_0x43fba7(0x195),'calls':_0x45bb18,'item':_0x2eba0f[_0x43fba7(0x26c)]};if(_0x4266bb['findContinueBtn']())return{'kind':_0x43fba7(0x34c),'text':_0x267959,'item':_0x2eba0f['item']};if(_0x267959[_0x43fba7(0x3c1)](ZSParse[_0x43fba7(0x3dc)])||ZSParse[_0x43fba7(0x349)][_0x43fba7(0x1b6)](_0x267959))return{'kind':_0x43fba7(0x1f4),'reason':'malformed','raw':_0x267959,'item':_0x2eba0f[_0x43fba7(0x26c)]};if(ZSParse[_0x43fba7(0x2b1)](_0x267959)){const _0x54b822=ZSParse[_0x43fba7(0x3ff)](_0x267959);if(_0x54b822)return _0x47a0f8(_0x43fba7(0x254),{'name':_0x54b822[_0x43fba7(0x195)]}),_0x5e5304(_0x43fba7(0x195)),{'kind':'tool','calls':[_0x54b822],'item':_0x2eba0f[_0x43fba7(0x26c)]};return{'kind':_0x43fba7(0x1f4),'reason':_0x43fba7(0xf8),'raw':_0x267959,'item':_0x2eba0f[_0x43fba7(0x26c)]};}const _0xfef0ce=ZSParse[_0x43fba7(0x292)](_0x267959);if(_0xfef0ce&&_0xfef0ce!==_0x43fba7(0x324)&&(_0x294e58['toolNames'][_0x43fba7(0x375)](_0xfef0ce)||_0x294e58[_0x43fba7(0x3df)]['has'](_0x7c118c(_0xfef0ce))))return{'kind':_0x43fba7(0x1f4),'reason':'malformed','raw':_0x267959,'item':_0x2eba0f['item']};}if(ZSParse['LUA_END_RE']['test'](_0x267959)&&!ZSParse['LUA_START_RE'][_0x43fba7(0x1b6)](_0x267959)&&!_0x267959['includes'](ZSParse[_0x43fba7(0x3dc)]))return{'kind':_0x43fba7(0x1f4),'reason':'luaOpener','raw':_0x267959,'item':_0x2eba0f[_0x43fba7(0x26c)]};if(/"(?:datamodel_type|edits|old_string|new_string|file_path|target_file)"\s*:/[_0x43fba7(0x1b6)](_0x267959)&&!/"command"\s*:/[_0x43fba7(0x1b6)](_0x267959))return{'kind':_0x43fba7(0x1f4),'reason':_0x43fba7(0x201),'raw':_0x267959,'item':_0x2eba0f[_0x43fba7(0x26c)]};if(_0x4266bb[_0x43fba7(0x3a6)]())return{'kind':_0x43fba7(0x34c),'text':_0x267959,'item':_0x2eba0f['item']};if(_0x267959==='')return _0x47a0f8(_0x43fba7(0x25d),{'branch':'finalBlank'}),{'kind':_0x43fba7(0x12d)};return{'kind':_0x43fba7(0x1a9),'text':_0x267959};}return{'kind':_0x43fba7(0x10b)};}async function _0x5e9aa1(_0x296d86){const _0x37c956=_0x5760a2;if(_0x4266bb['id']!==_0x37c956(0x297)||_0x296d86['kind']===_0x37c956(0x195))return _0x296d86;const _0x158d34=_0x19d44e=>{const _0xffd4b9=_0x37c956;if(!_0x19d44e)return[];return ZSParse[_0xffd4b9(0x306)](_0x19d44e[_0xffd4b9(0x1e6)]||'');},_0x41780b=Date[_0x37c956(0x416)]()+0x7530;while(Date[_0x37c956(0x416)]()<_0x41780b&&!_0x294e58['stop']){const _0x1ef08f=_0x4266bb['readAssistant']();let _0x4bef93=ZSParse[_0x37c956(0x306)](_0x1ef08f[_0x37c956(0x260)]||'');if(!_0x4bef93['length'])_0x4bef93=_0x158d34(_0x1ef08f[_0x37c956(0x26c)]);if(_0x4bef93['length'])return{'kind':_0x37c956(0x195),'calls':_0x4bef93,'item':_0x1ef08f['item']};await _0x361327(0xc8);}return _0x296d86;}function _0x4f9c27(_0x1b7aa9){const _0x1d0741=_0x5760a2;if(_0x4266bb['id']!=='chatgpt'||_0x1b7aa9[_0x1d0741(0x326)]!==_0x1d0741(0x195)||!_0x1b7aa9[_0x1d0741(0x3c8)]||_0x1b7aa9[_0x1d0741(0x3c8)][_0x1d0741(0x2ba)]!==0x1)return _0x1b7aa9;const _0x3b8351=_0x1b7aa9[_0x1d0741(0x3c8)][0x0];if(_0x3b8351){const _0x2a6e13=String(_0x3b8351[_0x1d0741(0x195)]||'')['toLowerCase'](),_0x2d2718=_0x1d0741(0x37b),_0x1606ae=Array[_0x1d0741(0x185)]({'length':_0x2a6e13[_0x1d0741(0x2ba)]+0x1},(_0x471f01,_0x6ff9c1)=>_0x6ff9c1);for(let _0x4c4b41=0x1;_0x4c4b41<=_0x2d2718['length'];_0x4c4b41++){let _0xa357bb=_0x1606ae[0x0];_0x1606ae[0x0]=_0x4c4b41;for(let _0x2fcaf9=0x1;_0x2fcaf9<=_0x2a6e13[_0x1d0741(0x2ba)];_0x2fcaf9++){const _0x2f6215=_0x1606ae[_0x2fcaf9];_0x1606ae[_0x2fcaf9]=Math[_0x1d0741(0x16f)](_0x1606ae[_0x2fcaf9]+0x1,_0x1606ae[_0x2fcaf9-0x1]+0x1,_0xa357bb+(_0x2a6e13[_0x2fcaf9-0x1]===_0x2d2718[_0x4c4b41-0x1]?0x0:0x1)),_0xa357bb=_0x2f6215;}}if(_0x1606ae[_0x2a6e13['length']]<=0x3)_0x3b8351['tool']=_0x2d2718;}return _0x1b7aa9;}function _0x15bba0(_0x886dff){return new Promise(_0x4bf3ca=>{const _0x15614f=a0_0x403b;try{chrome[_0x15614f(0x331)][_0x15614f(0x39d)](_0x886dff,_0x55e27e=>{const _0x3d386a=_0x15614f;chrome[_0x3d386a(0x331)][_0x3d386a(0x334)]?_0x4bf3ca({'ok':![],'kind':_0x3d386a(0x24f),'error':chrome[_0x3d386a(0x331)][_0x3d386a(0x334)][_0x3d386a(0x321)]}):_0x4bf3ca(_0x55e27e||{'ok':![],'kind':_0x3d386a(0x24f),'error':_0x3d386a(0x21a)});});}catch(_0x5cf80b){_0x4bf3ca({'ok':![],'kind':'disconnected','error':String(_0x5cf80b)});}});}const _0x3c2a6e=new Set([_0x5760a2(0x10c)]),_0x1b5dad=new Set([_0x5760a2(0x3b8)]),_0x7c118c=_0x1d4d56=>(_0x1d4d56&&_0x1d4d56[_0x5760a2(0x3c1)]('/')?_0x1d4d56[_0x5760a2(0x178)]('/')['pop']():_0x1d4d56)||'',_0x35fe55=_0x579548=>{const _0xc10a14=_0x5760a2,_0x19ffb5=_0x7c118c(_0x579548);if(_0x3c2a6e['has'](_0x19ffb5))return!![];if(_0x1b5dad[_0xc10a14(0x375)](_0x19ffb5)&&!_0x4266bb[_0xc10a14(0x21b)])return!![];return![];},_0x316fef=/image is attached to THIS message/i;function _0x3cdadb(_0x5c2a79){const _0x56cfa1=_0x5760a2,_0x83aa8d=_0x7c118c(_0x5c2a79);if(!_0x83aa8d||_0x294e58['imageTools'][_0x56cfa1(0x375)](_0x83aa8d))return;_0x294e58[_0x56cfa1(0x108)]['add'](_0x83aa8d),_0x47a0f8('imageTool.remember',{'name':_0x83aa8d,'total':_0x294e58['imageTools'][_0x56cfa1(0x29b)]});try{chrome[_0x56cfa1(0x20f)][_0x56cfa1(0x12b)][_0x56cfa1(0x37e)]({'zsImageTools':[..._0x294e58['imageTools']][_0x56cfa1(0x3ef)](-0xc8)});}catch{}}try{chrome['storage'][_0x5760a2(0x12b)][_0x5760a2(0x420)](_0x5760a2(0x12e),_0x42b7da=>{const _0x454860=_0x5760a2;if(_0x42b7da&&Array[_0x454860(0x36d)](_0x42b7da['zsImageTools'])){for(const _0x5ad733 of _0x42b7da[_0x454860(0x12e)])_0x294e58[_0x454860(0x108)][_0x454860(0x167)](_0x5ad733);}_0x47a0f8(_0x454860(0x20b),{'tools':[..._0x294e58[_0x454860(0x108)]]});});}catch{}const _0x31969c=0x7530;async function _0x4e4235(_0x52a025){const _0xd2d4e0=_0x5760a2;if(!_0x52a025&&_0x294e58[_0xd2d4e0(0x30d)][_0xd2d4e0(0x2ba)]&&Date['now']()-_0x294e58['toolsAt']<_0x31969c)return _0x47a0f8(_0xd2d4e0(0x40a),{'age':Date[_0xd2d4e0(0x416)]()-_0x294e58['toolsAt'],'n':_0x294e58[_0xd2d4e0(0x30d)][_0xd2d4e0(0x2ba)]}),_0x294e58[_0xd2d4e0(0x30d)];const _0x78caf6=Date['now'](),_0x482a4d=await _0x15bba0({'type':_0xd2d4e0(0x332)});_0x47a0f8(_0xd2d4e0(0x3ac),{'ms':Date[_0xd2d4e0(0x416)]()-_0x78caf6,'n':_0x482a4d&&_0x482a4d[_0xd2d4e0(0x378)]&&_0x482a4d[_0xd2d4e0(0x378)]['length']||0x0});if(_0x482a4d&&_0x482a4d[_0xd2d4e0(0x378)]&&_0x482a4d[_0xd2d4e0(0x378)][_0xd2d4e0(0x2ba)]){const _0x5e58b7=_0x482a4d[_0xd2d4e0(0x378)][_0xd2d4e0(0x3c4)](_0x542af6=>!_0x35fe55(_0x542af6[_0xd2d4e0(0x3e4)]));_0x294e58[_0xd2d4e0(0x30d)]=_0x5e58b7,_0x294e58[_0xd2d4e0(0x3df)]=new Set(_0x5e58b7[_0xd2d4e0(0x35c)](_0x53f469=>_0x53f469[_0xd2d4e0(0x3e4)])),_0x294e58[_0xd2d4e0(0x2f2)]=Date['now']();}return _0x294e58['toolList'];}async function _0x23c3ae(_0xa8117c){const _0x54b734=_0x5760a2,_0x3d2384=_0xa8117c[_0x54b734(0x195)],_0x1f10b4=_0xa8117c[_0x54b734(0x35f)]||{};if(!_0x3d2384)return ZS[_0x54b734(0x128)][_0x54b734(0x2e1)](_0x54b734(0x14b));if(document[_0x54b734(0x130)]&&!_0x294e58[_0x54b734(0x2fa)]){_0x47a0f8(_0x54b734(0x336),{'name':_0x3d2384});if(!await _0x34fbf7()||_0x294e58[_0x54b734(0x2fa)])return _0x54b734(0x3cc);}const _0x497c48=_0x7c118c(_0x3d2384);if(_0x35fe55(_0x3d2384)){if(_0x1b5dad['has'](_0x497c48))return _0x54b734(0x30b)+_0x497c48+'\x27\x20is\x20unavailable\x20here\x20-\x20this\x20assistant\x20cannot\x20see\x20images.\x20Do\x20NOT\x20call\x20it\x20again.\x20Inspect\x20the\x20place\x20programmatically\x20instead\x20(e.g.\x20inspect_instance,\x20get_studio_state,\x20search_game_tree,\x20script_read).';return _0x54b734(0x392)+_0x497c48+_0x54b734(0x16b);}if(_0x3d2384==='list_mcp_servers'){await _0x4e4235();const _0x7a86e3=_0x294e58[_0x54b734(0x184)]&&_0x294e58[_0x54b734(0x184)][_0x54b734(0x2fd)]||[],_0x452d7e=_0x7a86e3['length']?_0x7a86e3[_0x54b734(0x35c)](_0x40cae9=>{const _0x5d8838=_0x54b734,_0x1dbed2=_0x40cae9['id']===_0x5d8838(0x21c)?_0x5d8838(0x286):_0x40cae9['id']+_0x5d8838(0x2b5);return'-\x20'+_0x40cae9['id']+':\x20'+_0x1dbed2+_0x5d8838(0x3e5)+(_0x40cae9['alive']?(_0x40cae9['tools']||0x0)+'\x20commands\x20available':_0x5d8838(0x386));}):[_0x54b734(0x146)];return _0x54b734(0x278)+('Connected\x20MCP\x20servers\x20('+_0x452d7e['length']+_0x54b734(0xfe)+_0x452d7e[_0x54b734(0x12a)]('\x0a')+'\x0a')+'Use\x20list_commands\x20with\x20a\x20\x22server\x22\x20param\x20(one\x20of\x20the\x20ids\x20above)\x20to\x20see\x20that\x20server\x27s\x20exact\x20commands.\x20Without\x20\x22server\x22,\x20list_commands\x20defaults\x20to\x20\x22roblox\x22.';}if(_0x3d2384===_0x54b734(0x37b)||_0x3d2384===_0x54b734(0x332)){await _0x4e4235();const _0x205da0=(_0x1f10b4['server']||_0x54b734(0x21c))[_0x54b734(0x335)]();if(_0x205da0===_0x54b734(0x21c)){const _0xfec217=_0x294e58[_0x54b734(0x184)]||{},_0x1b4b41=_0xfec217[_0x54b734(0x2fd)]||[],_0x167bbd=_0x1b4b41['find'](_0x576445=>_0x576445['id']===_0x54b734(0x21c)),_0x90e882=_0x167bbd?!!_0x167bbd[_0x54b734(0x388)]:!!_0xfec217[_0x54b734(0x33a)]||_0x1b4b41[_0x54b734(0x241)](_0x47ffbb=>_0x47ffbb[_0x54b734(0x388)]),_0x460242=!!_0xfec217[_0x54b734(0x39f)]&&_0x90e882&&_0xfec217[_0x54b734(0x189)]!==![];if(!_0x460242){const _0x405374=_0x1b4b41['filter'](_0x50cfd1=>_0x50cfd1['id']!==_0x54b734(0x21c)&&_0x50cfd1[_0x54b734(0x388)]&&(_0x50cfd1[_0x54b734(0x378)]||0x0)>0x0),_0x22d92f=_0x405374[_0x54b734(0x2ba)]?'Other\x20connected\x20MCP\x20server(s):\x20'+_0x405374['map'](_0xdbee0c=>_0xdbee0c['id'])[_0x54b734(0x12a)](',\x20')+_0x54b734(0x288):'No\x20other\x20MCP\x20server\x20is\x20connected\x20right\x20now.';return'Output\x20of\x20\x27'+_0x3d2384+_0x54b734(0x10d)+_0x22d92f;}}const _0x45c499=new Set(_0x294e58[_0x54b734(0x30d)][_0x54b734(0x35c)](_0x511f10=>_0x511f10[_0x54b734(0x250)])[_0x54b734(0x3c4)](Boolean)),_0x53cf82=_0x294e58[_0x54b734(0x30d)][_0x54b734(0x3c4)](_0x2c9270=>(_0x2c9270[_0x54b734(0x250)]||_0x54b734(0x21c))===_0x205da0);if(!_0x294e58[_0x54b734(0x30d)][_0x54b734(0x2ba)])return _0x54b734(0x313)+_0x3d2384+_0x54b734(0x238);if(!_0x53cf82[_0x54b734(0x2ba)])return _0x54b734(0x313)+_0x3d2384+_0x54b734(0x28b)+_0x205da0+'\x22\x20is\x20connected.\x20Connected\x20servers:\x20'+([..._0x45c499][_0x54b734(0x12a)](',\x20')||'roblox')+_0x54b734(0x355);const _0x957250=_0x53cf82[_0x54b734(0x35c)](_0x2946a8=>{const _0x4135e3=_0x54b734,_0x139a9e=_0x2946a8[_0x4135e3(0x2a5)]&&_0x2946a8[_0x4135e3(0x2a5)][_0x4135e3(0x1f3)]||{},_0x1e831d=new Set(_0x2946a8[_0x4135e3(0x2a5)]&&_0x2946a8[_0x4135e3(0x2a5)][_0x4135e3(0x368)]||[]),_0x4319a4=[],_0x188c77=[];for(const [_0x31fbe4,_0x2dfc18]of Object['entries'](_0x139a9e)){const _0x36a196=_0x2dfc18['items']&&typeof _0x2dfc18[_0x4135e3(0x312)]==='object'?_0x2dfc18[_0x4135e3(0x312)]:null,_0x5d86a5=_0x36a196&&_0x36a196[_0x4135e3(0x1f3)],_0x343666=_0x1e831d['has'](_0x31fbe4)?'':'?';if(_0x2dfc18[_0x4135e3(0x129)]===_0x4135e3(0x359)&&_0x5d86a5){const _0x2747aa=new Set(_0x36a196['required']||[]),_0xa4b0c9=Object[_0x4135e3(0x3e6)](_0x5d86a5)[_0x4135e3(0x35c)](([_0x157ad3,_0x658df7])=>{const _0x2202a1=_0x4135e3,_0x154dbf=Array[_0x2202a1(0x36d)](_0x658df7[_0x2202a1(0x153)])&&_0x658df7[_0x2202a1(0x153)]['length']<=0xc?'('+_0x658df7['enum'][_0x2202a1(0x12a)]('|')+')':_0x658df7[_0x2202a1(0x129)]||_0x2202a1(0x109);return''+_0x157ad3+(_0x2747aa['has'](_0x157ad3)?'':'?')+':'+_0x154dbf;});_0x188c77[_0x4135e3(0x190)]('\x20\x20\x20\x20'+_0x31fbe4+_0x343666+':\x20array\x20[each\x20item:\x20{'+_0xa4b0c9[_0x4135e3(0x12a)](',\x20')+'}]'+(_0x2dfc18[_0x4135e3(0x2ce)]?_0x4135e3(0x3e5)+_0x2dfc18['description']:''));}else{if(_0x2dfc18[_0x4135e3(0x2ce)]&&_0x2dfc18[_0x4135e3(0x2ce)][_0x4135e3(0x2ba)]>0x2d)_0x188c77['push'](_0x4135e3(0x3a9)+_0x31fbe4+_0x343666+':\x20'+(_0x2dfc18[_0x4135e3(0x129)]||_0x4135e3(0x109))+'\x20-\x20'+_0x2dfc18['description']);else{const _0x5c5b9f=Array['isArray'](_0x2dfc18[_0x4135e3(0x153)])&&_0x2dfc18['enum']['length']<=0x8?'('+_0x2dfc18[_0x4135e3(0x153)][_0x4135e3(0x12a)]('|')+')':_0x2dfc18[_0x4135e3(0x129)]||_0x4135e3(0x109);_0x4319a4[_0x4135e3(0x190)](''+_0x31fbe4+_0x343666+':'+_0x5c5b9f+(_0x2dfc18[_0x4135e3(0x2ce)]?'\x20\x22'+_0x2dfc18[_0x4135e3(0x2ce)]+'\x22':''));}}}const _0x3489b2=[_0x4319a4[_0x4135e3(0x2ba)]?'\x20\x20\x20\x20'+_0x4319a4[_0x4135e3(0x12a)](',\x20'):'',..._0x188c77][_0x4135e3(0x3c4)](Boolean)[_0x4135e3(0x12a)]('\x0a'),_0x4faa72=ZS['TOOL_NOTES'][_0x7c118c(_0x2946a8['name'])],_0x593a13=_0x4faa72?_0x4135e3(0x3fb)+_0x4faa72:'';return _0x2946a8[_0x4135e3(0x3e4)]+':\x20'+(_0x2946a8[_0x4135e3(0x2ce)]||'')[_0x4135e3(0x178)]('\x0a')[0x0]+(_0x3489b2?'\x0a'+_0x3489b2:'')+_0x593a13;});return'Output\x20of\x20\x27'+_0x3d2384+_0x54b734(0x247)+_0x205da0+_0x54b734(0x31d)+_0x53cf82[_0x54b734(0x2ba)]+'):\x0a\x0a'+_0x957250[_0x54b734(0x12a)]('\x0a\x0a');}if(_0x294e58['toolNames'][_0x54b734(0x29b)]&&!_0x294e58[_0x54b734(0x3df)]['has'](_0x3d2384))return ZS[_0x54b734(0x128)]['unknownTool'](_0x3d2384,[..._0x294e58[_0x54b734(0x3df)]]);if(_0x497c48==='execute_luau'&&!_0x1f10b4['datamodel_type'])_0x1f10b4[_0x54b734(0x302)]=_0x54b734(0x338);if((_0x497c48===_0x54b734(0x14a)||_0x497c48===_0x54b734(0x364))&&!_0x1f10b4['datamodel_type'])_0x1f10b4[_0x54b734(0x302)]=_0x54b734(0x2db);const _0x4b84ca=_0x3d2384===_0x54b734(0x1d6)?0x4e20:0x1d4c0,_0xc1956b=new Promise(_0xbf3b08=>setTimeout(()=>_0xbf3b08({'ok':![],'kind':_0x54b734(0x10b),'error':_0x54b734(0x1ba)}),_0x4b84ca+0x7530));let _0x35b145;const _0x227e40=new Promise(_0x35e18c=>{_0x35b145=setInterval(()=>{const _0x970c4f=a0_0x403b;if(_0x294e58[_0x970c4f(0x2fa)])_0x35e18c({'ok':![],'kind':'stopped'});},0x96);});let _0x2d7c9f=await Promise[_0x54b734(0x3f9)]([_0x15bba0({'type':_0x54b734(0x2dd),'name':_0x3d2384,'arguments':_0x1f10b4,'timeout':_0x4b84ca}),_0xc1956b,_0x227e40]);clearInterval(_0x35b145);if(_0x2d7c9f&&_0x2d7c9f[_0x54b734(0x326)]==='stopped')return _0x54b734(0x2bb);if(!_0x2d7c9f)return ZS[_0x54b734(0x128)][_0x54b734(0x270)];if(_0x2d7c9f['ok']&&/Unable to find an active Studio instance|previously active Studio has disconnected/i[_0x54b734(0x1b6)](_0x2d7c9f['text']||''))return _0x46a0bb[_0x54b734(0x12f)](_0x54b734(0x239),_0x54b734(0x1c7),'Open\x20your\x20place\x20in\x20Roblox\x20Studio\x20and\x20enable\x20the\x20MCP\x20server\x20(Assistant\x20AI\x20→\x20…\x20→\x20Manage\x20MCP\x20Servers\x20→\x20Enable\x20Studio\x20as\x20MCP\x20Server),\x20then\x20try\x20again.'),ZS[_0x54b734(0x128)][_0x54b734(0x322)];if(_0x2d7c9f['ok']&&_0x2d7c9f[_0x54b734(0x1a9)]&&/^[\w .'"-]{0,60}\bis (required|not available|invalid)\b[\w .'"-]{0,80}$/i['test'](_0x2d7c9f['text'][_0x54b734(0x335)]()))return'ERROR\x20calling\x20\x27'+_0x3d2384+'\x27:\x20'+_0x2d7c9f[_0x54b734(0x1a9)][_0x54b734(0x335)]()+_0x54b734(0x365);_0x2d7c9f['ok']&&_0x497c48===_0x54b734(0x1d6)&&_0x2d7c9f['text']&&/\b(?:ExecuteLuauTool|CommandExecution):\d+:/[_0x54b734(0x1b6)](_0x2d7c9f['text'])&&(_0x2d7c9f={'ok':![],'error':_0x2d7c9f['text'][_0x54b734(0x161)](/^(?:\S*(?:ExecuteLuauTool|CommandExecution):\d+:\s*)+/,'')[_0x54b734(0x335)]()||_0x2d7c9f[_0x54b734(0x1a9)]});if(_0x2d7c9f['ok']){if(_0x2d7c9f[_0x54b734(0x38e)]&&_0x2d7c9f[_0x54b734(0x38e)][_0x54b734(0x2ba)]&&!_0x4266bb[_0x54b734(0x21b)])return _0x54b734(0x30b)+_0x497c48+_0x54b734(0x1bf);if(_0x2d7c9f[_0x54b734(0x38e)]&&_0x2d7c9f[_0x54b734(0x38e)][_0x54b734(0x2ba)]){_0x46a0bb[_0x54b734(0x383)](_0x2d7c9f[_0x54b734(0x38e)],_0x3d2384),_0x294e58[_0x54b734(0x37f)]=_0x2d7c9f['images'],_0x47a0f8('images.stashed',{'count':_0x2d7c9f[_0x54b734(0x38e)][_0x54b734(0x2ba)]});const _0x864618=_0x2d7c9f[_0x54b734(0x1a9)]&&_0x2d7c9f[_0x54b734(0x1a9)][_0x54b734(0x335)]()?_0x2d7c9f['text'][_0x54b734(0x335)]():_0x2d7c9f[_0x54b734(0x38e)][_0x54b734(0x2ba)]+'\x20image(s)\x20captured.';return _0x54b734(0x313)+_0x3d2384+_0x54b734(0x247)+_0x864618+_0x54b734(0x2f9);}const _0x49eff7=_0x2d7c9f[_0x54b734(0x1a9)]&&_0x2d7c9f[_0x54b734(0x1a9)][_0x54b734(0x2ba)]?_0x2d7c9f['text']:_0x54b734(0x136);return _0x54b734(0x313)+_0x3d2384+'\x27:\x0a'+_0x49eff7;}if(_0x2d7c9f[_0x54b734(0x326)]===_0x54b734(0x24f))return ZS['FEEDBACK']['bridgeOffline'];if(_0x2d7c9f[_0x54b734(0x326)]===_0x54b734(0x10b))return _0x54b734(0x352)+_0x3d2384+_0x54b734(0x237)+(_0x3d2384==='execute_luau'?0x14:0x78)+_0x54b734(0x16c)+_0x2d7c9f[_0x54b734(0x317)]+_0x54b734(0x2b9);if(_0x3d2384===_0x54b734(0x1d6)){const _0x4037b0=_0x2d7c9f[_0x54b734(0x317)]||'',_0x1ac6aa=_0x4037b0['includes']('Failed\x20to\x20parse\x20command\x20code')?_0x54b734(0x15a):_0x4037b0[_0x54b734(0x3c1)](_0x54b734(0x2f8))||_0x4037b0[_0x54b734(0x3c1)](_0x54b734(0x34f))?'Lua\x20runtime\x20error.\x20Check\x20that\x20the\x20API\x20you\x20are\x20calling\x20exists\x20(use\x20game:GetService()\x20to\x20access\x20services).\x20Make\x20sure\x20you\x20use\x20\x27return\x27\x20to\x20output\x20values,\x20not\x20\x27print()\x27.':_0x54b734(0x11d);return'ERROR\x20in\x20execute_luau:\x20'+_0x4037b0+'\x0a\x0a'+_0x1ac6aa+_0x54b734(0x32a);}return _0x54b734(0x186)+_0x3d2384+'\x27:\x20'+_0x2d7c9f[_0x54b734(0x317)]+_0x54b734(0x2c8);}function _0x47997e(_0x2fde0f){const _0x1d0604=_0x5760a2;if(!_0x2fde0f)return'';if(_0x2fde0f[_0x1d0604(0x195)]===_0x1d0604(0x1d6)){const _0x1f2a84=_0x2fde0f[_0x1d0604(0x35f)]&&_0x2fde0f[_0x1d0604(0x35f)][_0x1d0604(0x19b)]||'',_0xfbf290=_0x1f2a84[_0x1d0604(0x178)]('\x0a')['map'](_0x5601e0=>_0x5601e0['trim']())[_0x1d0604(0x3c4)](Boolean)[0x0]||'';return _0xfbf290[_0x1d0604(0x3ef)](0x0,0x2e);}const _0x324309=_0x2fde0f[_0x1d0604(0x35f)]||{},_0x449e2c=Object[_0x1d0604(0x3c2)](_0x324309)[0x0];if(!_0x449e2c)return'';let _0xedae9c=String(_0x324309[_0x449e2c]);if(_0xedae9c['length']>0x22)_0xedae9c=_0xedae9c[_0x1d0604(0x3ef)](0x0,0x1f)+'…';return _0x449e2c+':\x20'+_0xedae9c;}const _0x360292=/^\s*(error executing|error:|erreur|exception|traceback|communication error|failed to|could ?not|cannot |unable to|fatal)\b/i,_0x3dbe5e=_0x487ce0=>_0x487ce0[_0x5760a2(0x161)](/^Output of '[^']*':\n?/,'');function _0x56ce87(_0x4e85fc){const _0x1ba4e6=_0x5760a2;if(!_0x4e85fc||_0x4e85fc[_0x1ba4e6(0x310)](_0x1ba4e6(0x2f1)))return![];const _0x3065f2=_0x3dbe5e(_0x4e85fc)[_0x1ba4e6(0x178)]('\x0a')[_0x1ba4e6(0x35c)](_0x5dbf0d=>_0x5dbf0d[_0x1ba4e6(0x335)]())['find'](Boolean)||'';return _0x360292['test'](_0x3065f2);}const _0xafba55=_0x41f9ff=>_0x41f9ff[_0x5760a2(0x310)](_0x5760a2(0x2f1))||_0x56ce87(_0x41f9ff);function _0x2c832f(_0x32649e){const _0x3b4db3=_0x5760a2;if(!_0x32649e)return'';const _0x9e550e=_0xafba55(_0x32649e),_0x2e0aeb=_0x3dbe5e(_0x32649e)[_0x3b4db3(0x335)]();if(!_0x2e0aeb)return'';const _0x1f7e14=_0x2e0aeb[_0x3b4db3(0x178)]('\x0a')[_0x3b4db3(0x35c)](_0x3ad1f6=>_0x3ad1f6[_0x3b4db3(0x335)]())[_0x3b4db3(0x3c4)](Boolean),_0x558b28=_0x1f7e14[_0x3b4db3(0x2ba)];let _0x45d47b=_0x1f7e14[0x0]||'';!_0x9e550e&&_0x558b28>0x1&&/^(warning|warn|note|deprecat|info)\b/i[_0x3b4db3(0x1b6)](_0x45d47b)&&(_0x45d47b=_0x1f7e14[_0x3b4db3(0x24e)](_0x448529=>!/^(warning|warn|note|deprecat|info)\b/i[_0x3b4db3(0x1b6)](_0x448529))||_0x45d47b);_0x45d47b=_0x45d47b[_0x3b4db3(0x3ef)](0x0,0x2c);if(_0x9e550e)return _0x45d47b;return _0x558b28>0x1?_0x45d47b+_0x3b4db3(0x3ee)+_0x558b28+_0x3b4db3(0x40e):_0x45d47b;}function _0x3ccecb(_0x6f5df5){const _0x2f32c2=_0x5760a2,_0x5402df=_0x6f5df5[_0x2f32c2(0x35f)]||{};if(_0x6f5df5[_0x2f32c2(0x195)]==='execute_luau')return(_0x5402df[_0x2f32c2(0x19b)]||'')[_0x2f32c2(0x335)]();try{return JSON['stringify'](_0x5402df,null,0x2);}catch{return String(_0x5402df);}}async function _0x153b78(_0x2d0253){const _0x68d615=_0x5760a2;if(_0x294e58[_0x68d615(0x2d7)])return;_0x294e58['running']=!![],_0x294e58['resumeArmed']=![],_0x294e58[_0x68d615(0x2fa)]=![],_0x294e58[_0x68d615(0x2cc)]=![],_0x294e58[_0x68d615(0x37d)]=null;let _0x12863d=0x0,_0x5f7004=![],_0x3f06c4=![],_0x1a2944=![];const _0x2ee25b=new Map(),_0x3d284c=0x6,_0x49d7f7=0x14;_0x46a0bb[_0x68d615(0x399)](!![]),_0x4266bb[_0x68d615(0x41a)](!![]),_0x46a0bb[_0x68d615(0x1f7)](!![]),_0x47a0f8(_0x68d615(0x40c),{'base':_0x2d0253});try{while(!_0x294e58['stop']){if(document['hidden']&&!_0x294e58[_0x68d615(0x2fa)]){_0x47a0f8(_0x68d615(0x2d2)),_0x46a0bb[_0x68d615(0x1f7)](!![]);if(!await _0x34fbf7()||_0x294e58['stop'])break;_0x47a0f8('loop.visibleAgain');}let _0x325bb5=await _0x34a090(_0x2d0253);_0x325bb5=await _0x5e9aa1(_0x325bb5),_0x47a0f8('response',{'kind':_0x325bb5[_0x68d615(0x326)]});if(_0x294e58[_0x68d615(0x2fa)]||_0x325bb5['kind']===_0x68d615(0x413))break;if(_0x325bb5[_0x68d615(0x326)]===_0x68d615(0x3a1)){_0x1a2944=!![],_0x46a0bb[_0x68d615(0x12f)](_0x68d615(0x1bb),_0x4266bb['displayName']+'\x20reached\x20its\x20context\x20limit',(_0x325bb5['detail']||'')+_0x68d615(0x123));break;}if(_0x325bb5['kind']==='too_long'){_0x1a2944=!![],_0x46a0bb['banner'](_0x68d615(0x1bb),_0x68d615(0x2b7),_0x4266bb[_0x68d615(0x145)]+_0x68d615(0x2ed));break;}if(_0x325bb5[_0x68d615(0x326)]===_0x68d615(0x10b)){_0x1a2944=!![],_0x46a0bb[_0x68d615(0x12f)](_0x68d615(0x239),'No\x20response\x20from\x20'+_0x4266bb['displayName'],_0x4266bb[_0x68d615(0x145)]+_0x68d615(0x380));break;}if(_0x325bb5['kind']===_0x68d615(0x12d)){_0x1a2944=!![],_0x47a0f8(_0x68d615(0x22b)),_0x46a0bb['banner']('warn',_0x4266bb[_0x68d615(0x145)]+'\x20returned\x20an\x20empty\x20reply',_0x68d615(0x1b1)+('Ask\x20'+_0x4266bb[_0x68d615(0x145)]+'\x20to\x20continue,\x20or\x20press\x20Start\x20again\x20in\x20a\x20new\x20chat.'));break;}if(_0x325bb5[_0x68d615(0x326)]===_0x68d615(0x34c)){if(_0x4266bb[_0x68d615(0x1b2)](_0x325bb5[_0x68d615(0x26c)])){_0x47a0f8('truncated.halted');break;}if(_0x12863d<_0x3d284c){_0x12863d++;if(_0x4266bb[_0x68d615(0x20e)]()&&await _0x584ce8(()=>_0x4266bb['isGenerating'](),0x9c4)){_0x47a0f8('truncated.continued');continue;}_0x47a0f8(_0x68d615(0x3ae)),_0x46a0bb[_0x68d615(0x228)]('Reply\x20was\x20cut\x20off,\x20resuming…'),_0x2d0253=await _0x5dbc5e(ZS['FEEDBACK'][_0x68d615(0x34c)]);continue;}if(_0x325bb5[_0x68d615(0x1a9)])break;_0x46a0bb[_0x68d615(0x12f)](_0x68d615(0x239),'Reply\x20kept\x20getting\x20cut\x20off',_0x68d615(0x11e));break;}_0x12863d=0x0;if(_0x325bb5[_0x68d615(0x326)]===_0x68d615(0x1f4)){const _0x26da03=ZSParse[_0x68d615(0x292)](_0x325bb5[_0x68d615(0x271)]||'')||'command';if(_0x325bb5[_0x68d615(0x26c)]){const _0x4e26c6=_0x325bb5[_0x68d615(0x230)]==='unclosed'?_0x68d615(0x1ac):_0x325bb5['reason']===_0x68d615(0x1b4)?'missing\x20###LUA###':_0x325bb5[_0x68d615(0x230)]===_0x68d615(0x201)?_0x68d615(0x211):_0x68d615(0x1cb);_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x26da03,_0x68d615(0x405),_0x4e26c6,!![],'',ZS[_0x68d615(0x3ab)](_0x26da03));}_0x2d0253=await _0x5dbc5e(ZS[_0x68d615(0x128)][_0x68d615(0x2e1)](_0x325bb5[_0x68d615(0x230)],_0x26da03));continue;}if(_0x325bb5[_0x68d615(0x326)]==='text'){if(_0x46a0bb[_0x68d615(0x107)]()===_0x68d615(0x2b2)&&!_0x46a0bb[_0x68d615(0x410)]()){_0x46a0bb[_0x68d615(0x32d)](),_0x5f7004=!![];break;}await _0x361327(0x384);const _0x55e8a5=(_0x4266bb[_0x68d615(0x156)]()[_0x68d615(0x260)]||_0x325bb5[_0x68d615(0x1a9)]||'')[_0x68d615(0x335)](),_0x26b461=/\[\[EVERLUA_DONE\]\]/i[_0x68d615(0x1b6)](_0x55e8a5)||/^\s*(?:done|completed|finished)\b/i[_0x68d615(0x1b6)](_0x55e8a5),_0x5e98ee=_0x46a0bb[_0x68d615(0x107)]()===_0x68d615(0x32c)||_0x46a0bb[_0x68d615(0x107)]()===_0x68d615(0x2b2)&&_0x46a0bb[_0x68d615(0x410)](),_0x1a5c8d=_0x294e58[_0x68d615(0x35a)]&&_0x5e98ee&&!_0x26b461&&_0x294e58[_0x68d615(0x389)]<0x8;if(_0x1a5c8d){_0x294e58['goalContinuations']++,_0x46a0bb['setStarted'](),_0x47a0f8(_0x68d615(0x117),{'attempt':_0x294e58['goalContinuations']}),_0x2d0253=await _0x5dbc5e('GOAL\x20CHECK:\x20Review\x20the\x20active\x20user\x20request\x20and\x20your\x20last\x20reply.\x20Is\x20every\x20requested\x20part\x20actually\x20complete?\x20If\x20YES,\x20reply\x20starting\x20exactly\x20`Done\x20—`\x20followed\x20by\x20a\x20short\x20result,\x20then\x20end\x20with\x20[[EVERLUA_DONE]].\x20If\x20NO,\x20do\x20not\x20give\x20a\x20status-only\x20reply:\x20immediately\x20continue\x20the\x20work\x20with\x20the\x20next\x20required\x20EverLua\x20command.');continue;}_0x294e58[_0x68d615(0x35a)]=![],_0x294e58[_0x68d615(0x389)]=0x0,_0x46a0bb['setStarted'](),_0x5f7004=!![];break;}if(_0x325bb5[_0x68d615(0x326)]===_0x68d615(0x195)){const _0x56baf3=_0x325bb5[_0x68d615(0x3c8)];if(_0x56baf3[_0x68d615(0x2ba)]>0x1){_0x2d0253=await _0x5dbc5e(ZS[_0x68d615(0x128)]['multiTool'](_0x56baf3[_0x68d615(0x35c)](_0xe41efe=>_0xe41efe[_0x68d615(0x195)]||'?')));continue;}const _0x4ee86f=_0x56baf3[0x0],_0x188f18=_0x46a0bb['getAgentMode']();if(_0x188f18==='chat'){_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f[_0x68d615(0x195)],_0x68d615(0x405),_0x68d615(0x1b3),!![],_0x3ccecb(_0x4ee86f),ZS['toolCategory'](_0x4ee86f[_0x68d615(0x195)])),_0x46a0bb[_0x68d615(0x228)](_0x68d615(0x1f0));break;}if(_0x188f18==='plan'&&!_0x46a0bb['isPlanExecutionApproved']()){_0x209317['toolBox'](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f['tool'],'err',_0x68d615(0x2d0),!![],_0x3ccecb(_0x4ee86f),ZS[_0x68d615(0x3ab)](_0x4ee86f[_0x68d615(0x195)])),_0x46a0bb[_0x68d615(0x32d)]();break;}if(_0x188f18===_0x68d615(0x166)){const _0x477b4e=await _0x46a0bb[_0x68d615(0x361)](_0x4ee86f);if(!_0x477b4e||_0x294e58[_0x68d615(0x2fa)]){_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f[_0x68d615(0x195)],_0x68d615(0x405),_0x68d615(0x148),!![],_0x3ccecb(_0x4ee86f),ZS[_0x68d615(0x3ab)](_0x4ee86f['tool']));if(_0x294e58[_0x68d615(0x2fa)])break;_0x2d0253=await _0x5dbc5e('ERROR:\x20the\x20user\x20skipped\x20\x27'+_0x4ee86f[_0x68d615(0x195)]+_0x68d615(0x1da));continue;}}let _0x2a4f5a='';try{_0x2a4f5a=JSON[_0x68d615(0x327)]([_0x4ee86f[_0x68d615(0x195)],_0x4ee86f['arguments']||{}]);}catch{}const _0x1bf9a0=_0x2a4f5a&&_0x2ee25b[_0x68d615(0x420)](_0x2a4f5a);if(_0x1bf9a0&&Date[_0x68d615(0x416)]()-_0x1bf9a0<0xea60){_0x47a0f8(_0x68d615(0x1f6),{'name':_0x4ee86f[_0x68d615(0x195)]}),_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f[_0x68d615(0x195)],'done',_0x68d615(0x2d5),!![],_0x3ccecb(_0x4ee86f),ZS['toolCategory'](_0x4ee86f['tool'])),_0x3f06c4=!![],_0x5f7004=!![];break;}const _0xa1e07d=_0x294e58['imageTools'][_0x68d615(0x375)](_0x7c118c(_0x4ee86f[_0x68d615(0x195)])),_0x3268f0=_0xa1e07d?_0x68d615(0x2b4):ZS[_0x68d615(0x3ab)](_0x4ee86f[_0x68d615(0x195)]);_0x47a0f8(_0x68d615(0x1ee),{'name':_0x4ee86f['tool'],'learnedImg':_0xa1e07d,'category':_0x3268f0});if(document[_0x68d615(0x130)]&&!_0x294e58[_0x68d615(0x2fa)]){_0x47a0f8(_0x68d615(0x3b0),{'name':_0x4ee86f[_0x68d615(0x195)]});if(!await _0x34fbf7()||_0x294e58[_0x68d615(0x2fa)])break;}_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f[_0x68d615(0x195)],_0x68d615(0x14f),_0x47997e(_0x4ee86f),!![],_0x3ccecb(_0x4ee86f),_0x3268f0),_0x294e58[_0x68d615(0x2c3)]=null,_0x294e58[_0x68d615(0x125)]=!![],_0x294e58['toolStart']=Date['now'](),_0x294e58[_0x68d615(0x3b7)]=_0x4ee86f[_0x68d615(0x195)],_0x294e58[_0x68d615(0x3e7)]=_0x325bb5[_0x68d615(0x26c)],_0x294e58['toolArg']=_0x47997e(_0x4ee86f),_0x59cca8(_0x325bb5[_0x68d615(0x26c)]),_0x47a0f8(_0x68d615(0x1a0),{'name':_0x4ee86f[_0x68d615(0x195)]});const _0x1d6721=await _0x23c3ae(_0x4ee86f);_0x294e58['toolRunning']=![],_0x47a0f8(_0x68d615(0x244),{'name':_0x4ee86f[_0x68d615(0x195)],'ok':!_0x1d6721['startsWith'](_0x68d615(0x2f1)),'out':_0x1d6721[_0x68d615(0x3ef)](0x0,0x32)});if(_0x294e58['stop']){_0x325bb5[_0x68d615(0x26c)]&&(_0x325bb5[_0x68d615(0x26c)]['dataset'][_0x68d615(0x2d6)]='1',_0x5bd5ae(_0x325bb5[_0x68d615(0x26c)]));_0x209317['toolBox'](_0x325bb5['item'],_0x4ee86f[_0x68d615(0x195)],'err',_0x68d615(0x413),!![],'',_0x3268f0);break;}const _0x55e817=_0xafba55(_0x1d6721);if(!_0x55e817&&_0x2a4f5a)_0x2ee25b[_0x68d615(0x37e)](_0x2a4f5a,Date['now']());_0x1a2944=_0x55e817;if(!_0x55e817&&_0x4ee86f['tool']!=='list_commands'&&_0x4ee86f[_0x68d615(0x195)]!==_0x68d615(0x332))_0x3f06c4=!![];const _0x402465=_0x3dbe5e(_0x1d6721);{const _0x2c235b=_0x402465[_0x68d615(0x178)]('\x0a')['map'](_0x119041=>_0x119041['trim']())[_0x68d615(0x3c4)](Boolean);_0x47a0f8(_0x68d615(0x16a),{'name':_0x4ee86f[_0x68d615(0x195)],'isErr':_0x55e817,'phase':_0x55e817?_0x68d615(0x405):_0x68d615(0x124),'summary':_0x2c832f(_0x1d6721),'lineCount':_0x2c235b[_0x68d615(0x2ba)],'firstLine':(_0x2c235b[0x0]||'')['slice'](0x0,0x5a),'lastLine':(_0x2c235b[_0x2c235b[_0x68d615(0x2ba)]-0x1]||'')[_0x68d615(0x3ef)](0x0,0x5a)});}const _0xa0f770=!!(_0x294e58[_0x68d615(0x37f)]&&_0x294e58[_0x68d615(0x37f)][_0x68d615(0x2ba)]);if(_0xa0f770)_0x3cdadb(_0x4ee86f['tool']);const _0x3becf3=_0xa0f770?_0x68d615(0x2b4):_0x3268f0;_0x209317[_0x68d615(0x1b9)](_0x325bb5[_0x68d615(0x26c)],_0x4ee86f[_0x68d615(0x195)],_0x55e817?_0x68d615(0x405):_0x68d615(0x124),_0x2c832f(_0x1d6721),!![],_0x402465,_0x3becf3),_0x294e58[_0x68d615(0x2c3)]={'phase':_0x55e817?'err':_0x68d615(0x124),'detail':_0x2c832f(_0x1d6721),'body':_0x402465,'category':_0x3becf3,'count':_0x4266bb[_0x68d615(0x1d5)](),'id':_0x4266bb[_0x68d615(0x172)]?_0x4266bb[_0x68d615(0x172)]():undefined};let _0x1293bf=_0x1d6721;if(!_0x55e817&&_0x4ee86f[_0x68d615(0x195)]!==_0x68d615(0x37b)&&_0x294e58[_0x68d615(0x30d)]['length']){_0x294e58[_0x68d615(0x160)]++;if(_0x294e58['toolCallsSinceReminder']>=_0x49d7f7){_0x294e58['toolCallsSinceReminder']=0x0;const _0xd6b414=_0x294e58[_0x68d615(0x30d)][_0x68d615(0x3c4)](_0x372295=>(_0x372295[_0x68d615(0x250)]||_0x68d615(0x21c))==='roblox');_0x1293bf+=ZS[_0x68d615(0x3d8)](_0xd6b414),_0x47a0f8(_0x68d615(0x1e2),{'after':_0x49d7f7});}}const _0xd29b72=_0x294e58[_0x68d615(0x37f)];_0x294e58[_0x68d615(0x37f)]=null,_0x47a0f8(_0x68d615(0x3f5),{'count':_0xd29b72?_0xd29b72[_0x68d615(0x2ba)]:0x0}),_0x2d0253=await _0x5dbc5e(_0x1293bf,_0xd29b72);}}}catch(_0x1e8e80){_0x1a2944=!![],_0x47a0f8(_0x68d615(0x27d),{'msg':String(_0x1e8e80&&_0x1e8e80[_0x68d615(0x321)]||_0x1e8e80)}),_0x46a0bb[_0x68d615(0x12f)]('warn',_0x68d615(0x20a),String(_0x1e8e80&&_0x1e8e80[_0x68d615(0x321)]||_0x1e8e80));}finally{_0x294e58[_0x68d615(0x2d7)]=![],_0x294e58[_0x68d615(0x2fa)]=![];const _0x2594ee=_0x294e58[_0x68d615(0x2cc)]&&_0x294e58['started']&&_0x4266bb[_0x68d615(0x2ab)]();if(_0x294e58[_0x68d615(0x2cc)]&&_0x2594ee)_0x47a0f8('stop.drain',{'keptStopping':!![]});_0x294e58[_0x68d615(0x2cc)]=_0x2594ee,_0x294e58['toolRunning']=![],_0x294e58[_0x68d615(0x2c3)]=null,_0x294e58[_0x68d615(0x37d)]=null,_0x46a0bb[_0x68d615(0x399)](![]),_0x46a0bb[_0x68d615(0x1f7)](![]),_0x4266bb[_0x68d615(0x41a)](![]),!_0x294e58[_0x68d615(0x2cc)]&&(_0x5f7004&&_0x3f06c4||_0x1a2944)&&_0x46a0bb[_0x68d615(0x397)](_0x1a2944?_0x68d615(0x317):'success'),_0x47a0f8('loop.end');}}const _0x10c6f9=new Map(),_0x1e16d5=_0x114fe3=>_0x4266bb[_0x5760a2(0x353)]()['filter'](_0x4266bb[_0x5760a2(0x3ec)])['indexOf'](_0x114fe3),_0x40535d=_0x32279b=>{const _0x2d8c94=_0x5760a2;if(_0x4266bb[_0x2d8c94(0x30f)]){const _0x375903=_0x4266bb[_0x2d8c94(0x30f)](_0x32279b);if(_0x375903!=null)return'k'+_0x375903;}return String(_0x1e16d5(_0x32279b));};function _0x5bd5ae(_0x2858b0){const _0x2c7d24=_0x5760a2;try{if(!_0x2858b0||_0x1e16d5(_0x2858b0)<0x0)return;const _0x293bfc=(_0x4266bb['itemText'](_0x2858b0)||'')[_0x2c7d24(0x3ef)](0x0,0x3c);if(_0x293bfc[_0x2c7d24(0x335)]()[_0x2c7d24(0x2ba)]<0xc)return;_0x10c6f9[_0x2c7d24(0x37e)](_0x4266bb[_0x2c7d24(0x3e0)]()+'|'+_0x40535d(_0x2858b0),_0x293bfc);}catch{}}function _0x3a3cd9(_0x3a8268){const _0x322a7f=_0x5760a2;if(!_0x3a8268||!_0x10c6f9[_0x322a7f(0x29b)])return;try{_0x10c6f9[_0x322a7f(0x1f9)](_0x4266bb[_0x322a7f(0x3e0)]()+'|'+_0x40535d(_0x3a8268));}catch{}}function _0x3164c9(_0x16d75b,_0x4b69c2){const _0x33ee4f=_0x5760a2;if(!_0x10c6f9[_0x33ee4f(0x29b)])return![];try{const _0x591628=_0x10c6f9[_0x33ee4f(0x420)](_0x4266bb['conversationKey']()+'|'+_0x40535d(_0x16d75b));return _0x591628!=null&&(_0x4b69c2||'')[_0x33ee4f(0x310)](_0x591628);}catch{return![];}}function _0x25a36f(){const _0x396278=_0x5760a2,_0x115025=_0x4266bb['lastAssistant']();if(!_0x115025)return;_0x115025[_0x396278(0x333)][_0x396278(0x2d6)]='1',_0x5bd5ae(_0x115025);}const _0x2c8764=new Map();function _0x59cca8(_0x13257c){const _0x2ff4b0=_0x5760a2;if(!_0x13257c)return;try{if(_0x1e16d5(_0x13257c)<0x0)return;const _0x14a312=(_0x4266bb['itemText'](_0x13257c)||'')[_0x2ff4b0(0x3ef)](0x0,0x3c);if(_0x14a312[_0x2ff4b0(0x335)]()[_0x2ff4b0(0x2ba)]<0xc)return;_0x2c8764[_0x2ff4b0(0x37e)](_0x4266bb[_0x2ff4b0(0x3e0)]()+'|'+_0x40535d(_0x13257c),_0x14a312);}catch{}}function _0x1c1d51(_0x4e13e9,_0x49bbc3){const _0x4aa85b=_0x5760a2;if(!_0x2c8764[_0x4aa85b(0x29b)])return![];try{const _0x28b827=_0x2c8764[_0x4aa85b(0x420)](_0x4266bb[_0x4aa85b(0x3e0)]()+'|'+_0x40535d(_0x4e13e9));return _0x28b827!=null&&(_0x49bbc3||'')[_0x4aa85b(0x310)](_0x28b827);}catch{return![];}}function _0x4fddd8(){const _0x5064da=_0x5760a2;if(_0x294e58[_0x5064da(0x2cc)])return;_0x47a0f8(_0x5064da(0x406)),_0x46a0bb[_0x5064da(0x1c0)](),_0x294e58[_0x5064da(0x2fa)]=!![],_0x294e58[_0x5064da(0x2cc)]=!![],_0x294e58[_0x5064da(0x209)]=Date['now'](),_0x294e58[_0x5064da(0x1ef)]=_0x4266bb[_0x5064da(0x31c)]?_0x4266bb[_0x5064da(0x31c)]():0x0,_0x294e58[_0x5064da(0x21f)]=!![],_0x294e58[_0x5064da(0x11b)]=![],_0x294e58['injectHideUntil']=0x0,_0x25a36f(),_0x294e58['toolRunning']&&_0x294e58[_0x5064da(0x3e7)]&&(_0x294e58[_0x5064da(0x3e7)][_0x5064da(0x333)]['zStopped']='1',_0x5bd5ae(_0x294e58['toolItem']),_0x209317['toolBox'](_0x294e58[_0x5064da(0x3e7)],_0x294e58[_0x5064da(0x3b7)],'err',_0x5064da(0x413),!![],'',ZS['toolCategory'](_0x294e58['toolName']))),_0x46a0bb['markStopping'](),_0x4266bb[_0x5064da(0x1db)](),_0x46a0bb[_0x5064da(0x228)](_0x5064da(0x22e)),setTimeout(()=>{const _0x4aa320=_0x5064da;!_0x294e58[_0x4aa320(0x2d7)]&&!_0x294e58[_0x4aa320(0x125)]&&_0x294e58['stopping']&&(_0x294e58['stopping']=![],_0x294e58[_0x4aa320(0x2fa)]=![],_0x46a0bb[_0x4aa320(0x399)](![]),_0x47a0f8('stop.forcedRelease'));},0xbb8);}function _0x2965a8(_0x2a42f1){const _0x3dfcb3=_0x5760a2;if(_0x2a42f1===_0x3dfcb3(0x3dd))return'EVERLUA\x20MODE\x20CHANGE:\x20Switch\x20to\x20Chat\x20mode\x20now.\x20Answer\x20and\x20brainstorm\x20only.\x20Do\x20NOT\x20emit\x20EverLua\x20commands\x20or\x20access\x20Roblox\x20Studio.\x20Reply\x20with\x20one\x20short\x20acknowledgement.';if(_0x2a42f1==='manual')return _0x3dfcb3(0x3cb);if(_0x2a42f1===_0x3dfcb3(0x2b2))return _0x3dfcb3(0x2c1);return _0x3dfcb3(0x18f);}async function _0x4ebbe2(_0x1316aa){const _0x1bf049=_0x5760a2;if(!_0x294e58[_0x1bf049(0x36e)]||_0x294e58[_0x1bf049(0x2d7)]||_0x294e58[_0x1bf049(0x144)])return;_0x294e58['goalActive']=![],_0x294e58['goalContinuations']=0x0;try{await _0x5dbc5e(_0x2965a8(_0x1316aa)),_0x46a0bb[_0x1bf049(0x228)]((_0x1316aa==='plan'?'Plan':_0x1316aa[0x0][_0x1bf049(0x27a)]()+_0x1316aa[_0x1bf049(0x3ef)](0x1))+_0x1bf049(0x1a8));}catch(_0x3c8e87){_0x46a0bb['banner'](_0x1bf049(0x239),_0x1bf049(0x227),_0x1bf049(0x344));}}async function _0xd51a23(){const _0x199022=_0x5760a2;if(typeof _0x294e58[_0x199022(0x339)]===_0x199022(0x259)&&typeof _0x294e58['pendingUiTheme']===_0x199022(0x259)||_0x294e58[_0x199022(0xfd)]||!_0x294e58[_0x199022(0x36e)]||Date[_0x199022(0x416)]()<_0x294e58[_0x199022(0x135)])return;if(_0x294e58[_0x199022(0x2d7)]||_0x294e58['starting']||_0x294e58['toolRunning']||_0x294e58['injecting']||_0x4266bb['isGenerating']()||document[_0x199022(0x130)])return;const _0x48d667=_0x294e58[_0x199022(0x339)],_0x56b8f0=_0x294e58[_0x199022(0x246)];_0x294e58[_0x199022(0x339)]=undefined,_0x294e58[_0x199022(0x246)]=undefined,_0x294e58[_0x199022(0xfd)]=!![];try{await _0x5dbc5e(ZS[_0x199022(0x3be)](_0x48d667,_0x56b8f0));const _0x2cdb00=[_0x48d667&&_0x48d667+_0x199022(0x384),_0x56b8f0&&_0x56b8f0+'\x20theme'][_0x199022(0x3c4)](Boolean);_0x46a0bb[_0x199022(0x228)](_0x2cdb00[_0x199022(0x2ba)]?_0x2cdb00[_0x199022(0x12a)](_0x199022(0x358))+_0x199022(0x1b7):_0x199022(0x3ba));}catch(_0x3b065b){if(typeof _0x294e58[_0x199022(0x339)]==='undefined')_0x294e58[_0x199022(0x339)]=_0x48d667;if(typeof _0x294e58[_0x199022(0x246)]==='undefined')_0x294e58[_0x199022(0x246)]=_0x56b8f0;_0x294e58[_0x199022(0x135)]=Date[_0x199022(0x416)]()+0xbb8,_0x47a0f8('uiDesign.syncError',{'error':String(_0x3b065b&&_0x3b065b['message']||_0x3b065b)});}finally{_0x294e58[_0x199022(0xfd)]=![];}}async function _0xd6b232(){const _0x48d157=_0x5760a2;if(!_0x294e58[_0x48d157(0x36e)]||_0x294e58[_0x48d157(0x2d7)]||_0x294e58['starting'])return;_0x294e58['goalActive']=!![],_0x294e58[_0x48d157(0x389)]=0x0,_0x46a0bb[_0x48d157(0x18a)]();try{const _0x490a99=await _0x5dbc5e('The\x20user\x20approved\x20execution\x20of\x20your\x20plan.\x20Begin\x20carrying\x20it\x20out\x20now,\x20one\x20command\x20at\x20a\x20time.\x20Continue\x20until\x20every\x20planned\x20item\x20needed\x20for\x20the\x20user\x27s\x20request\x20is\x20complete,\x20then\x20end\x20your\x20final\x20answer\x20with\x20[[EVERLUA_DONE]].');_0x153b78(_0x490a99);}catch(_0x15d436){_0x46a0bb[_0x48d157(0x12f)](_0x48d157(0x239),_0x48d157(0x41c),'Try\x20Enable\x20execution\x20again,\x20or\x20reload\x20EverLua.');}}async function _0x2f104e(){const _0x4b0ba7=_0x5760a2;if(_0x294e58[_0x4b0ba7(0x2d7)]||_0x294e58[_0x4b0ba7(0x144)])return;if(!_0x4266bb[_0x4b0ba7(0x11c)]()&&!_0x294e58['started']){_0x46a0bb[_0x4b0ba7(0x228)]('Open\x20a\x20new,\x20empty\x20conversation\x20to\x20start\x20a\x20session.');return;}_0x294e58[_0x4b0ba7(0x21f)]=![],_0x294e58['stop']=![];const _0x1ec86c=_0x46a0bb[_0x4b0ba7(0x107)]();_0x46a0bb[_0x4b0ba7(0x1d2)](),_0x294e58[_0x4b0ba7(0x159)]=_0x4266bb[_0x4b0ba7(0x172)]?_0x4266bb[_0x4b0ba7(0x172)]():null,_0x294e58[_0x4b0ba7(0x144)]=!![];const _0x426f49=++_0x294e58[_0x4b0ba7(0x345)];_0x294e58[_0x4b0ba7(0x24d)]=null;const _0x5ddde7=()=>_0x294e58['startGen']===_0x426f49;_0x294e58['toolCallsSinceReminder']=0x0,_0x46a0bb['setStarting'](!![]),_0x46a0bb[_0x4b0ba7(0x3c0)](),_0x4266bb[_0x4b0ba7(0x41a)](!![]),_0x46a0bb[_0x4b0ba7(0x1f7)](!![]);try{if(_0x1ec86c!==_0x4b0ba7(0x3dd)&&_0x1ec86c!=='plan'){await _0x4e4235(!![]);if(!_0x5ddde7())return;if(!_0x294e58[_0x4b0ba7(0x30d)]['length']){_0x46a0bb[_0x4b0ba7(0x12f)]('warn',_0x4b0ba7(0x25f),_0x4b0ba7(0x20d));return;}}const _0x103963=await _0x4266bb[_0x4b0ba7(0x340)](_0x4b0ba7(0x394));if(!_0x5ddde7())return;if(!_0x103963['ready']){_0x46a0bb[_0x4b0ba7(0x12f)](_0x4b0ba7(0x239),_0x4266bb[_0x4b0ba7(0x145)]+_0x4b0ba7(0x142),_0x4b0ba7(0x2e8)+_0x4266bb[_0x4b0ba7(0x145)]+_0x4b0ba7(0xf9));return;}const _0x21482e=ZS[_0x4b0ba7(0x299)]({'siteName':_0x4266bb[_0x4b0ba7(0x145)],'customPrompt':_0x46a0bb['getCustomPrompt'](),'agentMode':_0x1ec86c,'uiTemplate':_0x46a0bb[_0x4b0ba7(0x261)](),'uiTheme':_0x46a0bb[_0x4b0ba7(0x212)]()}),_0x32db0f=await _0x5dbc5e(_0x21482e);if(!_0x5ddde7())return;_0x209317[_0x4b0ba7(0x372)]();let _0x2de740=await _0x34a090(_0x32db0f);_0x2de740=await _0x5e9aa1(_0x2de740),_0x2de740=_0x4f9c27(_0x2de740),_0x47a0f8(_0x4b0ba7(0x3b6),{'kind':_0x2de740[_0x4b0ba7(0x326)],'tool':_0x2de740[_0x4b0ba7(0x3c8)]&&_0x2de740[_0x4b0ba7(0x3c8)][0x0]&&_0x2de740[_0x4b0ba7(0x3c8)][0x0][_0x4b0ba7(0x195)]});if(!_0x5ddde7())return;if(_0x294e58[_0x4b0ba7(0x2fa)]||_0x2de740[_0x4b0ba7(0x326)]===_0x4b0ba7(0x413)){_0x47a0f8(_0x4b0ba7(0x154),{'kind':_0x2de740[_0x4b0ba7(0x326)]});return;}const _0x1e5ed3=_0x2de740[_0x4b0ba7(0x3c8)]&&_0x2de740[_0x4b0ba7(0x3c8)][0x0]&&_0x2de740['calls'][0x0]['tool'];if((_0x1ec86c===_0x4b0ba7(0x32c)||_0x1ec86c===_0x4b0ba7(0x166))&&_0x2de740['kind']==='tool'&&_0x2de740[_0x4b0ba7(0x3c8)]&&_0x2de740[_0x4b0ba7(0x3c8)][_0x4b0ba7(0x2ba)]===0x1&&(_0x1e5ed3==='list_commands'||_0x1e5ed3===_0x4b0ba7(0x332))){_0x209317[_0x4b0ba7(0x1b9)](_0x2de740[_0x4b0ba7(0x26c)],'Loading\x20commands',_0x4b0ba7(0x14f),'',!![]);const _0x3670c7=_0x1ec86c!==_0x4b0ba7(0x166)||await _0x46a0bb[_0x4b0ba7(0x361)](_0x2de740[_0x4b0ba7(0x3c8)][0x0]),_0x2492fc=_0x3670c7?await _0x23c3ae(_0x2de740['calls'][0x0]):_0x4b0ba7(0x18d);if(/Roblox Studio is currently OFFLINE/['test'](_0x2492fc))_0x209317['toolBox'](_0x2de740[_0x4b0ba7(0x26c)],_0x4b0ba7(0x31b),_0x4b0ba7(0x405),'Roblox\x20offline',!![]);else{const _0x4dba5e=_0x294e58[_0x4b0ba7(0x30d)][_0x4b0ba7(0x3c4)](_0x12bf1b=>(_0x12bf1b[_0x4b0ba7(0x250)]||_0x4b0ba7(0x21c))==='roblox')[_0x4b0ba7(0x2ba)];_0x209317[_0x4b0ba7(0x1b9)](_0x2de740[_0x4b0ba7(0x26c)],_0x4b0ba7(0x31b),_0x4b0ba7(0x124),_0x4dba5e+'\x20commands',!![]);}const _0x362914=await _0x5dbc5e(_0x2492fc),_0x2ecacf=await _0x34a090(_0x362914);if(!_0x5ddde7())return;if(_0x294e58[_0x4b0ba7(0x2fa)]||_0x2ecacf['kind']===_0x4b0ba7(0x413)){_0x47a0f8('start.aborted',{'kind':_0x2ecacf[_0x4b0ba7(0x326)]});return;}}_0x294e58[_0x4b0ba7(0x36e)]=!![],_0x3331b3(_0x4266bb[_0x4b0ba7(0x3e0)]()),_0x46a0bb[_0x4b0ba7(0x18a)](!![]);if(_0x1ec86c==='plan')_0x46a0bb[_0x4b0ba7(0x32d)](),_0x46a0bb[_0x4b0ba7(0x228)](_0x4b0ba7(0x236));else _0x1ec86c===_0x4b0ba7(0x3dd)?_0x46a0bb[_0x4b0ba7(0x228)]('Chat\x20mode\x20is\x20ready.\x20Studio\x20tools\x20are\x20disabled.'):_0x46a0bb['toast']((_0x1ec86c===_0x4b0ba7(0x166)?_0x4b0ba7(0x1b8):_0x4b0ba7(0x351))+_0x4b0ba7(0x1ea));}catch(_0xbfc498){_0x47a0f8(_0x4b0ba7(0x216),{'error':String(_0xbfc498&&_0xbfc498[_0x4b0ba7(0x321)]||_0xbfc498)});if(_0x5ddde7())_0x46a0bb['banner'](_0x4b0ba7(0x239),'Startup\x20failed',String(_0xbfc498&&_0xbfc498[_0x4b0ba7(0x321)]||_0xbfc498));}finally{_0x5ddde7()&&(_0x294e58[_0x4b0ba7(0x144)]=![],_0x294e58[_0x4b0ba7(0x24d)]=null,_0x46a0bb['setStarting'](![]),_0x46a0bb['inputCover'](![]),_0x4266bb[_0x4b0ba7(0x41a)](![]),_0x209317[_0x4b0ba7(0x372)]());}}const _0xa84f78=_0x552f1e=>_0x5760a2(0x2a2)+_0x552f1e+_0x5760a2(0x152),_0x359baa={'screen':_0xa84f78(_0x5760a2(0x1f2)),'roblox':_0xa84f78(_0x5760a2(0x127)),'read':_0xa84f78('<circle\x20cx=\x2211\x22\x20cy=\x2211\x22\x20r=\x227\x22/><line\x20x1=\x2221\x22\x20y1=\x2221\x22\x20x2=\x2216.65\x22\x20y2=\x2216.65\x22/>'),'edit':_0xa84f78(_0x5760a2(0x25a)),'generate':_0xa84f78(_0x5760a2(0x23b)),'tool':_0xa84f78(_0x5760a2(0x3e8)),'result':_0xa84f78(_0x5760a2(0x157)),'check':_0xa84f78(_0x5760a2(0x3b4)),'error':_0xa84f78(_0x5760a2(0x379)),'gear':_0xa84f78('<circle\x20cx=\x2212\x22\x20cy=\x2212\x22\x20r=\x223\x22/><path\x20d=\x22M19.4\x2015a1.65\x201.65\x200\x200\x200\x20.33\x201.82l.06.06a2\x202\x200\x201\x201-2.83\x202.83l-.06-.06a1.65\x201.65\x200\x200\x200-2.82\x201.17V21a2\x202\x200\x200\x201-4\x200v-.09A1.65\x201.65\x200\x200\x200\x208\x2019.4a1.65\x201.65\x200\x200\x200-1.82.33l-.06.06a2\x202\x200\x201\x201-2.83-2.83l.06-.06A1.65\x201.65\x200\x200\x200\x204.6\x2015H4.5a2\x202\x200\x200\x201\x200-4h.09A1.65\x201.65\x200\x200\x200\x206\x208a1.65\x201.65\x200\x200\x200-.33-1.82l-.06-.06a2\x202\x200\x201\x201\x202.83-2.83l.06.06A1.65\x201.65\x200\x200\x200\x2011\x204.6h.09A1.65\x201.65\x200\x200\x200\x2012\x203.09\x202\x202\x200\x200\x201\x2016\x203v.09A1.65\x201.65\x200\x200\x200\x2019\x204.6l.06-.06a2\x202\x200\x201\x201\x202.83\x202.83l-.06.06A1.65\x201.65\x200\x200\x200\x2021.4\x2011h.1a2\x202\x200\x200\x201\x200\x204h-.09a1.65\x201.65\x200\x200\x200-1.5\x201z\x22/>')},_0x33ba05=_0x5760a2(0x22c);function _0x3c0967(_0x521555,_0x352d71){const _0x50a572=_0x5760a2;if(_0x352d71===_0x50a572(0x14f))return _0x33ba05;if(_0x352d71===_0x50a572(0x405))return _0x359baa[_0x50a572(0x317)];if(_0x352d71===_0x50a572(0x124))return _0x359baa['check'];if(_0x352d71===_0x50a572(0x207))return _0x359baa[_0x50a572(0x207)];if(_0x352d71==='sys')return _0x359baa['gear'];return _0x359baa[_0x521555]||_0x359baa['tool'];}function _0x308503(_0x2816b1){const _0xe887d8=_0x5760a2,_0x594c9b=_0x2816b1['querySelector'](_0xe887d8(0x377));if(_0x594c9b)_0x594c9b[_0xe887d8(0x381)]();_0x2816b1[_0xe887d8(0x2be)][_0xe887d8(0x381)]('zs-hidden'),_0x2816b1['querySelectorAll'](_0xe887d8(0x191))[_0xe887d8(0x395)](_0x1eca35=>_0x1eca35['classList'][_0xe887d8(0x381)]('zs-tool-hide')),_0x2816b1[_0xe887d8(0x356)](_0xe887d8(0x175))[_0xe887d8(0x395)](_0x1fedef=>_0x1fedef[_0xe887d8(0x2be)][_0xe887d8(0x381)]('zs-cmd-mask')),delete _0x2816b1[_0xe887d8(0x333)]['zs'],delete _0x2816b1[_0xe887d8(0x333)][_0xe887d8(0x19d)],delete _0x2816b1[_0xe887d8(0x333)]['zphase'],delete _0x2816b1['dataset'][_0xe887d8(0x2d6)],delete _0x2816b1[_0xe887d8(0x333)][_0xe887d8(0x1af)],delete _0x2816b1[_0xe887d8(0x333)][_0xe887d8(0x289)],delete _0x2816b1['__zsChip'];}const _0x209317={'chip'(_0x472ed9,_0xc07ed2){const _0x43f55f=_0x5760a2;if(_0x4266bb['id']===_0x43f55f(0x297))return null;const {label:_0x2b294f,detail:detail='',body:body='',category:category=_0x43f55f(0x195),phase:_0x1b509e,cls:_0x5d7795,whole:_0x110b5f}=_0xc07ed2;let _0x4012bb=_0x472ed9[_0x43f55f(0x300)](_0x43f55f(0x377));const _0x51db02=!!body,_0x13c922=category+'|'+_0x1b509e+'|'+(_0x5d7795||'')+'|'+(_0x110b5f?0x1:0x0)+'|'+_0x2b294f+'|'+detail+'|'+(_0x51db02?body[_0x43f55f(0x2ba)]:0x0);if(!_0x4012bb)_0x4012bb=document['createElement'](_0x43f55f(0x350));if(_0x4012bb[_0x43f55f(0x333)][_0x43f55f(0x139)]!==_0x13c922){_0x4012bb[_0x43f55f(0x333)][_0x43f55f(0x139)]=_0x13c922,_0x4012bb['className']=_0x43f55f(0x173)+category+'\x20'+(_0x5d7795||''),_0x4012bb[_0x43f55f(0x305)]=_0x43f55f(0x269)+(_0x43f55f(0x3fe)+_0x3c0967(category,_0x1b509e)+_0x43f55f(0x2f0))+_0x43f55f(0x26b)+_0x43f55f(0x3ce)+(_0x51db02?_0x43f55f(0x204)+_0xa84f78(_0x43f55f(0x33e))+'</span>':'')+_0x43f55f(0xf6)+(_0x51db02?_0x43f55f(0x28e):''),_0x4012bb['querySelector'](_0x43f55f(0x2c7))['textContent']=_0x2b294f;if(detail)_0x4012bb['querySelector'](_0x43f55f(0x3a8))[_0x43f55f(0x1e6)]=detail;if(_0x51db02){_0x4012bb[_0x43f55f(0x300)](_0x43f55f(0x304))['textContent']=body;const _0x351cac=_0x4012bb['querySelector']('.zs-chip-head');_0x351cac[_0x43f55f(0x1e3)][_0x43f55f(0x1a3)]=_0x43f55f(0x329),_0x351cac[_0x43f55f(0x3e1)]=()=>_0x4012bb['classList']['toggle'](_0x43f55f(0x28a));}}if(_0x110b5f){if(_0x4012bb[_0x43f55f(0x2f3)]!==_0x472ed9)_0x472ed9[_0x43f55f(0x39e)](_0x4012bb,_0x472ed9[_0x43f55f(0x234)]);_0x472ed9['classList'][_0x43f55f(0x167)](_0x43f55f(0x258));}else{_0x472ed9[_0x43f55f(0x2be)][_0x43f55f(0x381)](_0x43f55f(0x258));const _0x53069e=_0x4266bb['id']===_0x43f55f(0x297)&&(_0x294e58[_0x43f55f(0x144)]||_0x294e58['running']),_0x260a31=_0x53069e?null:_0x4266bb[_0x43f55f(0x140)](_0x472ed9,_0x4012bb);if(_0x4266bb[_0x43f55f(0x2e0)]){const _0xa85b59=_0x4266bb['chipAnchor']&&_0x4266bb[_0x43f55f(0x1fe)](_0x472ed9)||_0x472ed9,_0x17ff76=!!_0x4266bb[_0x43f55f(0x1e5)],_0x41e393=_0x17ff76&&_0x4266bb[_0x43f55f(0x418)]?_0x4266bb[_0x43f55f(0x418)](_0x472ed9):null,_0x124655=_0x4012bb[_0x43f55f(0x2f3)]===_0xa85b59&&(_0x17ff76?_0x4012bb['nextElementSibling']===_0x41e393:_0xa85b59[_0x43f55f(0x325)]===_0x4012bb);if(!_0x124655){if(_0x17ff76)_0xa85b59[_0x43f55f(0x39e)](_0x4012bb,_0x41e393);else _0xa85b59[_0x43f55f(0x39e)](_0x4012bb,_0xa85b59[_0x43f55f(0x234)]);}}else{if(_0x260a31)_0x260a31[_0x43f55f(0x2ae)]['insertBefore'](_0x4012bb,_0x260a31[_0x43f55f(0x138)]);else!_0x4012bb[_0x43f55f(0x2f3)]&&_0x472ed9['insertBefore'](_0x4012bb,_0x472ed9[_0x43f55f(0x234)]);}}return _0x472ed9[_0x43f55f(0x333)]['zs']=_0x5d7795||'1',_0x472ed9[_0x43f55f(0x141)]={..._0xc07ed2},_0x4012bb;},'ensureOwnedChip'(_0x3152e4){const _0x1330bb=_0x5760a2,_0x579df4=_0x3152e4['__zsChip'];if(!_0x579df4)return;const _0x20cab4=_0x3152e4[_0x1330bb(0x300)]('.zs-chip'),_0x31ac6d=!_0x20cab4;let _0x454cac=![];!_0x579df4[_0x1330bb(0x367)]&&(_0x454cac=[..._0x3152e4['querySelectorAll']('pre,\x20p,\x20[class*=\x27code\x27],\x20.cm-line')]['some'](_0x189983=>!_0x189983[_0x1330bb(0x37a)](_0x1330bb(0x191))&&!_0x189983[_0x1330bb(0x37a)]('.zs-chip')&&!(_0x4266bb['thinkingSel']&&_0x189983['closest'](_0x4266bb[_0x1330bb(0x1ab)]))&&!_0x189983[_0x1330bb(0x300)]('.zs-tool-hide')&&ZSParse['hasCommandShape'](_0x189983['textContent']||'')));let _0x32f8d6=![];if(!_0x579df4[_0x1330bb(0x367)]&&!_0x31ac6d&&_0x4266bb['chipAtItemLevel']&&_0x4266bb[_0x1330bb(0x1e5)]){const _0x16a729=_0x4266bb[_0x1330bb(0x1fe)]&&_0x4266bb[_0x1330bb(0x1fe)](_0x3152e4)||_0x3152e4,_0x3b5751=_0x4266bb[_0x1330bb(0x418)]?_0x4266bb[_0x1330bb(0x418)](_0x3152e4):null;_0x32f8d6=_0x20cab4[_0x1330bb(0x2f3)]===_0x16a729&&_0x20cab4[_0x1330bb(0x2ea)]!==_0x3b5751;}(_0x31ac6d||_0x454cac||_0x32f8d6)&&(_0x47a0f8('chip.rebuild',{'name':_0x579df4['label'],'phase':_0x579df4['phase'],'chipGone':_0x31ac6d,'rawVisible':_0x454cac,'drifted':_0x32f8d6}),this[_0x1330bb(0x2df)](_0x3152e4,_0x579df4));},'toolBox'(_0x375dfc,_0x4a32e2,_0x36e67b,_0x40780b,_0x2f6ec1,_0x5e5035,_0x1aac0d){const _0x2313c4=_0x5760a2;if(!_0x375dfc)return;_0x375dfc[_0x2313c4(0x333)][_0x2313c4(0x27c)]!==_0x36e67b&&_0x47a0f8(_0x2313c4(0x133),{'name':_0x4a32e2,'from':_0x375dfc[_0x2313c4(0x333)][_0x2313c4(0x27c)]||_0x2313c4(0x29f),'to':_0x36e67b,'by':_0x2f6ec1?_0x2313c4(0x1fa):_0x2313c4(0x372),'detail':_0x40780b||''});const _0x555a1e=_0x36e67b==='run'?_0x2313c4(0x14f):_0x36e67b==='err'?_0x2313c4(0x405):_0x36e67b==='idle'?'idle':_0x2313c4(0x124);this['chip'](_0x375dfc,{'label':_0x4a32e2,'detail':_0x40780b||'','body':_0x5e5035||'','category':_0x1aac0d||ZS['toolCategory'](_0x4a32e2),'phase':_0x36e67b,'cls':_0x555a1e}),_0x375dfc[_0x2313c4(0x333)][_0x2313c4(0x27c)]=_0x36e67b;if(_0x2f6ec1)_0x375dfc[_0x2313c4(0x333)]['zloop']='1';},'classify'(_0xedff77,_0x542eb7){const _0x4fcd7f=_0x5760a2;if(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x225)]){this[_0x4fcd7f(0x2e5)](_0xedff77);return;}const _0x179e50=_0x4266bb[_0x4fcd7f(0x40d)](_0xedff77,_0x4fcd7f(0x377)),_0x37d965=!_0xedff77['querySelector']('.zs-chip');if(_0x179e50[_0x4fcd7f(0x3c1)](ZS[_0x4fcd7f(0x3d0)])){const _0x1562fc=_0x294e58[_0x4fcd7f(0x144)]?_0x4fcd7f(0x14f):_0x4fcd7f(0x205);(_0xedff77['dataset']['zs']!==_0x4fcd7f(0x205)||_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]!==_0x1562fc||_0x37d965)&&(this[_0x4fcd7f(0x2df)](_0xedff77,{'label':'Starting\x20Up','category':'tool','phase':_0x1562fc,'cls':_0x4fcd7f(0x205),'whole':!![]}),_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]=_0x1562fc);return;}if(_0x4266bb[_0x4fcd7f(0x3b9)](_0xedff77)&&ZSParse[_0x4fcd7f(0x15d)](_0x179e50)){const _0x509fce=_0x179e50[_0x4fcd7f(0x2d4)](/Output of '([^']+)'/),_0x323b71=/^\s*ERROR\b/['test'](_0x179e50),_0x111398=!_0x323b71&&_0x316fef['test'](_0x179e50);if(_0x111398&&_0x509fce)_0x3cdadb(_0x509fce[0x1]);const _0x4b86e2=(_0x509fce?_0x509fce[0x1]:_0x4fcd7f(0x26f))+'|'+(_0x323b71?'err':_0x111398?_0x4fcd7f(0x2f4):'result');(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x19d)]!==_0x4b86e2||!_0xedff77[_0x4fcd7f(0x2be)]['contains']('zs-hidden')||_0x37d965)&&(this[_0x4fcd7f(0x2df)](_0xedff77,{'label':_0x509fce?_0x509fce[0x1]+'\x20·\x20result':_0x4fcd7f(0x207),'category':_0x111398?'screen':_0x509fce?ZS['toolCategory'](_0x509fce[0x1]):_0x4fcd7f(0x195),'body':_0x179e50,'phase':_0x323b71?_0x4fcd7f(0x405):_0x4fcd7f(0x207),'cls':_0x323b71?_0x4fcd7f(0x405):_0x4fcd7f(0x207),'whole':!![]}),_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x19d)]=_0x4b86e2);return;}if(_0x4266bb[_0x4fcd7f(0x3ec)](_0xedff77)&&!ZSParse[_0x4fcd7f(0x17f)](_0x179e50)&&_0x542eb7&&_0x4266bb[_0x4fcd7f(0x3b9)](_0x542eb7)){const _0x5a76d6=_0x4266bb[_0x4fcd7f(0x40d)](_0x542eb7,_0x4fcd7f(0x377)),_0x51fb77=_0x5a76d6[_0x4fcd7f(0x2d4)](/^\s*Output of '([^']+)'/);if(_0x51fb77){const _0x3b7997=/^\s*ERROR\b/[_0x4fcd7f(0x1b6)](_0x5a76d6),_0x8db21a=_0x3b7997?_0x4fcd7f(0x405):_0x4fcd7f(0x124);(_0xedff77['dataset'][_0x4fcd7f(0x27c)]!==_0x8db21a||_0x37d965)&&this[_0x4fcd7f(0x1b9)](_0xedff77,_0x51fb77[0x1],_0x8db21a,'',![]);return;}}if(_0x4266bb[_0x4fcd7f(0x3ec)](_0xedff77)&&ZSParse[_0x4fcd7f(0x17f)](_0x179e50)&&(_0x294e58[_0x4fcd7f(0x36e)]||_0x294e58['starting'])){if(_0xedff77[_0x4fcd7f(0x333)]['zRegenLen']){const _0x44cb4d=Number(_0xedff77['dataset'][_0x4fcd7f(0x1af)]),_0x34b164=Number(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x289)]||0x0),_0x49f04c=_0x179e50[_0x4fcd7f(0x2ba)]<_0x44cb4d-0x8,_0x753615=Date[_0x4fcd7f(0x416)]()-_0x34b164>0x1770;if(!_0x49f04c&&!_0x753615){const _0x2f97ca=ZSParse[_0x4fcd7f(0x292)](_0x179e50)||'command';this[_0x4fcd7f(0x1b9)](_0xedff77,_0x2f97ca,_0x4fcd7f(0x405),'stopped',![]);return;}delete _0xedff77[_0x4fcd7f(0x333)]['zRegenLen'],delete _0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x289)];}const _0x4b34d5=!_0x294e58['userStopped']&&(_0xedff77===_0x4266bb['lastAssistant']()&&_0x4266bb[_0x4fcd7f(0x32e)]()||_0x294e58[_0x4fcd7f(0x2d7)]&&_0x294e58[_0x4fcd7f(0x3e7)]===_0xedff77);_0x4b34d5&&(delete _0xedff77[_0x4fcd7f(0x333)]['zStopped'],_0x3a3cd9(_0xedff77));const _0x338054=!_0x4b34d5&&(_0xedff77['dataset'][_0x4fcd7f(0x2d6)]==='1'||_0x294e58['userStopped']&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()||_0x3164c9(_0xedff77,_0x179e50));_0x338054&&_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x2d6)]!=='1'&&(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x2d6)]='1',_0x47a0f8(_0x4fcd7f(0x323),{'name':ZSParse[_0x4fcd7f(0x292)](_0x179e50)}));if(!_0x338054&&_0x294e58['running']&&!_0x294e58[_0x4fcd7f(0x125)]&&_0x294e58[_0x4fcd7f(0x2c3)]&&(_0x294e58[_0x4fcd7f(0x2c3)]['id']!==undefined&&_0x4266bb[_0x4fcd7f(0x172)]?_0x4266bb['lastAssistantId']()===_0x294e58[_0x4fcd7f(0x2c3)]['id']:_0x294e58[_0x4fcd7f(0x2c3)][_0x4fcd7f(0x2cb)]===_0x4266bb[_0x4fcd7f(0x1d5)]())&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()&&ZSParse[_0x4fcd7f(0x292)](_0x179e50)===_0x294e58[_0x4fcd7f(0x3b7)]){_0x47a0f8('chip.reown',{'name':_0x294e58[_0x4fcd7f(0x3b7)],'phase':_0x294e58[_0x4fcd7f(0x2c3)][_0x4fcd7f(0x1cd)]}),this[_0x4fcd7f(0x1b9)](_0xedff77,_0x294e58[_0x4fcd7f(0x3b7)],_0x294e58['toolSettle'][_0x4fcd7f(0x1cd)],_0x294e58[_0x4fcd7f(0x2c3)]['detail'],!![],_0x294e58['toolSettle'][_0x4fcd7f(0x223)],_0x294e58[_0x4fcd7f(0x2c3)][_0x4fcd7f(0x1a1)]);return;}const _0x4bf4af=_0x542eb7&&_0x4266bb[_0x4fcd7f(0x3b9)](_0x542eb7)&&ZSParse[_0x4fcd7f(0x15d)](_0x4266bb[_0x4fcd7f(0x40d)](_0x542eb7,_0x4fcd7f(0x377))),_0xfa7f70=(_0x294e58[_0x4fcd7f(0x2d7)]||_0x294e58[_0x4fcd7f(0x144)])&&!_0x4bf4af,_0x57e4d9=_0x294e58[_0x4fcd7f(0x11b)]&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()&&Date[_0x4fcd7f(0x416)]()-(_0x294e58[_0x4fcd7f(0x295)]||0x0)<0x9c4,_0x417c98=!_0x338054&&(_0xfa7f70||_0x57e4d9||_0xedff77===_0x4266bb['lastAssistant']()&&_0x4266bb['isGenerating']()),_0x3e3341=!_0xedff77[_0x4fcd7f(0x333)]['zloop']&&!_0x4bf4af&&!_0x1c1d51(_0xedff77,_0x179e50),_0x1f6a1b=_0x3e3341&&_0xedff77!==_0x4266bb[_0x4fcd7f(0x10e)](),_0xc8e714=_0x3e3341&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()&&!_0x417c98&&Date[_0x4fcd7f(0x416)]()-_0x294e58['lastGenAt']>0x1f40,_0x255696=!_0x338054&&(_0x1f6a1b||_0xc8e714),_0x550b63=!_0x338054&&!_0x255696&&!_0x417c98&&_0x3e3341&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()&&Date[_0x4fcd7f(0x416)]()-_0x294e58[_0x4fcd7f(0x328)]<=0x1f40;let _0x189ea5=_0x338054?_0x4fcd7f(0x405):_0x255696?_0x4fcd7f(0x28d):_0x417c98||_0x550b63?_0x4fcd7f(0x14f):'done',_0x33eacb=_0x338054?'stopped':_0x255696?'not\x20run':'';if(_0x189ea5===_0x4fcd7f(0x124)&&_0x542eb7&&_0x4266bb[_0x4fcd7f(0x3b9)](_0x542eb7)){const _0x1eba52=_0x4266bb[_0x4fcd7f(0x40d)](_0x542eb7,_0x4fcd7f(0x377));if(ZSParse[_0x4fcd7f(0x15d)](_0x1eba52)&&_0xafba55(_0x1eba52)){_0x189ea5=_0x4fcd7f(0x405),_0x33eacb=_0x4fcd7f(0x317);if(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]!==_0x4fcd7f(0x405))_0x47a0f8(_0x4fcd7f(0x12c),{'name':ZSParse['toolNameFromText'](_0x179e50)});}}const _0x7133c8=[..._0xedff77[_0x4fcd7f(0x356)](_0x4fcd7f(0x282))]['some'](_0x50212b=>!_0x50212b[_0x4fcd7f(0x2be)][_0x4fcd7f(0x2d3)]('zs-tool-hide')&&!_0x50212b[_0x4fcd7f(0x37a)](_0x4fcd7f(0x191))&&!_0x50212b[_0x4fcd7f(0x37a)]('.zs-chip')&&!(_0x4266bb[_0x4fcd7f(0x1ab)]&&_0x50212b[_0x4fcd7f(0x37a)](_0x4266bb[_0x4fcd7f(0x1ab)]))&&!_0x50212b['querySelector'](_0x4fcd7f(0x191))&&ZSParse[_0x4fcd7f(0x17f)](_0x50212b['textContent']||'')),_0x373abc=ZSParse[_0x4fcd7f(0x292)](_0x179e50),_0x471c85=_0x294e58[_0x4fcd7f(0x108)][_0x4fcd7f(0x375)](_0x7c118c(_0x373abc))?_0x4fcd7f(0x2b4):undefined,_0x233eb8=_0xedff77[_0x4fcd7f(0x300)](_0x4fcd7f(0x377)),_0x13d08c=_0x471c85===_0x4fcd7f(0x2b4)&&_0x233eb8&&!_0x233eb8[_0x4fcd7f(0x2be)]['contains'](_0x4fcd7f(0x25b));let _0x59b86e=![];if(_0x4266bb['chipAtItemLevel']&&_0x4266bb[_0x4fcd7f(0x1e5)]&&_0x233eb8){const _0x3fad9f=_0x4266bb['chipAnchor']&&_0x4266bb[_0x4fcd7f(0x1fe)](_0xedff77)||_0xedff77,_0x33021d=_0x4266bb[_0x4fcd7f(0x418)]?_0x4266bb['chipTrailRef'](_0xedff77):null;_0x59b86e=_0x233eb8[_0x4fcd7f(0x2f3)]===_0x3fad9f&&_0x233eb8[_0x4fcd7f(0x2ea)]!==_0x33021d;}if(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]!==_0x189ea5||_0x37d965||_0x7133c8||_0x13d08c||_0x59b86e){if(_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]!==_0x189ea5){const _0x5472e6=_0x189ea5===_0x4fcd7f(0x124)&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]()&&!_0x4bf4af;_0x47a0f8(_0x4fcd7f(0x391),{'name':_0x373abc,'to':_0x189ea5,'stopped':_0x338054,'live':_0x417c98,'inFlight':_0xfa7f70,'resumeGrace':_0x57e4d9,'pendingExec':_0x550b63,'isLast':_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)](),'resultAfter':_0x4bf4af,'gen':_0x4266bb[_0x4fcd7f(0x32e)](),'run':_0x294e58[_0x4fcd7f(0x2d7)],'starting':_0x294e58[_0x4fcd7f(0x144)],'zStopped':_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x2d6)]==='1','remembered':_0x3164c9(_0xedff77,_0x179e50),'lastGenAgoMs':Date[_0x4fcd7f(0x416)]()-_0x294e58[_0x4fcd7f(0x328)],'suspectDone':_0x5472e6,..._0x4266bb['genDebug']?{'g':_0x4266bb[_0x4fcd7f(0x193)]()}:{}});}this[_0x4fcd7f(0x1b9)](_0xedff77,_0x373abc,_0x189ea5,_0x33eacb,![],undefined,_0x471c85);}return;}const _0x5ff57a=_0xedff77[_0x4fcd7f(0x333)]['zStopped']==='1'||_0x294e58[_0x4fcd7f(0x21f)]&&_0xedff77===_0x4266bb[_0x4fcd7f(0x10e)]();if(_0x5ff57a&&_0x4266bb[_0x4fcd7f(0x3ec)](_0xedff77)&&_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]!==_0x4fcd7f(0x405)&&_0xedff77[_0x4fcd7f(0x300)](_0x4fcd7f(0x377))){const _0x4aa96f=_0xedff77[_0x4fcd7f(0x300)](_0x4fcd7f(0x2c7)),_0x1e73c8=ZSParse['toolNameFromText'](_0x179e50)||_0x4aa96f&&_0x4aa96f['textContent']||_0x4fcd7f(0x195);this[_0x4fcd7f(0x1b9)](_0xedff77,_0x1e73c8,_0x4fcd7f(0x405),'stopped',![]);return;}if(!_0x179e50[_0x4fcd7f(0x335)]()&&(_0xedff77['dataset']['zphase']||_0xedff77['dataset']['zs']))return;(_0xedff77[_0x4fcd7f(0x333)]['zs']||_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]||_0xedff77[_0x4fcd7f(0x300)](_0x4fcd7f(0x377)))&&(_0x47a0f8(_0x4fcd7f(0x1aa),{'was':_0xedff77[_0x4fcd7f(0x333)][_0x4fcd7f(0x27c)]||_0xedff77['dataset']['zs']||_0x4fcd7f(0x2c2)}),_0x308503(_0xedff77));},'sweep'(){const _0x420af3=_0x5760a2;if(_0x4266bb['id']==='chatgpt')return;const _0xe7305=_0x4266bb['allItems']();for(let _0x29949a=0x0;_0x29949a<_0xe7305[_0x420af3(0x2ba)];_0x29949a++)this[_0x420af3(0x3a3)](_0xe7305[_0x29949a],_0xe7305[_0x29949a+0x1]||null);for(const _0x4d827b of document['querySelectorAll'](_0x420af3(0x25c))){let _0x3a8f5e=_0x4d827b['parentElement'];while(_0x3a8f5e&&!(_0x3a8f5e[_0x420af3(0x333)]&&_0x3a8f5e[_0x420af3(0x333)][_0x420af3(0x2d6)]))_0x3a8f5e=_0x3a8f5e[_0x420af3(0x2f3)];if(_0x3a8f5e&&_0x3a8f5e['dataset']['zphase']!==_0x420af3(0x405)){const _0x1bec86=_0x4d827b[_0x420af3(0x300)](_0x420af3(0x2c7));this['toolBox'](_0x3a8f5e,_0x1bec86&&_0x1bec86['textContent']||_0x420af3(0x195),_0x420af3(0x405),_0x420af3(0x413),![]);}}}},_0x46a0bb=((()=>{const _0x1ed6b1=_0x5760a2;let _0x25387f,_0x4f0ae4,_0x249f3a,_0x255d14,_0xc7d2e7,_0x42ef70,_0x264ff7,_0x4ddfde,_0x1728d2,_0x29919e,_0x57c01c,_0x52aec6,_0x28360e=null,_0x199a10=null,_0x1278e6=![],_0x5802b1=_0x1ed6b1(0x29e),_0x859f27,_0x3d9c51,_0x136160,_0x2beb94=null,_0x5239c6=![],_0x20266c=![],_0x40b423=![],_0x25cae7=![],_0x2e5152=![],_0x39a2c8=![],_0x4b0ef9=![],_0x2e1478=null;function _0x65c6fd(){const _0x2c2f67=_0x1ed6b1;_0x25387f=document[_0x2c2f67(0x3bf)](_0x2c2f67(0x350)),_0x25387f['id']='zs-root',_0x25387f[_0x2c2f67(0x305)]=_0x2c2f67(0x396)+chrome[_0x2c2f67(0x331)]['getURL']('icon.png')+_0x2c2f67(0x1a4)+_0x1f6073+'</span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22zs-state\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22zs-ui-kits\x22\x20aria-label=\x22Open\x20UI\x20Kits\x22\x20title=\x22Open\x20UI\x20Kits\x22>UI</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22zs-bar-spacer\x22\x20aria-hidden=\x22true\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22zs-action\x22></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22zs-stop\x22\x20hidden>■\x20Stop</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20id=\x22zs-discord\x22\x20href=\x22https://discord.gg/f6QhDBSTZa\x22\x20target=\x22_blank\x22\x20rel=\x22noopener\x22\x20title=\x22Need\x20help?\x20Join\x20our\x20Discord\x22><svg\x20width=\x2214\x22\x20height=\x2214\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22currentColor\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22><path\x20d=\x22M20.317\x204.37a19.791\x2019.791\x200\x200\x200-4.885-1.515.074.074\x200\x200\x200-.079.037c-.21.375-.444.864-.608\x201.25a18.27\x2018.27\x200\x200\x200-5.487\x200\x2012.64\x2012.64\x200\x200\x200-.617-1.25.077.077\x200\x200\x200-.079-.037A19.736\x2019.736\x200\x200\x200\x203.677\x204.37a.07.07\x200\x200\x200-.032.027C.533\x209.046-.32\x2013.58.099\x2018.057a.082.082\x200\x200\x200\x20.031.057\x2019.9\x2019.9\x200\x200\x200\x205.993\x203.03.078.078\x200\x200\x200\x20.084-.028c.462-.63.874-1.295\x201.226-1.994a.076.076\x200\x200\x200-.041-.106\x2013.107\x2013.107\x200\x200\x201-1.872-.892.077.077\x200\x200\x201-.008-.128\x2010.2\x2010.2\x200\x200\x200\x20.372-.292.074.074\x200\x200\x201\x20.077-.01c3.928\x201.793\x208.18\x201.793\x2012.062\x200a.074.074\x200\x200\x201\x20.078.01c.12.098.246.198.373.292a.077.077\x200\x200\x201-.006.127\x2012.299\x2012.299\x200\x200\x201-1.873.892.077.077\x200\x200\x200-.041.107c.36.698.772\x201.362\x201.225\x201.993a.076.076\x200\x200\x200\x20.084.028\x2019.839\x2019.839\x200\x200\x200\x206.002-3.03.077.077\x200\x200\x200\x20.032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061\x200\x200\x200-.031-.03zM8.02\x2015.33c-1.183\x200-2.157-1.085-2.157-2.419\x200-1.333.956-2.419\x202.157-2.419\x201.21\x200\x202.176\x201.096\x202.157\x202.42\x200\x201.333-.956\x202.418-2.157\x202.418zm7.975\x200c-1.183\x200-2.157-1.085-2.157-2.419\x200-1.333.955-2.419\x202.157-2.419\x201.21\x200\x202.176\x201.096\x202.157\x202.42\x200\x201.333-.946\x202.418-2.157\x202.418z\x22/></svg></a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22zs-switch\x22\x20aria-label=\x22Switch\x20AI\x20and\x20options\x22\x20title=\x22Switch\x20AI,\x20custom\x20prompt,\x20support\x22><span\x20id=\x22zs-switch-name\x22></span><svg\x20width=\x2211\x22\x20height=\x2211\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22currentColor\x22\x20stroke-width=\x222.5\x22\x20stroke-linecap=\x22round\x22\x20stroke-linejoin=\x22round\x22><polyline\x20points=\x226\x209\x2012\x2015\x2018\x209\x22/></svg></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22zs-menu\x22\x20hidden></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x4266bb['unstableWarning']?_0x2c2f67(0x347):'')+'\x0a\x20\x20\x20\x20\x20\x20',document[_0x2c2f67(0x198)]['appendChild'](_0x25387f),_0x4f0ae4=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x2dc)),_0x249f3a=_0x25387f['querySelector'](_0x2c2f67(0x342)),_0x255d14=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x1b0)),_0xc7d2e7=_0x25387f[_0x2c2f67(0x300)]('#zs-state'),_0x42ef70=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x177)),_0x264ff7=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x18e)),_0x4ddfde=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x1fc)),_0x1728d2=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x38c)),_0x29919e=_0x25387f['querySelector'](_0x2c2f67(0x104));const _0x293fb8=_0x25387f[_0x2c2f67(0x300)](_0x2c2f67(0x24c));if(_0x293fb8)_0x293fb8[_0x2c2f67(0x1e6)]=_0x4266bb[_0x2c2f67(0x145)]||_0x4266bb['id'];_0x57c01c=_0x25387f['querySelector'](_0x2c2f67(0x233)),_0x4f0ae4[_0x2c2f67(0x2be)]['add'](_0x2c2f67(0x22a)+_0x4266bb['id']),document['documentElement'][_0x2c2f67(0x2be)]['add'](_0x2c2f67(0x3b5)+_0x4266bb['id']),_0x42ef70[_0x2c2f67(0x3ed)](_0x2c2f67(0x2ef),_0x51b52f),_0x264ff7['addEventListener'](_0x2c2f67(0x2ef),_0x4fddd8),_0x52aec6=_0x25387f['querySelector'](_0x2c2f67(0x199));_0x52aec6&&(_0x52aec6['title']=_0x4266bb[_0x2c2f67(0x3d5)],_0x52aec6[_0x2c2f67(0x3ed)](_0x2c2f67(0x2ef),_0x244031=>{const _0x3ae4e6=_0x2c2f67;_0x244031[_0x3ae4e6(0x357)](),_0x4e2d84(_0x4266bb[_0x3ae4e6(0x3d5)]);}));_0x7463ed();const _0x47fad6=_0x474ccf=>{const _0x4f5d58=_0x2c2f67;if(!_0x57c01c[_0x4f5d58(0x130)]&&_0x5802b1!==_0x4f5d58(0x29e))_0x57c01c[_0x4f5d58(0x130)]=!![];_0x57c01c['hidden']=!_0x57c01c[_0x4f5d58(0x130)],!_0x57c01c[_0x4f5d58(0x130)]&&(_0x7463ed(),_0x2043d2(),requestAnimationFrame(()=>{const _0x4cc14a=_0x4f5d58;if(!_0x57c01c[_0x4cc14a(0x130)])_0x57c01c[_0x4cc14a(0x2f5)]=_0x474ccf?_0x57c01c[_0x4cc14a(0x374)]:0x0;}));},_0x534466=()=>{const _0x6885d2=_0x2c2f67,_0x20c70a=!_0x57c01c[_0x6885d2(0x130)]&&_0x5802b1==='ui';_0x57c01c[_0x6885d2(0x130)]=_0x20c70a,!_0x20c70a&&(_0x56f1c2(),requestAnimationFrame(()=>{const _0x25ee89=_0x6885d2;if(!_0x57c01c[_0x25ee89(0x130)])_0x57c01c[_0x25ee89(0x2f5)]=0x0;})),_0x4ddfde[_0x6885d2(0x2be)][_0x6885d2(0x387)](_0x6885d2(0x38a),!_0x20c70a);};_0x1728d2['addEventListener']('click',_0x55fed9=>{const _0x282dc5=_0x2c2f67;_0x55fed9[_0x282dc5(0x357)](),_0x47fad6(![]);}),_0x4ddfde[_0x2c2f67(0x3ed)](_0x2c2f67(0x2ef),_0x261183=>{const _0xf21efb=_0x2c2f67;_0x261183[_0xf21efb(0x357)](),_0x534466();}),_0x2beb94=_0x2c98b2=>{if(_0x57c01c['hidden'])_0x47fad6(_0x2c98b2);},document[_0x2c2f67(0x3ed)](_0x2c2f67(0x2ef),_0x5f5bb0=>{const _0x3fb976=_0x2c2f67;if(_0x57c01c[_0x3fb976(0x130)])return;!_0x57c01c[_0x3fb976(0x2d3)](_0x5f5bb0[_0x3fb976(0x3f1)])&&!_0x1728d2[_0x3fb976(0x2d3)](_0x5f5bb0['target'])&&!_0x4ddfde[_0x3fb976(0x2d3)](_0x5f5bb0['target'])&&(_0x57c01c[_0x3fb976(0x130)]=!![],_0x4ddfde['classList'][_0x3fb976(0x381)](_0x3fb976(0x38a)));},!![]),_0x1b588d(),setInterval(_0x1b588d,0x7d0),_0x3e0d0e(),_0xe73227();}function _0x51b52f(){const _0x266056=_0x1ed6b1,_0x4280f4=_0x42ef70[_0x266056(0x333)][_0x266056(0x326)];if(_0x4280f4===_0x266056(0x226)||_0x4280f4==='start-degraded')_0x2f104e();}let _0xe3175c='';try{chrome['storage']['local'][_0x1ed6b1(0x420)](_0x1ed6b1(0x2a6),_0x283bd6=>{const _0x334d41=_0x1ed6b1;_0x283bd6&&typeof _0x283bd6[_0x334d41(0x2a6)]===_0x334d41(0x28f)&&(_0xe3175c=_0x283bd6[_0x334d41(0x2a6)],_0x2043d2());});}catch{}function _0x95fd07(){return _0xe3175c;}function _0x2043d2(){const _0x33f2be=_0x1ed6b1,_0x463287=_0x25387f&&_0x25387f[_0x33f2be(0x300)](_0x33f2be(0x118));if(_0x463287&&document[_0x33f2be(0x18c)]!==_0x463287)_0x463287[_0x33f2be(0x256)]=_0xe3175c;}const _0x319de0={'chat':{'label':'Chat','detail':_0x1ed6b1(0x11a)},'manual':{'label':_0x1ed6b1(0x1b8),'detail':_0x1ed6b1(0x311)},'automatic':{'label':_0x1ed6b1(0x351),'detail':_0x1ed6b1(0x1b5)},'plan':{'label':'Plan','detail':_0x1ed6b1(0x2e7)}},_0x380f9e=['',_0x1ed6b1(0x343),'Inventory',_0x1ed6b1(0x3ad),_0x1ed6b1(0x183),'Quest\x20Log',_0x1ed6b1(0x26e),_0x1ed6b1(0x23a)],_0x4dfc25=['',_0x1ed6b1(0x126),_0x1ed6b1(0x274),_0x1ed6b1(0x1ae),_0x1ed6b1(0x27b)];let _0x414469=_0x1ed6b1(0x32c),_0x5d1002='',_0x1038c1='',_0x500d4b=![],_0x63d1b6=null;try{chrome[_0x1ed6b1(0x20f)][_0x1ed6b1(0x12b)][_0x1ed6b1(0x420)]([_0x1ed6b1(0x407),_0x1ed6b1(0x3b2),_0x1ed6b1(0x1cf),_0x1ed6b1(0x113)],_0x3ad38e=>{const _0x1ce35c=_0x1ed6b1;if(_0x3ad38e&&_0x319de0[_0x3ad38e[_0x1ce35c(0x407)]])_0x414469=_0x3ad38e[_0x1ce35c(0x407)];if(_0x3ad38e&&_0x380f9e[_0x1ce35c(0x3c1)](_0x3ad38e['zsUiTemplate']))_0x5d1002=_0x3ad38e['zsUiTemplate'];if(_0x3ad38e&&_0x4dfc25[_0x1ce35c(0x3c1)](_0x3ad38e[_0x1ce35c(0x1cf)]))_0x1038c1=_0x3ad38e[_0x1ce35c(0x1cf)];if(_0x3ad38e&&typeof _0x3ad38e[_0x1ce35c(0x113)]===_0x1ce35c(0x213))_0x500d4b=_0x3ad38e[_0x1ce35c(0x113)];_0x3e0d0e();});}catch{}function _0x190e22(){return _0x414469;}function _0x5f5627(){return _0x5d1002;}function _0x364599(){return _0x1038c1;}function _0x49e788(_0x2e7f28){const _0x1f0b03=_0x1ed6b1;if(!_0x500d4b)return;try{_0x63d1b6||=new(window['AudioContext']||window['webkitAudioContext'])(),_0x63d1b6['resume']();const _0x5677e3=_0x63d1b6['currentTime'],_0x269191=_0x2e7f28===_0x1f0b03(0x317)?[0xbe,0x91]:[0x294,0x370];_0x269191[_0x1f0b03(0x395)]((_0x5834bf,_0x2907be)=>{const _0x564fd3=_0x1f0b03,_0x28141a=_0x63d1b6[_0x564fd3(0x23c)](),_0x291587=_0x63d1b6[_0x564fd3(0x2ff)]();_0x28141a[_0x564fd3(0x129)]=_0x2e7f28===_0x564fd3(0x317)?_0x564fd3(0x217):_0x564fd3(0x41e),_0x28141a[_0x564fd3(0x404)][_0x564fd3(0x1d7)](_0x5834bf,_0x5677e3+_0x2907be*0.13),_0x291587[_0x564fd3(0x3c6)][_0x564fd3(0x1d7)](0.0001,_0x5677e3+_0x2907be*0.13),_0x291587[_0x564fd3(0x3c6)]['exponentialRampToValueAtTime'](0.075,_0x5677e3+_0x2907be*0.13+0.015),_0x291587[_0x564fd3(0x3c6)]['exponentialRampToValueAtTime'](0.0001,_0x5677e3+_0x2907be*0.13+0.16),_0x28141a['connect'](_0x291587)[_0x564fd3(0x3d2)](_0x63d1b6['destination']),_0x28141a[_0x564fd3(0x226)](_0x5677e3+_0x2907be*0.13),_0x28141a[_0x564fd3(0x2fa)](_0x5677e3+_0x2907be*0.13+0.18);});}catch{}}function _0x32b640(_0x425da8){const _0x56999b=_0x1ed6b1;_0x500d4b=!!_0x425da8;try{chrome[_0x56999b(0x20f)][_0x56999b(0x12b)][_0x56999b(0x37e)]({'zsCompletionSounds':_0x500d4b});}catch{}if(_0x500d4b)_0x49e788(_0x56999b(0x1d0));_0x7463ed();}function _0x297f20(_0x4afb21){const _0x129c9d=_0x1ed6b1;if(!_0x319de0[_0x4afb21])return;if(_0x294e58[_0x129c9d(0x2d7)]||_0x294e58[_0x129c9d(0x144)]){_0x4e2d84(_0x129c9d(0x33d));return;}_0x414469=_0x4afb21,_0x1278e6=![];try{chrome[_0x129c9d(0x20f)][_0x129c9d(0x12b)][_0x129c9d(0x37e)]({'zsAgentMode':_0x4afb21});}catch{}_0x7463ed(),_0x3e0d0e(),_0x294e58[_0x129c9d(0x36e)]?(_0x4e2d84(_0x129c9d(0x3db)+_0x319de0[_0x4afb21][_0x129c9d(0x3aa)]+_0x129c9d(0x235)),void _0x4ebbe2(_0x4afb21)):_0x4e2d84(_0x319de0[_0x4afb21][_0x129c9d(0x3aa)]+'\x20mode\x20selected.');}function _0x306195(_0x52b5eb){const _0x2bca11=_0x1ed6b1;if(!_0x380f9e['includes'](_0x52b5eb))return;if(_0x52b5eb===_0x5d1002)return;_0x5d1002=_0x52b5eb;try{chrome[_0x2bca11(0x20f)][_0x2bca11(0x12b)][_0x2bca11(0x37e)]({'zsUiTemplate':_0x52b5eb});}catch{}if(_0x5802b1==='ui')_0x56f1c2();else _0x7463ed();_0x294e58[_0x2bca11(0x36e)]?(_0x294e58[_0x2bca11(0x339)]=_0x52b5eb,_0x294e58['uiKitRetryAt']=0x0,_0x294e58[_0x2bca11(0x246)]=_0x1038c1,void _0xd51a23()):_0x4e2d84(_0x52b5eb?_0x52b5eb+_0x2bca11(0x1eb):'UI\x20kit\x20cleared.');}function _0x54f72c(_0x3e0db2){const _0x2ff966=_0x1ed6b1;if(!_0x4dfc25[_0x2ff966(0x3c1)](_0x3e0db2))return;if(_0x3e0db2===_0x1038c1)return;_0x1038c1=_0x3e0db2;try{chrome['storage'][_0x2ff966(0x12b)][_0x2ff966(0x37e)]({'zsUiTheme':_0x3e0db2});}catch{}if(_0x5802b1==='ui')_0x56f1c2();else _0x7463ed();_0x294e58['started']?(_0x294e58[_0x2ff966(0x339)]=_0x5d1002,_0x294e58['pendingUiTheme']=_0x3e0db2,_0x294e58[_0x2ff966(0x135)]=0x0,void _0xd51a23()):_0x4e2d84(_0x3e0db2?_0x3e0db2+_0x2ff966(0x2af):_0x2ff966(0x1ce));}function _0x1e326d(_0x29e32c){const _0x47ed8e=_0x1ed6b1;if(_0x199a10)_0x199a10(!!_0x29e32c);_0x199a10=null,_0x28360e&&(_0x28360e[_0x47ed8e(0x381)](),_0x28360e=null);}function _0x445b3a(_0x8b7125){const _0x53ba10=_0x1ed6b1;if(!_0x25387f)return Promise['resolve'](![]);return _0x1e326d(![]),_0x28360e=document[_0x53ba10(0x3bf)](_0x53ba10(0x13a)),_0x28360e['id']=_0x53ba10(0x3a2),_0x28360e[_0x53ba10(0x305)]=_0x53ba10(0x29d)+String(_0x8b7125[_0x53ba10(0x195)]||_0x53ba10(0x31a))+_0x53ba10(0x38d)+String(_0x47997e(_0x8b7125)||_0x53ba10(0x220))+_0x53ba10(0x103),_0x25387f[_0x53ba10(0x2f7)](_0x28360e),_0x28360e[_0x53ba10(0x300)](_0x53ba10(0x251))['addEventListener'](_0x53ba10(0x2ef),()=>_0x1e326d(![])),_0x28360e[_0x53ba10(0x300)](_0x53ba10(0x408))[_0x53ba10(0x3ed)]('click',()=>_0x1e326d(!![])),new Promise(_0x370562=>{_0x199a10=_0x370562;});}function _0x1ad613(){const _0x8e45e4=_0x1ed6b1;if(_0x414469!==_0x8e45e4(0x2b2)||!_0x25387f||_0x1278e6)return;if(_0x28360e)_0x28360e[_0x8e45e4(0x381)]();_0x28360e=document['createElement'](_0x8e45e4(0x13a)),_0x28360e['id']=_0x8e45e4(0x3a2),_0x28360e[_0x8e45e4(0x305)]=_0x8e45e4(0x132),_0x25387f[_0x8e45e4(0x2f7)](_0x28360e),_0x28360e['querySelector']('[data-a=\x22skip\x22]')[_0x8e45e4(0x3ed)]('click',()=>{const _0x3fc52d=_0x8e45e4;_0x28360e&&(_0x28360e[_0x3fc52d(0x381)](),_0x28360e=null);}),_0x28360e['querySelector'](_0x8e45e4(0x408))[_0x8e45e4(0x3ed)]('click',()=>{_0x1278e6=!![],_0x1e326d(!![]),_0x4e2d84('Plan\x20approved.\x20EverLua\x20is\x20starting\x20execution.'),_0x3e0d0e(),setTimeout(()=>{void _0xd6b232();},0x64);});}let _0x3c62ab=[];try{chrome[_0x1ed6b1(0x20f)][_0x1ed6b1(0x12b)][_0x1ed6b1(0x420)](_0x1ed6b1(0x2ee),_0x423b9a=>{const _0x3177ea=_0x1ed6b1;if(_0x423b9a&&Array['isArray'](_0x423b9a[_0x3177ea(0x2ee)])){_0x3c62ab=_0x423b9a[_0x3177ea(0x2ee)];if(!_0x57c01c['hidden'])_0x7463ed();}});}catch{}function _0x56fb47(){return _0x3c62ab;}function _0x45b060(){const _0x47a55e=_0x1ed6b1;try{chrome[_0x47a55e(0x20f)]['local'][_0x47a55e(0x37e)]({'zsCustomMcpServers':_0x3c62ab});}catch{}}function _0x5874f8(){const _0x27159a=_0x1ed6b1,_0x4cb757=(_0x294e58[_0x27159a(0x184)]&&_0x294e58[_0x27159a(0x184)][_0x27159a(0x2fd)]||[])[_0x27159a(0x3c4)](_0x3e969a=>_0x3e969a['id']!==_0x27159a(0x21c)),_0x5d3bf3=new Map(_0x3c62ab[_0x27159a(0x35c)](_0x247394=>[_0x247394['id'],_0x247394])),_0x41e496=_0x4cb757['map'](_0x4f2382=>{const _0x4e1099=_0x27159a,_0x1f9a17=_0x5d3bf3[_0x4e1099(0x420)](_0x4f2382['id']);return{'id':_0x4f2382['id'],'name':_0x1f9a17&&_0x1f9a17[_0x4e1099(0x3e4)]||_0x4f2382['id'],'command':_0x1f9a17&&_0x1f9a17[_0x4e1099(0x324)],'alive':_0x4f2382[_0x4e1099(0x388)],'tools':_0x4f2382[_0x4e1099(0x378)]};});let _0x42aa8f=![];for(const _0x30c178 of _0x4cb757){!_0x5d3bf3[_0x27159a(0x375)](_0x30c178['id'])&&(_0x3c62ab[_0x27159a(0x190)]({'id':_0x30c178['id'],'name':_0x30c178['id']}),_0x42aa8f=!![]);}if(_0x42aa8f)_0x45b060();for(const _0x1c580f of _0x3c62ab){if(!_0x41e496[_0x27159a(0x241)](_0x246610=>_0x246610['id']===_0x1c580f['id']))_0x41e496['push']({..._0x1c580f,'alive':undefined,'tools':undefined});}return _0x41e496;}function _0xb1a82d(_0x2193eb){const _0x484602=_0x1ed6b1;let _0x478f5c=String(_0x2193eb||'')['toLowerCase']()[_0x484602(0x161)](/[^a-z0-9]+/g,'-')[_0x484602(0x161)](/^-+|-+$/g,'');if(!_0x478f5c||_0x478f5c===_0x484602(0x21c))_0x478f5c=_0x484602(0x307)+(_0x478f5c||_0x484602(0x250));let _0x45a565=_0x478f5c,_0x7b1fbb=0x2;while(_0x3c62ab[_0x484602(0x241)](_0x5a79c2=>_0x5a79c2['id']===_0x45a565))_0x45a565=_0x478f5c+'-'+_0x7b1fbb++;return _0x45a565;}function _0x4d13c9(_0x3e227b){const _0xc7efb4=_0x1ed6b1,_0x251b0e=String(_0x3e227b||'')[_0xc7efb4(0x2d4)](/"[^"]*"|'[^']*'|\S+/g)||[],_0x3c0121=_0x251b0e[_0xc7efb4(0x35c)](_0x448914=>_0x448914[_0xc7efb4(0x161)](/^["']|["']$/g,''));return{'command':_0x3c0121[0x0]||'','args':_0x3c0121[_0xc7efb4(0x3ef)](0x1)};}async function _0x28d25f(_0x4c94fa,_0x18d6d9=0x3a98){const _0x50241e=_0x1ed6b1,_0x39a549=Date[_0x50241e(0x416)]();await new Promise(_0x20ca96=>setTimeout(_0x20ca96,0x4b0));while(Date[_0x50241e(0x416)]()-_0x39a549<_0x18d6d9){const _0x19762b=await _0x15bba0({'type':_0x50241e(0x22f)});if(_0x19762b&&_0x19762b[_0x50241e(0x39f)]){if(!_0x4c94fa||Array[_0x50241e(0x36d)](_0x19762b[_0x50241e(0x2fd)])&&_0x19762b[_0x50241e(0x2fd)]['some'](_0x5a5ff2=>_0x5a5ff2['id']===_0x4c94fa))return!![];}await new Promise(_0x551972=>setTimeout(_0x551972,0x2bc));}return![];}function _0x7463ed(){const _0x16d380=_0x1ed6b1;_0x5802b1=_0x16d380(0x29e);if(_0x4ddfde)_0x4ddfde[_0x16d380(0x2be)]['remove'](_0x16d380(0x38a));const _0x21be46=(_0x4266bb['displayName']||'')['toLowerCase'](),_0x31a6cc=_0x39999f=>{const _0x422689=_0x16d380;try{return new URL(_0x39999f)[_0x422689(0x35e)][_0x422689(0x161)](/^www\./,'');}catch{return'';}};let _0x35ff74='';for(const _0x6682a6 of _0x54b750){const _0x50a3b4=_0x6682a6[_0x16d380(0x3e4)][_0x16d380(0x218)]()===_0x21be46,_0x7759ce=_0x16d380(0x316)+_0x6682a6[_0x16d380(0x3e4)]+_0x16d380(0x243)+_0x31a6cc(_0x6682a6[_0x16d380(0x41d)])+_0x16d380(0x303);_0x35ff74+=_0x50a3b4?_0x16d380(0x346)+_0x7759ce+_0x16d380(0x1e9):_0x16d380(0x182)+_0x6682a6['url']+'\x22>'+_0x7759ce+_0x16d380(0x35b);}const _0x5d9d87=_0x561170=>String(_0x561170)[_0x16d380(0x161)](/[&<>"']/g,_0x2146a6=>({'&':_0x16d380(0x1c1),'<':_0x16d380(0x36b),'>':_0x16d380(0x163),'\x22':_0x16d380(0x21e),'\x27':_0x16d380(0x3c7)}[_0x2146a6])),_0x32693a=_0x5874f8();let _0x51941e=_0x16d380(0x3c5);_0x32693a[_0x16d380(0x395)]((_0x160a6a,_0x320d7a)=>{const _0x5d68fc=_0x16d380,_0x1c3d1a=_0x160a6a[_0x5d68fc(0x388)]===!![]?'on':_0x160a6a[_0x5d68fc(0x388)]===![]?_0x5d68fc(0x2ad):_0x5d68fc(0x1ad),_0x50fed9=_0x160a6a[_0x5d68fc(0x388)]===!![]?(_0x160a6a[_0x5d68fc(0x378)]||0x0)+_0x5d68fc(0x34d):_0x160a6a[_0x5d68fc(0x388)]===![]?_0x5d68fc(0x15b):'status\x20unknown';_0x51941e+=_0x5d68fc(0x366)+_0x1c3d1a+_0x5d68fc(0x248)+_0x50fed9+'\x22></span><div\x20class=\x22zs-mcp-info\x22><span\x20class=\x22zs-mcp-name\x22>'+_0x5d9d87(_0x160a6a[_0x5d68fc(0x3e4)])+_0x5d68fc(0x221)+_0x5d9d87(_0x160a6a[_0x5d68fc(0x324)]||_0x160a6a['id'])+'</span></div><button\x20class=\x22zs-mcp-remove\x22\x20data-id=\x22'+_0x5d9d87(_0x160a6a['id'])+_0x5d68fc(0x1a5);}),_0x57c01c[_0x16d380(0x305)]=_0x16d380(0x2c0)+chrome[_0x16d380(0x331)][_0x16d380(0x265)](_0x16d380(0x120))+_0x16d380(0x318)+_0x1f6073+_0x16d380(0x2bf)+Object[_0x16d380(0x3e6)](_0x319de0)[_0x16d380(0x35c)](([_0x4e7fe7,_0x4b4bb9])=>_0x16d380(0x390)+(_0x4e7fe7===_0x414469?_0x16d380(0x371):'')+_0x16d380(0x3a7)+_0x4e7fe7+_0x16d380(0x168)+_0x4b4bb9[_0x16d380(0x3aa)]+_0x16d380(0x382)+_0x4b4bb9['detail']+_0x16d380(0x3ea))[_0x16d380(0x12a)]('')+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22zs-menu-note\x22>Choose\x20a\x20mode\x20before\x20starting\x20a\x20new\x20EverLua\x20session.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22zs-menu-sec\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22zs-sec-label\x22><span>Sounds</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22zs-setting-toggle\x22><span><strong>Completion\x20sounds</strong><small>Play\x20a\x20sound\x20when\x20EverLua\x20finishes\x20or\x20hits\x20an\x20error.</small></span><input\x20id=\x22zs-completion-sounds\x22\x20type=\x22checkbox\x22\x20'+(_0x500d4b?_0x16d380(0x2a3):'')+'\x20/><i\x20aria-hidden=\x22true\x22></i></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20</section>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20<section\x20class=\x22zs-menu-sec\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22zs-sec-label\x22><span>Switch\x20AI</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x35ff74+_0x16d380(0x2bd)+_0x51941e+_0x16d380(0x421);const _0x314a0d=_0xf314b2=>{const _0x1d7fee=_0x16d380;try{window[_0x1d7fee(0x28a)](_0xf314b2,_0x1d7fee(0x3d9),_0x1d7fee(0x1c8));}catch{}_0x57c01c[_0x1d7fee(0x130)]=!![];};_0x57c01c[_0x16d380(0x356)](_0x16d380(0x3f8))[_0x16d380(0x395)](_0x8d2827=>_0x8d2827['addEventListener']('click',()=>_0x314a0d(_0x8d2827[_0x16d380(0x333)]['u']))),_0x57c01c['querySelectorAll'](_0x16d380(0x291))[_0x16d380(0x395)](_0x242808=>_0x242808[_0x16d380(0x3ed)](_0x16d380(0x2ef),()=>_0x297f20(_0x242808[_0x16d380(0x333)][_0x16d380(0x1dc)])));const _0x238999=_0x57c01c['querySelector']('#zs-completion-sounds');if(_0x238999)_0x238999[_0x16d380(0x3ed)](_0x16d380(0x33b),()=>_0x32b640(_0x238999[_0x16d380(0x2a3)]));const _0x52d802=_0x57c01c[_0x16d380(0x300)]('#zs-set-text'),_0x3de587=_0x57c01c[_0x16d380(0x300)](_0x16d380(0x24b)),_0x4541bc=_0x57c01c[_0x16d380(0x300)](_0x16d380(0x3d3));_0x52d802[_0x16d380(0x256)]=_0xe3175c,_0x3de587[_0x16d380(0x3ed)]('click',()=>{const _0x4d67b6=_0x16d380;_0xe3175c=_0x52d802[_0x4d67b6(0x256)];try{chrome[_0x4d67b6(0x20f)][_0x4d67b6(0x12b)][_0x4d67b6(0x37e)]({'zsCustomPrompt':_0xe3175c});}catch{}_0x4541bc[_0x4d67b6(0x1e6)]=_0x4d67b6(0x23f),setTimeout(()=>{const _0x2ace64=_0x4d67b6;_0x4541bc[_0x2ace64(0x1e6)]='';},0x640);});const _0x398a03=_0x57c01c[_0x16d380(0x300)]('#zs-mcp-name'),_0x3cf7a4=_0x57c01c[_0x16d380(0x300)](_0x16d380(0x17a)),_0x55e516=_0x57c01c[_0x16d380(0x300)](_0x16d380(0x21d)),_0x35b3c4=_0x57c01c['querySelector'](_0x16d380(0x2e3));let _0x1db399=![];function _0x28e087(_0xf57a7c,_0x3a77d1){const _0x3d2f50=_0x16d380;_0x1db399=_0xf57a7c,_0x35b3c4[_0x3d2f50(0x31f)]=_0xf57a7c,_0x57c01c[_0x3d2f50(0x356)](_0x3d2f50(0x1cc))[_0x3d2f50(0x395)](_0x221ac1=>_0x221ac1[_0x3d2f50(0x31f)]=_0xf57a7c),_0x55e516[_0x3d2f50(0x305)]=_0xf57a7c?_0x3d2f50(0x348)+(_0x3a77d1||_0x3d2f50(0x137))+_0x3d2f50(0x2f0):'';}_0x57c01c[_0x16d380(0x356)](_0x16d380(0x1cc))['forEach'](_0x1e2928=>_0x1e2928[_0x16d380(0x3ed)](_0x16d380(0x2ef),async()=>{const _0x54658b=_0x16d380;if(_0x1db399)return;const _0x3f5eb6=_0x1e2928[_0x54658b(0x333)]['id'];if(!_0x3f5eb6)return;_0x28e087(!![],'Restarting\x20bridge…');const _0x4dd62d=await _0x15bba0({'type':_0x54658b(0x314),'server_id':_0x3f5eb6});if(!_0x4dd62d||!_0x4dd62d['ok']){_0x28e087(![]),_0x55e516[_0x54658b(0x1e6)]=_0x4dd62d&&_0x4dd62d['error']||_0x54658b(0x36f),setTimeout(()=>{const _0x980536=_0x54658b;if(!_0x1db399)_0x55e516[_0x980536(0x1e6)]='';},0x960);return;}_0x3c62ab=_0x3c62ab[_0x54658b(0x3c4)](_0x17a5e4=>_0x17a5e4['id']!==_0x3f5eb6),_0x45b060(),await _0x28d25f(null),_0x7463ed();})),_0x35b3c4[_0x16d380(0x3ed)]('click',async()=>{const _0x2deeb0=_0x16d380;if(_0x1db399)return;const _0x5e73d7=_0x398a03[_0x2deeb0(0x256)][_0x2deeb0(0x335)](),_0x1b2d79=_0x3cf7a4[_0x2deeb0(0x256)][_0x2deeb0(0x335)]();if(!_0x5e73d7||!_0x1b2d79){_0x55e516[_0x2deeb0(0x1e6)]='Name\x20and\x20command\x20required',setTimeout(()=>{const _0x22b5fe=_0x2deeb0;if(!_0x1db399)_0x55e516[_0x22b5fe(0x1e6)]='';},0x708);return;}const _0x506363=_0xb1a82d(_0x5e73d7),{command:_0x285fbb,args:_0x5564da}=_0x4d13c9(_0x1b2d79);_0x28e087(!![],_0x2deeb0(0x137));const _0x373c54=await _0x15bba0({'type':_0x2deeb0(0x255),'server_id':_0x506363,'command':_0x285fbb,'args':_0x5564da});if(!_0x373c54||!_0x373c54['ok']){_0x28e087(![]),_0x55e516[_0x2deeb0(0x1e6)]=_0x373c54&&_0x373c54[_0x2deeb0(0x317)]||_0x2deeb0(0x3f6),setTimeout(()=>{if(!_0x1db399)_0x55e516['textContent']='';},0x960);return;}_0x3c62ab['push']({'id':_0x506363,'name':_0x5e73d7,'command':_0x1b2d79}),_0x45b060(),await _0x28d25f(_0x506363),_0x7463ed();});}const _0x4be6d3=[{'id':'','icon':'×','name':'No\x20UI\x20kit','detail':_0x1ed6b1(0x17c)},{'id':_0x1ed6b1(0x343),'icon':'⌂','name':_0x1ed6b1(0x343),'detail':_0x1ed6b1(0x2b0)},{'id':_0x1ed6b1(0x1a2),'icon':'▦','name':_0x1ed6b1(0x1a2),'detail':_0x1ed6b1(0x257)},{'id':_0x1ed6b1(0x3ad),'icon':'▣','name':_0x1ed6b1(0x3ad),'detail':_0x1ed6b1(0x1e4)},{'id':'Settings','icon':'⚙','name':_0x1ed6b1(0x183),'detail':_0x1ed6b1(0x210)},{'id':'Quest\x20Log','icon':'✓','name':_0x1ed6b1(0x28c),'detail':_0x1ed6b1(0x41f)},{'id':_0x1ed6b1(0x26e),'icon':'✦','name':'Dialogue\x20Box','detail':_0x1ed6b1(0x16d)},{'id':_0x1ed6b1(0x23a),'icon':'♥','name':_0x1ed6b1(0x23a),'detail':_0x1ed6b1(0x275)}];function _0x415bfd(){const _0x4de166=_0x1ed6b1;_0x5802b1='ui';const _0x3246cd=_0x4f0b34=>String(_0x4f0b34)[_0x4de166(0x161)](/[&<>"']/g,_0x4d67f6=>({'&':_0x4de166(0x1c1),'<':_0x4de166(0x36b),'>':_0x4de166(0x163),'\x22':_0x4de166(0x21e),'\x27':_0x4de166(0x3c7)}[_0x4d67f6]));_0x57c01c['innerHTML']=_0x4de166(0x385)+chrome[_0x4de166(0x331)]['getURL'](_0x4de166(0x120))+_0x4de166(0x3f0)+_0x4be6d3[_0x4de166(0x35c)](_0x1f4155=>_0x4de166(0x155)+(_0x1f4155['id']===_0x5d1002?_0x4de166(0x371):'')+_0x4de166(0x276)+_0x3246cd(_0x1f4155['id'])+_0x4de166(0x14e)+_0x1f4155[_0x4de166(0x1a7)]+'</span><span\x20class=\x22zs-ui-card-copy\x22><strong>'+_0x3246cd(_0x1f4155['name'])+_0x4de166(0x301)+_0x3246cd(_0x1f4155[_0x4de166(0x33f)])+_0x4de166(0x242)+(_0x1f4155['id']===_0x5d1002?'✓':'')+_0x4de166(0x294))['join']('')+_0x4de166(0x284),_0x57c01c[_0x4de166(0x356)](_0x4de166(0x176))[_0x4de166(0x395)](_0x202d95=>_0x202d95[_0x4de166(0x3ed)]('click',()=>_0x306195(_0x202d95['dataset'][_0x4de166(0x2e9)])));}const _0x437cc6=[{'id':'','name':_0x1ed6b1(0x105),'detail':_0x1ed6b1(0xfa),'image':'assets/ui-themes/01-no-theme.png'},{'id':_0x1ed6b1(0x126),'name':_0x1ed6b1(0x126),'detail':_0x1ed6b1(0x272),'image':'assets/ui-themes/02-stud-ui.png'},{'id':_0x1ed6b1(0x274),'name':_0x1ed6b1(0x274),'detail':_0x1ed6b1(0x112),'image':'assets/ui-themes/03-simulator.png'},{'id':_0x1ed6b1(0x1ae),'name':_0x1ed6b1(0x1ae),'detail':'Punchy\x20action\x20UI\x20with\x20bold\x20energy.','image':_0x1ed6b1(0x26a)},{'id':_0x1ed6b1(0x27b),'name':_0x1ed6b1(0x27b),'detail':_0x1ed6b1(0x17d),'image':'assets/ui-themes/05-shooting.png'}];function _0x56f1c2(){const _0x96c14c=_0x1ed6b1;_0x5802b1='ui';const _0x54ed60=_0x4dcb7d=>String(_0x4dcb7d)[_0x96c14c(0x161)](/[&<>"']/g,_0x5e5ca4=>({'&':'&amp;','<':_0x96c14c(0x36b),'>':_0x96c14c(0x163),'\x22':_0x96c14c(0x21e),'\x27':'&#39;'}[_0x5e5ca4])),_0x1b91ca=_0x437cc6[_0x96c14c(0x35c)](_0x1fb065=>_0x96c14c(0x203)+(_0x1fb065['id']===_0x1038c1?'is-active':'')+_0x96c14c(0x200)+_0x54ed60(_0x1fb065['id'])+'\x22\x20aria-pressed=\x22'+(_0x1fb065['id']===_0x1038c1)+'\x22><span\x20class=\x22zs-ui-theme-preview\x22\x20aria-hidden=\x22true\x22><img\x20src=\x22'+chrome[_0x96c14c(0x331)][_0x96c14c(0x265)](_0x1fb065['image'])+'\x22\x20alt=\x22\x22\x20/></span><strong>'+_0x54ed60(_0x1fb065['name'])+_0x96c14c(0x301)+_0x54ed60(_0x1fb065[_0x96c14c(0x33f)])+_0x96c14c(0x23d)+(_0x1fb065['id']===_0x1038c1?_0x96c14c(0x1c5):'')+'</span></button>')[_0x96c14c(0x12a)](''),_0x81d0bb=_0x4be6d3[_0x96c14c(0x35c)](_0x7ef69=>_0x96c14c(0x155)+(_0x7ef69['id']===_0x5d1002?_0x96c14c(0x371):'')+_0x96c14c(0x276)+_0x54ed60(_0x7ef69['id'])+'\x22\x20aria-pressed=\x22'+(_0x7ef69['id']===_0x5d1002)+_0x96c14c(0x14e)+_0x7ef69['icon']+_0x96c14c(0x1dd)+_0x54ed60(_0x7ef69['name'])+_0x96c14c(0x301)+_0x54ed60(_0x7ef69[_0x96c14c(0x33f)])+_0x96c14c(0x242)+(_0x7ef69['id']===_0x5d1002?'&#10003;':'')+_0x96c14c(0x294))[_0x96c14c(0x12a)]('');_0x57c01c[_0x96c14c(0x305)]=_0x96c14c(0x385)+chrome[_0x96c14c(0x331)][_0x96c14c(0x265)]('icon.png')+_0x96c14c(0x373)+_0x1b91ca+_0x96c14c(0x2e6)+_0x81d0bb+_0x96c14c(0x3ca),_0x57c01c[_0x96c14c(0x356)]('.zs-ui-card')[_0x96c14c(0x395)](_0x57847e=>_0x57847e[_0x96c14c(0x3ed)](_0x96c14c(0x2ef),()=>_0x306195(_0x57847e[_0x96c14c(0x333)]['template']))),_0x57c01c[_0x96c14c(0x356)](_0x96c14c(0x19f))[_0x96c14c(0x395)](_0x4b3286=>_0x4b3286[_0x96c14c(0x3ed)](_0x96c14c(0x2ef),()=>_0x54f72c(_0x4b3286['dataset'][_0x96c14c(0x1be)])));}let _0x59e8f7=null,_0x52acd1=![],_0x254c6e=null;try{chrome['storage'][_0x1ed6b1(0x12b)]['get'](_0x1ed6b1(0x2e4),_0x82ff07=>{const _0x3b5b1c=_0x1ed6b1;if(_0x82ff07&&_0x82ff07[_0x3b5b1c(0x2e4)])_0x52acd1=!![];});}catch{}function _0x37bae8(){const _0x35f0ee=_0x1ed6b1;_0x59e8f7=document['createElement'](_0x35f0ee(0x350)),_0x59e8f7['id']=_0x35f0ee(0x169),_0x59e8f7[_0x35f0ee(0x130)]=!![],_0x59e8f7['innerHTML']='<div\x20id=\x22zs-setup-head\x22><span\x20id=\x22zs-setup-logo\x22>EverLua</span><span\x20id=\x22zs-setup-tag\x22>Setup</span></div>'+_0x35f0ee(0x231)+_0x35f0ee(0x30c)+_0x35f0ee(0x15e)+_0x35f0ee(0xff)+_0x35f0ee(0x2d8)+_0x35f0ee(0x39c)+_0x35f0ee(0x3fc)+(_0x35f0ee(0x150)+_0x2d3489+'\x22>')+'<button\x20id=\x22zs-setup-copy\x22>Copy</button>'+'</div>'+'<button\x20id=\x22zs-setup-dismiss\x22>Got\x20it</button>',document['documentElement']['appendChild'](_0x59e8f7),_0x59e8f7[_0x35f0ee(0x300)](_0x35f0ee(0x116))[_0x35f0ee(0x3ed)](_0x35f0ee(0x2ef),()=>{const _0x53ae98=_0x35f0ee;try{navigator['clipboard'][_0x53ae98(0x2a4)](_0x2d3489);}catch{const _0x5d243d=_0x59e8f7['querySelector'](_0x53ae98(0x38b));_0x5d243d[_0x53ae98(0x31e)]();try{document[_0x53ae98(0x1d9)](_0x53ae98(0x13d));}catch{}}const _0x18e9fc=_0x59e8f7['querySelector'](_0x53ae98(0x116));_0x18e9fc[_0x53ae98(0x1e6)]=_0x53ae98(0x1bd),setTimeout(()=>{_0x18e9fc['textContent']='Copy';},0x640);}),_0x59e8f7[_0x35f0ee(0x300)](_0x35f0ee(0x253))['addEventListener'](_0x35f0ee(0x2ef),()=>{const _0x5da6c3=_0x35f0ee;_0x52acd1=!![];try{chrome[_0x5da6c3(0x20f)][_0x5da6c3(0x12b)][_0x5da6c3(0x37e)]({'zsSetupSeen':!![]});}catch{}_0x43e5fa();});}function _0x3a7dad(){}function _0x5ee880(){const _0x1ed539=_0x1ed6b1;if(!_0x59e8f7)_0x37bae8();_0x59e8f7[_0x1ed539(0x130)]&&(_0x59e8f7[_0x1ed539(0x130)]=![],cancelAnimationFrame(_0x254c6e),_0x3a7dad());}function _0x43e5fa(){if(_0x59e8f7)_0x59e8f7['hidden']=!![];cancelAnimationFrame(_0x254c6e);}function _0x12b320(_0x2da588){const _0x8cc9bd=_0x1ed6b1;if(_0x52acd1||_0x2da588){_0x43e5fa();return;}if(!_0x294e58[_0x8cc9bd(0x36e)]&&!_0x294e58[_0x8cc9bd(0x144)]&&!_0x4266bb['chatIsEmpty']()){_0x43e5fa();return;}_0x5ee880();}function _0x3e0d0e(){const _0x124b95=_0x1ed6b1;if(!_0x4f0ae4)return;let _0x433a67='standby',_0x2be203='',_0x3a9666='',_0x3befed='',_0x5780cb='',_0x14413a=![],_0x93933d=![];if(_0x294e58['starting'])_0x433a67=_0x124b95(0x144),_0x2be203='<span\x20class=\x22zs-spin\x22></span>',_0x3a9666=_0x124b95(0x2bc),_0x3befed=_0x124b95(0x122),_0x5780cb='starting',_0x14413a=!![];else{if(_0x294e58[_0x124b95(0x36e)]){const _0x5d4062=_0x294e58['bridge']&&(_0x294e58[_0x124b95(0x184)][_0x124b95(0x2fd)]||[])[_0x124b95(0x1d1)]((_0x37d591,_0x26cb70)=>_0x37d591+(_0x26cb70[_0x124b95(0x378)]||0x0),0x0),_0x567ebc=_0x294e58[_0x124b95(0x30d)]['length']||_0x5d4062||_0x294e58[_0x124b95(0x184)]&&_0x294e58['bridge'][_0x124b95(0x378)]||0x0;if(_0x294e58['bridge']&&_0x294e58['bridge'][_0x124b95(0x39f)]===![])_0x433a67=_0x124b95(0x239),_0x93933d=!![],_0x3a9666=_0x124b95(0x164);else{if((_0x40b423||_0x25cae7||_0x20266c)&&_0x2e5152)_0x433a67=_0x124b95(0x239),_0x3a9666=_0x124b95(0x1c6)+(_0x567ebc?'\x20·\x20'+_0x567ebc+_0x124b95(0x266):'')+_0x124b95(0x22d);else{if(_0x40b423)_0x433a67='warn',_0x93933d=!![],_0x3a9666=_0x124b95(0x298);else _0x25cae7||_0x20266c?(_0x433a67=_0x124b95(0x239),_0x93933d=!![],_0x3a9666=_0x39a2c8?_0x124b95(0x1e0):_0x124b95(0x165)):(_0x433a67=_0x124b95(0x2ac),_0x3a9666=_0x124b95(0x3d6)+_0x319de0[_0x414469][_0x124b95(0x3aa)]+_0x124b95(0x3a5)+(_0x567ebc?_0x124b95(0x3ee)+_0x567ebc+_0x124b95(0x266):''));}}}else{if(_0x4266bb[_0x124b95(0x1fb)]()||_0x4266bb[_0x124b95(0x11c)]()){if(_0x414469===_0x124b95(0x3dd)||_0x414469==='plan')_0x433a67=_0x124b95(0x34b),_0x3a9666=_0x414469===_0x124b95(0x3dd)?_0x124b95(0x1e7):_0x124b95(0x2ec),_0x3befed=_0x414469===_0x124b95(0x3dd)?_0x124b95(0x414):_0x124b95(0x3de),_0x5780cb='start';else{if(_0x5239c6)_0x433a67=_0x124b95(0x34b),_0x3a9666=_0x124b95(0x2a7)+_0x319de0[_0x414469]['label']+'\x20mode.',_0x3befed=_0x414469==='chat'?_0x124b95(0x414):_0x414469===_0x124b95(0x2b2)?'Create\x20plan':'Start\x20agent',_0x5780cb=_0x124b95(0x226);else _0x2e5152?(_0x433a67=_0x124b95(0x239),_0x93933d=!![],_0x3a9666=!_0x294e58['bridge'][_0x124b95(0x39f)]?_0x124b95(0x101):_0x39a2c8?'<b>Studio\x20open\x20but\x20not\x20connected</b>\x20-\x20open\x20<b>Assistant\x20Settings\x20&gt;\x20MCP\x20Servers</b>\x20in\x20Studio,\x20or\x20start\x20without\x20it.':_0x124b95(0x1bc),_0x3befed=_0x124b95(0x3f2),_0x5780cb=_0x124b95(0x280)):(_0x433a67=_0x124b95(0x239),_0x93933d=!![],_0x3a9666=!_0x294e58['bridge'][_0x124b95(0x39f)]?'Run\x20<b>start.bat</b>\x20on\x20your\x20PC.':_0x40b423?_0x124b95(0x263):(_0x25cae7||_0x20266c)&&_0x39a2c8?_0x124b95(0x376):_0x25cae7?'Open\x20<b>Roblox\x20Studio</b>\x20&amp;\x20enable\x20its\x20MCP\x20server.':_0x20266c?_0x124b95(0x401):_0x124b95(0x232),_0x3befed=_0x124b95(0x2ca),_0x5780cb=_0x124b95(0x226));}_0x14413a=!_0x5239c6&&!_0x2e5152;}else _0x433a67=_0x124b95(0x3bb),_0x3a9666='No\x20agent\x20here.\x20Open\x20a\x20new\x20chat\x20to\x20start\x20one.';}}_0x294e58['parked']&&(_0x294e58['running']||_0x294e58[_0x124b95(0x144)])&&(_0x433a67=_0x124b95(0x239),_0x93933d=![],_0x3a9666=_0x124b95(0x19c));if(!_0x294e58[_0x124b95(0x36e)]&&!_0x294e58[_0x124b95(0x144)]&&_0x4266bb[_0x124b95(0xfc)]){const _0x5d2005=_0x4266bb[_0x124b95(0xfc)]();if(_0x5d2005){_0x433a67=_0x124b95(0x239),_0x93933d=!![],_0x3a9666=_0x5d2005;if(_0x5780cb==='start'||_0x5780cb==='start-degraded')_0x14413a=!![];}}const _0x290c8e=!_0x264ff7['hidden'],_0xbcd77c=!!_0x294e58[_0x124b95(0x36e)],_0x5a4d94=[_0x433a67,_0x2be203,_0x3a9666,_0x3befed,_0x5780cb,_0x14413a,_0x93933d,_0x290c8e,_0xbcd77c][_0x124b95(0x12a)]('|');if(_0x5a4d94===_0x161635)return;_0x161635=_0x5a4d94,_0x4f0ae4[_0x124b95(0x2be)][_0x124b95(0x381)](_0x124b95(0x2c9),_0x124b95(0x33c),_0x124b95(0x187),_0x124b95(0x293),'tone-starting'),_0x4f0ae4[_0x124b95(0x2be)][_0x124b95(0x167)]('tone-'+_0x433a67),_0xc7d2e7[_0x124b95(0x305)]=_0x2be203+(_0x124b95(0x245)+_0x3a9666+_0x124b95(0x2f0)),_0xc7d2e7[_0x124b95(0x2be)][_0x124b95(0x387)]('zs-state-warn',_0x93933d),_0x42ef70['textContent']=_0x3befed,_0x42ef70[_0x124b95(0x333)][_0x124b95(0x326)]=_0x5780cb,_0x42ef70[_0x124b95(0x31f)]=_0x14413a,_0x42ef70[_0x124b95(0x1e3)][_0x124b95(0x1c3)]=_0x290c8e||!_0x5780cb?_0x124b95(0x3c9):'';if(_0x1728d2)_0x1728d2[_0x124b95(0x1e3)][_0x124b95(0x1c3)]=_0xbcd77c?'':_0x124b95(0x3c9);if(_0x4ddfde)_0x4ddfde['style'][_0x124b95(0x1c3)]=_0xbcd77c?'':_0x124b95(0x3c9);}let _0x161635='';function _0x4dd862(){_0x3e0d0e();}function _0x4cd2e1(){_0x3e0d0e();}function _0xbf0602(_0x3399d8){const _0x1e1ef8=_0x1ed6b1;_0x294e58[_0x1e1ef8(0x184)]=_0x3399d8;if(!_0x249f3a)return;const _0x10ec8e=_0x3399d8['servers']||[],_0x2d5215=_0x10ec8e[_0x1e1ef8(0x24e)](_0x1614f0=>_0x1614f0['id']===_0x1e1ef8(0x21c)),_0x3d221f=_0x2d5215?!!_0x2d5215[_0x1e1ef8(0x388)]:!!_0x3399d8[_0x1e1ef8(0x33a)]||_0x10ec8e['some'](_0x1612e3=>_0x1612e3['alive']),_0x5b7b25=_0x2d5215?_0x2d5215[_0x1e1ef8(0x378)]||0x0:_0x3399d8['tools']||0x0,_0x5f1213=_0x3399d8[_0x1e1ef8(0x39f)]&&(_0x3d221f||_0x5b7b25>0x0),_0x295531=_0x10ec8e['reduce']((_0x4a28c4,_0x43c39e)=>_0x4a28c4+(_0x43c39e[_0x1e1ef8(0x378)]||0x0),0x0)||_0x3399d8[_0x1e1ef8(0x378)]||_0x5b7b25,_0x5ad8f2=_0x5f1213&&_0x3399d8[_0x1e1ef8(0x189)]===![],_0x45c21e=_0x5ad8f2&&_0x3399d8[_0x1e1ef8(0x151)]===![],_0x156ed4=_0x5ad8f2&&_0x3399d8[_0x1e1ef8(0x151)]===!![],_0x13e9d7=_0x5f1213&&!_0x5ad8f2;_0x249f3a[_0x1e1ef8(0x119)]=_0x3399d8[_0x1e1ef8(0x39f)]?_0x13e9d7?'on':'warn':_0x1e1ef8(0x2ad);const _0x55b177=_0x3399d8['studioProc']===!![];let _0x4d60c9;if(!_0x3399d8[_0x1e1ef8(0x39f)])_0x4d60c9=_0x1e1ef8(0x268);else{if(!_0x5f1213)_0x4d60c9=_0x1e1ef8(0x1f1);else{if(_0x156ed4)_0x4d60c9=_0x1e1ef8(0x32b);else{if(_0x45c21e)_0x4d60c9=_0x55b177?_0x1e1ef8(0x296):'Roblox\x20Studio\x20not\x20connected\x20-\x20open\x20it\x20and\x20enable\x20its\x20MCP\x20server';else{if(_0x5ad8f2)_0x4d60c9=_0x1e1ef8(0x32f);else _0x4d60c9=_0x1e1ef8(0x3d7)+_0x295531+'\x20tools\x20ready';}}}}_0x249f3a[_0x1e1ef8(0x34e)]=_0x4d60c9,_0x5239c6=_0x13e9d7,_0x20266c=_0x5ad8f2,_0x40b423=_0x156ed4,_0x25cae7=_0x45c21e,_0x39a2c8=_0x55b177,_0x2e5152=!!_0x3399d8[_0x1e1ef8(0x39f)]&&_0x10ec8e['some'](_0xdabde1=>_0xdabde1['id']!==_0x1e1ef8(0x21c)&&_0xdabde1[_0x1e1ef8(0x388)]&&(_0xdabde1['tools']||0x0)>0x0);if(_0x4b0ef9&&!_0x3399d8[_0x1e1ef8(0x39f)])_0xda5e42(!![]);if(_0x3399d8[_0x1e1ef8(0x39f)])_0xda5e42(![]);_0x4b0ef9=_0x3399d8[_0x1e1ef8(0x39f)];if(_0x3399d8['connected']&&!_0x52acd1){_0x52acd1=!![];try{chrome[_0x1e1ef8(0x20f)][_0x1e1ef8(0x12b)]['set']({'zsSetupSeen':!![]});}catch{}}_0x3e0d0e(),_0x12b320(_0x3399d8[_0x1e1ef8(0x39f)]);}function _0xda5e42(_0x1a7750){const _0x4cae8e=_0x1ed6b1;if(!_0x1a7750){_0x2e1478&&(_0x2e1478['remove'](),_0x2e1478=null);return;}if(_0x2e1478)return;const _0x2afbb2=document[_0x4cae8e(0x3bf)]('div');_0x2afbb2[_0x4cae8e(0x119)]=_0x4cae8e(0x369),_0x2afbb2[_0x4cae8e(0x305)]=_0x4cae8e(0x1c2),_0x2afbb2[_0x4cae8e(0x300)]('.zs-banner-x')[_0x4cae8e(0x3ed)](_0x4cae8e(0x2ef),()=>{const _0xe578fb=_0x4cae8e;_0x2afbb2[_0xe578fb(0x381)]();if(_0x2e1478===_0x2afbb2)_0x2e1478=null;}),_0x25387f['appendChild'](_0x2afbb2),_0x2e1478=_0x2afbb2;}function _0x524f41(_0x18a26c){const _0x1f2417=_0x1ed6b1;if(!_0x264ff7)return;const _0x38435a=(_0x18a26c||_0x294e58[_0x1f2417(0x2cc)])&&!_0x294e58['starting'],_0x8922df=_0x264ff7[_0x1f2417(0x130)];_0x264ff7['hidden']=!_0x38435a;_0x38435a&&!_0x294e58[_0x1f2417(0x2cc)]&&_0x264ff7['dataset']['state']===_0x1f2417(0x2cc)&&(_0x264ff7[_0x1f2417(0x31f)]=![],_0x264ff7[_0x1f2417(0x1e6)]='■\x20Stop',delete _0x264ff7[_0x1f2417(0x333)][_0x1f2417(0x38f)]);if(_0x8922df!==_0x264ff7[_0x1f2417(0x130)])_0x3e0d0e();}function _0x3545(){const _0x1051a3=_0x1ed6b1;if(!_0x264ff7)return;_0x264ff7['hidden']=![],_0x264ff7[_0x1051a3(0x31f)]=!![],_0x264ff7[_0x1051a3(0x333)][_0x1051a3(0x38f)]=_0x1051a3(0x2cc),_0x264ff7[_0x1051a3(0x1e6)]=_0x1051a3(0x3a4),_0x3e0d0e();}let _0x4940e7=![];function _0x2cf44b(){const _0x48cb24=_0x1ed6b1;if(_0x294e58[_0x48cb24(0x36e)]||!_0x4266bb[_0x48cb24(0x1fb)]())return;!_0x4940e7&&(_0x4940e7=!![],_0x4e2d84('Tip:\x20click\x20“▶\x20Start\x20Roblox\x20agent”\x20to\x20let\x20the\x20AI\x20control\x20Roblox\x20Studio.'));if(!_0x42ef70)return;_0x42ef70[_0x48cb24(0x2be)]['add'](_0x48cb24(0x115)),setTimeout(()=>_0x42ef70[_0x48cb24(0x2be)][_0x48cb24(0x381)](_0x48cb24(0x115)),0x4b0);}function _0x70d4a0(){const _0x5eedf0=_0x1ed6b1,_0x30d9ac=document[_0x5eedf0(0x198)],_0x49be6e=document[_0x5eedf0(0x223)],_0x1a3108=(_0x30d9ac['className']+'\x20'+(_0x49be6e?_0x49be6e[_0x5eedf0(0x119)]:''))['toLowerCase']();if(/\bdark\b/['test'](_0x1a3108))return _0x5eedf0(0x202);if(/\blight\b/[_0x5eedf0(0x1b6)](_0x1a3108))return _0x5eedf0(0x162);const _0x34ad2e=(_0x30d9ac[_0x5eedf0(0x26d)]('data-theme')||_0x30d9ac[_0x5eedf0(0x26d)]('data-color-mode')||_0x30d9ac[_0x5eedf0(0x26d)]('data-color-scheme')||'')[_0x5eedf0(0x218)]();if(/dark/[_0x5eedf0(0x1b6)](_0x34ad2e))return _0x5eedf0(0x202);if(/light/[_0x5eedf0(0x1b6)](_0x34ad2e))return _0x5eedf0(0x162);const _0x11c71c=(getComputedStyle(_0x30d9ac)['colorScheme']||'')[_0x5eedf0(0x218)]();if(/dark/[_0x5eedf0(0x1b6)](_0x11c71c)&&!/light/['test'](_0x11c71c))return'dark';if(/light/[_0x5eedf0(0x1b6)](_0x11c71c)&&!/dark/['test'](_0x11c71c))return'light';return null;}function _0x7d711e(){const _0x45de94=_0x1ed6b1;let _0x3c21c8=document[_0x45de94(0x223)];while(_0x3c21c8&&_0x3c21c8!==document[_0x45de94(0x198)]){const _0xb0aad6=getComputedStyle(_0x3c21c8)['backgroundColor'];if(_0xb0aad6&&!/(transparent)/['test'](_0xb0aad6)&&!/,\s*0\s*\)$/[_0x45de94(0x1b6)](_0xb0aad6))return _0xb0aad6;_0x3c21c8=_0x3c21c8[_0x45de94(0x2f3)];}return getComputedStyle(document[_0x45de94(0x198)])[_0x45de94(0x363)]||_0x45de94(0x3e9);}function _0x1b588d(){const _0x11a6d6=_0x1ed6b1;let _0x53963a;const _0x52d8f7=_0x70d4a0();if(_0x52d8f7)_0x53963a=_0x52d8f7===_0x11a6d6(0x162);else{const _0x18b6ea=(_0x7d711e()[_0x11a6d6(0x2d4)](/\d+(?:\.\d+)?/g)||[])[_0x11a6d6(0x35c)](Number);if(_0x18b6ea[_0x11a6d6(0x2ba)]<0x3)return;_0x53963a=0.2126*_0x18b6ea[0x0]+0.7152*_0x18b6ea[0x1]+0.0722*_0x18b6ea[0x2]>0x8c;}document[_0x11a6d6(0x198)][_0x11a6d6(0x2be)][_0x11a6d6(0x387)]('zs-light',_0x53963a);}function _0x124d56(){const _0x5da9f4=_0x1ed6b1;if(!_0x4266bb[_0x5da9f4(0x3f7)])return null;const _0x45b42b=_0x4266bb[_0x5da9f4(0x3f7)]();return _0x45b42b&&_0x45b42b[_0x5da9f4(0x2ae)]&&_0x45b42b[_0x5da9f4(0x2ae)][_0x5da9f4(0x134)]?_0x45b42b:null;}const _0x1fa0e8=0x230,_0x75712=0x8;let _0xacfa1d=null;function _0x2cc0ed(){const _0x3c3113=_0x1ed6b1;if(_0xacfa1d){try{_0xacfa1d['style'][_0x3c3113(0x398)]='';}catch{}_0xacfa1d=null;}}function _0x7d3252(){const _0x13c11c=_0x1ed6b1,_0x9cd64d=_0x52aec6;if(!_0x9cd64d)return;if(!_0x4f0ae4||_0x4f0ae4[_0x13c11c(0x1e3)][_0x13c11c(0x1c3)]===_0x13c11c(0x3c9)){if(!_0x9cd64d[_0x13c11c(0x130)])_0x9cd64d['hidden']=!![];return;}const _0x1a8252=_0x4f0ae4[_0x13c11c(0x2eb)]();if(!_0x1a8252[_0x13c11c(0x3f4)]){if(!_0x9cd64d[_0x13c11c(0x130)])_0x9cd64d['hidden']=!![];return;}if(_0x9cd64d['hidden'])_0x9cd64d[_0x13c11c(0x130)]=![];const _0x419217=_0x9cd64d[_0x13c11c(0x283)]||0x14;_0x9cd64d[_0x13c11c(0x1e3)][_0x13c11c(0x412)]=Math['round'](_0x1a8252[_0x13c11c(0x412)])+'px',_0x9cd64d[_0x13c11c(0x1e3)][_0x13c11c(0x1e8)]=Math[_0x13c11c(0x337)](Math['max'](0x4,_0x1a8252[_0x13c11c(0x1e8)]-_0x419217-0x5))+'px';}function _0xe73227(){const _0x3a2ffb=_0x1ed6b1;_0x136160=requestAnimationFrame(_0xe73227);if(!_0x4f0ae4)return;if(_0x25387f&&!_0x25387f['isConnected'])try{document[_0x3a2ffb(0x198)]['appendChild'](_0x25387f);}catch{}_0x7d3252();if(_0x4266bb['captchaPresent']&&_0x4266bb['captchaPresent']()||_0x4266bb[_0x3a2ffb(0x3fa)]&&_0x4266bb[_0x3a2ffb(0x3fa)]()){_0x4f0ae4['style'][_0x3a2ffb(0x1c3)]='none',_0x2cc0ed();if(_0x57c01c)_0x57c01c[_0x3a2ffb(0x130)]=!![];return;}const _0x21545b=_0x124d56();if(_0x21545b){_0x2cc0ed();if(_0x4f0ae4[_0x3a2ffb(0x2f3)]!==_0x21545b[_0x3a2ffb(0x2ae)]||_0x4f0ae4[_0x3a2ffb(0x2ea)]!==_0x21545b[_0x3a2ffb(0x179)])try{_0x21545b[_0x3a2ffb(0x2ae)][_0x3a2ffb(0x39e)](_0x4f0ae4,_0x21545b[_0x3a2ffb(0x179)]||null);}catch{}!_0x4f0ae4['classList'][_0x3a2ffb(0x2d3)]('zs-bar-inline')&&(_0x4f0ae4[_0x3a2ffb(0x2be)][_0x3a2ffb(0x167)](_0x3a2ffb(0x37c)),_0x4f0ae4['style']['cssText']='');_0x4f0ae4[_0x3a2ffb(0x2be)][_0x3a2ffb(0x387)]('zs-bar-inside',!!_0x21545b[_0x3a2ffb(0x1df)]),_0x4f0ae4['style'][_0x3a2ffb(0x1c3)]=_0x3a2ffb(0x287);if(_0x57c01c&&!_0x57c01c[_0x3a2ffb(0x130)]){const _0x1e9cc8=_0x4f0ae4[_0x3a2ffb(0x2eb)]();_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x121)]=Math[_0x3a2ffb(0x337)](window['innerWidth']-_0x1e9cc8['right'])+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x267)]=Math['round'](window[_0x3a2ffb(0x319)]-_0x1e9cc8[_0x3a2ffb(0x1e8)]+0x6)+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x285)]=Math[_0x3a2ffb(0x2aa)](0x8c,Math[_0x3a2ffb(0x337)](_0x1e9cc8[_0x3a2ffb(0x1e8)]-0x10))+'px';}return;}const _0x53d286=_0x4266bb[_0x3a2ffb(0x39a)]&&_0x4266bb[_0x3a2ffb(0x39a)]()||null;if(_0x53d286&&_0x53d286['isConnected']){_0x4f0ae4[_0x3a2ffb(0x2be)][_0x3a2ffb(0x381)](_0x3a2ffb(0x37c),_0x3a2ffb(0x114)),_0x4f0ae4[_0x3a2ffb(0x2be)][_0x3a2ffb(0x167)]('zs-bar-anchored');if(_0x25387f&&_0x4f0ae4[_0x3a2ffb(0x2f3)]!==_0x25387f)_0x25387f[_0x3a2ffb(0x2f7)](_0x4f0ae4);const _0x946a5=_0x53d286[_0x3a2ffb(0x2eb)]();if(!_0x946a5[_0x3a2ffb(0x3f4)]){_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x1c3)]='none',_0x2cc0ed();if(_0x57c01c)_0x57c01c[_0x3a2ffb(0x130)]=!![];return;}_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x1c3)]=_0x3a2ffb(0x287);const _0x402011=_0x4f0ae4[_0x3a2ffb(0x283)]||0x22;if(_0xacfa1d&&_0xacfa1d!==_0x53d286)_0x2cc0ed();_0xacfa1d=_0x53d286,_0x53d286[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x398)]=_0x402011+0x6+'px',_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x412)]=Math[_0x3a2ffb(0x337)](_0x946a5[_0x3a2ffb(0x412)])+'px',_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x1e8)]=Math['round'](_0x946a5[_0x3a2ffb(0x1e8)])+'px',_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x3f4)]=Math[_0x3a2ffb(0x337)](_0x946a5[_0x3a2ffb(0x3f4)])+'px';_0x57c01c&&!_0x57c01c['hidden']&&(_0x4f0ae4[_0x3a2ffb(0x2be)]['remove'](_0x3a2ffb(0x37c)),_0x57c01c['style'][_0x3a2ffb(0x121)]=Math[_0x3a2ffb(0x337)](window['innerWidth']-(_0x946a5['left']+_0x946a5[_0x3a2ffb(0x3f4)]))+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x267)]=Math[_0x3a2ffb(0x337)](window[_0x3a2ffb(0x319)]-_0x946a5[_0x3a2ffb(0x1e8)]+0x6)+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x285)]=Math[_0x3a2ffb(0x2aa)](0x8c,Math[_0x3a2ffb(0x337)](_0x946a5[_0x3a2ffb(0x1e8)]-0x10))+'px');return;}_0x4f0ae4['classList'][_0x3a2ffb(0x381)](_0x3a2ffb(0x330)),_0x2cc0ed();if(_0x4f0ae4[_0x3a2ffb(0x2be)]['contains'](_0x3a2ffb(0x37c))){_0x4f0ae4[_0x3a2ffb(0x2be)][_0x3a2ffb(0x381)](_0x3a2ffb(0x37c));if(_0x25387f&&_0x4f0ae4['parentElement']!==_0x25387f)_0x25387f[_0x3a2ffb(0x2f7)](_0x4f0ae4);}const _0x1eafd7=_0x4266bb[_0x3a2ffb(0x2c4)]&&_0x4266bb[_0x3a2ffb(0x2c4)]()||_0x4266bb[_0x3a2ffb(0x222)]&&_0x4266bb[_0x3a2ffb(0x222)]();if(!_0x1eafd7){_0x4f0ae4['style'][_0x3a2ffb(0x1c3)]=_0x3a2ffb(0x3c9);if(_0x57c01c)_0x57c01c['hidden']=!![];return;}_0x4f0ae4[_0x3a2ffb(0x1e3)]['display']=_0x3a2ffb(0x287);const _0x53562f=_0x1eafd7[_0x3a2ffb(0x2eb)]();if(!_0x53562f[_0x3a2ffb(0x3f4)]){_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x1c3)]=_0x3a2ffb(0x3c9);return;}const _0x375afa=Math[_0x3a2ffb(0x16f)](_0x53562f[_0x3a2ffb(0x3f4)],_0x1fa0e8),_0x4db8ec=Math['round'](_0x53562f['left']+(_0x53562f[_0x3a2ffb(0x3f4)]-_0x375afa)/0x2),_0x5bbe47=_0x4f0ae4['offsetHeight']||0x28,_0x272493=Math[_0x3a2ffb(0x2aa)](0x4,Math[_0x3a2ffb(0x337)](_0x53562f[_0x3a2ffb(0x1e8)]-_0x5bbe47-_0x75712));_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x3f4)]=_0x375afa+'px',_0x4f0ae4['style']['left']=_0x4db8ec+'px',_0x4f0ae4[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x1e8)]=_0x272493+'px';if(_0x57c01c&&!_0x57c01c[_0x3a2ffb(0x130)]){const _0x48840e=_0x4f0ae4['getBoundingClientRect']();_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x121)]=Math[_0x3a2ffb(0x337)](window[_0x3a2ffb(0x1f8)]-_0x48840e[_0x3a2ffb(0x121)])+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x267)]=Math[_0x3a2ffb(0x337)](window['innerHeight']-_0x48840e[_0x3a2ffb(0x1e8)]+0x6)+'px',_0x57c01c[_0x3a2ffb(0x1e3)][_0x3a2ffb(0x285)]=Math['max'](0x8c,Math[_0x3a2ffb(0x337)](_0x48840e['top']-0x10))+'px';}}function _0x339ef8(){_0x3e0d0e();}function _0x558593(_0x2777e4){const _0x1835ba=_0x1ed6b1,_0x3ec891=[];let _0x414c2e=_0x2777e4;while(_0x414c2e&&_0x414c2e!==document[_0x1835ba(0x198)]){const _0x2b807d=_0x6b1851(getComputedStyle(_0x414c2e)[_0x1835ba(0x363)]);if(_0x2b807d&&_0x2b807d['a']>0x0){_0x3ec891[_0x1835ba(0x190)](_0x2b807d);if(_0x2b807d['a']>=0.999)break;}_0x414c2e=_0x414c2e[_0x1835ba(0x2f3)];}if(!_0x3ec891[_0x1835ba(0x2ba)]||_0x3ec891[_0x3ec891[_0x1835ba(0x2ba)]-0x1]['a']<0.999){const _0x186377=_0x6b1851(getComputedStyle(document[_0x1835ba(0x223)])['backgroundColor'])||{'r':0xff,'g':0xff,'b':0xff,'a':0x1};_0x3ec891['push']({'r':_0x186377['r'],'g':_0x186377['g'],'b':_0x186377['b'],'a':0x1});}let _0x4cf3e7=_0x3ec891[_0x3ec891['length']-0x1];for(let _0x55a277=_0x3ec891['length']-0x2;_0x55a277>=0x0;_0x55a277--)_0x4cf3e7=_0xd7d2fc(_0x3ec891[_0x55a277],_0x4cf3e7);return _0x1835ba(0x1ec)+Math['round'](_0x4cf3e7['r'])+',\x20'+Math[_0x1835ba(0x337)](_0x4cf3e7['g'])+',\x20'+Math[_0x1835ba(0x337)](_0x4cf3e7['b'])+')';}function _0x6b1851(_0x486a53){const _0x33d50a=_0x1ed6b1;if(!_0x486a53||_0x486a53==='transparent')return null;const _0x10a58d=_0x486a53[_0x33d50a(0x2d4)](/rgba?\(([^)]+)\)/i);if(!_0x10a58d)return null;const _0x2507b9=_0x10a58d[0x1][_0x33d50a(0x178)](',')[_0x33d50a(0x35c)](_0x18dc32=>parseFloat(_0x18dc32));return{'r':_0x2507b9[0x0],'g':_0x2507b9[0x1],'b':_0x2507b9[0x2],'a':_0x2507b9[_0x33d50a(0x2ba)]>=0x4?_0x2507b9[0x3]:0x1};}function _0xd7d2fc(_0x329ab4,_0x4c40f1){const _0x10c8f1=_0x329ab4['a'];return{'r':_0x329ab4['r']*_0x10c8f1+_0x4c40f1['r']*(0x1-_0x10c8f1),'g':_0x329ab4['g']*_0x10c8f1+_0x4c40f1['g']*(0x1-_0x10c8f1),'b':_0x329ab4['b']*_0x10c8f1+_0x4c40f1['b']*(0x1-_0x10c8f1),'a':0x1};}function _0x4e8344(_0x17481d){const _0x19f5fa=_0x1ed6b1,_0x536a3d=_0x4266bb[_0x19f5fa(0x2c4)]();if(!_0x17481d){_0x859f27&&(_0x859f27['style'][_0x19f5fa(0x1c3)]=_0x19f5fa(0x3c9),_0x859f27[_0x19f5fa(0x333)]['on']='');if(_0x536a3d)_0x536a3d[_0x19f5fa(0x2be)]['remove']('zs-typing');cancelAnimationFrame(_0x3d9c51);return;}if(!_0x536a3d)return;_0x536a3d[_0x19f5fa(0x2be)][_0x19f5fa(0x167)](_0x19f5fa(0x215));!_0x859f27&&(_0x859f27=document[_0x19f5fa(0x3bf)](_0x19f5fa(0x350)),_0x859f27['id']='zs-input-cover',_0x859f27[_0x19f5fa(0x305)]=_0x19f5fa(0x3bc),document[_0x19f5fa(0x198)][_0x19f5fa(0x2f7)](_0x859f27));_0x859f27[_0x19f5fa(0x333)]['on']='1',_0x859f27[_0x19f5fa(0x1e3)][_0x19f5fa(0x1c3)]='flex';const _0x23d5f2=()=>{const _0x3087d1=_0x19f5fa;if(!_0x859f27||_0x859f27[_0x3087d1(0x333)]['on']!=='1')return;const _0x14c94f=_0x4266bb[_0x3087d1(0x2c4)]();if(!_0x14c94f){_0x3d9c51=requestAnimationFrame(_0x23d5f2);return;}if(!_0x14c94f[_0x3087d1(0x2be)][_0x3087d1(0x2d3)](_0x3087d1(0x215)))_0x14c94f['classList'][_0x3087d1(0x167)](_0x3087d1(0x215));const _0x34226a=_0x4266bb['coverTarget']&&_0x4266bb[_0x3087d1(0x40f)]()||_0x14c94f;if(_0x4266bb['overlayBlocking']&&_0x4266bb['overlayBlocking']()||_0x4266bb[_0x3087d1(0x17e)]&&_0x4266bb[_0x3087d1(0x17e)]()){_0x859f27['style']['display']='none',_0x3d9c51=requestAnimationFrame(_0x23d5f2);return;}_0x859f27[_0x3087d1(0x1e3)][_0x3087d1(0x1c3)]=_0x3087d1(0x287);let _0x440065=_0x34226a[_0x3087d1(0x2eb)]();for(let _0x57d60c=_0x34226a[_0x3087d1(0x2f3)],_0x4c6e51=0x0;_0x57d60c&&_0x57d60c!==document[_0x3087d1(0x223)]&&_0x4c6e51<0x8;_0x57d60c=_0x57d60c[_0x3087d1(0x2f3)],_0x4c6e51++){const _0x4cdf7f=getComputedStyle(_0x57d60c)[_0x3087d1(0x2fb)];if(_0x4cdf7f===_0x3087d1(0x3da)||_0x4cdf7f===_0x3087d1(0x417)||_0x4cdf7f==='hidden'){const _0xe3fedc=_0x57d60c[_0x3087d1(0x2eb)](),_0x2b1289=Math[_0x3087d1(0x2aa)](_0x440065[_0x3087d1(0x1e8)],_0xe3fedc[_0x3087d1(0x1e8)]),_0x23d05d=Math[_0x3087d1(0x16f)](_0x440065[_0x3087d1(0x267)],_0xe3fedc['bottom']);if(_0x23d05d>_0x2b1289)_0x440065=new DOMRect(_0x440065['left'],_0x2b1289,_0x440065[_0x3087d1(0x3f4)],_0x23d05d-_0x2b1289);break;}}const _0x23fa70=_0x4266bb[_0x3087d1(0x15c)]||0x0,_0x43e03d=_0x4266bb[_0x3087d1(0x2a1)]||0x0,_0x30f98c=_0x4266bb['coverMaxH']||0xc8,_0x574293=Math['min'](Math['max'](_0x440065[_0x3087d1(0x2de)]+_0x23fa70*0x2,0x24),_0x30f98c),_0x4fb012=_0x440065[_0x3087d1(0x1e8)]+_0x440065[_0x3087d1(0x2de)]/0x2+_0x43e03d;_0x859f27[_0x3087d1(0x1e3)][_0x3087d1(0x412)]=_0x440065['left']-_0x23fa70+'px',_0x859f27['style'][_0x3087d1(0x1e8)]=_0x4fb012-_0x574293/0x2+'px',_0x859f27[_0x3087d1(0x1e3)]['width']=_0x440065[_0x3087d1(0x3f4)]+_0x23fa70*0x2+'px',_0x859f27[_0x3087d1(0x1e3)][_0x3087d1(0x2de)]=_0x574293+'px',_0x859f27[_0x3087d1(0x1e3)][_0x3087d1(0x143)]=_0x558593(_0x34226a);if(_0x4266bb[_0x3087d1(0x40f)])_0x859f27[_0x3087d1(0x1e3)][_0x3087d1(0x370)]=getComputedStyle(_0x34226a)['borderRadius'];_0x3d9c51=requestAnimationFrame(_0x23d5f2);};_0x23d5f2();}function _0x4e2d84(_0x134f1f){const _0x3f4592=_0x1ed6b1,_0x3c1029=document['createElement'](_0x3f4592(0x350));_0x3c1029[_0x3f4592(0x119)]=_0x3f4592(0x341),_0x3c1029['textContent']=_0x134f1f,_0x25387f['appendChild'](_0x3c1029),setTimeout(()=>_0x3c1029['classList'][_0x3f4592(0x167)](_0x3f4592(0x13b)),0xa),setTimeout(()=>{const _0x35b03b=_0x3f4592;_0x3c1029[_0x35b03b(0x2be)][_0x35b03b(0x381)](_0x35b03b(0x13b)),setTimeout(()=>_0x3c1029[_0x35b03b(0x381)](),0x12c);},0xdac);}function _0x5b64d8(_0x3c1a25,_0x1f224d,_0x4bdcb7){const _0x34da41=_0x1ed6b1,_0x2b2717=document[_0x34da41(0x3bf)](_0x34da41(0x350));_0x2b2717[_0x34da41(0x119)]='zs-banner\x20'+_0x3c1a25,_0x2b2717[_0x34da41(0x305)]='<div\x20class=\x22zs-banner-t\x22></div><div\x20class=\x22zs-banner-m\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22zs-banner-acts\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22zs-banner-x\x22>Close</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>',_0x2b2717[_0x34da41(0x300)]('.zs-banner-t')[_0x34da41(0x1e6)]=_0x1f224d,_0x2b2717[_0x34da41(0x300)](_0x34da41(0x2d1))[_0x34da41(0x1e6)]=_0x4bdcb7,_0x2b2717['querySelector'](_0x34da41(0x415))[_0x34da41(0x3ed)](_0x34da41(0x2ef),()=>_0x2b2717[_0x34da41(0x381)]()),_0x25387f[_0x34da41(0x2f7)](_0x2b2717);}function _0x202834(_0x52f1b8,_0x5c0316){const _0x9c8008=_0x1ed6b1;_0x25387f[_0x9c8008(0x356)](_0x9c8008(0x15f))[_0x9c8008(0x395)](_0x1c533c=>_0x1c533c[_0x9c8008(0x381)]());const _0x26f760=document[_0x9c8008(0x3bf)](_0x9c8008(0x350));_0x26f760['className']=_0x9c8008(0x3e2);const _0x1c4893=document[_0x9c8008(0x3bf)](_0x9c8008(0x350));_0x1c4893[_0x9c8008(0x119)]='zs-shot-hdr';const _0x10413c=document[_0x9c8008(0x3bf)](_0x9c8008(0x174));_0x10413c[_0x9c8008(0x119)]=_0x9c8008(0xfb),_0x10413c[_0x9c8008(0x1e6)]=_0x5c0316+'\x20·\x20'+_0x52f1b8[_0x9c8008(0x2ba)]+_0x9c8008(0x240)+(_0x52f1b8['length']>0x1?'s':'');const _0x49b867=document[_0x9c8008(0x3bf)](_0x9c8008(0x147));_0x49b867[_0x9c8008(0x119)]=_0x9c8008(0x1ca),_0x49b867['textContent']='✕',_0x49b867[_0x9c8008(0x3ed)](_0x9c8008(0x2ef),()=>_0x26f760[_0x9c8008(0x381)]()),_0x1c4893['appendChild'](_0x10413c),_0x1c4893[_0x9c8008(0x2f7)](_0x49b867),_0x26f760[_0x9c8008(0x2f7)](_0x1c4893);const _0x5d4975=document[_0x9c8008(0x3bf)](_0x9c8008(0x350));_0x5d4975[_0x9c8008(0x119)]=_0x9c8008(0x1fd);for(const _0x52389d of _0x52f1b8){const _0x1f53d7=document[_0x9c8008(0x3bf)](_0x9c8008(0x2f4));_0x1f53d7[_0x9c8008(0x119)]='zs-shot-img',_0x1f53d7[_0x9c8008(0x18b)]=_0x9c8008(0x1c9)+(_0x52389d['mimeType']||_0x9c8008(0x34a))+_0x9c8008(0x1de)+_0x52389d[_0x9c8008(0x1d3)],_0x5d4975[_0x9c8008(0x2f7)](_0x1f53d7);}_0x26f760[_0x9c8008(0x2f7)](_0x5d4975),_0x25387f[_0x9c8008(0x2f7)](_0x26f760);}return _0x65c6fd(),{'setStatus':_0xbf0602,'setStarted':_0x4dd862,'setStarting':_0x4cd2e1,'showStop':_0x524f41,'markStopping':_0x3545,'inputCover':_0x4e8344,'toast':_0x4e2d84,'banner':_0x5b64d8,'showImages':_0x202834,'nudgeStart':_0x2cf44b,'updateStartGate':_0x339ef8,'refreshSetup':_0x12b320,'getCustomPrompt':_0x95fd07,'getCustomMcpServers':_0x56fb47,'getAgentMode':_0x190e22,'getUiTemplate':_0x5f5627,'getUiTheme':_0x364599,'playCompletionSound':_0x49e788,'requestToolApproval':_0x445b3a,'clearApproval':()=>_0x1e326d(![]),'setPlanReady':_0x1ad613,'isPlanExecutionApproved':()=>_0x1278e6,'resetPlanApproval':()=>{_0x1278e6=![],_0x1e326d(![]);},'openMenu':_0x1fe4db=>_0x2beb94&&_0x2beb94(_0x1fe4db)};})()),_0x2958a9=0x4;function _0x9c5c17(_0x5edabb){const _0x13afef=_0x5760a2;if(_0x5edabb<0x3e8)return String(_0x5edabb);const _0x12a2ff=[[0x3b9aca00,'B'],[0xf4240,'M'],[0x3e8,'k']];for(const [_0x2ec21f,_0x1c429a]of _0x12a2ff){if(_0x5edabb>=_0x2ec21f){const _0x20801d=_0x5edabb/_0x2ec21f,_0x4875d9=_0x20801d<0xa?Math['round'](_0x20801d*0xa)/0xa:Math[_0x13afef(0x337)](_0x20801d);return _0x4875d9+_0x1c429a;}}return String(_0x5edabb);}function _0x56333b(_0x1e1377,_0x2a2ec3){const _0x542d27=_0x5760a2,_0x2a3d27=_0x1e1377&&_0x1e1377[_0x542d27(0x300)](_0x542d27(0x290));if(_0x2a3d27)_0x2a3d27[_0x542d27(0x1e6)]=_0x2a2ec3;}function _0x1216af(_0x219f4d,_0x4d89ed){const _0x337b4f=_0x5760a2,_0x30447c=_0x219f4d&&_0x219f4d[_0x337b4f(0x300)](_0x337b4f(0x192));if(_0x30447c&&_0x30447c[_0x337b4f(0x1e6)]!==_0x4d89ed)_0x30447c[_0x337b4f(0x1e6)]=_0x4d89ed;}function _0xf0a9d(_0x2d5385,_0x9c863c,_0x2ef10a){const _0xbbf1e1=_0x5760a2;if(!_0x2d5385)return 0x0;let _0x2bc109=Number(_0x2d5385[_0xbbf1e1(0x333)][_0x9c863c]||0x0);return!_0x2bc109&&(_0x2bc109=_0x2ef10a||Date[_0xbbf1e1(0x416)](),_0x2d5385[_0xbbf1e1(0x333)][_0x9c863c]=String(_0x2bc109)),(Date[_0xbbf1e1(0x416)]()-_0x2bc109)/0x3e8;}let _0xad05a2=0x0;document[_0x5760a2(0x3ed)](_0x5760a2(0x2ef),_0x34e254=>{const _0x5c4bdf=_0x5760a2;_0x34e254['isTrusted']&&!(_0x34e254[_0x5c4bdf(0x3f1)]&&_0x34e254[_0x5c4bdf(0x3f1)][_0x5c4bdf(0x37a)]&&_0x34e254['target'][_0x5c4bdf(0x37a)](_0x5c4bdf(0x14d)))&&(_0xad05a2=Date[_0x5c4bdf(0x416)]());},!![]);let _0x4c921e=null,_0x4b6b9c=null;setInterval(()=>{const _0x508a7a=_0x5760a2,_0x541f1b=_0x4266bb['isGenerating']();if(_0x541f1b)_0x294e58[_0x508a7a(0x328)]=Date['now']();if(_0x4266bb[_0x508a7a(0x30f)]&&_0x4266bb[_0x508a7a(0x172)]){const _0x23e183=Number(_0x4266bb['lastAssistantId']());if(Number[_0x508a7a(0x419)](_0x23e183)&&(_0x294e58['maxTurnId']==null||_0x23e183>_0x294e58[_0x508a7a(0x2f6)]))_0x294e58[_0x508a7a(0x2f6)]=_0x23e183;}if(_0x294e58[_0x508a7a(0x11b)]&&_0x541f1b)_0x294e58[_0x508a7a(0x295)]=Date[_0x508a7a(0x416)]();const _0x2511d8=_0x294e58[_0x508a7a(0x36e)]&&_0x4266bb['isHardGenerating']();_0x294e58[_0x508a7a(0x36e)]&&_0x294e58[_0x508a7a(0x21f)]&&!_0x294e58[_0x508a7a(0x2d7)]&&!_0x294e58[_0x508a7a(0x219)]&&!_0x294e58['stopping']&&_0x541f1b&&_0x4b6b9c===![]&&!_0x2511d8&&_0x47a0f8(_0x508a7a(0x320));if(_0x4266bb[_0x508a7a(0x158)]!==![]&&_0x294e58[_0x508a7a(0x36e)]&&_0x294e58['userStopped']&&!_0x294e58[_0x508a7a(0x2d7)]&&!_0x294e58['injecting']&&!_0x294e58[_0x508a7a(0x2cc)]&&_0x2511d8&&_0x4c921e===![]){const _0x50f785=Date[_0x508a7a(0x416)]()-_0xad05a2,_0x41a7ce=Date[_0x508a7a(0x416)]()-(_0x294e58['stopAt']||0x0),_0x4b37bd=_0xad05a2-(_0x294e58[_0x508a7a(0x209)]||0x0);if(_0x50f785<0x9c4&&_0x4b37bd>0x190){_0x294e58[_0x508a7a(0x21f)]=![];const _0x13740b=_0x4266bb[_0x508a7a(0x10e)]();if(_0x13740b){delete _0x13740b['dataset']['zStopped'],delete _0x13740b[_0x508a7a(0x333)]['zResume'],delete _0x13740b[_0x508a7a(0x333)][_0x508a7a(0x354)],delete _0x13740b['dataset'][_0x508a7a(0x225)],_0x3a3cd9(_0x13740b),_0x308503(_0x13740b);try{_0x13740b[_0x508a7a(0x333)]['zRegenLen']=String(_0x4266bb['classifyText'](_0x13740b,_0x508a7a(0x377))[_0x508a7a(0x2ba)]),_0x13740b[_0x508a7a(0x333)][_0x508a7a(0x289)]=String(Date[_0x508a7a(0x416)]());}catch{}}_0x294e58['resumeArmed']=!![],_0x294e58[_0x508a7a(0x295)]=Date[_0x508a7a(0x416)](),_0x47a0f8(_0x508a7a(0x252),{'clickAge':_0x50f785,'stopAge':_0x41a7ce,'clickAfterStop':_0x4b37bd});}else _0x47a0f8(_0x508a7a(0x2b8),{'clickAge':_0x50f785,'stopAge':_0x41a7ce,'clickAfterStop':_0x4b37bd});}_0x4c921e=_0x2511d8,_0x4b6b9c=_0x541f1b;if(_0x294e58[_0x508a7a(0x2cc)]&&!_0x294e58[_0x508a7a(0x2d7)]&&!_0x294e58[_0x508a7a(0x125)]){if(_0x294e58['started']&&_0x4266bb[_0x508a7a(0x2ab)]()){const _0x318059=(_0x4266bb['streamLen']?_0x4266bb[_0x508a7a(0x31c)]():0x0)>(_0x294e58[_0x508a7a(0x1ef)]||0x0)+0x18;if(_0x318059&&Date['now']()-(_0x294e58[_0x508a7a(0x2b3)]||0x0)>0x320){_0x294e58[_0x508a7a(0x2b3)]=Date[_0x508a7a(0x416)](),_0x294e58[_0x508a7a(0x1ef)]=_0x4266bb[_0x508a7a(0x31c)]?_0x4266bb['streamLen']():0x0;try{_0x4266bb['stopGeneration']();}catch{}_0x47a0f8('stop.retry');}else!_0x318059&&Date[_0x508a7a(0x416)]()-(_0x294e58[_0x508a7a(0x209)]||0x0)>0x9c4&&(_0x294e58[_0x508a7a(0x2cc)]=![],_0x47a0f8(_0x508a7a(0x2c5),{'wedged':!![]}));}else _0x294e58[_0x508a7a(0x2cc)]=![],_0x47a0f8(_0x508a7a(0x2c5));}_0x46a0bb[_0x508a7a(0x399)](_0x294e58[_0x508a7a(0x2d7)]||_0x294e58[_0x508a7a(0x125)]||_0x294e58[_0x508a7a(0x2cc)]||_0x294e58['started']&&_0x4266bb[_0x508a7a(0x2ab)]());if(_0x294e58[_0x508a7a(0x125)]&&_0x294e58[_0x508a7a(0x3e7)]){const _0x718030=_0xf0a9d(_0x294e58[_0x508a7a(0x3e7)],'zsToolT0',_0x294e58[_0x508a7a(0x315)])[_0x508a7a(0x3d4)](0x1);_0x56333b(_0x294e58[_0x508a7a(0x3e7)],(_0x294e58[_0x508a7a(0x1a6)]?_0x294e58[_0x508a7a(0x1a6)]+_0x508a7a(0x3ee):'')+(_0x718030+'s'));return;}if(_0x541f1b){const _0x1418d1=_0x4266bb[_0x508a7a(0x10e)](),_0x120676=_0x1418d1?_0x4266bb[_0x508a7a(0x25e)](_0x1418d1):'',_0x21cc55=_0x1418d1&&_0x1418d1['dataset'][_0x508a7a(0x27c)];if(_0x1418d1&&_0x21cc55!=='done'&&_0x21cc55!==_0x508a7a(0x405)&&ZSParse['hasToolSignature'](_0x120676)){const _0x1f3ef8=ZSParse[_0x508a7a(0x292)](_0x120676);if(_0x1f3ef8&&_0x1f3ef8!==_0x508a7a(0x324))_0x1216af(_0x1418d1,_0x1f3ef8);const _0x1be12b=Math[_0x508a7a(0x196)](_0x120676[_0x508a7a(0x2ba)]/_0x2958a9),_0x227ff6=Math[_0x508a7a(0x337)](_0xf0a9d(_0x1418d1,_0x508a7a(0x3d1)));_0x56333b(_0x1418d1,'~'+_0x9c5c17(_0x1be12b)+'\x20tokens\x20·\x20'+_0x227ff6+'s');return;}}},0xc8),chrome[_0x5760a2(0x331)][_0x5760a2(0x197)][_0x5760a2(0x11f)](_0x389bdd=>{const _0x14027f=_0x5760a2;_0x389bdd&&_0x389bdd[_0x14027f(0x129)]===_0x14027f(0x3eb)&&_0x46a0bb['setStatus']({'connected':_0x389bdd[_0x14027f(0x39f)],'mcpAlive':_0x389bdd['mcpAlive'],'studio':_0x389bdd[_0x14027f(0x189)],'studioApp':_0x389bdd[_0x14027f(0x151)],'studioProc':_0x389bdd['studioProc'],'tools':_0x389bdd['tools'],'servers':_0x389bdd[_0x14027f(0x2fd)]}),_0x389bdd&&_0x389bdd[_0x14027f(0x129)]===_0x14027f(0x170)&&_0x46a0bb['openMenu'](![]);}),_0x15bba0({'type':_0x5760a2(0x22f)})[_0x5760a2(0x149)](_0x13e1a4=>_0x13e1a4&&_0x46a0bb[_0x5760a2(0x206)](_0x13e1a4)),setInterval(()=>_0x15bba0({'type':_0x5760a2(0x22f)})['then'](_0x25e863=>_0x25e863&&_0x46a0bb['setStatus'](_0x25e863)),0x1388);const _0x3d99a7=new Set();let _0x208ea5=null;function _0x3331b3(_0x59f525){const _0x3e8daa=_0x5760a2;if(!_0x59f525)return;if(_0x3d99a7[_0x3e8daa(0x375)](_0x59f525))return;_0x3d99a7[_0x3e8daa(0x167)](_0x59f525);try{chrome[_0x3e8daa(0x20f)][_0x3e8daa(0x12b)][_0x3e8daa(0x37e)]({'zsStartedSessions':[..._0x3d99a7][_0x3e8daa(0x3ef)](-0x12c)});}catch{}}try{chrome[_0x5760a2(0x20f)]['local'][_0x5760a2(0x420)](_0x5760a2(0x10f),_0x3a75ff=>{const _0x413ece=_0x5760a2;if(_0x3a75ff&&Array[_0x413ece(0x36d)](_0x3a75ff[_0x413ece(0x10f)])){for(const _0x5bca9c of _0x3a75ff[_0x413ece(0x10f)])_0x3d99a7[_0x413ece(0x167)](_0x5bca9c);_0x1efbb0();}});}catch{}function _0x31386b(){const _0x243a05=_0x5760a2;for(const _0x5d85c4 of _0x4266bb[_0x243a05(0x353)]()){const _0xb70fca=_0x5d85c4[_0x243a05(0x1e6)]||'';if(_0xb70fca[_0x243a05(0x3c1)](ZS[_0x243a05(0x3d0)]))return!![];if(/(^|\n)\s*Output of '[^']+':/[_0x243a05(0x1b6)](_0xb70fca)||_0xb70fca[_0x243a05(0x3c1)](_0x243a05(0x409)))return!![];}return![];}function _0x1efbb0(){const _0x58ff01=_0x5760a2;if(_0x294e58['starting']){const _0x59f987=_0x4266bb['conversationKey']();if(_0x294e58[_0x58ff01(0x24d)]==null){if(_0x59f987&&!_0x4266bb[_0x58ff01(0x11c)]())_0x294e58[_0x58ff01(0x24d)]=_0x59f987;}else _0x59f987!==_0x294e58[_0x58ff01(0x24d)]&&_0x4266bb[_0x58ff01(0x11c)]()&&(_0x294e58[_0x58ff01(0x345)]++,_0x294e58['starting']=![],_0x294e58[_0x58ff01(0x24d)]=null,_0x4266bb['setInputLock'](![]),_0x46a0bb['setStarting'](![]),_0x46a0bb[_0x58ff01(0x1f7)](![]));}if(_0x294e58['running']){const _0x18c936=_0x4266bb['conversationKey']();if(_0x294e58[_0x58ff01(0x37d)]==null){if(_0x18c936&&!_0x4266bb[_0x58ff01(0x11c)]())_0x294e58[_0x58ff01(0x37d)]=_0x18c936;}else _0x18c936!==_0x294e58[_0x58ff01(0x37d)]&&_0x4266bb['chatIsEmpty']()&&(_0x47a0f8('loop.abandonedNewChat',{'from':_0x294e58['loopKey'],'to':_0x18c936}),_0x294e58[_0x58ff01(0x2fa)]=!![],_0x294e58[_0x58ff01(0x37d)]=null);}if(_0x294e58[_0x58ff01(0x144)]||_0x294e58['injecting']||_0x294e58[_0x58ff01(0x2d7)])return;const _0x316e14=_0x4266bb[_0x58ff01(0x3e0)](),_0x55a0c3=_0x31386b();if(_0x55a0c3)_0x3331b3(_0x316e14);let _0xdb8910;_0x316e14&&_0x316e14===_0x208ea5?_0xdb8910=_0x294e58[_0x58ff01(0x36e)]||_0x55a0c3||!!_0x316e14&&_0x3d99a7[_0x58ff01(0x375)](_0x316e14):(_0xdb8910=_0x55a0c3||!!_0x316e14&&_0x3d99a7[_0x58ff01(0x375)](_0x316e14),_0x208ea5=_0x316e14),_0xdb8910!==_0x294e58['started']&&(_0x294e58['started']=_0xdb8910,_0x46a0bb['setStarted'](_0xdb8910));}let _0x318e1f=![];function _0x38abbb(){const _0x73ff80=_0x5760a2;if(_0x318e1f)return;_0x318e1f=!![];const _0x1d6809=()=>{const _0x52b587=a0_0x403b;_0x318e1f=![],_0x1efbb0(),_0x4266bb[_0x52b587(0x13e)](),_0x46a0bb[_0x52b587(0x3c0)](),_0x209317[_0x52b587(0x372)]();};if(document[_0x73ff80(0x130)])setTimeout(_0x1d6809,0x64);else requestAnimationFrame(_0x1d6809);}function _0x67c13c(){const _0x32e81b=_0x5760a2;if(_0x4266bb['id']==='chatgpt')return;const _0x576eb5=_0x4266bb[_0x32e81b(0x353)]();if(_0x294e58[_0x32e81b(0x14c)]&&Date[_0x32e81b(0x416)]()<_0x294e58[_0x32e81b(0x14c)]){const _0x559006=_0x576eb5[_0x32e81b(0x3c4)](_0x4c1105=>_0x4266bb[_0x32e81b(0x3b9)](_0x4c1105)),_0x117b2f=_0x559006[_0x559006[_0x32e81b(0x2ba)]-0x1];_0x117b2f&&!_0x117b2f[_0x32e81b(0x2be)]['contains'](_0x32e81b(0x258))&&_0x559006[_0x32e81b(0x2ba)]>(_0x294e58[_0x32e81b(0x3f3)]||0x0)&&(_0x117b2f['classList'][_0x32e81b(0x167)]('zs-hidden'),_0x294e58['injectHideUntil']=0x0,_0x47a0f8('result.prehide',{'users':_0x559006[_0x32e81b(0x2ba)]}));}for(const _0x73b8b1 of _0x576eb5){if(_0x73b8b1[_0x32e81b(0x2be)]['contains'](_0x32e81b(0x258)))continue;const _0x13ab54=_0x4266bb[_0x32e81b(0x40d)](_0x73b8b1,'.zs-chip');(_0x13ab54[_0x32e81b(0x3c1)](ZS[_0x32e81b(0x3d0)])||_0x4266bb[_0x32e81b(0x3b9)](_0x73b8b1)&&ZSParse[_0x32e81b(0x15d)](_0x13ab54))&&_0x73b8b1[_0x32e81b(0x2be)][_0x32e81b(0x167)](_0x32e81b(0x258));}}const _0x3e18b8=new MutationObserver(()=>{_0x67c13c(),_0x38abbb();});_0x3e18b8[_0x5760a2(0x262)](document[_0x5760a2(0x198)],{'childList':!![],'subtree':!![]}),setInterval(_0x38abbb,0x5dc),document[_0x5760a2(0x3ed)]('visibilitychange',()=>{const _0x2a0e3a=_0x5760a2;if(!document[_0x2a0e3a(0x130)])_0x38abbb();}),_0x1efbb0(),_0x4266bb['installSendHooks']({'isBlocked':()=>_0x294e58[_0x5760a2(0x219)]||_0x294e58[_0x5760a2(0x2d7)]||_0x294e58[_0x5760a2(0x144)],'isStarted':()=>_0x294e58[_0x5760a2(0x36e)],'onBlockedAttempt':()=>_0x46a0bb['nudgeStart'](),'onUserMessage':_0x32adb9=>{const _0x580708=_0x5760a2;_0x294e58[_0x580708(0x21f)]=![],_0x294e58[_0x580708(0x2cc)]=![],_0x294e58[_0x580708(0x2fa)]=![],_0x294e58['goalActive']=_0x46a0bb[_0x580708(0x107)]()===_0x580708(0x32c),_0x294e58['goalContinuations']=0x0,_0x46a0bb[_0x580708(0x18a)](),_0x46a0bb[_0x580708(0x399)](![]),_0x53c5ee(),setTimeout(()=>{const _0x183aeb=_0x580708;if(!_0x294e58['running']&&!_0x294e58[_0x183aeb(0x21f)])_0x153b78(_0x32adb9);},0x12c);},'onBlockedUserMessage':_0x5a4171=>{const _0x1efa9d=_0x5760a2;if(_0x294e58['injecting']||_0x294e58['starting'])return;_0x294e58['userStopped']=![],_0x294e58['stopping']=![],_0x294e58[_0x1efa9d(0x2fa)]=![],_0x294e58[_0x1efa9d(0x35a)]=_0x46a0bb[_0x1efa9d(0x107)]()===_0x1efa9d(0x32c),_0x294e58[_0x1efa9d(0x389)]=0x0,_0x46a0bb[_0x1efa9d(0x18a)](),_0x53c5ee();const _0x3d6238=()=>{const _0x55ad7d=_0x1efa9d;if(_0x294e58[_0x55ad7d(0x21f)])return;if(!_0x294e58[_0x55ad7d(0x2d7)]&&!_0x294e58[_0x55ad7d(0x219)]&&!_0x294e58[_0x55ad7d(0x144)]){_0x153b78(_0x5a4171);return;}setTimeout(_0x3d6238,0x96);};setTimeout(_0x3d6238,0x96);},'onNativeStop':()=>{const _0x499676=_0x5760a2;_0x294e58[_0x499676(0x21f)]=!![],_0x294e58[_0x499676(0x2fa)]=!![],_0x294e58[_0x499676(0x11b)]=![],_0x294e58[_0x499676(0x209)]=Date[_0x499676(0x416)](),_0x294e58['stopStreamLen']=_0x4266bb[_0x499676(0x31c)]?_0x4266bb[_0x499676(0x31c)]():0x0,_0x294e58[_0x499676(0x2d7)]&&!_0x294e58[_0x499676(0x2cc)]&&(_0x294e58[_0x499676(0x2cc)]=!![],_0x46a0bb['markStopping']()),_0x25a36f(),_0x47a0f8(_0x499676(0x1f5));},'onNativeContinue':()=>{const _0x359208=_0x5760a2;_0x294e58[_0x359208(0x21f)]=![],_0x294e58[_0x359208(0x2fa)]=![];const _0x270f4d=_0x4266bb[_0x359208(0x10e)]();_0x270f4d&&(delete _0x270f4d[_0x359208(0x333)]['zStopped'],_0x3a3cd9(_0x270f4d)),_0x47a0f8(_0x359208(0x264));}});const _0x31cae0=0x1f40;setInterval(()=>{void _0xd51a23();},0x2ee),setInterval(()=>{const _0x3aaed3=_0x5760a2;if(!_0x294e58[_0x3aaed3(0x36e)]||_0x294e58['running']||_0x294e58[_0x3aaed3(0x144)]||_0x294e58['injecting'])return;if(document[_0x3aaed3(0x130)])return;if(_0x294e58[_0x3aaed3(0x21f)])return;if(_0x4266bb[_0x3aaed3(0x32e)]())return;if(Date[_0x3aaed3(0x416)]()-_0x294e58[_0x3aaed3(0x328)]>_0x31cae0)return;const _0x25a439=_0x4266bb['lastAssistant']();if(!_0x25a439||_0x25a439[_0x3aaed3(0x333)][_0x3aaed3(0x225)])return;if(_0x294e58['bootBaselineId']&&_0x4266bb['lastAssistantId']&&_0x4266bb['lastAssistantId']()===_0x294e58['bootBaselineId'])return;if(_0x4266bb[_0x3aaed3(0x1b2)](_0x25a439))return;const _0x55dbc2=_0x4266bb['itemKey']?Number(_0x4266bb['itemKey'](_0x25a439)):NaN;if(Number['isFinite'](_0x55dbc2)&&_0x294e58['maxTurnId']!=null&&_0x55dbc2<_0x294e58[_0x3aaed3(0x2f6)]){_0x294e58[_0x3aaed3(0x1ff)]!==_0x55dbc2&&(_0x294e58[_0x3aaed3(0x1ff)]=_0x55dbc2,_0x47a0f8(_0x3aaed3(0x3a0),{'curId':_0x55dbc2,'maxTurnId':_0x294e58['maxTurnId']}));return;}const _0x2df4cc=_0x4266bb[_0x3aaed3(0x353)](),_0x326eb3=_0x2df4cc[_0x2df4cc[_0x3aaed3(0x2d9)](_0x25a439)+0x1];if(_0x326eb3&&_0x4266bb['isUserItem'](_0x326eb3)&&ZSParse[_0x3aaed3(0x15d)](_0x4266bb[_0x3aaed3(0x40d)](_0x326eb3,_0x3aaed3(0x377))))return;const _0x2a34c3=_0x4266bb[_0x3aaed3(0x25e)](_0x25a439);if(!ZSParse[_0x3aaed3(0xf7)](_0x2a34c3))return;if(_0x1c1d51(_0x25a439,_0x2a34c3))return;if(!ZSParse[_0x3aaed3(0x306)](_0x2a34c3)[_0x3aaed3(0x2ba)])return;const _0x2fab08=_0x2a34c3['length'];if(_0x25a439['dataset'][_0x3aaed3(0x2b6)]&&Number(_0x25a439['dataset']['zResumeLen']||0x0)>=_0x2fab08)return;_0x25a439[_0x3aaed3(0x333)][_0x3aaed3(0x2b6)]='1',_0x25a439[_0x3aaed3(0x333)][_0x3aaed3(0x354)]=String(_0x2fab08),_0x59cca8(_0x25a439),_0x47a0f8(_0x3aaed3(0x41b),{'len':_0x2fab08}),_0x294e58[_0x3aaed3(0x35d)]=null,_0x153b78(_0x4266bb[_0x3aaed3(0x1d5)]()-0x1);},0x3e8),_0x216185(_0x5760a2(0x3b3)+_0x4266bb['id']+')');})()));function a0_0x3399(){const _0x20f29d=['y2fSBf90B29S','AgvPz2H0','y2HPCa','y2HPCef0sxrLBuXLDMvS','CgfYC2vfCNjVCG','CMfUzg9T','i3PZlw1JCc1Hzgq','ENntzxr1CfnLzw4','zw5ZDxjLt3DUzwrdAgLW','pc9KAxy+pgrPDIbJBgfZCZ0IENmTC2vJlwXHyMvSiJ48C3bHBJ5dAg9VC2uGysbvssbZDgfYDgvYpc9ZCgfUpJWVzgL2pJXKAxyGy2XHC3m9iNPZlxvPlwDYAwqIpG','q3jLyxrLCYbHihbSyw4GyMvMB3jLigv4zwn1DgLVBIbPCYbLBMfIBgvKlG','q291BgqGBM90ihn3AxrJAca','DgvTCgXHDgu','BMv4DevSzw1LBNrtAwjSAw5N','z2v0qM91BMrPBMDdBgLLBNrszwn0','ugXHBIbTB2rLigLZihjLywr5lIbszxzPzxCGysbWBgfUigjLzM9YzsbJB25Uzwn0Aw5NihrVB2XZlG','ihjLCg9YDhmGDgHLignVBNzLCNnHDgLVBIbPCYbNzxr0Aw5NihrVBYbSB25NlIbtDgfYDcbHig5LDYbZzxnZAw9UlG','ENndDxn0B21ny3btzxj2zxjZ','y2XPy2S','pc9ZCgfUpG','rvjst1i','Dg9VBhnbDa','CgfYzw50rwXLBwvUDa','Aw1N','C2nYB2XSvg9W','Bwf4vhvYBKLK','yxbWzw5Kq2HPBgq','yxr0zw1WDcb0BW','cIHuAguGAw1Hz2uGAxmGyxr0ywnOzwqGDg8GveHjuYbTzxnZywDLic0GEw91ignHBIbZzwuGAxqGzgLYzwn0BhKUiefUywX5C2uGAxqGyw5KignVBNrPBNvLlIK','C3rVCa','B3zLCMzSB3Dz','C3vIBwL0lNr5CgvbBMrtzw5K','C2vYDMvYCW','Ahr0Chm6lY9HCMvUys5HAs90zxH0l2rPCMvJDa','y3jLyxrLr2fPBG','CxvLCNLtzwXLy3rVCG','pc9ZDhjVBMC+phnTywXSpG','zgf0yw1VzgvSx3r5Cgu','pc9ZCgfUpJWVC3bHBJ4','lNPZlwnOAxaTyM9KEsbWCMu','Aw5Uzxjive1m','CgfYC2vuB29Sq2fSBhm','ywrKB24T','ntv2ANjHz3O','CMvWBhLvBNnLDhrSzwq','u2vUzcbHihnOB3j0ig1LC3nHz2uGEw91CNnLBgyGkguUzY4GiMnVBNrPBNvLiIKGDg8GCMvZDw1LihrOzsbHz2vUDc4','rvjst1i6icC','pg9SigLKpsj6CY1Zzxr1Cc1ZDgvWCYi+','Dg9VBeXPC3q','igrPzcbUB3qGywnJzxb0ihrOzsbPBMPLy3rLzcbTzxnZywDLigfMDgvYia','AxrLBuTLEq','C3rHCNrZv2L0Aa','qxbWCM92zsbLDMvYEsb0B29SigjLzM9YzsbPDcbYDw5ZlG','AxrLBxm','t3v0Chv0ig9MicC','CMvTB3zLx3nLCNzLCG','Dg9VBfn0yxj0','phnWyw4Gy2XHC3m9iNPZlxnPDguTBMfTzsi+phnWyw4+','zxjYB3i','iIbHBhq9iIiGlZ5fDMvYthvHpc9ZCgfUpJXZCgfUignSyxnZpsj6CY1Tzw51lxrHzYi+DG','Aw5UzxjizwLNAhq','DgHPCYb0B29S','tg9HzgLUzYbJB21Tyw5KCW','C3rYzwfTtgvU','ignVBw1HBMrZicG','C2vSzwn0','zgLZywjSzwq','CMvNzw5cBgLWlMLNBM9Yzwq','BwvZC2fNzq','C3r1zgLVt2zMBgLUzq','y2HPCc5YzwHHBhq','y29TBwfUza','zMLYC3rfBgvTzw50q2HPBgq','A2LUza','C3rYAw5NAwz5','BgfZDeDLBKf0','Cg9PBNrLCG','cGPgAxGGDgHLignVzguGyw5KihjLDhj5lG','uM9IBg94ifn0DwrPBYbPCYbVCgvUigj1DcbUBYbWBgfJzsbPCYbSB2fKzwqGlsbVCgvUigeGCgXHy2u','yxv0B21HDgLJ','C2v0ugXHBLjLywr5','Axnhzw5LCMf0Aw5N','u3r1zgLVig5VDcbJB25Uzwn0zwqSigvUywjSzsb0AguGtunqihnLCNzLCIbPBIbsB2jSB3GGu3r1zgLV','ENmTyMfYlwfUy2HVCMvK','CNvUDgLTzq','BgLZDf90B29SCW','zgf0yxnLDa','BgfZDevYCM9Y','DhjPBq','Dg9VBc53ywL0vMLZAwjSzq','CM91BMq','rwrPDa','CgvUzgLUz1vPs2L0','BwnWqwXPDMu','y2HHBMDL','Dg9Uzs1Hy3rPDMu','rMLUAxnOihrOzsbJDxjYzw50iev2zxjmDweGC3rLCcbIzwzVCMuGy2HHBMDPBMCGBw9KzxmU','phbVBhLSAw5LihbVAw50CZ0InIa5ideYide1ide4idKIlZ4','zgv0ywLS','zw5ZDxjLq29TCg9ZzxjszwfKEq','ENmTDg9HC3q','i3PZlwrVDa','twfPBIbnzw51','uMvSB2fKiev2zxjmDweSihrOzw4Gy2HVB3nLihrOzsbTB2rLigfNywLUlG','C3rHCNrhzw4','pgrPDIbJBgfZCZ0IENmTC2L0zs1VChqGENmTC2L0zs1OzxjLiJ4','pgj1DhrVBIbPzd0IENmTDw5ZDgfIBguIigfYAweTBgfIzwW9iLbYB3zPzgvYig1HEsbIzsb1BNn0ywjSzsiGAgLKzgvUpUkAOcb1BNn0ywjSztWVyNv0Dg9UpG','phnWyw4Gy2XHC3m9iNPZlw1JCc1ZCgLUlxjVDYi+phnWyw4Gy2XHC3m9iNPZlw1JCc1ZCgLUiJ48l3nWyw4+','tfvbx1nuqvjux1jf','Aw1Hz2uVANbLzW','C3rHBMrIEq','Dhj1BMnHDgvK','ihrVB2XZigf2ywLSywjSzq','DgL0Bgu','BMLSihzHBhvL','zgL2','qxv0B21HDgLJ','rvjst1i6ihrVB2WGjW','ywXSsxrLBxm','ELjLC3vTzuXLBG','lIbdywXSigXPC3rFBwnWx3nLCNzLCNmGDg8Gy2HLy2SU','CxvLCNLtzwXLy3rVCKfSBa','C3rVCfbYB3bHz2f0Aw9U','ihDPDgGG','yxjYyxK','z29HBefJDgL2zq','phnWyw4Gy2XHC3m9iNPZlxnPDguTz28IpIzYyxjYoZWVC3bHBJ48l2j1DhrVBJ4','BwfW','C2vUzfrVA2vU','Ag9ZDg5HBwu','yxjNDw1LBNrZ','C2nYAxb0','CMvXDwvZDfrVB2XbChbYB3zHBa','x196C0rPywC','yMfJA2DYB3vUzenVBg9Y','DxnLCL9TB3vZzv9PBNb1Da','lGPbihjLCxvPCMvKig9YigLUDMfSAwqGCgfYyw1LDgvYic0Gy2HLy2SGDgHLignVBw1HBMqNCYbWyxjHBwv0zxjZihDPDgGGBgLZDf9JB21Tyw5KCYWGzML4ihrOzsbJywXSigfUzcbYzxrYEs4','pgrPDIbJBgfZCZ0IENmTBwnWlwL0zw0IpJXZCgfUignSyxnZpsj6CY1Ty3aTAgvHBhrOihPZlw1JCc1OzwfSDgGT','D2HVBgu','CMvXDwLYzwq','ENmTyMfUBMvYigXPBwL0','mK9XuNnXDG','jMX0oW','w3PZlwrPywDD','AxnbCNjHEq','C3rHCNrLza','q291BgrUj3qGCMvTB3zLihnLCNzLCG','yM9YzgvYuMfKAxvZ','AxmTywn0AxzL','C3DLzxa','iIbHBhq9iIiGlZ5fDMvYthvHifvjieTPDhm8l3nWyw4+phnWyw4Gy2XHC3m9iNPZlw1LBNuTDgfNiJ5fDMvYthvHpc9ZCgfUpJWVzgL2pJXZzwn0Aw9UignSyxnZpsj6CY1Tzw51lxnLyYb6CY11As1ZzwmIpJXKAxyGy2XHC3m9iNPZlxvPlwv4CgXHAw5LCIi+phn0CM9UzZ5xAgf0igLZihrOAxm/pc9ZDhjVBMC+phnWyw4+q2HVB3nLigeGvuKGA2L0igfUzcbHifjVyMXVEcb0AgvTzsbMB3iGEw91CIbPBNrLCMzHy2uUiev2zxjmDweGDxnLCYbIB3rOigfZihn0EwXLigrPCMvJDgLVBIbMB3iGEw91CIbUzxH0ifvjihjLCxvLC3q7igL0igrVzxmGBM90igj1AwXKigfUExrOAw5NihDOzw4GEw91ihnLBgvJDcb0AgvTlJWVC3bHBJ48C21HBgW+v29YA3mGAw1TzwrPyxrLBhKGAw4GDgHPCYbJAgf0igfUzcbZDgf5CYbZzwXLy3rLzcb1BNrPBcb5B3uGy2HHBMDLigL0lJWVC21HBgW+pc9KAxy+pgrPDIbJBgfZCZ0IENmTC2vJlwXHyMvSihPZlxvPlxrOzw1LlwXHyMvSiJ48C3bHBJ5dAg9VC2uGysbsB2jSB3GGDgHLBwu8l3nWyw4+pgj1DhrVBIbJBgfZCZ0IENmTDwKTAw5MBYiGDhLWzt0IyNv0Dg9UiIb0AxrSzt0IvgHLBwvZigfMzMvJDcb0AguGDMLZDwfSihn0EwXLig9Migz1DhvYzsbvssbYzxf1zxn0CY4GtM8GvgHLBwuGA2vLChmGDgHLigDHBwuNCYbLEgLZDgLUzYbZDhLSzs4IigfYAweTBgfIzwW9iKfIB3v0ifjVyMXVEcb0AgvTzxmIpMK8l2j1DhrVBJ48l2rPDJ48zgL2ignSyxnZpsj6CY11As10AgvTzs1YB3CIpG','C2nYB2XSsgvPz2H0','AgfZ','u3r1zgLVigLZig9Wzw4GyNv0ig5VDcbJB25Uzwn0zwqGlsbVCgvUidXIpKfZC2LZDgfUDcbtzxr0Aw5NCYaMz3q7ie1ducbtzxj2zxjZpc9IpIbPBIbtDhvKAw8U','lNPZlwnOAxa','Dg9VBhm','phbHDgGGzd0ItteWlJmGmY45ideUocaXogeYidiGmcaWidaGms43idnOmtDHmIaYidaGmcaWideUnY0ZtdeZlJCGmY45ytiGmIaWidaGmc0ZlJqGmhOIlZ48BgLUzsb4mt0ImtiIihKXpsi5iIb4mJ0ImtiIihKYpsiXmYiVpJXSAw5LihGXpsiXmIiGEte9iJe3iIb4mJ0ImtiUmdeIihKYpsiXnYiVpG','y2XVC2vZDa','BgLZDf9JB21Tyw5KCW','ENmTyMfYlwLUBgLUzq','Bg9VCeTLEq','C2v0','CgvUzgLUz0LTywDLCW','igrPzcbUB3qGCMvZCg9UzcbPBIb0Aw1LlIbuAguGBg9VCcbOyxmGC3rVChbLzc4','CMvTB3zL','pc9ZCgfUpJXZBwfSBd4','C2HVD0LTywDLCW','igTPDa','pgrPDIbJBgfZCZ0IENmTBwvUDs1OzwfKihPZlxvPlwHLywqIpJXZCgfUignSyxnZpsj6CY1Tzw51lwXVz28IpJXPBwCGy2XHC3m9iNPZlw1LBNuTAwnVBIiGC3jJpsi','B2zMBgLUzsaOBM8GDg9VBhmP','Dg9Nz2XL','ywXPDMu','z29HBenVBNrPBNvHDgLVBNm','AxmTB3bLBG','i3PZlxnLDhvWlwXPBMS','i3PZlxn3AxrJAa','pc9KAxy+pgrPDIbJBgfZCZ0IENmTyxbWCM92ywWTzgv0ywLSiJ4','Aw1Hz2vZ','C3rHDgu','pgj1DhrVBIbJBgfZCZ0IENmTBw9Kzs1VChqG','y2HPCc53AhK','rvjst1i6ihrOzsaN','r0Xn','C3rHCNr1Ca','zM9YrwfJAa','cIaGicaGicaGpgrPDIbPzd0IENmTyMfYiJ4kicaGicaGicaGidXZCgfUigLKpsj6CY1KB3qIignSyxnZpsjVzMyIihrPDgXLpsiIpJWVC3bHBJ4kicaGicaGicaGidXZCgfUigLKpsj6CY1ICMfUzci+pgLTzYbJBgfZCZ0IENmTyNjHBMqTAwnVBIiGC3jJpsi','CgXHEunVBxbSzxrPB25tB3vUza','CgfKzgLUz1rVCa','C2HVD1n0B3a','yMfYqw5JAg9Y','zwrPDg9Yvgv4Da','pc9VBd4','C2vUze1LC3nHz2u','Aw5Zzxj0qMvMB3jL','y29UBMvJDgvK','CMvZDw1LlNnRAxbpBgq','y29UDgv4Df9SAw1PDa','ENmTyxbWCM92ywW','y2XHC3nPzNK','4O+Zifn0B3bWAw5N4OcM','ig1Vzgu8l2i+','zMLUzenVBNrPBNvLqNrU','iIbKyxrHlw1Vzgu9iG','lNPZlwnOAxaTzhq','icaGia','BgfIzwW','Dg9VBenHDgvNB3j5','Dg9VBhmUzMv0y2HLza','u2HVCa','Dhj1BMnHDgvKlNnLBMrgywXSyMfJAW','nZaYmtq0nvLXu2ferq','Dg9VBc5WyxjRqMvMB3jLrgLZCgf0y2G','Ahr0Chm6lY9JAgf0lMrLzxbZzwvRlMnVBs8','ENnvAvrLBxbSyxrL','rxzLCKX1ysbJB250zw50ihnJCMLWDcbYzwfKEsaOChjVDMLKzxi6ia','phbVBhLSAw5LihbVAw50CZ0ImJaGnIa5ide3idqGmtiIlZ4','ENmTC2L0zs0','C3rHCNqUCMvZCg9UC2u','Dg9VBe5HBwu','C2nYzwvUx2nHChr1CMu','AxnvC2vYsxrLBq','vuKGA2L0igfUzcb0AgvTzsbJBgvHCMvKigLUihrOAxmGy2HHDc4','BM9Hz2vUDa','phnWyw4+qwDLBNqGAxmGD29YA2LUz+kaPJWVC3bHBJ4','Ahr0Chm6lY9JAgf0z3b0lMnVBs8','DwLezxnPz25dAgfUz2vjBNn0CNvJDgLVBG','y3jLyxrLrwXLBwvUDa','DxbKyxrLu3rHCNrhyxrL','Aw5JBhvKzxm','A2v5CW','C25HChnOB3q','zMLSDgvY','pgrPDIbJBgfZCZ0IENmTBwnWlwL0zw0GENmTBwnWlwL0zw0TChjPBwfYEsi+pgrPDIbJBgfZCZ0IENmTBwnWlwLUzM8IpJXZCgfUignSyxnZpsj6CY1Ty3aTBMfTzsi+uM9IBg94ifn0DwrPBZWVC3bHBJ48C3bHBIbJBgfZCZ0IENmTBwnWlxvYBci+ChjPBwfYEsaTigfSD2f5CYbJB25Uzwn0zwq8l3nWyw4+pc9KAxy+pc9KAxy+','z2fPBG','jImZotS','y2fSBhm','BM9Uzq','pc9KAxy+pgrPDIbJBgfZCZ0IENmTBwvUDs1UB3rLiJ5qAwnRidXIpK5VifvjigTPDdWVyJ4GB3iGpgi+tM8GvgHLBwu8l2i+ihDOzw5LDMvYihLVDsb3yw50iev2zxjmDweGDg8GDxnLig9UBhKGEw91CIbYzxf1zxn0igfUzcb0AguGz2fTzsDZigv4Axn0Aw5Nihn0EwXLlJWVzgL2pJWVC2vJDgLVBJ4','rvzfuKXvqsbnt0rfieniqu5hrtOGu3DPDgnOihrVie1HBNvHBcbTB2rLig5VDY4Gww91ig1HEsbWCM9WB3nLig9UzsbfDMvYthvHignVBw1HBMqGyxqGysb0Aw1LoYb0AguGDxnLCIbTDxn0igfWChjVDMuGzwfJAcbJB21Tyw5KigLUihrOzsbfDMvYthvHihbHBMvSigjLzM9YzsbPDcbYDw5ZlIbszxbSEsb3AxrOig9UzsbZAg9YDcbHy2TUB3DSzwrNzw1LBNqU','rvjst1i6ihrOzsbJB21Tyw5KihDHCYbUB3qGCNvUic0GC3rVChbLzcbIEsb0AguGDxnLCI4','yxbWBgLJyxrPB24VANnVBG','phnWyw4Gy2XHC3m9iNPZlwnOAxaTzhqIpJWVC3bHBJ4','CMvZB2X2zq','u1Ltx01buKTfuG','ENnhzw5uma','y29UBMvJDa','i3PZlxnLDc1ZDgf0Dxm','Dg9gAxHLza','Dw5ZDgfIBgvxyxjUAw5N','pgi+','q29UBMvJDgvKimk3ia','Dg9VBhnszw1PBMrLCG','x2jSyw5R','yxv0BW','u3DPDgnOAw5NihrOAxmGy2HHDcb0BYa','u1rbuLrFtq','y2HHDa','q3jLyxrLihbSyw4','Dg9VBe5HBwvZ','y29UDMvYC2f0Aw9Us2v5','B25JBgLJAW','ENmTC2HVDa','Aw5PDa','BMfTzq','ic0G','zw50CMLLCW','Dg9VBeL0zw0','phbHDgGGzd0Itte0lJCGnI4ZytqGncaWidaGmc01lJqGns40tdmGmtH2m2GZBdyUmY02lJnHnca0idaGmcaWiduUnc01lJrSltiUnsaYlJuTmI0YEIiVpG','CMDIkdi1nsWYntuSmJu1kq','pc9ZBwfSBd48l2j1DhrVBJ4','ENmTC3rHDhvZ','AxnbC3nPC3rHBNrjDgvT','ywrKrxzLBNrmAxn0zw5LCG','imk3ia','C2XPy2u','iIbHBhq9iIiGlZ5fDMvYthvHifvjieTPDhm8l3nWyw4+phnWyw4Gy2XHC3m9iNPZlw1LBNuTDgfNiJ5fDMvYthvHpc9ZCgfUpJWVzgL2pJXZzwn0Aw9UignSyxnZpsj6CY1Tzw51lxnLyYb6CY11As1ZzwmIpJXKAxyGy2XHC3m9iNPZlxvPlwv4CgXHAw5LCIi+phn0CM9UzZ5xAgf0igLZihrOAxm/pc9ZDhjVBMC+phnWyw4+q2HVB3nLigeGA2L0ihrVihrLBgWGrxzLCKX1ysb3Agf0igTPBMqGB2yGuM9IBg94igLUDgvYzMfJzsb5B3uGD2fUDc4GsxqGzg9LCYbUB3qGyNvPBgqGyw55DgHPBMCGyNKGAxrZzwXM4OcuD2HLBIb5B3uGBMv4DcbHC2SGrxzLCKX1ysb0BYbTywTLig9YigLTChjVDMuGvuKSigL0ihvZzxmGDgHPCYbRAxqGzM9YihrOzsbSyxLVDxqSigzLyxr1CMvZlcbHBMqGC3r5BguUpc9ZCgfUpJXZBwfSBd5xB3jRCYbPBw1LzgLHDgvSEsbPBIb0AgLZignOyxqGyw5Kihn0yxLZihnLBgvJDgvKihvUDgLSihLVDsbJAgfUz2uGAxqUpc9ZBwfSBd48l2rPDJ48zgL2ignSyxnZpsj6CY1ZzwmTBgfIzwWIpJXZCgfUpKnOB29ZzsbHifvjihn0yxj0zxi8l3nWyw4+pc9KAxy+pgrPDIbJBgfZCZ0IENmTDwKTz3jPzci+','DgfYz2v0','4PA2ifn0yxj0igfNzw50icHsB2jSB3GGB2zMBgLUzsK','Aw5Qzwn0uhjLvxnLCG','D2LKDgG','Aw1Hz2vZlMnVBNn1BwvK','q291BgrUj3qGywrKihnLCNzLCG','yMfYtw91BNq','yNv0Dg9UlNPZlxnPDguTB3b0lcaUENmTDgLWlw9WDa','CMfJzq','B3zLCMXHEujSB2nRAw5N','cIaGicdIMQaG','pgrPDIbJBgfZCZ0IENmTC2v0DxaTy29WEs1YB3CIpG','mZm1nJbfsNLqvKW','phnWyw4Gy2XHC3m9iNPZlwnOAxaTAwmIpG','C2fSDMfNzun1De9MzG','ENmTzgLHzY1SB2C','t3bLBIa8yJ5sB2jSB3GGu3r1zgLVpc9IpIaMyw1WoYbLBMfIBguGAxrZie1ducbZzxj2zxiU','Ahr0Chm6lY93D3CUA2LTAs5JB20V','Ahr0Chm6lY9NAxrODwiUy29Tl3zPy3rVCMHHBgvPBMmTyM9VCc9fDMvYthvHlujLDge','zNjLCxvLBMn5','zxjY','C3rVCeXVB3a','ENnbz2vUDe1Vzgu','w2rHDgeTyt0ICNvUiL0','kfn5C3rLBsbUB3rLoG','Dg9VBhmUy2fJAgvK','mJuXm0nrDfPxtq','Bg9VCc5ZDgfYDa','y2XHC3nPzNLuzxH0','igXPBMvZ','y292zxjuyxjNzxq','AxnqBgfUrxHLy3v0Aw9UqxbWCM92zwq','z2v0twfUAwzLC3q','BgvMDa','C3rVChbLza','u3rHCNqGy2HHDa','lNPZlwjHBM5LCI14','BM93','C2nYB2XS','y2HPCfrYywLSuMvM','AxngAw5PDgu','C2v0sw5WDxrmB2nR','yxv0B1jLC3vTzq','ugXHBIbLEgvJDxrPB24Gy291BgqGBM90ihn0yxj0','DxjS','C2LUzq','uxvLC3qGBgLZDcWGB2jQzwn0AxzLihbYB2DYzxnZlcbYzxDHCMrZlcbHBMqGDhjHy2TLzcbNB2fSCY4','z2v0','cIaGicaGicaGicaGpgrPDIbJBgfZCZ0IENmTBwnWlxnLCci+pc9KAxy+cIaGicaGicaGicaGpgLUChv0igLKpsj6CY1Ty3aTBMfTzsiGy2XHC3m9iNPZlw1JCc1MAwvSzciGCgXHy2vOB2XKzxi9iK5HBwuSiguUzY4GqMXLBMrLCIiGlZ4kicaGicaGicaGica8Aw5WDxqGAwq9iNPZlw1JCc11CMWIignSyxnZpsj6CY1Ty3aTzMLLBgqIihbSywnLAg9SzgvYpsjtDgfYDcbJB21Tyw5KlcbLlMCUig5WEcaTEsbaC29Tzs9Ty3aTC2vYDMvYiIaVpGOGicaGicaGicaGidXKAxyGy2XHC3m9iNPZlxnLDc1YB3CIpJXIDxr0B24GAwq9iNPZlw1JCc1HzgqIpKfKzcbZzxj2zxi8l2j1DhrVBJ48C3bHBIbPzd0IENmTBwnWlxn0yxr1CYi+pc9ZCgfUpJWVzgL2pGOGicaGicaGica8l3nLy3rPB24+','Dg9Vx2XVBMC','pc9KAxy+','AgfZvg9VBfnPz25HDhvYzq','Dw5JBg9Zzwq','ihrVihrOzsbYzxf1AxjLzcbTB2rLlIbtDgfYDcbHig5LDYbJAgf0ig9YihjLBg9Hzcb0AguGCgfNzsWGDgHLBIb0CNKGywDHAw4U','vxnLihrOzsbNyw1Lj3mGzxHPC3rPBMCGC3r5BguGB25SEs4','ENmTC2HVDc10DgW','Bw9KzvDHCM5PBMC','DwLlAxrtEw5JAw5N','ktOk','pgXPpLj1BIa8y29Kzt5ZDgfYDc5Iyxq8l2nVzgu+pc9SAt4','q2HHDeDqva','uNvUidXIpNn0yxj0lMjHDdWVyJ4GB24GEw91CIbqqY4','w2v2zxjSDwfD','pc9KAxy+pgrPDIbJBgfZCZ0IENmTyxbWCM92ywWTywn0Aw9UCYi+pgj1DhrVBIbKyxrHlwe9iNnRAxaIpLnRAxa8l2j1DhrVBJ48yNv0Dg9UigrHDgeTyt0ICNvUiJ5sDw4GDg9VBdWVyNv0Dg9UpJWVzgL2pG','i3PZlwrPC2nVCMq','tM8GvgHLBwu','uKvtue9ou0vFveLnru9vvf9nuW','z2v0qwDLBNrnB2rL','Aw1Hz2vuB29SCW','yw55','DgHPBMTPBMC','DgLTzw91Da','C3vIywDLBNq','jZOkuM9IBg94ifn0DwrPBYbPCYbJDxjYzw50BhKGt0zgteLorsaOy2XVC2vKlcbUBYbWBgfJzsbVCgvUlcbVCIbPDhmGtunqihnLCNzLCIbKAxnHyMXLzcKSihnVigL0CYbJB21Tyw5KCYbJyw5UB3qGCNvUlIbuAgLZigLZigfUigvUDMLYB25Tzw50ihbYB2jSzw0GB24GDgHLihvZzxiNCYbTywnOAw5LlcbUB3qGEw91CIbTAxn0ywTLlIbuzwXSihrOzsb1C2vYigLUig9UzsbZAg9YDcbZzw50zw5Jzsb0BYbVCgvUihrOzwLYihbSywnLigLUifjVyMXVEcbtDhvKAw8Gyw5KigvUywjSzsbPDhmGtunqihnLCNzLCI4G','BgfZDefZC2LZDgfUDa','ENntDgfYDgvKu2vZC2LVBNm','mJe5mtKYBgjAtwvv','AxndB21WyxjPC29UvhvYBG','qNjPz2H0lcbYB3vUzgvKlcbMCMLLBMrSEsbWCM9NCMvZC2LVBIbvss4','ENndB21WBgv0Aw9Uu291BMrZ','ENmTyMfYlwLUC2LKzq','ENmTzMXHC2G','i3PZlxnLDhvWlwnVChK','z29HBc5JB250Aw51zq','i3PZlxnLDc10zxH0','y2XHC3noyw1L','qw5ZD2vYCYbVBMX5lIbtDhvKAw8GDg9VBhmGC3rHEsbVzMyU','CMvZDw1LqxjTzwq','y2HHDeLZrw1WDhK','q2HLy2SGEw91CIbmDweGC3LUDgf4lcbTywTLihn1CMuGEw91ihvZzsaNCMv0DxjUjYb0BYbVDxrWDxqGDMfSDwvZicHUB3qGj3bYAw50kcKNksWGyw5KihrOyxqGywXSiefqsxmGEw91ignHBgWGzxHPC3qGAw4GDgHLign1CNjLBNqGuM9IBg94ifn0DwrPBYbJB250zxH0lG','vgHLig1VzgvSihjLCgvHDgvKBhKGAgL0igL0CYbSzw5NDgGGBgLTAxqUifrYEsbHihnOB3j0zxiGCMvXDwvZDcbVCIbZDgfYDcbHig5LDYbZzxnZAw9UlG','ywrKtgLZDgvUzxi','AwnVBI5WBMC','CMLNAhq','u3rHCNrPBMFIGky','icaTicbVCgvUigeGBMv3ignOyxqGDg8GC3rHCNqGzNjLC2GU','zg9Uzq','Dg9VBfj1BM5PBMC','u3r1zgLVifvj','phbHDgGGzd0ItteYidiGmYa3DJeWBdKGnsa5ltvwn3OIlZ48Cgf0AcbKpsjnmYa3BdKGnsa5ltvnmtiGmtj2mtaIlZ4','rKvfrejbq0S','DhLWzq','AM9PBG','Bg9JywW','y2HPCc5LCNjtzxr0Bgu','zw1WDhK','ENnjBwfNzvrVB2XZ','yMfUBMvY','AgLKzgvU','Ahr0Chm6lY9JAgf0lNOUywKV','pgrPDIbJBgfZCZ0IENmTyxbWCM92ywWTzxLLyNjVDYi+ugXHBIbYzwfKEtWVzgL2pJXKAxyGy2XHC3m9iNPZlwfWChjVDMfSlxrPDgXLiJ5szxzPzxCGDgHLihbSyw4GAw4Gy2HHDdWVzgL2pJXKAxyGy2XHC3m9iNPZlwfWChjVDMfSlwrLDgfPBci+rw5HyMXLigv4zwn1DgLVBIb3AgvUihLVDsb3yw50iev2zxjmDweGDg8GyMvNAw4GDxnPBMCGu3r1zgLVihrVB2XZlJWVzgL2pJXKAxyGy2XHC3m9iNPZlwfWChjVDMfSlwfJDgLVBNmIpJXIDxr0B24Gzgf0ys1HpsjZA2LWiJ5lzwvWihbSyw5UAw5Npc9IDxr0B24+pgj1DhrVBIbKyxrHlwe9iNj1BIi+rw5HyMXLigv4zwn1DgLVBJWVyNv0Dg9UpJWVzgL2pG','y2HPCc5WAgfZzq','AxndB25Uzwn0zwq','DwLlAxrszxrYEuf0','khrVB2WGCMv0DxjUzwqGyw4Gzw1WDhKGCMvZDwX0kq','uMvZDgfYDgLUzYbICMLKz2xIGky','CMvM','y3nPzW','yxnPzgu','C2HVDW','Ahr0Chm6lY93D3CUBwv0ys5HAs8','y29WEq','zw5MB3jJzunVBxbVC2vY','v0fstvvqx01t','zMLUzfrVB2XcBg9JA1nWB3q','x196C0nOAxa','ig1VzguGBM90ihjLywr5','yMfJA2DYB3vUza','C3rHCNrPBMC','zgLZCgXHEu5HBwu','lsbYB2jSB3G6ifjVyMXVEcbtDhvKAw8GkhbYAw1HCNKPic0GDw5RBM93BIaOyNjPzgDLigrPzcbUB3qGCMvWB3j0ihnLCNzLCIbOzwfSDgGP','yNv0Dg9U','C2TPChbLza','DgHLBG','DxnLCL9RzxLIB2fYzf9PBNb1Da','BwfSzM9YBwvK','Aw5Qzwn0sgLKzvvUDgLS','i3PZlxjVB3q','iJ48C3bHBIbJBgfZCZ0IENmTDwKTy2fYzc1Py29UiIbHCMLHlwHPzgrLBJ0IDhj1zsi+','CNvU','pgLUChv0ihr5Cgu9iNrLEhqIigLKpsj6CY1Zzxr1Cc1SAw5RiIbYzwfKB25SEsb2ywX1zt0I','C3r1zgLVqxbW','pc9ZDMC+','zw51Bq','C3rHCNqUywjVCNrLza','pgj1DhrVBIbJBgfZCZ0IENmTDwKTy2fYzca','CMvHzefZC2LZDgfUDa','phbHDgGGzd0IttiXide1DJrHmIaYidaGmcaXltiGmKG1ytiGmIaWidaGms0Yltj2ltqIlZ48Cg9SEwXPBMuGCg9PBNrZpsi3ideWideYide1ide3ideWiI8+pgXPBMuGEde9iJeYiIb5mt0ImtuIihGYpsiXmIiGEti9iJmIlZ4','AgfZuMvNzw5LCMf0zq','yM9VDejHC2vSAw5Lswq','ww91CIbJB2rLigjSB2nRihDHCYbLBxb0EsbVCIb0AguGBwfYA2vYihDHCYb3CM9UzY4GvxnLigv4ywn0BhKGiYmJtfvbiYmJicH0AhjLzsbOyxnOzxmPic0GBMv2zxiGiYmJtfvbls0TlIbuAguGy29KzsbTDxn0igjLigjLDhDLzw4GiYmJtfvbiYmJigfUzcaJiYnftKrFtfvbiYmJlG','B2zMBgLUzq','y292zxjqywq','AxnjBMPLy3rLzezLzwrIywnR','pgXPpKrVD25SB2fKihrOzsbcCMLKz2uGzNjVBsbhAxriDwi8l2XPpG','lNPZlxnOB3q','Dg9VBenHBgXZu2LUy2vszw1PBMrLCG','CMvWBgfJzq','BgLNAhq','jMD0oW','pgi+qwDLBNqGywn0AxzLpc9IpIdcTYbICMLKz2uGB2zMBgLUzsWGCNvUihn0yxj0lMjHDa','pgi+qwDLBNqGywn0AxzLpc9IpIdcTYbVCgvUifjVyMXVEcbtDhvKAw8GjIbLBMfIBguGAxrZie1ducbZzxj2zxi','BwfUDwfS','ywrK','iJ48C3bHBJ4','ENmTC2v0Dxa','Dg9VBc5Yzxn1Bhq','jYbJB21Tyw5KihrPBwvKig91DcbHBMqGAxmGDw5HDMfPBgfIBguGAw4GDgHPCYbLBNzPCM9UBwvUDc4Grg8GtK9uignHBgWGAxqGywDHAw4GlsbJB21WBgv0zsb0AguGDgfZAYb5B3vYC2vSzIb1C2LUzYb0AguGB3rOzxiGy29TBwfUzhmGkgv4zwn1DgvFBhvHDsWGBxvSDgLFzwrPDcWGzxrJlIKU','CY4k','q2HHCMfJDgvYihbVCNrYywL0lcbYzwfKywjSzsbKAwfSB2D1zsWGyw5KignOB2LJzsbIDxr0B25ZlG','uxDLBG','BwLU','ENmTB3bLBI1Tzw51','mJa1nZGYmhrNwLnhqq','BgfZDefZC2LZDgfUDeLK','ENmTy2HPCcbJyxqT','C3bHBG','lNPZlwnTzc1TyxnR','lNPZlxvPlwnHCMq','i3PZlwfJDgLVBG','C3bSAxq','yMvMB3jL','i3PZlw1JCc11CMW','x25VvhvYBKXVz2DLzef0','vxnLihrOzsbNyw1Lj3mGzxHPC3rPBMCGC3r5BguGyw5Kig9UBhKGDgHLihvZzxiNCYbYzxf1zxn0lG','vgfJDgLJywWSig1VzgvYBIbvssbMB3iGzMfZDcbWBgf5lG','y2fWDgnOyvbYzxnLBNq','AgfZq29TBwfUzfnOyxbL','Bg9N','DxnLCKnVDw50','pgj1DhrVBIbJBgfZCZ0IENmTC2L0zs1VChqIigrHDgeTDt0I','u2v0DgLUz3m','yNjPzgDL','zNjVBq','rvjst1iGy2fSBgLUzYaN','Dg9Uzs13yxjU','CgfYAY5Yzxn1BwvK','C3r1zgLV','C2v0u3rHCNrLza','C3jJ','ywn0AxzLrwXLBwvUDa','rvjst1i6ihrOzsb1C2vYihnRAxbWzwqGBgLZDf9JB21Tyw5KCYbKDxjPBMCGC2v0DxaUifDHAxqGzM9YihrOzwLYig5LEhqGCMvXDwvZDdSGzg8GBM90igD1zxnZihrVB2WGBMfTzxmU','i3PZlxn0B3a','rvzfuKXvqsbnt0rfieniqu5hrtOGu3DPDgnOihrVief1Dg9TyxrPyYbTB2rLig5VDY4Gq2fYCNKGB3v0ihrOzsb1C2vYj3mGCMvXDwvZDgvKifjVyMXVEcb3B3jRig9UzsbJB21Tyw5Kigf0igeGDgLTzsWGD2fPDcbMB3iGzwfJAcbYzxn1BhqSigfUzcbJB250Aw51zsb1BNrPBcbJB21WBgv0zs4GuMvWBhKGD2L0AcbVBMuGC2HVCNqGywnRBM93BgvKz2vTzw50lG','ChvZAa','lNPZlxrVB2WTAgLKzq','lNPZlwnOAxaGlNPZlwnOAxaTDhG','z2vUrgvIDwC','C2vUzc5JAgf0z3b0u2v0DgXL','Dg9VBa','zMXVB3i','B25nzxnZywDL','zg9JDw1LBNrfBgvTzw50','i3PZlxvUC3rHyMXL','twv0ysbbsq','y29Kzq','pgi+ugf1C2vKpc9IpIdcTYbICMLUzYb0AgLZihrHyIb0BYb0AguGzNjVBNqGDg8Gy29UDgLUDwu','ENnPzW','C2nHBKvYCM9Y','lNPZlxvPlxrOzw1LlwnHCMq','Dg9VBc5ZDgfYDa','y2f0zwDVCNK','sw52zw50B3j5','y3vYC29Y','iIbHBhq9iIiGlZ5fDMvYthvHidXZCgfUignSyxnZpsj6CY1MCMvLiJ52','iIb0AxrSzt0IuMvTB3zLiJ7INju8l2j1DhrVBJ48l2rPDJ4','Dg9VBefYzW','AwnVBG','ig1VzguGAxmGywn0AxzLigLUihrOAxmGy2HHDc4','Dgv4Da','y2HPCc5YzxnLDa','DgHPBMTPBMDtzwW','y3v0ig9MzG','Dw5RBM93BG','qw5PBwuGqMf0DgXLCG','ELjLz2vUtgvU','i3PZlwjYyw5K','vgHLihr1CM4GChjVzhvJzwqGBM8GDgv4DcWGC28GDgHLigfNzw50igXVB3aGC3rVChbLzc4GtM90AgLUzYb3yxmGCNvUlIa','DhvYBKHHBhrLza','q2HHDcbTB2rL','BhvHt3bLBMvY','uNvUCYbVBMuGyxbWCM92zwqGywDLBNqGC3rLCcbHDcbHihrPBwuU','DgvZDa','igLZigfJDgL2zsbPBIb0AgLZignOyxqU','twfUDwfS','Dg9VBejVEa','BM8GCMvZCg9UC2uGzNjVBsb0AguGzxH0zw5ZAw9UihDVCMTLCG','BgLTAxq','pgi+uM9IBg94ifn0DwrPBYbVzMzSAw5Lpc9IpIaTihn0yxj0ihDPDgGGEw91CIbVDgHLCIbnq1aGC2vYDMvYkhmPlG','q29WAwvKiq','DgHLBwu','jYbYzxr1CM5LzcbHBIbPBwfNzsWGyNv0ihrOAxmGyxnZAxn0yw50ignHBM5VDcbZzwuGAw1Hz2vZlIbeBYbot1qGy2fSBcbPDcbHz2fPBI4GvxnLigeGzgLMzMvYzw50ignVBw1HBMqGDg8Gz2v0ihrOzsbPBMzVCM1HDgLVBIbHCYb0zxH0igLUC3rLywqU','y2XLyxjbChbYB3zHBa','jMfTCdS','pgrPDIbJBgfZCZ0IENmTyMfUBMvYlxqIpUkAOcbmB3n0ignVBM5Ly3rPB24GDg8GrxzLCKX1ytWVzgL2pGOGicaGicaGidXKAxyGy2XHC3m9iNPZlwjHBM5LCI1TiJ5uAguGrxzLCKX1ysbICMLKz2uGC3rVChbLzcbVBIb5B3vYifbdlIbszxn0yxj0igL0icHYDw4GC3rHCNqUyMf0igfUzcbRzwvWifjVyMXVEcbtDhvKAw8GB3bLBIK6ihrOzsbHz2vUDcb3AwXSihjLy29UBMvJDcbHDxrVBwf0AwnHBgX5igfZihnVB24GyxmGAxqGAxmGzgv0zwn0zwqGywDHAw4Upc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0IENmTyMfUBMvYlwfJDhmIpJXIDxr0B24Gy2XHC3m9iNPZlwjHBM5LCI14iJ5dBg9ZztWVyNv0Dg9UpJWVzgL2pG','zgLZCgXHEq','CMvZB2X2zunVBxbHCMLZB24','jImXmdaWmZS','pgi+qwDLBNqGywn0AxzLpc9IpG','uM9IBg94ifn0DwrPBYbPCYbUB3qGy29UBMvJDgvK','BM9VCgvUzxi','zgf0ytO','ENmTC2HVDc14','yMfKiePtt04','lNPZlw1JCc1Yzw1VDMu','CgHHC2u','uM9IBg94ihrOzw1LignSzwfYzwqU','ENnvAvrOzw1L','C3vJy2vZCW','CMvKDwnL','CMvZzxrqBgfUqxbWCM92ywW','zgf0yq','C3rHBgWUzgv0zwn0zwq','yxnZAxn0yw50q291BNq','zxHLy3v0zv9SDwf1','C2v0vMfSDwvbDfrPBwu','z2v0rwXLBwvUDej5swq','zxHLy0nVBw1HBMq','jY4Grg8GBM90ihj1BIbPDc4GrxHWBgfPBIb0AguGBMv4DcbZywzLig9WDgLVBIbVCIb3ywL0igzVCIbHBM90AgvYihjLCxvLC3qU','C3rVCeDLBMvYyxrPB24','Bw9Kzq','pc9ZCgfUpJXZCgfUignSyxnZpsj6CY11As1JyxjKlwnVChKIpJXZDhjVBMC+','o2jHC2u2ncW','Aw5ZAwrL','pgi+qwDLBNqGywn0AxzLpc9IpIdcTYbtDhvKAw8GAxmGB3bLBIbIDxqGBM90ignVBM5Ly3rLzcaTig9Wzw4Gpgi+qxnZAxn0yw50ifnLDhrPBMDZiczNDdSGtunqifnLCNzLCNm8l2i+igLUifn0DwrPBW','nKjvDuTwsW','Dg9VBhmUCMvTAw5Kzxi','C3r5Bgu','uhjVzhvJDcbJyxjKCYWGChjPy2vZlcbJDxjYzw5JEsbKAxnWBgf5lcbHBMqGChvYy2HHC2uGyNv0Dg9UCY4','y2HPCefWCgvUza','Dgv4DenVBNrLBNq','q2HHDcbTB2rLigLZihjLywr5lIbtDhvKAw8GDg9VBhmGyxjLig9MzI4','Dg9W','phnWyw4Gy2XHC3m9iNPZlxnPDguTyMfKz2uIpMfJDgL2ztWVC3bHBJ48l2rPDJ4','ig1VzguGCMvHzhKU','igTPDcbZzwXLy3rLzc4','CMDIka','mte5mteXnLnjrwDdAW','Dg9VBc5YDw5dyxq','C3rVCfn0CMvHBuXLBG','q2HHDcbTB2rLigjSB2nRCYbtDhvKAw8GDg9VBhmUifn3AxrJAcbTB2rLCYbMB3iGysbUzxCGC2vZC2LVBIb0BYbLEgvJDxrLlG','qNjPzgDLie9llcbVCgvUifjVyMXVEcbtDhvKAw8','phjLy3qGEd0ImYiGEt0InciGD2LKDgG9iJe4iIbOzwLNAhq9iJeZiIbYEd0ImIiVpJXSAw5LihGXpsi4iIb5mt0ImJeIihGYpsiXnIiGEti9iJiXiI8+pgXPBMuGEde9iJeYiIb5mt0ImtCIihGYpsiXmIiGEti9iJiXiI8+','ChjVCgvYDgLLCW','CgfYC2vFzxjYB3i','BMf0AxzLu3rVCa','Dg9VBc5KDxbSAwnHDgvtDxbWCMvZC2vK','Aw5WDxrdB3zLCG','Aw5UzxjxAwr0Aa','zgvSzxrL','Bg9VCa','AxngCMvZAenOyxq','i3PZlxvPlwTPDhm','ENmTC2HVDc1IB2r5','y2HPCefUy2HVCG','x3nRAxbpBgrjza','iIbKyxrHlxrOzw1Lpsi','zw52zwXVCgu','zgfYAW','pgj1DhrVBIbJBgfZCZ0IENmTDwKTDgHLBwuTy2fYzca','phnWyw4Gy2XHC3m9iNPZlwnOAxaTy3yIpG','C3LZ','C2v0u3rHDhvZ','CMvZDwX0','odu4ndG5qwzuveTO','C3rVCef0','sw50zxjUywWGBg9VCcbLCNjVCG','Aw1Hz2vuB29SlMXVywrLza','CgfYA2vK','q291BgqGBM90igzLDgnOifjVyMXVEcb0B29SCY4GuNvUihn0yxj0lMjHDcbHBMqGBwfRzsbZDxjLifjVyMXVEcbtDhvKAw8GAxmGB3bLBIWGDgHLBIb0CNKGywDHAw4U','y2XPy2TdB250Aw51zuj0BG','C3rVCMfNzq','t3jNyw5PC2vKigf1zgLVlcbNCMfWAgLJCYWGy29UDhjVBhmSigfUzcb0B2DNBguGChjLzMvYzw5JzxmU','yMfKigzVCM1HDa','z2v0vwLuAgvTzq','yM9VBgvHBG','y2fYB3vZzwWUCMvZB2X2zwq','ENmTDhLWAw5N','C3rHCNqUzxjYB3i','C2f3Dg9VDgG','Dg9mB3DLCKnHC2u','Aw5Qzwn0Aw5N','BM8GCMvZCg9UC2uGzNjVBsbIywnRz3jVDw5K','C3vWCg9YDhnwAxnPB24','CM9IBg94','i3PZlw1JCc1ZDgf0Dxm','jNf1B3q7','DxnLCLn0B3bWzwq','tM8GCgfYyw1LDgvYCW','pc9ZCgfUpJXZCgfUignSyxnZpsj6CY1Ty3aTDxjSiJ4','y29TCg9ZzxjgCMfTzq','yM9KEq','u1rbqKXfx01t','EMXVB3a','C3rHCNq','tw9KzsbJAgfUz2uGy291BgqGBM90ihn5BMm','Dg9HC3q','D2fYBxvW','ENmTChjVDI0','zw1WDhKUzw5K','phnWyw4Gy2XHC3m9iNPZlxnWAw4IpJWVC3bHBJ4','imk3ifjVyMXVEcbVzMzSAw5L','u3rVChbPBMFIGky','C3rHDhvZ','CMvHC29U','pgrPDIbPzd0IENmTC2v0DxaTC3vIiJ5uAguGpgi+qNjPzgDLpc9IpIbPCYb3Agf0ignVBM5Ly3rZihrOAxmGy2HHDcb0BYbsB2jSB3GGu3r1zgLVlIbuAhjLzsbZDgvWCYbHBMqGEw91j3jLihj1BM5PBMCUpc9KAxy+','t3bLBIa8yJ5sB2jSB3GGu3r1zgLVpc9IpIbMB3iGDgHLihrVB2XZlG','i3PZlw1LBNu','zMLYC3rdAgLSza','ig1VzgxIGky','ugXHBIbYzwfKEs4GuMv2Awv3igL0lcb0AgvUigvUywjSzsbLEgvJDxrPB24GD2HLBIb5B3uGyxjLihjLywr5lG','jYb0Aw1LzcbVDxqGywz0zxiG','jZOktM8Gy29TBwfUzhmGyxzHAwXHyMXLic0GDgHLigjYAwrNzsbVCIbsB2jSB3GGu3r1zgLVig1HEsbIzsbVzMzSAw5LlG','D2fYBG','sgvHBhrOieHvra','phbHDgGGzd0ItteYidj2ne0XmIaXohy0ttqUosa0lJLSmI44idiUoe0XnI4Zide2lJnSmI44idiUoe0YideYAdrnmtGGmtjOne00lJKGmtKUmwWYlJGTmI44tte2lJmGnY43BdiUoc0YlJGIlZ4','y3jLyxrLt3nJAwXSyxrVCG','pc9ZBwfSBd48C3bHBIbJBgfZCZ0IENmTDwKTDgHLBwuTy2HLy2SIigfYAweTAgLKzgvUpsj0CNvLiJ4','CMvTB3zLrxzLBNrmAxn0zw5LCG','u2f2zwqG4PYt','igLTywDL','C29Tzq','pc9ZBwfSBd48l3nWyw4+phnWyw4Gy2XHC3m9iNPZlxvPlwnHCMqTy2HLy2SIigfYAweTAgLKzgvUpsj0CNvLiJ4','pc9ZCgfUpJXZCgfUignSyxnZpsj6CY1ZAxrLlwHVC3qIpG','Dg9VBc5KB25L','phnWyw4Gy2XHC3m9iNPZlxn0yxrLlxr4Dci+','CgvUzgLUz1vPvgHLBwu','jZOk','iIb0AxrSzt0I','DhLWzufUzfnLBMq','Ahr0Chm6lY9JAgf0lNf3zw4UywKV','i3PZlxnLDc1ZyxzL','i3PZlxn3AxrJAc1Uyw1L','C3rHCNrPBMDlzxK','zMLUza','zgLZy29UBMvJDgvK','C2vYDMvY','w2rHDgeTyt0IC2TPCcjD','CMvNzw5szxn1Bwu','i3PZlxnLDhvWlwrPC21PC3m','Dg9VBc5ZywX2ywDLza','ywrKx3nLCNzLCG','DMfSDwu','sxrLBsbZBg90CYWGy2f0zwDVCMLLCYWGC2vSzwn0zwqTAxrLBsbKzxrHAwXZlcbHBMqGy2fWywnPDhKU','ENmTAgLKzgvU','Dw5KzwzPBMvK','phbHDgGGzd0ItteYidiWAdKIlZ48Cgf0AcbKpsjnmtyUnsaZlJvHmI4XidiUmsaWidaGmsaZidnmnYaXowWTncaXideTnhOIlZ4','y2f0lxnJCMvLBG','lNPZlwnOAxaUCNvU','zw1WDhKUD2H5','AxrLBvrLEhq','qNjPzgDLig9Yifn0DwrPBYbVzMzSAw5L','CMvWBhK','z2v0vwLuzw1WBgf0zq','B2jZzxj2zq','t3bLBIbHidXIpNbSywnLpc9IpIbPBIbsB2jSB3GGu3r1zgLVlG','BMf0AxzLq29UDgLUDwu','z2v0vvjm','ihrVB2XZ','yM90Dg9T','qNjPzgDLig9MzMXPBMuSihj1BIbZDgfYDc5Iyxq','pgrPDIbJBgfZCZ0IENmTy2HPCc1OzwfKiJ4','yxnZzxrZl3vPlxrOzw1LCY8Wnc1HBMLTzs1Iyxr0BgvYlNbUzW','phnWyw4Gy2XHC3m9iNPZlwnOAxaTDhGIpJWVC3bHBJ4','AxrLBq','z2v0qxr0CMLIDxrL','rgLHBg9NDwuGqM94','BM90zq','yNjPzgDLt2zMBgLUzq','CMf3','q2XHC3nPyYbsB2jSB3GGu3r1zgLVlxn0EwXLihv0AwXPDhKGvuKU','nLPTy3vkuG','u2LTDwXHDg9Y','sgvHBhrOlcbZDgfTAw5HlcbHBMqGC3rHDhvZigjHCNmGzgvZAwDUzwqGzM9Yig1VBwvUDc10BY1TB21LBNqGCgXHEs4','iIbKyxrHlxrLBxbSyxrLpsi','z2vUzxjHDgLUzYbMBgfNihn0DwnRic0GzMfSBgLUzYbIywnRihrVihrLEhqGC3rHyMLSAxr5','t3v0Chv0ig9MicDSAxn0x21JCf9Zzxj2zxjZjZOk','C2vUzc53ywL0vMLZAwjSzq','Dg9vChbLCKnHC2u','u2HVB3rPBMC','ENbOyxnL','Bg9VCc5LCNjVCG','uKvbu09ox05puKvqtfLFtvm','DgLTAw5NCW','C3rHCNqTzgvNCMfKzwq','rgvLCfnLzwS','ChjLlcbWlcbBy2XHC3mQpsDJB2rLj10Sic5JBs1SAw5L','B2zMC2v0sgvPz2H0','pc9KAxy+pgrPDIbJBgfZCZ0IENmTBwvUDs1UB3rLiJ5qAwnRidXIpK5VifvjigTPDdWVyJ4GD2HLBMv2zxiGEw91ihDHBNqGrxzLCKX1ysb0BYb1C2uGB25SEsb5B3vYihjLCxvLC3qGyw5KihrOzsbNyw1L4OczCYbLEgLZDgLUzYbZDhLSzs48l2rPDJ48l3nLy3rPB24+','Bwf4sgvPz2H0','uM9IBg94ifn0DwrPBYaOChjPBwfYEsK','zMXLEa','lIbdywXSigXPC3rFBwnWx3nLCNzLCNmSihrOzw4GBgLZDf9JB21Tyw5KCYb3AxrOigeGiNnLCNzLCIiGCgfYyw0GDg8GDxnLihrOzw0GzM9YigfUExrOAw5NihrOyxqGzg9LCYbUB3qGBMvLzcbsB2jSB3GU','ELjLz2vUqxq','B3bLBG','jZOkrvjst1i6ig5VihnLCNzLCIbUyw1LzcaI','uxvLC3qGtg9N','AwrSzq','pgrPDIbJBgfZCZ0IENmTy2HPCc1IB2r5iJ48ChjLpJWVChjLpJWVzgL2pG','C3rYAw5N','lNPZlwnOAxaGlNPZlwnOAxaTzhq','lNPZlw1VzguTB3b0','Dg9VBe5HBwvgCM9Tvgv4Da','Dg9Uzs1UB2fNzw50','pc9ZCgfUpJWVyNv0Dg9UpG','CMvZDw1LqxjTzwrbDa','u3r1zgLVigLZig9Wzw4GyNv0ig5VDcbJB25Uzwn0zwqGlsbPBIbtDhvKAw8Sig9Wzw4GqxnZAxn0yw50ifnLDhrPBMDZid4GtunqifnLCNzLCNmGkg9YihrVz2DSzsbPDhmGtunqihnLCNzLCIbVzMyVB24P','y2HHDgDWDa','pgi+qwDLBNqGywn0AxzLpc9IpIdcTYbVCgvUigeGCgXHy2uGAw4GuM9IBg94ifn0DwrPBW','yNvPBgrtExn0zw1qCM9TChq','DMLZAwjPBgL0EwnOyw5Nzq','C2L6zq','igf0DgvTChrZlIa','pgrPDIbJBgfZCZ0IENmTyxbWCM92ywWTzxLLyNjVDYi+twfUDwfSigfWChjVDMfSpc9KAxy+pgrPDIbJBgfZCZ0IENmTyxbWCM92ywWTDgL0BguIpLj1BIa','BwfPBG','kg5LDYK','DMvYC2LVBG','y292zxjpzMzZzxrz','phn2zYb2Awv3qM94psiWidaGmJqGmJqIigzPBgW9iM5VBMuIihn0CM9Rzt0Iy3vYCMvUDenVBg9YiIbZDhjVA2uTD2LKDgG9iJiIihn0CM9Rzs1SAw5Ly2fWpsjYB3vUzciGC3rYB2TLlwXPBMvQB2LUpsjYB3vUzci+','y2HLy2TLza','D3jPDgvuzxH0','Aw5WDxrty2HLBwe','ENndDxn0B21qCM9TChq','uMvHzhKGAw4G','mZmWmNrPq01ZuW','C2v0u3rHCNrPBMC','Bwf4','AxniyxjKr2vUzxjHDgLUzW','ywn0AxzL','B2zM','CgfYzw50','ihrOzw1LihnLBgvJDgvKlG','qsbZDhjVBMCGDgL0BguGC2nYzwvUihDPDgGGCgXHEsWGC2v0DgLUz3mSigfUzcbJBgvHBIbUyxzPz2f0Aw9UlG','AgfZt3bLBLrVB2XcBg9JAW','CgXHBG','C3rVCfjLDhj5qxq','C2nYzwvU','icHHzgrVBIK','ELjLC3vTzq','q29UDMvYC2f0Aw9UihrVBYbSB25N','CMvNzw5fzgDLlMLNBM9Yzwq','cLrYEsbHihnOB3j0zxiVC2LTCgXLCIbJywXSig9YignOzwnRihrOyxqGuM9IBg94ifn0DwrPBYbPCYbVCgvUigfUzcbYzxnWB25ZAxzLlG','BgvUz3rO','khn0B3bWzwqGyNKGDxnLCIK','u3rHCNrPBMCGDgHLifjVyMXVEcbHz2vUDokaPG','cIaGicaGicaGidWVC2vJDgLVBJ4kicaGicaGicaGphnLy3rPB24Gy2XHC3m9iNPZlw1LBNuTC2vJiJ4kicaGicaGicaGica8zgL2ignSyxnZpsj6CY1ZzwmTBgfIzwWIpJXZCgfUpKn1C3rVBsbWCM9TChq8l3nWyw4+pc9KAxy+cIaGicaGicaGicaGpgrPDIbJBgfZCZ0IENmTBwvUDs1UB3rLiJ5bChbSAwvKigfZihn0CMLJDcbWCM9Qzwn0ihj1BgvZig9Uigv2zxj5ig5LDYbZzxnZAw9UlIbtDgf0zsb3Agf0ihrVigrVlcb3Agf0ig5VDcb0BYbKBYWGyw5KigfUEsbUB24TBMvNB3rPywjSzsbMB3jTyxqGB3iGC3r5BguUpc9KAxy+cIaGicaGicaGicaGphrLEhrHCMvHigLKpsj6CY1ZzxqTDgv4DciGCM93CZ0InciGCgXHy2vOB2XKzxi9iMuUzY4GvxnLihnTywXSig1VzhvSyxiGC2nYAxb0CY4Grg8GtK9uignOyw5NzsbLEgLZDgLUzYbvssb1BMXLC3mGyxnRzwqUiefZAYbIzwzVCMuGzgvSzxrPBMCGyw55DgHPBMCUiJ48l3rLEhrHCMvHpGOGicaGicaGicaGidXKAxyGy2XHC3m9iNPZlxnLDc1YB3CIpJXIDxr0B24GAwq9iNPZlxnLDc1ZyxzLiJ5tyxzLpc9IDxr0B24+phnWyw4GAwq9iNPZlxnLDc1ZDgf0DxmIpJWVC3bHBJ48l2rPDJ4kicaGicaGicaGpc9Zzwn0Aw9UpGOGicaGicaGica8C2vJDgLVBIbJBgfZCZ0IENmTBwvUDs1ZzwmIpGOGicaGicaGicaGidXKAxyGy2XHC3m9iNPZlxnLyY1SywjLBci+phnWyw4+tunqihnLCNzLCNm8l3nWyw4+pc9KAxy+cIaGicaGicaGicaGpgrPDIbJBgfZCZ0IENmTBwvUDs1UB3rLiJ5sB2jSB3GGu3r1zgLVigLZigfSD2f5CYbJB25Uzwn0zwqGkhbYAw1HCNKPlIbbzgqGyw5VDgHLCIbnq1aGC2vYDMvYicHLlMCUiejSzw5KzxiSifnRzxrJAgzHyIKGyxmGyw4GywrKB24Glsb0AguGyNjPzgDLihjLC3rHCNrZigjYAwvMBhKGDg8GBg9HzcbPDc4GrxHWzxjPBwvUDgfSlJWVzgL2pGOGicaGicaGicaGia','y2XHC3nmAxn0','pc9ZCgfUpJWVzgL2pGOGicaGicaGica8C2vJDgLVBIbJBgfZCZ0IENmTBwvUDs1ZzwmIpGOGicaGicaGicaGidXKAxyGy2XHC3m9iNPZlxnLyY1SywjLBci+phnWyw4+qwDLBNqGBw9KztWVC3bHBJ48l2rPDJ4kicaGicaGicaGica8zgL2ignSyxnZpsj6CY1TB2rLlwDYAwqIpG','pgrPDIbJBgfZCZ0IENmTBwvUDs1OzwfKiJ48C3bHBIbJBgfZCZ0IENmTBwvUDs1SB2DViJ48Aw1NignSyxnZpsj6CY1Tzw51lwLJB24IihnYyZ0I','rvzfuKXvqsbnt0rfieniqu5hrtOGu3DPDgnOihrVifbSyw4GBw9KzsbUB3CUiezVCIb0AguGDxnLCIDZig5LEhqGCMvXDwvZDcWGD3jPDguGysbJB25JAxnLig51BwjLCMvKihbSyw4Gyw5KigrVie5pvcbLBwL0ignVBw1HBMrZihvUDgLSihrOzxKGzw5HyMXLigv4zwn1DgLVBIbPBIb0AguGrxzLCKX1ysbWyw5LBc4GuMvWBhKGD2L0AcbVBMuGC2HVCNqGywnRBM93BgvKz2vTzw50lG','y2HPCc1VBMX5','Dg9VBfnLDhrSzq','z2v0rwrPDg9Y','C3rVCc5XDwLLDa','twvZC2fNzsbJB3vSzcbUB3qGyMuGC2vUDa','lNPZlwnOAxaTDhG','cLjLywqGDgHLigvYCM9YignHCMvMDwXSEsWGzML4ihrOzsbJywXSig9YihrYEsbHigrPzMzLCMvUDcbHChbYB2fJAc4','Dg9Uzs1ZDgfUzgj5','4PA2ifn0yxj0ifjVyMXVEcbHz2vUDa','y291BNq','C3rVChbPBMC','r2vTAw5P','zgvZy3jPChrPB24','CMvWBhKUyMXHBMTszwfKrMfSBgjHy2S','ugXHBIbUB3qGyxbWCM92zwq','lNPZlwjHBM5LCI1T','Bg9VCc53ywL0vMLZAwjSzq','y29UDgfPBNm','Bwf0y2G','ywXYzwfKEsbJB21WBgv0zwq','ELn0B3bWzwq','CNvUBMLUzW','pgXPpKjHy2SGAgvYzsWGy2XPy2SGpgi+u3rHCNqGuM9IBg94igfNzw50pc9IpJWVBgK+','Aw5KzxHpzG','ndu3otG3nxP3yLfOsq','q2XPzw50','i3PZlwjHCG'];a0_0x3399=function(){return _0x20f29d;};return a0_0x3399();}
+// SPDX-License-Identifier: GPL-3.0-only
+// core/main.js - the provider-agnostic agentic loop, UI and session state.
+// Drives any AI chat site through the ZSProvider interface (providers/*.js):
+// waits for the model's reply, parses EverLua commands (ZSParse), asks the
+// background worker to execute them on the Roblox MCP bridge, and feeds the
+// result back. Camouflages the system prompt ("Starting Up") and tool JSON
+// behind animated chips, masks injected input, and exposes a Stop button.
+// The model ALWAYS receives an output.
+//
+// This file must NEVER touch the host site's DOM directly - everything
+// site-specific goes through P (the provider). Our OWN UI (panel, chips,
+// banners…) is plain DOM we create ourselves and is allowed here.
+
+(() => {
+  "use strict";
+  const P = ZSProvider;
+  const T = P.timings;
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  const log = (...a) => console.log("[everlua]", ...a);
+
+  // ── Anti-bot mitigation (EXPERIMENTAL) ──────────────────────────────────
+  // Suspected contributor to Arena's captcha: the agentic loop sends turns
+  // back-to-back with near-zero, perfectly regular delay (~200ms settle),
+  // which behavioral risk-scoring (reCAPTCHA/Cloudflare) can read as a bot
+  // signal alongside the necessarily-synthetic input events. This adds a
+  // small randomized human-reaction-time delay before each send.
+  // REVERT: flip HUMANIZE_SEND to false - single toggle, no other changes needed.
+  const HUMANIZE_SEND = false; // didn't prevent Arena's captcha (fires on turn 1 already) - revert
+  const SEND_JITTER_MS = [400, 1400]; // [min, max] ms, randomized per send
+  // ChatGPT needs a brief breathing room after a reply/tool result before the
+  // next injected message. Without it, two turns can land too close together
+  // and ChatGPT occasionally drops or mis-renders the second one.
+  const CHATGPT_INTERTURN_SETTLE_MS = 1300;
+  function jitterBeforeSend() {
+    if (!HUMANIZE_SEND) return Promise.resolve();
+    const [lo, hi] = SEND_JITTER_MS;
+    return sleep(lo + Math.random() * (hi - lo));
+  }
+
+  // ── Diagnostics ───────────────────────────────────────────────────────────
+  // Persistent, lightweight breadcrumb log of the agentic loop's key decisions
+  // (sends, response kinds, tool start/end, resumes, stops). Read back from the
+  // console (filter "[zs-diag]") or window.__zsDiag (also mirrored onto a hidden
+  // DOM node for a main-world inspector). Each entry carries a turn snapshot.
+  const ZS_DIAG_MAX = 300;
+  const _diag = [];
+  function diag(event, data) {
+    const snap = { ...P.snapshot(), gen: P.isGenerating(), run: A.running };
+    const e = { t: Date.now(), iso: new Date().toISOString().slice(11, 23), event,
+                data: data || null, snap };
+    _diag.push(e);
+    if (_diag.length > ZS_DIAG_MAX) _diag.shift();
+    try { console.log("[zs-diag]", e.iso, event, JSON.stringify({ ...data, ...snap })); } catch {}
+    try {
+      let n = document.getElementById("zs-diag-log");
+      if (!n) { n = document.createElement("script"); n.type = "application/json"; n.id = "zs-diag-log"; (document.body || document.documentElement).appendChild(n); }
+      n.textContent = JSON.stringify(_diag);
+    } catch {}
+    try { window.__zsDiag = _diag; } catch {}
+  }
+  P.init({ diag });
+
+  // ── [TRACE] Main-thread stall detector ─────────────────────────────────────
+  // The reported bug ("tools spin 15-20s, the chip timer stops rising") can only
+  // be a SYNCHRONOUS block of the page's main thread: an async bridge/network wait
+  // yields, so the 200ms UI interval (and its chip timer) would keep ticking. This
+  // fires every 250ms and, whenever the ACTUAL gap since the last tick is far more
+  // than expected, logs the stall. A `stall.detected` with a big `ms` right when
+  // the user sees the freeze = the smoking gun; correlate its timestamp with the
+  // surrounding diag events (esp. code.snapAll / dom.read.slow) to see WHAT ran.
+  {
+    const EXPECT = 250, STALL = 800; // only log gaps beyond this many ms
+    let _lastTick = Date.now();
+    setInterval(() => {
+      const now = Date.now();
+      const gap = now - _lastTick;
+      _lastTick = now;
+      if (gap > STALL) {
+        diag("stall.detected", { ms: gap, overBy: gap - EXPECT,
+          toolRunning: A.toolRunning, running: A.running, injecting: A.injecting });
+      }
+    }, EXPECT);
+  }
+
+  // GitHub releases page - where users download the Bridge + start.bat.
+  const GITHUB_URL = "https://github.com/victorhaleinc-boop/EverLua-Beta";
+  // Shown in the panel instead of a static "Free" label, so a user's screenshot
+  // alone tells us which build they're on for debugging. Pulled from
+  // manifest.json (single source of truth) rather than duplicated here.
+  const EXT_VERSION = chrome.runtime.getManifest().version;
+  // AI chat sites EverLua works on. Keep in sync with manifest.json
+  // content_scripts and background.js PROVIDER_URLS when adding a provider.
+  const AI_SITES = [
+    { name: "ChatGPT", url: "https://chatgpt.com/" },
+    { name: "DeepSeek", url: "https://chat.deepseek.com/" },
+    { name: "Gemini", url: "https://gemini.google.com/app" },
+    { name: "Kimi", url: "https://www.kimi.com/" },
+    { name: "GLM", url: "https://chat.z.ai/" },
+    { name: "Qwen", url: "https://chat.qwen.ai/" },
+    { name: "Arena", url: "https://arena.ai/text/direct" },
+    { name: "Meta AI", url: "https://www.meta.ai/" },
+  ];
+
+  const A = {
+    running: false,
+    stop: false,
+    // stopping: the user clicked Stop and we are winding the loop down. Set the
+    // instant the button is clicked so the bar can show immediate "Stopping…"
+    // feedback and keep the button steady (no flicker) until the loop's finally
+    // clears it - the live generation signal toggles off/on as the loop drains,
+    // which otherwise made the Stop button vanish then reappear.
+    stopping: false,
+    // userStopped: the user deliberately halted generation - via our "■ Stop"
+    // button OR the site's native stop. While set, the auto-resume watchdog
+    // must NOT relaunch or re-run a tool from the halted turn.
+    userStopped: false,
+    // lastGenAt: timestamp of the last moment the site was actively generating.
+    // The auto-resume watchdog only acts on a tool call from a RECENT live
+    // generation - never on a historical turn rendered by opening/scrolling.
+    lastGenAt: 0,
+    started: false,
+    starting: false,
+    // The conversation a bootstrap belongs to + a generation counter. If the user
+    // navigates to another chat mid/post-bootstrap, syncSessionState bumps the
+    // counter (invalidating the in-flight startSession) and clears `starting`, so
+    // the new chat shows its own state instead of a stale "Starting…".
+    startingKey: null,
+    startGen: 0,
+    // The conversation a RUNNING loop is bound to. If the user opens a new, empty
+    // chat via the site's own button, syncSessionState abandons the loop so the
+    // fresh chat shows "Start", not a stale "Agent active".
+    loopKey: null,
+    // Identity of the assistant turn ALREADY present when the current session
+    // started. A page reload can RESTORE an in-progress generation (e.g. an
+    // execute_luau that was mid-stream in an A/B turn); that restored turn looks
+    // like a fresh live tool finish to the auto-resume watchdog, which then ran it
+    // into the NEW conversation the user had just opened (validated live, 2026-06).
+    // autoResume never resumes the turn whose id matches this baseline.
+    bootBaselineId: null,
+    injecting: false,
+    toolRunning: false,
+    toolStart: 0,
+    toolName: "",
+    toolItem: null,
+    toolArg: "",
+    toolList: [],
+    toolNames: new Set(),
+    // Successful tool calls since the last command-list reminder. DeepSeek (and
+    // others) can drift away from the exact command names over a long session,
+    // so we re-inject the list every REMIND_TOOLS_EVERY calls (see agentLoop).
+    toolCallsSinceReminder: 0,
+    // A user task stays active until the model explicitly marks it complete.
+    goalActive: false,
+    goalContinuations: 0,
+    // The latest UI-kit/theme choice waiting to be safely injected into an
+    // already active AI conversation. `undefined` means nothing is waiting;
+    // an empty string deliberately means "clear this preference".
+    pendingUiKit: undefined,
+    pendingUiTheme: undefined,
+    uiKitSyncing: false,
+    uiKitRetryAt: 0,
+    bridge: { connected: false, mcpAlive: false, tools: 0 },
+    // Images from the most recent tool result, stashed by runTool for the
+    // upcoming submitAndGetBase/typeAndSend call to attach as the LAST step
+    // before sending (see the comment in runTool's r.images branch).
+    pendingImages: null,
+    // BARE names of tools observed to return images at least once this session.
+    // For the KNOWN Roblox vision tool (screen_capture) toolCategory already
+    // gives the "screen" chip optimistically at run time; a custom MCP tool's
+    // name tells us nothing, so we can't predict it - but once we've SEEN it
+    // return an image we can be optimistic on its NEXT call. Populated in the
+    // agent loop's result branch when A.pendingImages lands.
+    imageTools: new Set(),
+    // True while the loop is parked waiting for this tab to come back to the
+    // foreground (see waitVisible/parkHidden). Drives the bar's "Paused" state.
+    parked: false,
+    // Timestamp of the last successful tool-catalogue refresh (see ensureTools).
+    toolsAt: 0,
+  };
+
+  async function waitFor(pred, timeout) {
+    const t0 = Date.now();
+    while (Date.now() - t0 < timeout) {
+      if (pred()) return true;
+      await sleep(120);
+    }
+    return false;
+  }
+
+  // Park until the AI tab is the FOREGROUND tab of its window again (or the user
+  // halts). Deliberately has NO time cap: a tab minimized/backgrounded for an
+  // hour must resume cleanly, not silently time out into a "could not send /
+  // not run" failure. (A plain waitFor with a finite timeout returned false on a
+  // long minimize, which broke the send loop and ended the agent loop.) Returns
+  // false ONLY if the user stopped while we were parked, so callers can break.
+  // EVENT-DRIVEN, not polled. A chained setTimeout loop is subject to Chrome's
+  // "intensive throttling": once a tab has been hidden >5 min, chained timers are
+  // clamped to ONE tick per minute, so a sleep(300) poll could take up to a full
+  // minute to notice the tab came back - the user sees the bar sit on "Paused"
+  // long after they returned. visibilitychange fires immediately on unhide, so we
+  // race it against a slow stop-poll (the stop path is not latency-critical).
+  async function waitVisible() {
+    if (!document.hidden || A.stop) return !A.stop;
+    A.parked = true;
+    try { ui.setStarting(); } catch {}
+    try {
+      await new Promise((resolve) => {
+        const done = () => {
+          document.removeEventListener("visibilitychange", onVis);
+          clearInterval(iv);
+          resolve();
+        };
+        const onVis = () => { if (!document.hidden) done(); };
+        document.addEventListener("visibilitychange", onVis);
+        // Safety net only: covers a stop click while parked, and the (unlikely)
+        // case of a missed visibilitychange event.
+        const iv = setInterval(() => { if (A.stop || !document.hidden) done(); }, 1000);
+      });
+    } finally {
+      A.parked = false;
+      try { ui.setStarting(); } catch {}
+    }
+    return !A.stop;
+  }
+
+  // Park while the tab is hidden and report how long we were parked, so callers
+  // can slide their timers forward by that amount. Without this, every deadline
+  // inside waitForResponse (inactivity timeout, warm-up, text-stability) keeps
+  // ticking while nothing can be read - which is what turned "user switched to
+  // Studio for 5 minutes" into "No response from <site>, the loop has stopped"
+  // and left the pending command showing a grey "not run".
+  async function parkHidden() {
+    if (!document.hidden || A.stop) return 0;
+    const t0 = Date.now();
+    await waitVisible();
+    const parked = Date.now() - t0;
+    diag("park.resumed", { parkedMs: parked });
+    // Give the site a beat to repaint: a tab that was hidden has no layout, so
+    // the first reads after unhide can come back stale/blank.
+    if (!A.stop) await sleep(400);
+    return parked;
+  }
+
+  // Submit `text` as a new turn, masking the input while we type. Returns the
+  // assistant-item count BEFORE the reply (waitForResponse waits beyond it).
+  // Snapshot the identity of the assistant turn present BEFORE we send. Paired
+  // with waitForResponse, this lets "a new reply turn exists" be tested by node
+  // identity rather than a raw count - the latter is unreliable on providers that
+  // virtualize the message list, where the count stays flat as a new
+  // turn appears and old ones detach. Captured at every send site (tool feedback,
+  // user message, bootstrap). Providers without lastAssistantId fall back to count.
+  function captureSendToken() {
+    A.sendToken = P.lastAssistantId ? P.lastAssistantId() : undefined;
+  }
+
+  async function submitAndGetBase(text, images) {
+    captureSendToken();
+    diag("send", { text: String(text).slice(0, 60), busy: P.isBusyNow() });
+    A.injecting = true;
+    ui.inputCover(true);
+    try {
+      // Quick 2-point settle: sample the previous response's stream length before
+      // and after a 200ms yield. A one-shot React batch flush (the common case)
+      // shows no second growth and costs only 200ms. A genuinely still-generating
+      // stream shows growth → fall back to the full idle wait.
+      const _settleItem = P.lastAssistant();
+      const _settleLen0 = _settleItem ? P.streamLen(_settleItem) : 0;
+      await sleep(200);
+      if (_settleItem && _settleItem === P.lastAssistant() &&
+          P.streamLen(_settleItem) > _settleLen0) {
+        await waitFor(() => !P.isGenerating(), 4000);
+      }
+      if (P.id === "chatgpt") {
+        diag("send.chatgptSettle", { ms: CHATGPT_INTERTURN_SETTLE_MS });
+        await sleep(CHATGPT_INTERTURN_SETTLE_MS);
+      }
+      const base = P.assistantCount();
+      const preUser = P.userCount();
+      // Arm the optimistic pre-hide for the result turn we're about to inject:
+      // the very next NEW user turn is ours, so preHideWholeItems can mask it on
+      // creation instead of waiting for its "Output of '…'" caption to render
+      // (which lands a tick after the node - especially with an attached image -
+      // and would otherwise flash the raw output for the 200/700ms until a sweep
+      // nudge catches it). See preHideWholeItems.
+      A.injectPreUser = preUser;
+      A.injectHideUntil = Date.now() + 2500;
+      // "Landed" = a new turn appeared in the DOM. In long chats, list
+      // virtualisation can keep counts flat even when our message landed - the
+      // textarea-cleared signal below is the primary fast gate.
+      const landed = () => P.userCount() > preUser || P.assistantCount() > base;
+      // CRITICAL: never type/send while the tab is HIDDEN. Background tabs throttle
+      // rendering, which made the landed-check unreliable and caused the SAME
+      // feedback to be sent several times. Send ONLY while visible.
+      let tries = 0;
+      let messageSent = false;
+      while (!messageSent && !landed() && tries < 4 && !A.stop) {
+        if (document.hidden) {
+          diag("send.waitVisible", { tries });
+          if (!(await waitVisible()) || A.stop) break; // park (no cap) until foreground; break only on user stop
+        }
+        await jitterBeforeSend();
+        diag("submit.typeAndSend", { hasImages: !!(images && images.length) });
+        await P.typeAndSend(text, images);
+        // Re-arm the pre-hide window NOW that typeAndSend has returned (the send
+        // was just clicked, so our result turn is about to render). The initial
+        // arm above can EXPIRE during an image upload - typeAndSend blocks ~3-6s
+        // uploading the capture before the turn appears, past the 2.5s window - so
+        // without this re-arm the raw "Output of…" + a still-loading (0-byte)
+        // thumbnail flash for image feedbacks until a sweep chip lands. Safe: the
+        // input is covered and the loop owns this send, so no user turn can slip
+        // into the window, and the pre-hide is one-shot (consumes the first turn).
+        A.injectHideUntil = Date.now() + 2500;
+        // The site clears the textarea as soon as the send is accepted - faster
+        // and more reliable than waiting for a DOM turn count change.
+        await waitFor(() => {
+          if (P.editorText().trim() === "") messageSent = true;
+          return messageSent || landed();
+        }, 3500);
+        tries++;
+      }
+      if (messageSent) diag("send.cleared", { tries });
+      // All retries exhausted with NO evidence the message landed (textarea never
+      // cleared, no new turn). Silently returning here left the loop waiting for
+      // a reply that will never come (~60s "empty" timeout) with zero explanation
+      // - the reported "the tool result just never gets injected" symptom. Tell
+      // the user what actually happened so they can nudge the conversation
+      // themselves instead of watching a stuck bar.
+      if (!messageSent && !landed() && !A.stop) {
+        diag("send.failed", { tries });
+        ui.banner("warn", "Message could not be sent",
+          `${P.displayName} did not accept the injected message after ${tries} attempts. ` +
+          `Send a short message yourself (e.g. "continue") to resume the agent.`);
+      }
+      return base;
+    } finally {
+      // During Starting Up / the agent loop, the bootstrap or loop owns the cover
+      // for the whole phase, so don't lift it here between an injection and the
+      // next waitForResponse - it stays up until the loop / bootstrap ends.
+      if (!A.starting && !A.running) ui.inputCover(false);
+      setTimeout(() => (A.injecting = false), 400);
+      // Camouflage the turn we just injected without waiting on the rAF observer
+      // (paused in a background tab). A couple of nudges cover the render.
+      setTimeout(scheduleSweep, 200);
+      setTimeout(scheduleSweep, 700);
+    }
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  RESPONSE WATCHER  (generating-flag driven - robust to DOM churn)
+  // ════════════════════════════════════════════════════════════════════════
+  async function waitForResponse(base) {
+    const t0 = Date.now();
+    // INACTIVITY timeout (not total-elapsed): the loop only gives up after this
+    // long with NO streaming AND no text change. lastActiveAt is refreshed every
+    // tick the model is generating or the reply text grows, so an arbitrarily
+    // LONG but still-active response never trips it (the old total-elapsed cap
+    // wrongly fired "No response" while the model was still writing past 300s).
+    const TIMEOUT = T.RESPONSE_TIMEOUT_MS;
+    let lastActiveAt = Date.now();
+    const STABLE_MS = T.STABLE_MS; // generating-flag stuck ON but text frozen → done
+    let started = false, doneSince = 0, lastLimitScan = 0;
+    let lastText = null, lastChangeAt = Date.now(), genFalseSince = 0;
+    // ── DIAG: finalisation-latency instrumentation (multi_edit "slow" probe) ──
+    // genOffFirstAt: the FIRST moment gen went false after streaming began (does
+    // NOT reset on flicker, unlike genFalseSince). genFlickers: how many times gen
+    // flipped back true after having been false - a high count means post-stop DOM
+    // churn (or a wedged stop button) is what keeps the watcher alive. waitedBlock/
+    // waitedFlicker: iterations spent waiting because effectiveBlock held vs because
+    // gen was (re)true. These pinpoint which gate causes any tail latency.
+    let genOffFirstAt = 0, genFlickers = 0, prevGen = null;
+    let waitedBlock = 0, waitedFlicker = 0;
+    const finalizeDiag = (kind) => {
+      const now = Date.now();
+      diag("stopGoneToResp", {
+        kind,
+        stopGoneToRespMs: genOffFirstAt ? now - genOffFirstAt : null,
+        genStableForMs: genFalseSince ? now - genFalseSince : null,
+        lastChangeAgoMs: now - lastChangeAt,
+        genFlickers, waitedBlock, waitedFlicker,
+        totalMs: now - t0,
+      });
+    };
+    let preStartSilent = 0; // nothing produced AND not generating
+    let curItem = null, sawContent = false, warmSince = 0; // per-turn "warming up"
+    // Last NON-EMPTY reply read for the CURRENT turn. Sites re-render a turn's
+    // subtree (React/Monaco churn) and a read can come back "" for a frame at
+    // the exact moment the watcher finalizes - the turn then ended as
+    // kind:"empty" even though a (possibly cut-off) command was sitting there a
+    // tick earlier, leaving a DEAD turn: no parse_error feedback, and the
+    // autoResume dedupe (zResume) blocks any later retry (validated live on a
+    // Qwen post-stop regenerate, 2026-07). Classify on this fallback instead of
+    // declaring empty. Reset whenever the turn NODE changes so a new turn can
+    // never inherit the previous turn's text.
+    let lastGoodReply = "";
+    let reasonSince = 0; // reasoning written but no answer yet (loading phase)
+    let noTurnSince = 0; // finalize attempted before this send's reply turn exists
+    let unsettledSince = 0; // command-shaped reply whose read is not yet stable
+    const WARMUP_MS = T.WARMUP_MS;
+    const REASON_NOREPLY_MS = T.REASON_NOREPLY_MS;
+    const NO_TURN_GRACE_MS = 30000;
+    // Upper bound on holding off a parse verdict while a provider reports its
+    // read is unsettled (Qwen A/B dual turn still landing). A genuinely stuck
+    // read still resolves after this and is parsed as-is.
+    const UNSETTLED_GRACE_MS = 8000;
+    // Once the generating flag has been OFF this long, the model has clearly
+    // stopped streaming - so an "open tool block" reading is a DOM-churn/parse
+    // artifact, not live output, and must not keep the watcher waiting. Provider
+    // -neutral: while a model is genuinely streaming, gen stays true and this is
+    // never reached.
+    const GEN_STOP_GRACE_MS = 2500;
+
+    while (Date.now() - lastActiveAt < TIMEOUT) {
+      if (A.stop) return { kind: "stopped" };
+      // NEVER let a deadline expire while the tab is in the background. A hidden
+      // tab has no layout (innerText reads come back "", getBoundingClientRect is
+      // 0x0) and Chrome throttles its timers, so every read here is unreliable -
+      // and the site may legitimately keep streaming for as long as the user is
+      // away in Studio. Park until the tab is foreground again, then slide EVERY
+      // deadline forward by the time we were parked so nothing that was mid-flight
+      // when the user switched away expires the moment they come back. This is the
+      // fix for "I switched to Studio, came back and the command says 'not run'":
+      // the loop used to burn its 5-minute inactivity budget off-screen, end with
+      // "No response from <site>", and orphan the pending command.
+      if (document.hidden && !A.stop) {
+        const parked = await parkHidden();
+        if (A.stop) return { kind: "stopped" };
+        if (parked) {
+          lastActiveAt += parked; lastChangeAt += parked;
+          if (doneSince) doneSince += parked;
+          if (genFalseSince) genFalseSince += parked;
+          if (preStartSilent) preStartSilent += parked;
+          if (warmSince) warmSince += parked;
+          if (reasonSince) reasonSince += parked;
+          if (noTurnSince) noTurnSince += parked;
+          if (unsettledSince) unsettledSince += parked;
+          if (genOffFirstAt) genOffFirstAt += parked;
+        }
+        continue; // re-read everything now that the tab has layout again
+      }
+      const gen = P.isGenerating();
+      if (gen) lastActiveAt = Date.now(); // actively generating ⇒ never time out
+      const d = P.readAssistant();
+      // Sites virtualize their lists, so the absolute assistant count can DROP
+      // even as a new reply is added. A count increase still proves a new turn
+      // appeared; the generating flag is the reliable "reply has begun" signal.
+      // A new reply turn exists. Prefer node IDENTITY (virtualization-proof) when
+      // the provider exposes it: the last assistant turn's id differs from the one
+      // captured at send time. Fall back to the count test otherwise. Without this,
+      // a provider's list virtualisation can keep assistantCount() <= base for a
+      // fresh reply, so the reliableCounts gate below waits out the full NO_TURN_GRACE
+      // (~30s) before finalising a multi_edit - the "input box stuck until I scroll
+      // up" symptom (scrolling re-attached old turns and bumped the count).
+      const curTok = P.lastAssistantId ? P.lastAssistantId() : undefined;
+      // A NULL token means the provider could not read an identity for the
+      // CURRENT last turn (not that the provider lacks ids - that's undefined).
+      // Treating null as "no new reply" wedged the watcher on Qwen: a
+      // REGENERATED turn is rebuilt WITHOUT the id attribute the normal turns
+      // carry, so curTok stayed null, `started` never latched, and the loop
+      // sat in the pre-start branch for the full 60s before ending "empty" -
+      // the regenerated command (complete in the net tap) was never run and
+      // zResume then blocked any retry (validated live via empty.why, 2026-07).
+      // Fall back to the count test instead, exactly as for a provider with no
+      // lastAssistantId at all.
+      const newReply = (curTok !== undefined && curTok !== null)
+        ? (curTok !== A.sendToken)
+        : P.assistantCount() > base;
+
+      // Track whether the CURRENT turn has produced anything. Reset when the
+      // turn node changes (the PREVIOUS turn's content never counts).
+      if (d.item !== curItem) { curItem = d.item; sawContent = false; warmSince = 0; lastGoodReply = ""; }
+      if ((d.reply && d.reply.length) || (d.thinking && d.thinking.length)) sawContent = true;
+      if (d.reply && d.reply.length) lastGoodReply = d.reply;
+
+      if (!started) {
+        // CRITICAL: a bare count increase is NOT enough - the empty turn
+        // CONTAINER can appear seconds before the first token. Require actual
+        // CONTENT (or the generating flag).
+        const hasText = !!((d.reply && d.reply.length) || (d.thinking && d.thinking.length));
+        if (gen || (newReply && hasText)) { started = true; }
+        else {
+          // The site can be slow to even CREATE the reply turn. Keep waiting -
+          // only give up after a long fully-silent window.
+          if (!preStartSilent) preStartSilent = Date.now();
+          // diag: WHICH empty-branch fired matters - a dead post-regenerate turn
+          // on Qwen kept ending "empty" with a complete command in the net tap,
+          // and without the branch name the cause was unfindable from the log.
+          if (Date.now() - preStartSilent > 60000) { diag("empty.why", { branch: "preStart", rep: (d.reply||"").length }); return { kind: "empty" }; }
+          await sleep(200);
+          continue;
+        }
+      }
+
+      // [[EVERLUA_DONE]] is an explicit terminal protocol marker. ChatGPT can
+      // briefly leave a voice/response control mounted after the visible reply
+      // is complete; waiting for that stale control makes the bar incorrectly
+      // keep saying the agent is working. Once this marker is in the new reply,
+      // no command-recovery or generation-state delay is useful or safe.
+      if (/\[\[EVERLUA_DONE\]\]/i.test(d.reply || "")) {
+        diag("completion.marker", { replyLen: (d.reply || "").length, gen });
+        return { kind: "text", text: d.reply, item: d.item };
+      }
+
+      // Track text stability (independent of the generating flag). Compare the
+      // NORMALISED reply (collapsed whitespace) so cosmetic re-renders of a large
+      // reply - React re-creating the hidden tool <pre>, syntax-highlight passes,
+      // copy-bar text churn - don't count as real "changes" and keep resetting
+      // lastChangeAt. A churn-poisoned lastChangeAt was stalling finalisation of
+      // big multi_edit blocks ~30s (stuckDone never fired); this can only ever
+      // reduce false changes, so short replies / other providers are unaffected.
+      const replyNorm = (d.reply || "").replace(/\s+/g, " ").trim();
+      if (replyNorm !== lastText) { lastText = replyNorm; lastChangeAt = Date.now(); lastActiveAt = Date.now(); }
+      // How long the generating flag has been OFF. A mid-stream flicker resets
+      // this the instant growth resumes and gen flips back on.
+      if (gen) genFalseSince = 0; else if (!genFalseSince) genFalseSince = Date.now();
+      // DIAG: first gen-off, and count flickers back to true after a gen-off.
+      if (started && !gen && !genOffFirstAt) genOffFirstAt = Date.now();
+      if (prevGen === false && gen && genOffFirstAt) genFlickers++;
+      prevGen = gen;
+
+      if (Date.now() - lastLimitScan > 1000) {
+        lastLimitScan = Date.now();
+        const ctx = P.scanError();
+        if (ctx) return { kind: "context_limit", detail: ctx };
+      }
+
+      // Keep waiting while a tool command is still being streamed (opener written
+      // but no end marker yet) so we never parse/finalize half a command.
+      const blockActive = ZSParse.hasOpenToolBlock(d.reply) && Date.now() - lastChangeAt < 6000;
+      // ...but once generation has clearly stopped (stop indicator gone past the
+      // grace window), stop honoring an "open block" - it is DOM churn, not live
+      // streaming. Lets a finished big block finalise in seconds instead of
+      // waiting out ~30s of re-render churn. Safe: real streaming keeps gen true.
+      const genStopped = !gen && genFalseSince && Date.now() - genFalseSince > GEN_STOP_GRACE_MS;
+      const effectiveBlock = blockActive && !genStopped;
+
+      // Fallback: generating flag stuck ON (e.g. a wedged stop button - seen
+      // live on Gemini after a mid-write halt) but the text has been frozen for
+      // a while → stop waiting and finalize. This must BYPASS the gen branch
+      // below entirely: falling through while gen stays true used to reset
+      // doneSince every iteration, so the watcher never finalized at all.
+      // ...but NEVER treat a still-OPEN command block as "done" while the site is
+      // genuinely still generating. A model writing a big command (a 3799-char
+      // execute_luau seen live on GLM) can pause >STABLE_MS between tokens - that
+      // is a mid-write gap, NOT a wedged stop button on a COMPLETE reply. Firing
+      // here parsed the half-written JSON and stamped a false "bad JSON" error
+      // while GLM was still typing. RESPONSE_TIMEOUT still bounds a truly stuck one.
+      const stuckDone = started && d.reply && Date.now() - lastChangeAt > STABLE_MS &&
+        !(gen && ZSParse.hasOpenToolBlock(d.reply));
+      if ((gen || effectiveBlock) && !stuckDone) {
+        // DIAG: attribute this wait. genOffFirstAt set ⇒ we are PAST first stop,
+        // so any wait here is tail latency: either gen flickered back on, or an
+        // (effective) open-block reading is holding us.
+        if (genOffFirstAt) { if (gen) waitedFlicker++; else if (effectiveBlock) waitedBlock++; }
+        doneSince = 0;
+        await sleep(160);
+        continue;
+      }
+      if (stuckDone && gen) log("generating flag stuck - falling back to text stability");
+
+      // On providers whose turn counts are RELIABLE (semantic elements, no
+      // list virtualisation - Gemini), never finalize before the reply turn
+      // for THIS send exists. The generating flag can flicker off in the gap
+      // between the send and the new <model-response> node spawning, and the
+      // watcher used to finalize on the PREVIOUS turn's stable text - a
+      // premature loop.end rescued only by autoResume 30-45s later (diag
+      // showed `response kind:text` ~2.4s after loop.start with rp unchanged).
+      // Bounded so a genuinely dead send still ends the turn.
+      if (P.reliableCounts && !newReply) {
+        if (!noTurnSince) noTurnSince = Date.now();
+        // [TRACE] This is the 30s NO_TURN_GRACE gate. If a Qwen tool turn sits here
+        // ~30s EVERY turn, newReply is wrongly stuck false: log the identity values
+        // that decide it so we can see whether curTok is null (id missing on the new
+        // turn -> count fallback) or equal to sendToken (last turn not advancing).
+        const _waited = Date.now() - noTurnSince;
+        if (_waited > 800 && (!A._noTurnLoggedAt || Date.now() - A._noTurnLoggedAt > 3000)) {
+          A._noTurnLoggedAt = Date.now();
+          diag("noTurnGrace.wait", {
+            waitedMs: _waited,
+            curTok: (P.lastAssistantId ? P.lastAssistantId() : undefined),
+            sendToken: A.sendToken,
+            assistantCount: P.assistantCount ? P.assistantCount() : undefined,
+            base, gen, started, replyLen: (d.reply || "").length });
+        }
+        if (Date.now() - noTurnSince < NO_TURN_GRACE_MS) { await sleep(200); continue; }
+      } else {
+        noTurnSince = 0;
+        A._noTurnLoggedAt = 0;
+      }
+
+      if (!doneSince) doneSince = Date.now();
+      if (Date.now() - doneSince < 500) {  // 500ms settle – DOM is stable
+        await sleep(120);
+        continue;
+      }
+
+      // A turn that has produced NOTHING yet is still warming up - never
+      // finalize it as empty/truncated/text (a premature retry interrupts it).
+      if (!sawContent) {
+        if (!warmSince) warmSince = Date.now();
+        if (Date.now() - warmSince < WARMUP_MS) { await sleep(200); continue; }
+        diag("empty.why", { branch: "warmup", rep: (d.reply||"").length, lastGood: lastGoodReply.length });
+        return { kind: "empty" };
+      }
+
+      // Still REASONING / loading: thinking written but no answer yet. Don't
+      // finalize - wait for the reply, bounded. A manually-stopped turn is
+      // exempt so a real stop still ends.
+      if (d.thinking && d.thinking.length && !(d.reply && d.reply.length) && !P.turnHalted(d.item)) {
+        if (!reasonSince) reasonSince = Date.now();
+        if (Date.now() - reasonSince < REASON_NOREPLY_MS) { await sleep(200); continue; }
+      } else {
+        reasonSince = 0;
+      }
+
+      // Blank-read guard: if THIS read came back empty but the same turn had
+      // real text a tick ago, classify that text - see lastGoodReply above.
+      let r = d.reply;
+      if (!r && lastGoodReply) { r = lastGoodReply; diag("reply.blankReadFallback", { len: r.length }); }
+      // "Conversation too long" / "server busy" notices are always SHORT system
+      // messages; gating on a short reply stops the model's own long output
+      // (which may quote those phrases) from tripping them.
+      if (r.length < 400 && P.isTooLongMsg(r)) return { kind: "too_long" };
+      // Hold off on any "unparseable command" verdict while the provider reports
+      // this turn's text is not yet a settled read. Qwen's A/B "dual" turn is the
+      // case: its network tap flips `done` the instant the SSE ends, but the
+      // candidate-1 DOM we parse can still be mid-render, so a real command looks
+      // half-written for a beat. Firing parse_error there sends an ERROR
+      // mid-generation and nags a model that did nothing wrong. Only guard when
+      // the reply already LOOKS like a command (so a plain-text answer is never
+      // delayed) and bound it with UNSETTLED_GRACE_MS. No-op on providers that
+      // don't implement replyUnsettled (DeepSeek/Gemini/GLM/Kimi/Arena).
+      const cmdShaped = P.replyUnsettled && (
+        ZSParse.hasToolSignature(r) ||
+        (ZSParse.LUA_END_RE.test(r) && !ZSParse.LUA_START_RE.test(r)) ||
+        (/"(?:datamodel_type|edits|old_string|new_string|file_path|target_file)"\s*:/.test(r) &&
+          !/"command"\s*:/.test(r))
+      );
+      if (cmdShaped && P.replyUnsettled(d.item)) {
+        if (!unsettledSince) unsettledSince = Date.now();
+        if (Date.now() - unsettledSince < UNSETTLED_GRACE_MS) { await sleep(250); continue; }
+      } else {
+        unsettledSince = 0;
+      }
+      // A/B "carousel" turn (Qwen): while it is unresolved the site REMOVES the
+      // composer from the DOM (validated live: getEditor() is null), so we can't
+      // send the tool result until a candidate is picked - and the read reply is a
+      // partial candidate, so a command there looks "cut off". Per the product rule
+      // we use the FIRST candidate: wait for BOTH candidates to finish generating
+      // (you can't select mid-stream), then auto-select Response 1. That collapses
+      // the carousel to a normal turn - composer returns - and the normal parse/run
+      // path below handles it. Never a parse_error here (the model didn't truncate).
+      // No-op for every provider except Qwen. RESPONSE_TIMEOUT still bounds a truly
+      // stuck carousel, so this cannot hang.
+      if (P.isComparisonTurn && P.isComparisonTurn(d.item)) {
+        if (P.isGenerating()) { await sleep(250); continue; }   // both still writing
+        if (P.resolveComparison && P.resolveComparison()) {
+          diag("carousel.resolved");
+          await sleep(400); continue;                            // let it collapse, re-read
+        }
+        await sleep(250); continue;                              // button not ready yet
+      }
+      if (ZSParse.hasToolSignature(r)) {
+        const calls = ZSParse.parseToolCalls(r);
+        if (calls.length) { finalizeDiag("tool"); return { kind: "tool", calls, item: d.item }; }
+        // A half-written command + the site's "Continue" button means the command
+        // was truncated mid-stream → resume it rather than reporting bad JSON.
+        if (P.findContinueBtn()) return { kind: "truncated", text: r, item: d.item };
+        // Only fire parse_error if explicit markers were present.
+        if (r.includes(ZSParse.START_M) || ZSParse.LUA_START_RE.test(r)) return { kind: "parse_error", reason: "malformed", raw: r, item: d.item };
+        // A command opener with no closer (a JSON object that never closed -
+        // the model was halted mid-write and there is no Continue affordance):
+        // ask the model to rewrite it instead of silently ending the turn.
+        // ...unless ONLY the trailing closers were lost (the model hit its
+        // output limit with the payload complete - seen live on Qwen: a big
+        // multi_edit missing exactly one final "}"). salvageCutOff auto-closes
+        // and runs it instead of burning a whole retry turn; it refuses any
+        // cut that amputated real content (mid-string / deep deficit), which
+        // still falls through to the parse_error feedback. Safe to run here:
+        // generation has ended (the open-block branch above kept waiting
+        // while it streamed).
+        if (ZSParse.hasOpenToolBlock(r)) {
+          const saved = ZSParse.salvageCutOff(r);
+          if (saved) {
+            diag("tool.salvaged", { name: saved.tool });
+            finalizeDiag("tool");
+            return { kind: "tool", calls: [saved], item: d.item };
+          }
+          return { kind: "parse_error", reason: "unclosed", raw: r, item: d.item };
+        }
+        // A closed-looking JSON command envelope that NAMES A REAL TOOL but failed
+        // to parse - typically an unescaped " inside a code/string param broke the
+        // JSON (seen live on Kimi's execute_blender_code: `name = "Camera_System"`
+        // mid-code). Unlike execute_luau there is NO ###LUA### fallback, so the
+        // command silently dropped and the loop finalized the turn as a plain-text
+        // answer with no result and no error - a dead turn. Fire a parse_error so
+        // the model can fix its JSON. GATED on a known command name so prose that
+        // merely quotes {"command":"..."} (a DeepSeek-style explanation, or a
+        // placeholder like "command_name") is NOT misread as a broken command and
+        // looped on - only a real tool name means a genuine failed call.
+        const nm = ZSParse.toolNameFromText(r);
+        if (nm && nm !== "command" && (A.toolNames.has(nm) || A.toolNames.has(bareToolName(nm)))) {
+          return { kind: "parse_error", reason: "malformed", raw: r, item: d.item };
+        }
+      }
+      // Malformed execute_luau: the model wrote the ###END_LUA### closer but
+      // FORGOT the ###LUA### opener, so hasToolSignature missed it and the block
+      // never ran (seen on Gemini). Don't silently treat it as a final answer -
+      // nudge a rewrite instead of leaving the user stuck on a dead turn.
+      if (ZSParse.LUA_END_RE.test(r) && !ZSParse.LUA_START_RE.test(r) && !r.includes(ZSParse.START_M)) {
+        return { kind: "parse_error", reason: "luaOpener", raw: r, item: d.item };
+      }
+      // Malformed command: the model emitted a tool's RAW ARGUMENTS as a bare JSON
+      // object (e.g. {"datamodel_type":...,"edits":[...],"file_path":...}) instead of
+      // the required {"command":...,"params":...} envelope - it treated the tool as a
+      // real callable function (seen on Gemini). Those argument keys never appear in a
+      // normal prose answer, so nudge a rewrite rather than ending the turn silently.
+      if (/"(?:datamodel_type|edits|old_string|new_string|file_path|target_file)"\s*:/.test(r) &&
+          !/"command"\s*:/.test(r)) {
+        return { kind: "parse_error", reason: "envelope", raw: r, item: d.item };
+      }
+      // NOTE: a site "server busy / something went wrong" notice is deliberately
+      // NOT special-cased. It falls through to kind:"text" below and simply ENDS
+      // the loop as a final answer - no auto-retry. Retrying risked an infinite
+      // re-answer loop when the model's OWN prose said "try again", and treating
+      // busy as a normal terminal turn is cleaner: the user just re-sends if the
+      // site actually hiccuped. (P.isBusyMsg stays on the provider interface,
+      // unused by the core, in case a future flow wants it.)
+      // The site caps output length and shows a native "Continue" button when it
+      // truncates. We try clicking it directly (same turn) in the loop.
+      if (P.findContinueBtn()) return { kind: "truncated", text: r, item: d.item };
+      if (r === "") { diag("empty.why", { branch: "finalBlank" }); return { kind: "empty" }; }
+      return { kind: "text", text: r };
+    }
+    return { kind: "timeout" };
+  }
+
+  // ChatGPT's CodeMirror code blocks appear after a short second render. Its
+  // first render can look like a plain reply (only the language chrome is in
+  // the DOM), so recover a command that arrives immediately afterwards. The
+  // pre check keeps ordinary text-only answers instant.
+  async function recoverChatGPTCommand(res) {
+    if (P.id !== "chatgpt" || res.kind === "tool") return res;
+    // A protocol-complete response is final. In particular, do not spend the
+    // delayed-code-block recovery window keeping the interface on “Stop” after
+    // ChatGPT already said the requested work is done.
+    if (res.kind === "text" && /\[\[EVERLUA_DONE\]\]/i.test(res.text || "")) return res;
+    // ChatGPT mounts its message shell, language header, and CodeMirror <pre>
+    // in separate renders. Its accessibility reader can lag one render behind
+    // the visible code block, so also parse the raw turn text as a fallback.
+    // This specifically prevents a complete `{"command":"..."}` card from
+    // being classified as ordinary prose and left as "not run".
+    const rawCalls = (item) => {
+      if (!item) return [];
+      return ZSParse.parseToolCalls(item.textContent || "");
+    };
+    // A ChatGPT code block occasionally takes just over the old 12-second
+    // recovery window to attach after its JSON language header. This runs only
+    // after the normal reply watcher has already produced a non-tool verdict.
+    const deadline = Date.now() + 30000;
+    while (Date.now() < deadline && !A.stop) {
+      const d = P.readAssistant();
+      let calls = ZSParse.parseToolCalls(d.reply || "");
+      if (!calls.length) calls = rawCalls(d.item);
+      if (calls.length) return { kind: "tool", calls, item: d.item };
+      await sleep(200);
+    }
+    return res;
+  }
+
+  // ChatGPT's CodeMirror accessibility text occasionally replaces one letter of
+  // the tiny bootstrap command while the visible code block remains correct
+  // (for example `list_comman_s` / `list_command_`). It only affects the
+  // mandatory no-argument setup call, so repair that narrow family here rather
+  // than applying fuzzy matching to user-requested Studio tools.
+  function normalizeChatGPTBootstrapCall(res) {
+    if (P.id !== "chatgpt" || res.kind !== "tool" || !res.calls || res.calls.length !== 1) return res;
+    const call = res.calls[0];
+    if (call) {
+      const name = String(call.tool || "").toLowerCase();
+      const target = "list_commands";
+      const rows = Array.from({ length: name.length + 1 }, (_, i) => i);
+      for (let j = 1; j <= target.length; j++) {
+        let previous = rows[0]; rows[0] = j;
+        for (let i = 1; i <= name.length; i++) {
+          const old = rows[i];
+          rows[i] = Math.min(rows[i] + 1, rows[i - 1] + 1, previous + (name[i - 1] === target[j - 1] ? 0 : 1));
+          previous = old;
+        }
+      }
+      if (rows[name.length] <= 3) call.tool = target;
+    }
+    return res;
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  TOOL EXECUTION  (always returns a feedback string for the model)
+  // ════════════════════════════════════════════════════════════════════════
+  function bg(msg) {
+    return new Promise((resolve) => {
+      try {
+        chrome.runtime.sendMessage(msg, (resp) => {
+          if (chrome.runtime.lastError) {
+            resolve({ ok: false, kind: "disconnected", error: chrome.runtime.lastError.message });
+          } else {
+            resolve(resp || { ok: false, kind: "disconnected", error: "no response from background" });
+          }
+        });
+      } catch (e) {
+        resolve({ ok: false, kind: "disconnected", error: String(e) });
+      }
+    });
+  }
+
+  // 'subagent' is always blocked (long-running, hangs the loop). 'screen_capture'
+  // is only blocked on providers whose underlying model can't see images
+  // (P.supportsVision === false) - see providers/*.js for the per-site flag.
+  // Both are filtered out of the advertised command list AND refused in runTool.
+  // Addon servers (Blender, Sketchfab, ...) can ALSO ship an image-returning
+  // tool under any name we don't know in advance - rather than guess names,
+  // any tool result carrying images is caught generically at the point results
+  // are handled (see the `r.images.length` branch) and turned into a plain
+  // error on non-vision providers, so nothing needs to be predicted here.
+  const ALWAYS_BLOCKED_TOOLS = new Set(["subagent"]);
+  const VISION_TOOLS = new Set(["screen_capture"]);
+  const bareToolName = (name) => (name && name.includes("/") ? name.split("/").pop() : name) || "";
+  const isBlockedTool = (name) => {
+    const bare = bareToolName(name);
+    if (ALWAYS_BLOCKED_TOOLS.has(bare)) return true;
+    if (VISION_TOOLS.has(bare) && !P.supportsVision) return true;
+    return false;
+  };
+
+  // ── Learned image tools (reload-proof "screen" chip) ──────────────────────
+  // The known Roblox vision tool (screen_capture) is themed "screen" by name via
+  // ZS.toolCategory. A custom MCP tool's NAME reveals nothing, so we learn which
+  // ones return images and persist that across reloads: with it, a revisited or
+  // reloaded conversation still shows the image-capture chip (not the generic
+  // wrench), and the NEXT call of a known image tool is optimistic from the start.
+  // The marker below is the exact tail runTool appends to a feedback that carries
+  // an image (see runTool's r.images branch) - the reload-proof signal, readable
+  // straight from the injected result turn's text even when no loop is running.
+  const IMAGE_FEEDBACK_RE = /image is attached to THIS message/i;
+  function rememberImageTool(name) {
+    const bare = bareToolName(name);
+    if (!bare || A.imageTools.has(bare)) return;
+    A.imageTools.add(bare);
+    diag("imageTool.remember", { name: bare, total: A.imageTools.size });
+    try { chrome.storage.local.set({ zsImageTools: [...A.imageTools].slice(-200) }); } catch {}
+  }
+  try {
+    chrome.storage.local.get("zsImageTools", (r) => {
+      if (r && Array.isArray(r.zsImageTools)) for (const n of r.zsImageTools) A.imageTools.add(n);
+      diag("imageTool.loaded", { tools: [...A.imageTools] });
+    });
+  } catch {}
+
+  // How long a fetched catalogue stays good enough to reuse without a round trip.
+  const TOOLS_TTL_MS = 30000;
+
+  // Refresh the tool catalogue - but never pay for it twice in a row.
+  //
+  // DEGRADED MODE (Roblox Studio closed, running on an addon server like Blender)
+  // is where this used to hurt: a list_tools whose Roblox half is dead blocks the
+  // bridge until it gives up, and the extension waited the FULL background timeout
+  // for it. The boot sequence calls this three times in a row - startSession(),
+  // then the model's list_commands, then list_mcp_servers - so the user watched
+  // ~a minute of dead air with the model's reply already finished on screen
+  // ("the first commands take forever even though the model clearly stopped
+  // writing"). A short TTL collapses those three calls into one, and the caller
+  // keeps the catalogue it already has instead of stalling for a fresh one.
+  async function ensureTools(force) {
+    if (!force && A.toolList.length && Date.now() - A.toolsAt < TOOLS_TTL_MS) {
+      diag("tools.cached", { age: Date.now() - A.toolsAt, n: A.toolList.length });
+      return A.toolList;
+    }
+    const t0 = Date.now();
+    const r = await bg({ type: "list_tools" });
+    diag("tools.fetched", { ms: Date.now() - t0, n: (r && r.tools && r.tools.length) || 0 });
+    if (r && r.tools && r.tools.length) {
+      const tools = r.tools.filter((t) => !isBlockedTool(t.name));
+      A.toolList = tools;
+      A.toolNames = new Set(tools.map((t) => t.name));
+      A.toolsAt = Date.now();
+    }
+    return A.toolList;
+  }
+
+  async function runTool(call) {
+    const name = call.tool;
+    const args = call.arguments || {};
+    if (!name) return ZS.FEEDBACK.parseError("malformed");
+    // NEVER execute while the AI tab is backgrounded/minimized. This is the single
+    // choke point for ALL execution (agentLoop's tool dispatch AND the bootstrap's
+    // list_commands), so it closes the hole the loop-entry gate alone left open:
+    // the tab is foreground when a cycle starts, the model then generates for
+    // 30-120s, the user minimizes MID-generation, and waitForResponse returns a
+    // tool call that fired into Studio off-screen (observed live: GLM minimized
+    // still ran execute_luau). Parking here (no time cap) means the call runs the
+    // moment the tab is foreground again, instead of being lost or run blind.
+    if (document.hidden && !A.stop) {
+      diag("tool.waitVisible", { name });
+      // Only reachable via a user Stop while parked; agentLoop's post-runTool
+      // A.stop check breaks the loop and discards this, so it just needs to be
+      // a non-crashing, clearly-labelled string.
+      if (!(await waitVisible()) || A.stop) return "ERROR: the command was not run - stopped by the user.";
+    }
+    // Blocked commands: refuse up-front with a clear, tailored error so the
+    // model abandons it and continues instead of wasting/hanging a turn.
+    const bareName = bareToolName(name);
+    if (isBlockedTool(name)) {
+      if (VISION_TOOLS.has(bareName)) {
+        return `ERROR: '${bareName}' is unavailable here - this assistant cannot see images. Do NOT call it again. Inspect the place programmatically instead (e.g. inspect_instance, get_studio_state, search_game_tree, script_read).`;
+      }
+      return `ERROR: the '${bareName}' command timed out and is unavailable in this environment. Do NOT call it again - complete the task yourself using the other commands (execute_luau, multi_edit, etc.).`;
+    }
+    // Virtual command: list the MCP server(s) EverLua is currently connected
+    // to, with each one's REAL per-server health (from the bridge, never the
+    // merged tool count - a dead server must not borrow another's numbers).
+    if (name === "list_mcp_servers") {
+      await ensureTools();
+      const servers = (A.bridge && A.bridge.servers) || [];
+      const lines = servers.length
+        ? servers.map((sv) => {
+            const label = sv.id === "roblox" ? "Roblox Studio (primary)" : `${sv.id} (addon)`;
+            return `- ${sv.id}: ${label} - ${sv.alive ? `${sv.tools || 0} commands available` : "offline (no tools)"}`;
+          })
+        : ["- roblox: Roblox Studio (primary) - unknown (bridge did not report server health)"];
+      return (
+        `Output of 'list_mcp_servers':\n` +
+        `Connected MCP servers (${lines.length}):\n${lines.join("\n")}\n` +
+        `Use list_commands with a "server" param (one of the ids above) to see that server's exact commands. Without "server", list_commands defaults to "roblox".`
+      );
+    }
+    // Virtual command: list available commands with full details. Defaults to
+    // the primary Roblox server - a DIFFERENT server's tools only ever show up
+    // if the model explicitly asks via {"server": "<id>"} (see list_mcp_servers).
+    if (name === "list_commands" || name === "list_tools") {
+      await ensureTools();
+      const requested = (args.server || "roblox").trim();
+      // The MCP proxy keeps advertising Roblox's catalogue even with no Studio
+      // attached, so list_commands would hand back the full command list and read
+      // as "Roblox is fine" - then every command silently fails. When Roblox is
+      // actually unusable, short-circuit the DEFAULT (roblox) listing into a plain
+      // "Roblox is down" note that points the model at the other server(s), so it
+      // can keep working in degraded mode instead of firing dead Roblox commands.
+      if (requested === "roblox") {
+        const s = A.bridge || {};
+        const srv = s.servers || [];
+        const rbx = srv.find((x) => x.id === "roblox");
+        const rbxAlive = rbx ? !!rbx.alive : (!!s.mcpAlive || srv.some((x) => x.alive));
+        const rbxUsable = !!s.connected && rbxAlive && s.studio !== false;
+        if (!rbxUsable) {
+          const others = srv.filter((x) => x.id !== "roblox" && x.alive && (x.tools || 0) > 0);
+          const otherStr = others.length
+            ? `Other connected MCP server(s): ${others.map((x) => x.id).join(", ")}. Call list_mcp_servers, then list_commands with a "server" param to use them for anything that does not need Roblox.`
+            : `No other MCP server is connected right now.`;
+          return `Output of '${name}':\nRoblox Studio is currently OFFLINE (closed, no place open, or its MCP server disabled), so its commands cannot run. This is an environment problem on the user's machine, not your mistake. Tell the user in one short sentence to open their place in Roblox Studio and enable its MCP server. ${otherStr}`;
+        }
+      }
+      const known = new Set(A.toolList.map((t) => t.server).filter(Boolean));
+      // Tools from a bridge that doesn't tag "server" yet (old version) have no
+      // .server field at all - treat those as the primary server rather than
+      // hiding everything.
+      const scoped = A.toolList.filter((t) => (t.server || "roblox") === requested);
+      if (!A.toolList.length) return `Output of '${name}':\nNo commands available - the bridge or Roblox Studio may be offline.`;
+      if (!scoped.length) {
+        return `Output of '${name}':\nERROR: no server named "${requested}" is connected. Connected servers: ${[...known].join(", ") || "roblox"}. Call list_mcp_servers to check.`;
+      }
+      const lines = scoped.map((t) => {
+        const props = (t.inputSchema && t.inputSchema.properties) || {};
+        const req = new Set((t.inputSchema && t.inputSchema.required) || []);
+        // Two buckets: simple scalar params get packed onto ONE compact line;
+        // params that need real explanation (array-of-object shape, or a long
+        // description) keep their own line so nothing structurally important
+        // gets flattened away (that per-item shape is what fixed "Unknown …
+        // action: nil" bugs on user_keyboard_input/user_mouse_input).
+        const compact = [];
+        const detailed = [];
+        for (const [k, v] of Object.entries(props)) {
+          const items = v.items && typeof v.items === "object" ? v.items : null;
+          const itemProps = items && items.properties;
+          const mark = req.has(k) ? "" : "?";
+          if (v.type === "array" && itemProps) {
+            const itemReq = new Set(items.required || []);
+            const fields = Object.entries(itemProps).map(([ik, iv]) => {
+              const en = Array.isArray(iv.enum) && iv.enum.length <= 12 ? `(${iv.enum.join("|")})` : (iv.type || "any");
+              return `${ik}${itemReq.has(ik) ? "" : "?"}:${en}`;
+            });
+            detailed.push(`    ${k}${mark}: array [each item: {${fields.join(", ")}}]${v.description ? " - " + v.description : ""}`);
+          } else if (v.description && v.description.length > 45) {
+            detailed.push(`    ${k}${mark}: ${v.type || "any"} - ${v.description}`);
+          } else {
+            const ty = Array.isArray(v.enum) && v.enum.length <= 8 ? `(${v.enum.join("|")})` : (v.type || "any");
+            compact.push(`${k}${mark}:${ty}${v.description ? ` "${v.description}"` : ""}`);
+          }
+        }
+        const paramLines = [compact.length ? `    ${compact.join(", ")}` : "", ...detailed].filter(Boolean).join("\n");
+        // Tested usage note for the error-prone commands - kept full-length
+        // (these are validated fixes for real bugs, not filler).
+        const note = ZS.TOOL_NOTES[bareToolName(t.name)];
+        const noteStr = note ? `\n    ⚠ ${note}` : "";
+        return `${t.name}: ${(t.description || "").split("\n")[0]}${paramLines ? "\n" + paramLines : ""}${noteStr}`;
+      });
+      return `Output of '${name}':\n${requested} commands (${scoped.length}):\n\n${lines.join("\n\n")}`;
+    }
+    if (A.toolNames.size && !A.toolNames.has(name)) {
+      return ZS.FEEDBACK.unknownTool(name, [...A.toolNames]);
+    }
+    // The Roblox MCP REQUIRES datamodel_type on execute_luau (enum Edit/Client/
+    // Server). The ###LUA### parser already fills it in, but the model may also
+    // write the JSON form without it - default to "Edit" so the call never
+    // soft-fails with "datamodel_type is required".
+    if (bareName === "execute_luau" && !args.datamodel_type) args.datamodel_type = "Edit";
+    // The player-input tools only run against the Client datamodel (play mode) and
+    // "Client" is the sole allowed value, so default it when the model omits it -
+    // it can only be right. (It still needs the game RUNNING; that's documented.)
+    if ((bareName === "user_keyboard_input" || bareName === "user_mouse_input") && !args.datamodel_type)
+      args.datamodel_type = "Client";
+    const timeout = name === "execute_luau" ? 20000 : 120000;
+    // Hard watchdog: even if the background worker never answers, the loop
+    // gets a definitive result and continues.
+    const hardCap = new Promise((res) =>
+      setTimeout(() => res({ ok: false, kind: "timeout", error: "no response from the extension worker" }), timeout + 30000));
+    // Stop watcher: a blocking tool (e.g. wait_job_finished) would otherwise keep
+    // the loop awaiting the bridge for up to minutes, leaving the input locked and
+    // the Stop button stuck. When the user halts (A.stop), abandon the wait within
+    // ~150ms so the loop breaks and its finally unlocks everything. The in-flight
+    // bridge call may still finish in the background; its result is just ignored.
+    let stopTimer;
+    const stopWatch = new Promise((res) => {
+      stopTimer = setInterval(() => { if (A.stop) res({ ok: false, kind: "stopped" }); }, 150);
+    });
+    let r = await Promise.race([bg({ type: "call_tool", name, arguments: args, timeout }), hardCap, stopWatch]);
+    clearInterval(stopTimer);
+    if (r && r.kind === "stopped") return "(stopped by user)";
+    if (!r) return ZS.FEEDBACK.bridgeOffline;
+    // The MCP server answers SUCCESSFULLY (ok:true) when no Studio is attached
+    // (Studio closed / no place / MCP option disabled) - with an explanatory
+    // text instead of a result. Surface it as a proper environment ERROR so the
+    // model stops and tells the user, instead of treating it as tool output.
+    if (r.ok && /Unable to find an active Studio instance|previously active Studio has disconnected/i.test(r.text || "")) {
+      ui.banner("warn", "Roblox Studio is not connected",
+        "Open your place in Roblox Studio and enable the MCP server (Assistant AI → … → Manage MCP Servers → Enable Studio as MCP Server), then try again.");
+      return ZS.FEEDBACK.studioOffline;
+    }
+    // The Roblox MCP reports missing/invalid required parameters as a SUCCESS
+    // whose text is just the complaint (e.g. "datamodel_type is required").
+    // Re-shape those into a real ERROR so the model corrects the call instead
+    // of misreading it as tool output.
+    if (r.ok && r.text && /^[\w .'"-]{0,60}\bis (required|not available|invalid)\b[\w .'"-]{0,80}$/i.test(r.text.trim())) {
+      return `ERROR calling '${name}': ${r.text.trim()}.\nA required or invalid parameter - check the command's parameters with list_commands, fix the call and retry.`;
+    }
+    // The Roblox MCP also reports Luau PARSE/RUNTIME errors as a SUCCESS whose
+    // text is the executor's own stack trace ("…ExecuteLuauTool:139: …
+    // CommandExecution:54: <real error>" - validated live). Genuine script
+    // output never contains those internal paths. Re-shape into a real ERROR so
+    // the model gets the fix-it hints below and the chip settles red, not ✓
+    // green - and strip the internal frames so only the useful part remains.
+    if (r.ok && bareName === "execute_luau" && r.text &&
+        /\b(?:ExecuteLuauTool|CommandExecution):\d+:/.test(r.text)) {
+      r = { ok: false, error: r.text.replace(/^(?:\S*(?:ExecuteLuauTool|CommandExecution):\d+:\s*)+/, "").trim() || r.text };
+    }
+    if (r.ok) {
+      if (r.images && r.images.length && !P.supportsVision) {
+        // Any tool from ANY connected server can turn out to return images -
+        // we don't try to predict this from its name in advance. This is the
+        // generic catch: whatever just ran, if it handed back images and this
+        // provider's model can't see them, refuse cleanly instead of silently
+        // attaching a file it will never actually process.
+        return `ERROR: '${bareName}' returned an image, but this assistant cannot see images. Do NOT call it again. Use a different command to get the information as text instead.`;
+      }
+      if (r.images && r.images.length) {
+        // Show the capture in a left-hand EverLua popup (from the in-memory
+        // base64 - simple and reliable on every site; no DOM-embedded preview).
+        ui.showImages(r.images, name);
+        // Do NOT attach the image here: submitAndGetBase/typeAndSend types the
+        // feedback text into the editor LATER, and on providers whose editor is
+        // rebuilt via select-all + insertText (e.g. Gemini's setEditorText),
+        // that wipe severs the site's internal binding between "pending upload"
+        // and "message being composed" - the file then sits in the composer
+        // forever while only the text goes out (validated live: Gemini kept
+        // the file attached+unsent across the whole turn). Stash the images and
+        // let the provider attach them as the LAST step, right before the send
+        // click, so nothing mutates the editor afterward.
+        A.pendingImages = r.images;
+        diag("images.stashed", { count: r.images.length });
+        const caption = r.text && r.text.trim()
+          ? r.text.trim()
+          : `${r.images.length} image(s) captured.`;
+        return `Output of '${name}':\n${caption}\n(The image is attached to THIS message - you can see it directly. Analyse it and continue.)`;
+      }
+      const text = r.text && r.text.length ? r.text : "(tool returned an empty result)";
+      return `Output of '${name}':\n${text}`;
+    }
+    if (r.kind === "disconnected") return ZS.FEEDBACK.bridgeOffline;
+    if (r.kind === "timeout") {
+      return `ERROR: tool '${name}' timed out after ${name === "execute_luau" ? 20 : 120}s.\n${r.error}\nTry a shorter/simpler call or check that Roblox Studio is open and responsive.`;
+    }
+    if (name === "execute_luau") {
+      const err = r.error || "";
+      const hint = err.includes("Failed to parse command code")
+        ? "Your code block was empty or the marker was wrong. Use exactly ###LUA### (three hashes) - never ###LUA---. The code must be between ###LUA### and ###END_LUA###."
+        : err.includes("attempt to") || err.includes("nil value")
+          ? "Lua runtime error. Check that the API you are calling exists (use game:GetService() to access services). Make sure you use 'return' to output values, not 'print()'."
+          : "Check your Lua syntax, make sure you use 'return' to output values (not 'print()'), and that all APIs you call exist in the current Roblox Studio context.";
+      return `ERROR in execute_luau: ${err}\n\n${hint}\n\nFix the code and retry.`;
+    }
+    return `ERROR calling '${name}': ${r.error}\nRead the error carefully, fix the call or try a different approach.`;
+  }
+
+  function argSummary(call) {
+    if (!call) return "";
+    if (call.tool === "execute_luau") {
+      const code = (call.arguments && call.arguments.code) || "";
+      const first = code.split("\n").map((s) => s.trim()).filter(Boolean)[0] || "";
+      return first.slice(0, 46);
+    }
+    const a = call.arguments || {};
+    const k = Object.keys(a)[0];
+    if (!k) return "";
+    let v = String(a[k]);
+    if (v.length > 34) v = v.slice(0, 31) + "…";
+    return `${k}: ${v}`;
+  }
+
+  // An MCP tool can report its OWN failure as a NORMAL result ("Output of '…':
+  // Error executing code: …") instead of our ERROR wrapper - so a
+  // startsWith("ERROR") test alone paints a FAILED call ✓ green and shows the
+  // error as its summary (seen live on Blender's execute_blender_code, and it
+  // will hit EVERY future MCP server the same way). Treat a result whose FIRST
+  // line opens with an error lead-in as failed too. Deliberately PHRASE-based,
+  // not the bare words "error"/"failed", so a genuine success line like
+  // "Failed: 0" / "Error count: 0" is NOT misread as a failure.
+  const BODY_ERR_RE =
+    /^\s*(error executing|error:|erreur|exception|traceback|communication error|failed to|could ?not|cannot |unable to|fatal)\b/i;
+  const stripOutputPrefix = (feedback) => feedback.replace(/^Output of '[^']*':\n?/, "");
+  function bodyLooksFailed(feedback) {
+    if (!feedback || feedback.startsWith("ERROR")) return false; // wrapper already flags it
+    const first = stripOutputPrefix(feedback).split("\n").map((s) => s.trim()).find(Boolean) || "";
+    return BODY_ERR_RE.test(first);
+  }
+  // True failure = OUR wrapper prefix OR an MCP tool's in-body error lead-in.
+  const feedbackIsError = (feedback) => feedback.startsWith("ERROR") || bodyLooksFailed(feedback);
+
+  function outSummary(feedback) {
+    if (!feedback) return "";
+    const isErr = feedbackIsError(feedback);
+    const body = stripOutputPrefix(feedback).trim();
+    if (!body) return "";
+    const all = body.split("\n").map((l) => l.trim()).filter(Boolean);
+    const lines = all.length;
+    // On SUCCESS, skip a leading non-fatal warning/note some MCP tools print
+    // before the real status so the chip shows the useful line, not the noise.
+    let first = all[0] || "";
+    if (!isErr && lines > 1 && /^(warning|warn|note|deprecat|info)\b/i.test(first)) {
+      first = all.find((l) => !/^(warning|warn|note|deprecat|info)\b/i.test(l)) || first;
+    }
+    first = first.slice(0, 44);
+    if (isErr) return first;
+    return lines > 1 ? `${first} · ${lines} lines` : first;
+  }
+
+  // Full args / code, shown in a tool chip's expandable body.
+  function callBody(call) {
+    const a = call.arguments || {};
+    if (call.tool === "execute_luau") return (a.code || "").trim();
+    try { return JSON.stringify(a, null, 2); } catch { return String(a); }
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  AGENTIC LOOP
+  // ════════════════════════════════════════════════════════════════════════
+  async function agentLoop(base) {
+    if (A.running) return;
+    A.running = true;
+    A.resumeArmed = false; // loop now owns the turn; drop the regenerate grace
+    A.stop = false;
+    A.stopping = false; // clean slate: never inherit a stale "Stopping…" from a
+                        // Stop click that landed before this loop actually started
+    A.loopKey = null; // pinned by syncSessionState once this chat has an id + content
+    let truncCount = 0;
+    let completedNormally = false, completedWork = false, lastOutcomeError = false;
+    const successfulCallSignatures = new Map();
+    const MAX_TRUNC = 6;
+    // Re-send the command list after this many successful tool calls. Kept high
+    // so the reminder does not bloat the context too often.
+    const REMIND_TOOLS_EVERY = 20;
+    ui.showStop(true);
+    P.setInputLock(true); // prevent user from typing while the agent is active
+    ui.inputCover(true);  // keep the "Agent is working" cover up for the WHOLE loop
+    diag("loop.start", { base });
+    try {
+      while (!A.stop) {
+        // Gate the WHOLE cycle on tab visibility. We only advance - read the
+        // reply, PARSE it, EXECUTE a tool, inject the result - while the AI tab
+        // is the FOREGROUND tab of its Edge window. document.visibilityState
+        // (mirrored by document.hidden) is the right signal, NOT window focus:
+        //  - Edge loses OS focus but the AI tab stays the active tab (user is
+        //    working in Roblox Studio) -> still "visible" -> the agent keeps
+        //    running, exactly as wanted.
+        //  - The AI tab is backgrounded (another tab in front) or the window is
+        //    minimized -> "hidden" -> pause here. Background tabs throttle
+        //    rendering/timers, which made DOM reads unreliable (misparse,
+        //    duplicate sends - see the send-side guard in submitAndGetBase).
+        // Parking here means we never START a parse/exec cycle off-screen; the
+        // send step re-checks too, so a switch-away mid-generation is covered.
+        if (document.hidden && !A.stop) {
+          diag("loop.waitVisible");
+          ui.inputCover(true); // keep the "Agent is working" cover up while parked
+          if (!(await waitVisible()) || A.stop) break; // park (no cap) until foreground; break only on user stop
+          diag("loop.visibleAgain");
+        }
+        let res = await waitForResponse(base);
+        res = await recoverChatGPTCommand(res);
+        diag("response", { kind: res.kind });
+        if (A.stop || res.kind === "stopped") break;
+
+        if (res.kind === "context_limit") {
+          lastOutcomeError = true;
+          ui.banner("limit", `${P.displayName} reached its context limit`,
+            (res.detail || "") + "  -  open a new chat to start fresh.");
+          break;
+        }
+        if (res.kind === "too_long") {
+          lastOutcomeError = true;
+          ui.banner("limit", "Conversation too long",
+            `${P.displayName} reports the conversation is getting too long. Start a new session.`);
+          break;
+        }
+        if (res.kind === "timeout") {
+          lastOutcomeError = true;
+          ui.banner("warn", `No response from ${P.displayName}`,
+            `${P.displayName} did not respond in time. The loop has stopped.`);
+          break;
+        }
+        // A genuinely empty turn is effectively never produced (the warm-up guard
+        // waits out slow starts). It DOES happen when the site drops a reply, and
+        // ending the loop silently is what made this the single most confusing
+        // failure: the pending command just settles to a grey "not run" with no
+        // explanation anywhere. Say what happened.
+        if (res.kind === "empty") {
+          lastOutcomeError = true;
+          diag("empty.end");
+          ui.banner("warn", `${P.displayName} returned an empty reply`,
+            `The turn produced no text, so the agent loop stopped. Nothing was run. ` +
+            `Ask ${P.displayName} to continue, or press Start again in a new chat.`);
+          break;
+        }
+
+        // The turn stopped with the site's "Continue" affordance.
+        if (res.kind === "truncated") {
+          // If the turn carries the halted marker (a stop - user OR self-halt),
+          // respect it and do NOT auto-resume.
+          if (P.turnHalted(res.item)) { diag("truncated.halted"); break; }
+          // Otherwise it truncated by length → continue the SAME turn. Prefer
+          // the native Continue button; fall back to a continuation message.
+          if (truncCount < MAX_TRUNC) {
+            truncCount++;
+            if (P.clickContinueBtn() && await waitFor(() => P.isGenerating(), 2500)) {
+              diag("truncated.continued");
+              continue; // same turn resumes (base unchanged)
+            }
+            diag("truncated.sendFallback");
+            ui.toast("Reply was cut off, resuming…");
+            base = await submitAndGetBase(ZS.FEEDBACK.truncated);
+            continue;
+          }
+          if (res.text) break; // give up resuming; keep what we have as the answer
+          ui.banner("warn", "Reply kept getting cut off",
+            "The model repeatedly hit its length limit. Try a shorter request or start a new session.");
+          break;
+        }
+        truncCount = 0;
+
+        if (res.kind === "parse_error") {
+          // The command turn ended in a parse error - it NEVER ran. Paint its chip
+          // as an error (owned, so the sweep won't repaint it the green ✓ "done" it
+          // stamps on any command-shaped turn once generation ends - the misleading
+          // "chip says OK, result says error" state seen live on GLM's truncated
+          // execute_blender_code).
+          const failName = ZSParse.toolNameFromText(res.raw || "") || "command";
+          if (res.item) {
+            const detail = res.reason === "unclosed" ? "cut off"
+              : res.reason === "luaOpener" ? "missing ###LUA###"
+              : res.reason === "envelope" ? "bad format"
+              : "bad JSON";
+            decorate.toolBox(res.item, failName, "err", detail, true, "", ZS.toolCategory(failName));
+          }
+          // Pass the detected command name so the feedback only offers the
+          // ###LUA### block when it actually applies (execute_luau) - never for a
+          // truncated/broken execute_blender_code or other JSON-only command.
+          base = await submitAndGetBase(ZS.FEEDBACK.parseError(res.reason, failName));
+          continue;
+        }
+        if (res.kind === "text") {
+          // A plan is a plain-text response by design. Once it is written, show
+          // the explicit execution gate instead of treating it as a final answer.
+          if (ui.getAgentMode() === "plan" && !ui.isPlanExecutionApproved()) {
+            ui.setPlanReady();
+            completedNormally = true;
+            break;
+          }
+          // ChatGPT can mount the final sentence a beat after its code/script
+          // block. Re-read the newest assistant turn before queuing a goal
+          // check, so a just-rendered "Done — ..." never gets an unnecessary
+          // follow-up message.
+          await sleep(900);
+          const latestGoalReply = (P.readAssistant().reply || res.text || "").trim();
+          // A clear human-readable "Done — ..." is the normal completion
+          // signal. The marker remains a fallback for strict protocol replies.
+          const goalComplete = /\[\[EVERLUA_DONE\]\]/i.test(latestGoalReply) ||
+            /^\s*(?:done|completed|finished)\b/i.test(latestGoalReply);
+          const executionEnabled = ui.getAgentMode() === "automatic" ||
+            (ui.getAgentMode() === "plan" && ui.isPlanExecutionApproved());
+          const canContinueGoal = A.goalActive && executionEnabled &&
+            !goalComplete && A.goalContinuations < 8;
+          if (canContinueGoal) {
+            A.goalContinuations++;
+            ui.setStarted();
+            diag("goal.continue", { attempt: A.goalContinuations });
+            base = await submitAndGetBase(
+              "GOAL CHECK: Review the active user request and your last reply. Is every requested part actually complete? If YES, reply starting exactly `Done —` followed by a short result, then end with [[EVERLUA_DONE]]. If NO, do not give a status-only reply: immediately continue the work with the next required EverLua command."
+            );
+            continue;
+          }
+          A.goalActive = false;
+          A.goalContinuations = 0;
+          ui.setStarted();
+          completedNormally = true;
+          break;
+        } // final answer
+
+        if (res.kind === "tool") {
+          const calls = res.calls;
+          if (calls.length > 1) {
+            base = await submitAndGetBase(ZS.FEEDBACK.multiTool(calls.map((c) => c.tool || "?")));
+            continue;
+          }
+          const call = calls[0];
+          const mode = ui.getAgentMode();
+          if (mode === "chat") {
+            decorate.toolBox(res.item, call.tool, "err", "Chat mode", true, callBody(call), ZS.toolCategory(call.tool));
+            ui.toast("Chat mode blocks Studio tools. Switch modes for a new session to execute.");
+            break;
+          }
+          if (mode === "plan" && !ui.isPlanExecutionApproved()) {
+            decorate.toolBox(res.item, call.tool, "err", "Plan not approved", true, callBody(call), ZS.toolCategory(call.tool));
+            ui.setPlanReady();
+            break;
+          }
+          if (mode === "manual") {
+            const approved = await ui.requestToolApproval(call);
+            if (!approved || A.stop) {
+              decorate.toolBox(res.item, call.tool, "err", "skipped", true, callBody(call), ZS.toolCategory(call.tool));
+              if (A.stop) break;
+              base = await submitAndGetBase(`ERROR: the user skipped '${call.tool}'. Do not run it. Explain the next safe option or wait for another request.`);
+              continue;
+            }
+          }
+          // A model can sometimes repeat the exact command immediately after
+          // receiving its successful output. Do not repeat side effects such as
+          // creating a Part: tell it the prior result is already authoritative.
+          // The guard is scoped to this one user request/agent loop, so a later
+          // user request is still free to intentionally run the same command.
+          let callSignature = "";
+          try { callSignature = JSON.stringify([call.tool, call.arguments || {}]); } catch {}
+          const previousSuccess = callSignature && successfulCallSignatures.get(callSignature);
+          if (previousSuccess && Date.now() - previousSuccess < 60000) {
+            diag("tool.duplicateSuppressed", { name: call.tool });
+            decorate.toolBox(res.item, call.tool, "done", "already completed", true, callBody(call), ZS.toolCategory(call.tool));
+            // This is normally a stale DOM read AFTER ChatGPT already received
+            // the successful result and gave its final answer. Sending another
+            // error message only bloats the conversation and can push ChatGPT
+            // into its context limit. The completed call is authoritative, so
+            // settle the loop quietly without re-running or re-prompting it.
+            completedWork = true;
+            completedNormally = true;
+            break;
+          }
+          // A tool ALREADY seen to return an image this session gets the "screen"
+          // chip optimistically at run time (parity with the known screen_capture),
+          // even though its name alone wouldn't reveal it. First-ever call of an
+          // unknown image tool stays generic here and upgrades at result time below.
+          const learnedImg = A.imageTools.has(bareToolName(call.tool));
+          const category = learnedImg ? "screen" : ZS.toolCategory(call.tool);
+          diag("tool.runCat", { name: call.tool, learnedImg, category });
+
+          // Park BEFORE painting the chip / stamping the clock / marking the turn
+          // dispatched. runTool() gates on visibility too (it is the choke point
+          // that also covers the bootstrap), but parking only there would leave
+          // this block's side effects applied for the whole minimize:
+          //   - the chip spins "running" while nothing actually runs, and
+          //     elapsedOn(zsToolT0) counts the parked time, so a 20-min minimize
+          //     renders a bogus "1200.0s" on the call;
+          //   - rememberExecuted() would mark the turn dispatched before it ever
+          //     ran, so a reload/close while parked loses the command for good -
+          //     the auto-resume watchdog refuses to re-fire an "executed" turn.
+          // Parking first keeps all of that truthful: we only commit once we are
+          // foreground and about to really dispatch.
+          if (document.hidden && !A.stop) {
+            diag("tool.parkBeforeDispatch", { name: call.tool });
+            if (!(await waitVisible()) || A.stop) break;
+          }
+          // Loading chip with the real args (loop owns this item from here).
+          decorate.toolBox(res.item, call.tool, "run", argSummary(call), true, callBody(call), category);
+          A.toolSettle = null; // a fresh call: no settled outcome yet
+          A.toolRunning = true;
+          A.toolStart = Date.now();
+          A.toolName = call.tool;
+          A.toolItem = res.item;
+          A.toolArg = argSummary(call);
+          // Record this turn as dispatched OFF the DOM so the auto-resume
+          // watchdog never re-fires it after a scroll re-render wipes the node's
+          // zloop/zResume markers (see the `executed` map).
+          rememberExecuted(res.item);
+          diag("tool.start", { name: call.tool });
+          const feedback = await runTool(call);
+          A.toolRunning = false;
+          diag("tool.done", { name: call.tool, ok: !feedback.startsWith("ERROR"), out: feedback.slice(0, 50) });
+          if (A.stop) {
+            // User halted mid-tool: settle the spinning chip so it doesn't look
+            // stuck loading forever, and MARK the turn so the sweep classifier
+            // never repaints it ✓ done once generation ends (the real cause of a
+            // stopped call still going green a moment later).
+            if (res.item) { res.item.dataset.zStopped = "1"; rememberHalted(res.item); }
+            decorate.toolBox(res.item, call.tool, "err", "stopped", true, "", category);
+            break;
+          }
+          const isErr = feedbackIsError(feedback);
+          if (!isErr && callSignature) successfulCallSignatures.set(callSignature, Date.now());
+          lastOutcomeError = isErr;
+          if (!isErr && call.tool !== "list_commands" && call.tool !== "list_tools") completedWork = true;
+          const outBody = stripOutputPrefix(feedback);
+          // Trace the chip's DERIVED phase vs summary. Blender (and any MCP whose
+          // output leads with a warning/diagnostic line) resolves ✓ done - the
+          // payload starts "Output of…", not "ERROR" - yet outSummary shows its
+          // FIRST line, which is the warning. Captures firstLine vs a later
+          // success line so we can see the mismatch without guessing.
+          {
+            const lns = outBody.split("\n").map((l) => l.trim()).filter(Boolean);
+            diag("tool.result", { name: call.tool, isErr, phase: isErr ? "err" : "done",
+              summary: outSummary(feedback), lineCount: lns.length,
+              firstLine: (lns[0] || "").slice(0, 90), lastLine: (lns[lns.length - 1] || "").slice(0, 90) });
+          }
+          // A tool (Roblox OR any custom MCP server) that actually RETURNED an
+          // image becomes a "screen" chip - even if its name never let us guess.
+          // Reactive, not predictive: A.pendingImages is set by runTool before it
+          // returns. Remember the name so its next call is optimistic (see above).
+          const hasImages = !!(A.pendingImages && A.pendingImages.length);
+          if (hasImages) rememberImageTool(call.tool);
+          const resultCat = hasImages ? "screen" : category;
+          decorate.toolBox(res.item, call.tool, isErr ? "err" : "done", outSummary(feedback),
+            true, outBody, resultCat);
+          // Snapshot the settled outcome. If the site swaps this turn's DOM node
+          // while we wait for the model's next turn (wiping the chip AND the
+          // zloop ownership dataset), the sweep re-owns the fresh node with this
+          // outcome instead of letting branch-3 classification re-spin a "run"
+          // chip on an already-executed call.
+          A.toolSettle = {
+            phase: isErr ? "err" : "done", detail: outSummary(feedback),
+            body: outBody, category: resultCat, count: P.assistantCount(),
+            // Node IDENTITY of the settled turn (virtualization-proof), when the
+            // provider exposes it. The count guard alone misfires on Qwen: the
+            // list virtualizes so assistantCount() doesn't grow for the model's
+            // NEXT turn, and back-to-back calls to the SAME tool defeat the name
+            // guard too - the sweep then re-owned the STREAMING next turn's chip
+            // with the previous done/err outcome (seen live: 5x chip.reown with
+            // gen:true, rp tiny).
+            id: P.lastAssistantId ? P.lastAssistantId() : undefined,
+          };
+
+          // Re-inject the command list every REMIND_TOOLS_EVERY successful calls.
+          // Appended UNDER the tool result and clearly marked as a reminder, so a
+          // model that has drifted from the exact command names gets re-anchored
+          // without it looking like a new result to act on. Errors don't count
+          // (they already restate what's wrong) and list_commands is redundant.
+          let toSend = feedback;
+          if (!isErr && call.tool !== "list_commands" && A.toolList.length) {
+            A.toolCallsSinceReminder++;
+            if (A.toolCallsSinceReminder >= REMIND_TOOLS_EVERY) {
+              A.toolCallsSinceReminder = 0;
+              // Scope the reminder to the primary Roblox server, exactly like
+              // list_commands: re-injecting EVERY connected server's tools (Blender
+              // etc.) merged flat would bloat the model's context - the opposite of
+              // what the model gets when it lists commands itself. Anti-drift only
+              // needs the primary Roblox set; addon commands were listed on demand
+              // and the bridge routes by name regardless.
+              const roblox = A.toolList.filter((t) => (t.server || "roblox") === "roblox");
+              toSend += ZS.toolsReminder(roblox);
+              diag("tools.reminder", { after: REMIND_TOOLS_EVERY });
+            }
+          }
+          const images = A.pendingImages;
+          A.pendingImages = null;
+          diag("images.consumed", { count: images ? images.length : 0 });
+          base = await submitAndGetBase(toSend, images);
+        }
+      }
+    } catch (e) {
+      lastOutcomeError = true;
+      diag("loop.error", { msg: String((e && e.message) || e) });
+      ui.banner("warn", "Internal loop error", String((e && e.message) || e));
+    } finally {
+      A.running = false;
+      A.stop = false;
+      // Keep the "Stopping…" state while the site's stream is still draining
+      // after a user stop: the loop often ends BEFORE the native stop takes
+      // effect (loop.end fires with gen still true - seen live on DeepSeek),
+      // and clearing the flag here let the next sweep restore a clickable
+      // "■ Stop" for the last beat of the dying stream (the Stopping… → Stop →
+      // gone bounce). The sweep's self-heal clears it - and retries the native
+      // stop - once the site is actually quiet.
+      const draining = A.stopping && A.started && P.isHardGenerating();
+      if (A.stopping && draining) diag("stop.drain", { keptStopping: true });
+      A.stopping = draining;
+      A.toolRunning = false;
+      A.toolSettle = null;
+      A.loopKey = null;
+      ui.showStop(false);
+      ui.inputCover(false); // lift the "Agent is working" cover when the loop ends
+      P.setInputLock(false); // always unlock, even on error or stop
+      if (!A.stopping && ((completedNormally && completedWork) || lastOutcomeError)) {
+        ui.playCompletionSound(lastOutcomeError ? "error" : "success");
+      }
+      diag("loop.end");
+    }
+  }
+
+  // Mark the current assistant turn as user-halted so the sweep classifier shows
+  // its command chip as "stopped" instead of repainting it ✓ done when
+  // generation ends. Cleared on a deliberate resume (native Continue).
+  //
+  // The dataset marker alone is NOT enough: sites re-render the whole history
+  // when the next user message lands (seen live on DeepSeek), replacing the
+  // halted turn's node and wiping dataset.zStopped - and since a fresh user
+  // message also clears the A.userStopped latch by design, nothing said
+  // "stopped" anymore and the chip went ✓ green. So halted turns are ALSO
+  // remembered here, keyed independently of the DOM node (conversation +
+  // position among assistant turns + a text prefix), and the sweep re-stamps
+  // the marker whenever the node was swapped.
+  const halted = new Map(); // "conv|turnKey" → text prefix at halt time
+  const assistantIdx = (item) => P.allItems().filter(P.isAssistantItem).indexOf(item);
+  // Virtualization-stable map key for the off-DOM executed/halted memories.
+  // assistantIdx is POSITIONAL within the currently-rendered window, so on a
+  // virtualized list (DeepSeek/Qwen/GLM/Arena) scrolling up renders a different
+  // set of turns and an OLD command turn takes a low index that COLLIDES with a
+  // current turn's key - the dedupe then misses and the watchdog re-fires the
+  // scrolled-back tool. Prefer the provider's stable per-turn id when it exposes
+  // one (P.itemKey); fall back to the index for non-virtualized providers.
+  const turnKey = (item) => {
+    if (P.itemKey) {
+      const k = P.itemKey(item);
+      if (k != null) return `k${k}`;
+    }
+    return String(assistantIdx(item));
+  };
+  function rememberHalted(item) {
+    try {
+      if (!item || assistantIdx(item) < 0) return;
+      const pref = (P.itemText(item) || "").slice(0, 60);
+      // A stop during the REASONING phase leaves the answer text EMPTY - an
+      // empty/short prefix would then startsWith-match ANY later turn at this
+      // index (seen live: a fresh streaming command went red "stopped" on the
+      // spot). Too little text to identify → rely on the dataset marker only.
+      if (pref.trim().length < 12) return;
+      halted.set(`${P.conversationKey()}|${turnKey(item)}`, pref);
+    } catch {}
+  }
+  function forgetHalted(item) {
+    if (!item || !halted.size) return;
+    try { halted.delete(`${P.conversationKey()}|${turnKey(item)}`); } catch {}
+  }
+  // The halt was recorded MID-stream, so the stored text is a PREFIX of the
+  // turn's final text - match on startsWith, never equality.
+  function isRememberedHalted(item, txt) {
+    if (!halted.size) return false;
+    try {
+      const pref = halted.get(`${P.conversationKey()}|${turnKey(item)}`);
+      return pref != null && (txt || "").startsWith(pref);
+    } catch { return false; }
+  }
+  function markStoppedTurn() {
+    const it = P.lastAssistant();
+    if (!it) return;
+    it.dataset.zStopped = "1";
+    rememberHalted(it);
+  }
+
+  // Off-DOM record of assistant turns whose command has ALREADY been dispatched
+  // (by the normal loop OR the auto-resume watchdog). The dataset markers that
+  // dedupe re-execution (zResume / zloop) live on the DOM NODE - but sites
+  // virtualize long conversations, so scrolling up DESTROYS and RECREATES a
+  // turn's node, wiping those markers. The fresh node then looks un-run, and the
+  // watchdog can re-fire the turn's tool with no live generation at all (the
+  // "tools execute when I scroll back" bug). Mirror the `halted` map exactly
+  // (keyed by conversation + assistant index + a text prefix, NOT the node) so
+  // the "already ran this" memory survives node recreation. This makes
+  // re-execution IDEMPOTENT regardless of any isGenerating/lastGenAt heuristic
+  // misfire - the hard part (is this a live turn?) can be wrong without harm.
+  const executed = new Map(); // "conv|turnKey" → text prefix at dispatch time
+  function rememberExecuted(item) {
+    if (!item) return;
+    try {
+      if (assistantIdx(item) < 0) return;
+      const pref = (P.itemText(item) || "").slice(0, 60);
+      // Same guard as rememberHalted: too little text to identify the turn (a
+      // command still streaming) would startsWith-match any later turn at this
+      // index. Fall back to the dataset marker until there is enough text.
+      if (pref.trim().length < 12) return;
+      executed.set(`${P.conversationKey()}|${turnKey(item)}`, pref);
+    } catch {}
+  }
+  function isRememberedExecuted(item, txt) {
+    if (!executed.size) return false;
+    try {
+      const pref = executed.get(`${P.conversationKey()}|${turnKey(item)}`);
+      return pref != null && (txt || "").startsWith(pref);
+    } catch { return false; }
+  }
+  function stopLoop() {
+    if (A.stopping) return; // already winding down - ignore double-clicks
+    diag("stopLoop");
+    ui.clearApproval();
+    A.stop = true;
+    A.stopping = true;
+    A.stopAt = Date.now(); // grace anchor for the regenerate-as-resume gates
+    // Baseline for the stop-retry growth gate (see the self-heal in the meter
+    // loop): a retry is only allowed if the reply keeps growing PAST this,
+    // proving the first stop click was swallowed. Without it, retries clicked a
+    // wedged (already-stopped) stop button and Gemini killed the NEXT turn.
+    A.stopStreamLen = P.streamLen ? P.streamLen() : 0;
+    A.userStopped = true; // suppress auto-resume until the next user message
+    A.resumeArmed = false; // a stop overrides any pending regenerate grace
+    // Disarm any pending optimistic pre-hide (armed in submitAndGetBase for the
+    // feedback turn we just sent - see the re-arm note there). The input unlocks
+    // right after this function returns, but the window can still be open for a
+    // couple more seconds (e.g. mid-image-upload); without this, a message the
+    // user types fast right after Stop could be the "next new user turn" the
+    // window masks by mistake, instead of the (now abandoned) feedback turn.
+    A.injectHideUntil = 0;
+    markStoppedTurn();
+    // A tool's loading chip is only settled AFTER its `await runTool()` resolves
+    // (the if(A.stop) branch in agentLoop). A long-running call (e.g. a big
+    // multi_edit) leaves that await pending, so the chip would keep spinning for
+    // seconds after the user pressed Stop. Settle it to the stopped state right
+    // now; the loop's own settle on resolve is idempotent.
+    if (A.toolRunning && A.toolItem) {
+      A.toolItem.dataset.zStopped = "1";
+      rememberHalted(A.toolItem);
+      decorate.toolBox(A.toolItem, A.toolName, "err", "stopped", true, "", ZS.toolCategory(A.toolName));
+    }
+    ui.markStopping();    // instant feedback: button → "⏳ Stopping…", disabled
+    P.stopGeneration();
+    ui.toast("Stopping…");
+    // ChatGPT does not expose a reliable native generation flag. Its Stop
+    // button can therefore leave our visual wind-down state alive forever even
+    // after the loop is gone. Release that stale state shortly afterwards; an
+    // actively running tool/loop still owns the state and is never disturbed.
+    setTimeout(() => {
+      if (!A.running && !A.toolRunning && A.stopping) {
+        A.stopping = false;
+        A.stop = false;
+        ui.showStop(false);
+        diag("stop.forcedRelease");
+      }
+    }, 3000);
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  SESSION BOOTSTRAP  ("Starting Up" animated chip, shown in the conversation)
+  // ════════════════════════════════════════════════════════════════════════
+  function modeChangeInstruction(mode) {
+    if (mode === "chat") return "EVERLUA MODE CHANGE: Switch to Chat mode now. Answer and brainstorm only. Do NOT emit EverLua commands or access Roblox Studio. Reply with one short acknowledgement.";
+    if (mode === "manual") return "EVERLUA MODE CHANGE: Switch to Manual mode now. You may propose one EverLua command at a time; the user must approve each command in the EverLua panel before it runs. Reply with one short acknowledgement.";
+    if (mode === "plan") return "EVERLUA MODE CHANGE: Switch to Plan mode now. For the user's next request, write a concise numbered plan and do NOT emit commands until they enable execution in the EverLua panel. Reply with one short acknowledgement.";
+    return "EVERLUA MODE CHANGE: Switch to Automatic mode now. Carry out the user's requested Roblox work one command at a time, wait for each result, and continue until complete. Reply with one short acknowledgement.";
+  }
+
+  async function syncActiveModeChange(mode) {
+    if (!A.started || A.running || A.starting) return;
+    A.goalActive = false;
+    A.goalContinuations = 0;
+    try {
+      await submitAndGetBase(modeChangeInstruction(mode));
+      ui.toast(`${mode === "plan" ? "Plan" : mode[0].toUpperCase() + mode.slice(1)} mode is active in this chat.`);
+    } catch (e) {
+      ui.banner("warn", "Mode change could not sync", "Reload EverLua, then choose the mode again.");
+    }
+  }
+
+  // A UI-kit/theme selection is a conversation-level design preference. Send it
+  // only once the provider is genuinely idle: typing into a busy AI page caused
+  // lost messages in the past, and interrupting an agent/tool run would be unsafe.
+  async function flushUiDesignChange() {
+    if ((typeof A.pendingUiKit === "undefined" && typeof A.pendingUiTheme === "undefined") || A.uiKitSyncing || !A.started || Date.now() < A.uiKitRetryAt) return;
+    if (A.running || A.starting || A.toolRunning || A.injecting || P.isGenerating() || document.hidden) return;
+    const template = A.pendingUiKit;
+    const theme = A.pendingUiTheme;
+    A.pendingUiKit = undefined;
+    A.pendingUiTheme = undefined;
+    A.uiKitSyncing = true;
+    try {
+      await submitAndGetBase(ZS.uiDesignChangeInstruction(template, theme));
+      const active = [template && `${template} kit`, theme && `${theme} theme`].filter(Boolean);
+      ui.toast(active.length ? `${active.join(" with ")} is active in this chat.` : "UI kit and theme cleared in this chat.");
+    } catch (e) {
+      // Preserve the latest choice for a retry rather than silently losing it.
+      if (typeof A.pendingUiKit === "undefined") A.pendingUiKit = template;
+      if (typeof A.pendingUiTheme === "undefined") A.pendingUiTheme = theme;
+      A.uiKitRetryAt = Date.now() + 3000;
+      diag("uiDesign.syncError", { error: String((e && e.message) || e) });
+    } finally {
+      A.uiKitSyncing = false;
+    }
+  }
+
+  async function executeApprovedPlan() {
+    if (!A.started || A.running || A.starting) return;
+    A.goalActive = true;
+    A.goalContinuations = 0;
+    ui.setStarted();
+    try {
+      const base = await submitAndGetBase(
+        "The user approved execution of your plan. Begin carrying it out now, one command at a time. Continue until every planned item needed for the user's request is complete, then end your final answer with [[EVERLUA_DONE]]."
+      );
+      agentLoop(base);
+    } catch (e) {
+      ui.banner("warn", "Plan execution could not start", "Try Enable execution again, or reload EverLua.");
+    }
+  }
+
+  async function startSession() {
+    if (A.running || A.starting) return;
+    // "Start session" is allowed ONLY on a blank conversation. Opening an
+    // EXISTING conversation must never trigger the bootstrap.
+    if (!P.chatIsEmpty() && !A.started) {
+      ui.toast("Open a new, empty conversation to start a session.");
+      return;
+    }
+    A.userStopped = false;
+    A.stop = false;               // clear any halt left by a prior aborted bootstrap
+    const sessionMode = ui.getAgentMode();
+    ui.resetPlanApproval();
+    // Snapshot any turn already on screen at session start (normally none on a
+    // clean new chat; on a reload-restored generation it's the stray turn). The
+    // auto-resume watchdog refuses to run a tool from this baseline turn so a
+    // restored execute_luau can't leak into the freshly started conversation.
+    A.bootBaselineId = P.lastAssistantId ? P.lastAssistantId() : null;
+    A.starting = true;
+    const myGen = ++A.startGen;   // identity of THIS bootstrap
+    A.startingKey = null;          // unknown until the conversation gets an id
+    const alive = () => A.startGen === myGen; // false once superseded/aborted
+    A.toolCallsSinceReminder = 0; // fresh reminder cadence for the new session
+    ui.setStarting(true);
+    ui.updateStartGate(); // refresh the bar into its "starting" state
+    P.setInputLock(true); // block user input during bootstrap
+    ui.inputCover(true);  // cover the composer ("Working…") for the WHOLE Starting Up
+    try {
+      if (sessionMode !== "chat" && sessionMode !== "plan") {
+        await ensureTools(true); // boot: always take a fresh catalogue (the TTL then
+                                 // covers the list_commands / list_mcp_servers calls
+                                 // the model makes seconds later)
+        if (!alive()) return;
+        if (!A.toolList.length) {
+          ui.banner("warn", "Bridge or Studio offline",
+            "Could not fetch Roblox tools. Run start.bat and make sure Roblox Studio is open, then try again.");
+          return;
+        }
+      }
+      const modeState = await P.ensureComposerReady("startup");
+      if (!alive()) return;
+      if (!modeState.ready) {
+        ui.banner("warn", `${P.displayName} mode not ready`,
+          `Could not switch ${P.displayName} to the required mode. Start a new chat or reload the page, then try again.`);
+        return;
+      }
+      const prompt = ZS.buildSystemPrompt({ siteName: P.displayName, customPrompt: ui.getCustomPrompt(), agentMode: sessionMode, uiTemplate: ui.getUiTemplate(), uiTheme: ui.getUiTheme() });
+      const base = await submitAndGetBase(prompt);
+      if (!alive()) return;
+      // (syncSessionState pins A.startingKey to the conversation id once the chat
+      // has content, and aborts this bootstrap if the user opens a new empty chat.)
+      decorate.sweep(); // show the animated "Starting Up" chip immediately
+      let startRes = await waitForResponse(base);
+      // ChatGPT mounts a fenced code block in two phases: its language header
+      // may cause the generic watcher to settle before CodeMirror has attached
+      // the command body. Give the bootstrap a short, command-specific recovery
+      // window so a valid first `list_commands` call can never be stranded as a
+      // plain response between those two DOM commits.
+      startRes = await recoverChatGPTCommand(startRes);
+      startRes = normalizeChatGPTBootstrapCall(startRes);
+      diag("start.response", { kind: startRes.kind, tool: startRes.calls && startRes.calls[0] && startRes.calls[0].tool });
+      if (!alive()) return;
+      // The user halted the bootstrap (our Stop or the site's native stop). Do
+      // NOT declare the session ready - abort quietly so "Start" stays available.
+      if (A.stop || startRes.kind === "stopped") { diag("start.aborted", { kind: startRes.kind }); return; }
+
+      // If the model calls list_commands as instructed, run it and wait for the "ready" reply.
+      const firstName = startRes.calls && startRes.calls[0] && startRes.calls[0].tool;
+      if ((sessionMode === "automatic" || sessionMode === "manual") && startRes.kind === "tool" && startRes.calls && startRes.calls.length === 1 &&
+          (firstName === "list_commands" || firstName === "list_tools")) {
+        decorate.toolBox(startRes.item, "Loading commands", "run", "", true);
+        const approved = sessionMode !== "manual" || await ui.requestToolApproval(startRes.calls[0]);
+        const toolFeedback = approved
+          ? await runTool(startRes.calls[0])
+          : "ERROR: the user skipped list_commands during setup. Wait for their next request; do not guess tool names.";
+        // Roblox down short-circuits list_commands into a plain "offline" note
+        // (main.js, list_commands handler) instead of the real catalogue - detect
+        // that and show it as such, rather than the STALE cached tool count below
+        // (the bridge keeps advertising Roblox's catalogue even with no Studio
+        // attached, so A.toolList still has 25+ entries that were never actually
+        // usable this boot).
+        if (/Roblox Studio is currently OFFLINE/.test(toolFeedback)) {
+          decorate.toolBox(startRes.item, "Loading commands", "err", "Roblox offline", true);
+        } else {
+          // Count what the model ACTUALLY received: list_commands is scoped to the
+          // primary Roblox server (main.js ~629), so showing A.toolList.length (every
+          // connected server merged - Roblox + Blender + addons) overstated the boot
+          // count and made it look like all servers were loaded at once. Count the
+          // Roblox-scoped tools instead, matching the real result.
+          const robloxCount = A.toolList.filter((t) => (t.server || "roblox") === "roblox").length;
+          decorate.toolBox(startRes.item, "Loading commands", "done", `${robloxCount} commands`, true);
+        }
+        const base2 = await submitAndGetBase(toolFeedback);
+        const readyRes = await waitForResponse(base2); // wait for "I'm ready" reply
+        if (!alive()) return;
+        if (A.stop || readyRes.kind === "stopped") { diag("start.aborted", { kind: readyRes.kind }); return; }
+      }
+      A.started = true;
+      rememberSession(P.conversationKey()); // survives virtualization AND reloads
+      ui.setStarted(true);
+      if (sessionMode === "plan") {
+        ui.setPlanReady();
+        ui.toast("Plan ready. Review it, then enable execution when you are ready.");
+      } else if (sessionMode === "chat") {
+        ui.toast("Chat mode is ready. Studio tools are disabled.");
+      } else {
+        ui.toast(`${sessionMode === "manual" ? "Manual" : "Automatic"} mode ready.`);
+      }
+    } catch (e) {
+      diag("start.error", { error: String((e && e.message) || e) });
+      if (alive()) ui.banner("warn", "Startup failed", String((e && e.message) || e));
+    } finally {
+      // Only tear down our OWN starting state. If we were superseded (the user
+      // opened another chat), the newer flow / syncSessionState owns it now.
+      if (alive()) {
+        A.starting = false;
+        A.startingKey = null;
+        ui.setStarting(false);
+        ui.inputCover(false); // lift the Starting Up composer cover
+        P.setInputLock(false); // always unlock after bootstrap
+        decorate.sweep();
+      }
+    }
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  SVG ICON SET  (stroke = currentColor, inherits the chip's theme colour)
+  // ════════════════════════════════════════════════════════════════════════
+  const SVG = (p) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
+  const ICONS = {
+    screen:  SVG('<rect x="3" y="4" width="18" height="13" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>'),
+    roblox:  SVG('<path d="M12 2 3 7v10l9 5 9-5V7z"/><path d="M3 7l9 5 9-5M12 12v10"/>'),
+    read:    SVG('<circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>'),
+    edit:    SVG('<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/>'),
+    generate: SVG('<path d="M12 2v4M12 18v4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M2 12h4M18 12h4M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"/>'),
+    tool:    SVG('<path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18v3h3l6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2-2z"/>'),
+    result:  SVG('<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/>'),
+    check:   SVG('<polyline points="20 6 9 17 4 12"/>'),
+    error:   SVG('<path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
+    gear:    SVG('<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-2.82 1.17V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 8 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.6 15H4.5a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 6 8a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 11 4.6h.09A1.65 1.65 0 0 0 12 3.09 2 2 0 0 1 16 3v.09A1.65 1.65 0 0 0 19 4.6l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 21.4 11h.1a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.5 1z"/>'),
+  };
+  const SPIN = '<span class="zs-spin"></span>';
+
+  function iconFor(category, phase) {
+    if (phase === "run") return SPIN;
+    if (phase === "err") return ICONS.error;
+    if (phase === "done") return ICONS.check;
+    if (phase === "result") return ICONS.result;
+    if (phase === "sys") return ICONS.gear;
+    return ICONS[category] || ICONS.tool;
+  }
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  CAMOUFLAGE / DECORATION  (chips are real "tool cards": header + an
+  //  expandable body, themed by tool category and execution state)
+  // ════════════════════════════════════════════════════════════════════════
+
+  // Strip every trace of our decoration from a node. Needed because sites
+  // virtualize (recycle) turn nodes: a node that was a command/result card can
+  // be reused to render unrelated text.
+  function resetDecoration(item) {
+    const chip = item.querySelector(".zs-chip");
+    if (chip) chip.remove();
+    item.classList.remove("zs-hidden");
+    item.querySelectorAll(".zs-tool-hide").forEach((e) => e.classList.remove("zs-tool-hide"));
+    item.querySelectorAll(".zs-cmd-mask").forEach((e) => e.classList.remove("zs-cmd-mask"));
+    delete item.dataset.zs;
+    delete item.dataset.zsig;
+    delete item.dataset.zphase;
+    delete item.dataset.zStopped;
+    delete item.dataset.zRegenLen;
+    delete item.dataset.zRegenAt;
+    delete item.__zsChip;
+  }
+
+  const decorate = {
+    // Core renderer. opts: {label, detail, body, category, phase, cls, whole}
+    chip(item, opts) {
+      // ChatGPT actively reconciles every message subtree, including code
+      // blocks. Adding EverLua's in-message card triggers a React recovery that
+      // corrupts a live command (for example, list_commands becomes
+      // list_commands_). Keep the EverLua control bar as ChatGPT's UI surface
+      // and never mutate a ChatGPT message turn.
+      if (P.id === "chatgpt") return null;
+      const { label, detail = "", body = "", category = "tool", phase, cls, whole } = opts;
+      let chip = item.querySelector(".zs-chip");
+      const hasBody = !!body;
+      // While a command streams, the site re-renders the raw block on every token
+      // and we get called on nearly every sweep. If what we'd draw is identical,
+      // we must NOT rebuild the chip's innerHTML: doing so re-creates the
+      // <span class="zs-spin"> and restarts its CSS animation each time, so the
+      // spinner looks frozen / stutters ("retry en rafale"). Rebuild the inner
+      // markup ONLY when the rendered content actually changes; otherwise reuse
+      // the existing element (and keep its expand/collapse state) so the spinner
+      // keeps spinning smoothly. Re-anchoring + masking below still run each pass.
+      const sig = `${category}|${phase}|${cls || ""}|${whole ? 1 : 0}|${label}|${detail}|${hasBody ? body.length : 0}`;
+      if (!chip) chip = document.createElement("div");
+      if (chip.dataset.csig !== sig) {
+        chip.dataset.csig = sig;
+        chip.className = `zs-chip cat-${category} ${cls || ""}`;
+        chip.innerHTML =
+          `<div class="zs-chip-head">` +
+            `<span class="zs-chip-ic">${iconFor(category, phase)}</span>` +
+            `<span class="zs-chip-tx"></span>` +
+            `<span class="zs-chip-dt"></span>` +
+            (hasBody ? `<span class="zs-chip-cv">${SVG('<polyline points="6 9 12 15 18 9"/>')}</span>` : "") +
+          `</div>` +
+          (hasBody ? `<div class="zs-chip-body"><pre></pre></div>` : "");
+        chip.querySelector(".zs-chip-tx").textContent = label;
+        if (detail) chip.querySelector(".zs-chip-dt").textContent = detail;
+        if (hasBody) {
+          chip.querySelector(".zs-chip-body pre").textContent = body;
+          const head = chip.querySelector(".zs-chip-head");
+          head.style.cursor = "pointer";
+          head.onclick = () => chip.classList.toggle("open");
+        }
+      }
+
+      if (whole) {
+        // Fully injected turn (result / sys) → hide the whole item.
+        if (chip.parentElement !== item) item.insertBefore(chip, item.firstChild);
+        item.classList.add("zs-hidden");
+      } else {
+        item.classList.remove("zs-hidden");
+        // findToolBlockSpot ALSO applies the .zs-tool-hide classes (its real job);
+        // we call it for that even when we don't use its returned position.
+        // ChatGPT's CodeMirror response is still hydrated while its command is
+        // streaming. Hiding that live node makes ChatGPT replace part of the
+        // source with placeholders (e.g. `list_comm__`), so the bootstrap reads
+        // malformed JSON and never dispatches list_commands. Leave it alone
+        // until the startup/agent loop has safely consumed the command.
+        const deferChatGPTMask = P.id === "chatgpt" && (A.starting || A.running);
+        const spot = deferChatGPTMask ? null : P.findToolBlockSpot(item, chip);
+        if (P.chipAtItemLevel) {
+          // Site re-renders the turn's content subtree (Angular/Gemini), which
+          // wipes any chip placed INSIDE it. Anchor the chip at the turn-element
+          // level instead, where it survives those re-renders; the hide classes
+          // (re-applied by the sweep) handle masking the raw block.
+          // A provider may supply chipAnchor(item) to redirect the chip into a
+          // descendant (e.g. Kimi's turn is a flex ROW [avatar | content];
+          // inserting at item.firstChild would make the chip the avatar's flex
+          // sibling and shove the layout sideways, so it anchors in the content
+          // column instead). Default: the turn root.
+          const anchor = (P.chipAnchor && P.chipAnchor(item)) || item;
+          // Default: pin the chip as the FIRST child - simple and immune to the
+          // site re-appending fresh content later. A provider may opt into
+          // `chipAppend` to place it LAST instead (reads in the model's actual
+          // order: narration, then the tool call it wrote at the end of the
+          // turn). `chipTrailRef(item)` lets it name a fixed trailing sibling
+          // (e.g. Qwen's action-buttons row) the chip must stay BEFORE even
+          // when "last" - see ensureOwnedChip's drift check for why this needs
+          // upkeep that firstChild pinning never did.
+          const wantLast = !!P.chipAppend;
+          const trailRef = wantLast && P.chipTrailRef ? P.chipTrailRef(item) : null;
+          const inPlace = chip.parentElement === anchor &&
+            (wantLast ? chip.nextElementSibling === trailRef : anchor.firstElementChild === chip);
+          if (!inPlace) {
+            if (wantLast) anchor.insertBefore(chip, trailRef); // trailRef=null -> append
+            else anchor.insertBefore(chip, anchor.firstChild);
+          }
+        } else if (spot) {
+          spot.parent.insertBefore(chip, spot.ref);
+        } else if (!chip.parentElement) {
+          item.insertBefore(chip, item.firstChild);
+        }
+      }
+      item.dataset.zs = cls || "1";
+      // Remember the exact opts so a chip wiped by a site re-render can be
+      // rebuilt identically (see ensureOwnedChip / the chipGone guards).
+      item.__zsChip = { ...opts };
+      return chip;
+    },
+
+    // Re-apply a loop-owned chip after a site re-render wiped it (chip removed
+    // and/or the .zs-tool-hide classes stripped). The loop owns the label/phase,
+    // so we rebuild from the stored opts rather than re-running classification.
+    ensureOwnedChip(item) {
+      const opts = item.__zsChip;
+      if (!opts) return;
+      const chipEl = item.querySelector(".zs-chip");
+      const chipGone = !chipEl;
+      let rawVisible = false;
+      if (!opts.whole) {
+        // NOTE the thinking exclusion: reasoning models QUOTE the command
+        // JSON/###LUA### in their think area, which the camouflage never hides
+        // (by design) - counting those as "raw block visible" made this
+        // rebuild fire on EVERY sweep forever (60Hz spam, seen live).
+        rawVisible = [...item.querySelectorAll("pre, p, [class*='code'], .cm-line")].some(
+          (e) => !e.closest(".zs-tool-hide") && !e.closest(".zs-chip") &&
+                 !(P.thinkingSel && e.closest(P.thinkingSel)) &&
+                 // Some sites (Arena) wrap a code block in a bare outer <pre>
+                 // that has no hide class of its own - the real content (and
+                 // the .zs-tool-hide class) live on a child wrapper instead.
+                 // closest() only checks ancestors, so without this the outer
+                 // <pre> reads as "raw command visible" FOREVER (its own
+                 // textContent includes the hidden child's text), causing an
+                 // infinite rebuild loop (~60/s, seen live on Arena).
+                 !e.querySelector(".zs-tool-hide") &&
+                 ZSParse.hasCommandShape(e.textContent || ""));
+      }
+      // A provider opted into `chipAppend` (chip trails the reply text instead
+      // of pinning first) has no equivalent of firstChild's immunity to churn:
+      // a site re-render can re-append fresh reply content AFTER our chip,
+      // silently shoving it back above the text it was meant to trail. Catch
+      // that drift too, not just an outright wipe - it's cheap (one property
+      // read) and only applies to opted-in providers (Qwen).
+      let drifted = false;
+      if (!opts.whole && !chipGone && P.chipAtItemLevel && P.chipAppend) {
+        const anchor = (P.chipAnchor && P.chipAnchor(item)) || item;
+        const trailRef = P.chipTrailRef ? P.chipTrailRef(item) : null;
+        drifted = chipEl.parentElement === anchor && chipEl.nextElementSibling !== trailRef;
+      }
+      if (chipGone || rawVisible || drifted) {
+        // Tracker: the site wiped a loop-owned chip (re-render/node churn).
+        diag("chip.rebuild", { name: opts.label, phase: opts.phase, chipGone, rawVisible, drifted });
+        this.chip(item, opts);
+      }
+    },
+
+    // owned=true → the agentic loop manages this item; the observer backs off.
+    toolBox(item, name, phase, detail, owned, body, category) {
+      if (!item) return;
+      // Tracker: every phase TRANSITION of a command chip, with who drove it.
+      // "loop" = the agentic loop (authoritative), "sweep" = DOM classification.
+      if (item.dataset.zphase !== phase) {
+        diag("chip.phase", {
+          name, from: item.dataset.zphase || "(new)", to: phase,
+          by: owned ? "loop" : "sweep", detail: detail || "",
+        });
+      }
+      const cls = phase === "run" ? "run" : phase === "err" ? "err" : phase === "idle" ? "idle" : "done";
+      this.chip(item, {
+        label: name, detail: detail || "", body: body || "",
+        category: category || ZS.toolCategory(name), phase, cls,
+      });
+      item.dataset.zphase = phase;
+      if (owned) item.dataset.zloop = "1";
+    },
+
+    classify(item, next) {
+      if (item.dataset.zloop) { this.ensureOwnedChip(item); return; } // loop owns it
+      const txt = P.classifyText(item, ".zs-chip"); // excludes thinking AND our chip
+
+      // NOTE on the "needs re-apply" guards below: some sites (Gemini/Angular)
+      // re-render a turn's CHILDREN on every update - our chip and the
+      // .zs-tool-hide classes are wiped while the dataset flags on the turn
+      // element itself survive. So "already decorated" must always be
+      // double-checked against the chip actually being present in the DOM.
+      const chipGone = !item.querySelector(".zs-chip");
+
+      // 1. System-prompt bootstrap turn → animated while starting, gear when done.
+      if (txt.includes(ZS.SYS_MARKER)) {
+        const phase = A.starting ? "run" : "sys";
+        if (item.dataset.zs !== "sys" || item.dataset.zphase !== phase || chipGone) {
+          this.chip(item, { label: "Starting Up", category: "tool", phase, cls: "sys", whole: true });
+          item.dataset.zphase = phase;
+        }
+        return;
+      }
+
+      // 2. Injected result / ERROR / note turns. ALWAYS a user turn we sent,
+      //    keyed off our fixed output shapes (never command keywords).
+      if (P.isUserItem(item) && ZSParse.isInjectedFeedback(txt)) {
+        const m = txt.match(/Output of '([^']+)'/);
+        const isErr = /^\s*ERROR\b/.test(txt);
+        // Reload-proof image detection: a feedback carrying an image ends with the
+        // IMAGE_FEEDBACK_RE marker. Learn the tool (persisted) so its command turn
+        // above AND its next call get the "screen" chip even with no loop running.
+        const hasImg = !isErr && IMAGE_FEEDBACK_RE.test(txt);
+        if (hasImg && m) rememberImageTool(m[1]);
+        const sig = (m ? m[1] : "note") + "|" + (isErr ? "err" : hasImg ? "img" : "result");
+        if (item.dataset.zsig !== sig || !item.classList.contains("zs-hidden") || chipGone) {
+          this.chip(item, {
+            label: m ? `${m[1]} · result` : "result",
+            category: hasImg ? "screen" : m ? ZS.toolCategory(m[1]) : "tool",
+            body: txt, phase: isErr ? "err" : "result",
+            cls: isErr ? "err" : "result", whole: true,
+          });
+          item.dataset.zsig = sig;
+        }
+        return;
+      }
+
+      // 2b. FALLBACK for a command turn whose raw tool-call text is no longer
+      // readable (e.g. Qwen disposes/never fully renders an off-screen Monaco
+      // code block on a COLD page load - the dataset.zsCode cache only helps
+      // WITHIN a session, since it needs to observe the block live to capture
+      // it before disposal; reported live: every past tool-call chip vanished
+      // after a page reload, leaving only its "· result" box). The turn's own
+      // text no longer "looks like" a command, but the VERY NEXT turn being
+      // our injected result (`Output of 'name'`) is definitive proof it WAS
+      // one - settle it from that evidence instead of leaving the chip gone.
+      if (P.isAssistantItem(item) && !ZSParse.hasCommandShape(txt) &&
+          next && P.isUserItem(next)) {
+        const nt = P.classifyText(next, ".zs-chip");
+        const m = nt.match(/^\s*Output of '([^']+)'/);
+        if (m) {
+          const isErr = /^\s*ERROR\b/.test(nt);
+          const phase = isErr ? "err" : "done";
+          if (item.dataset.zphase !== phase || chipGone) {
+            this.toolBox(item, m[1], phase, "", false);
+          }
+          return;
+        }
+      }
+
+      // 3. Assistant command turns → live loading while streaming, ✓ when done.
+      // ONLY in a real EverLua session (started or bootstrapping). Without
+      // this gate, a plain never-started chat where the model merely EXPLAINS
+      // the command format (a {"command":...} example in its answer) got the
+      // example MASKED behind a tool chip - hiding genuine content the user
+      // asked for. Same principle as domHasZsSignal: a command shape alone is
+      // not proof of a session. (Branches 1/2 above key off OUR OWN injected
+      // markers, which only exist in real sessions, so they need no gate.)
+      if (P.isAssistantItem(item) && ZSParse.hasCommandShape(txt) &&
+          (A.started || A.starting)) {
+        // Regenerate transition (see zRegenLen capture in regenResume): the site is
+        // still showing the OLD command text after a post-stop regenerate, before it
+        // wipes and re-streams. Keep the coherent red "stopped" look instead of
+        // re-animating the stale old call as a fresh "run" spinner. Clears the moment
+        // the content is actually replaced (stream length drops below the captured
+        // baseline) or a short safety window elapses, after which normal
+        // classification paints the freshly regenerated command.
+        if (item.dataset.zRegenLen) {
+          const baseLen = Number(item.dataset.zRegenLen);
+          const armedAt = Number(item.dataset.zRegenAt || 0);
+          const replaced = txt.length < baseLen - 8;      // old content wiped
+          const expired = Date.now() - armedAt > 6000;    // safety fallback
+          if (!replaced && !expired) {
+            const nm = ZSParse.toolNameFromText(txt) || "command";
+            this.toolBox(item, nm, "err", "stopped", false);
+            return;
+          }
+          delete item.dataset.zRegenLen;
+          delete item.dataset.zRegenAt;
+        }
+        // A turn the user manually halted (Stop / native stop) stays "stopped" -
+        // never let this sweep repaint it ✓ done (or worse, re-spin it) just
+        // because generation is still settling. The dataset marker is set where we
+        // halt, but on Arena the A/B carousel re-renders the turn node on every
+        // token, wiping the marker - so the spinner came back even after Stop. Also
+        // derive "stopped" from the userStopped latch (which survives node swaps)
+        // for the last turn; it's cleared on the next user message / deliberate
+        // resume, so a settled turn is never falsely frozen later.
+        // A turn that is GENERATING again (or whose tool the loop is actively
+        // running), with NO active user-stop latch, has been REGENERATED - it is no
+        // longer the halted turn. Clear its stale halt so isRememberedHalted (index
+        // + text-prefix based) can't keep repainting the FRESH command red: a Gemini
+        // regenerate reuses the same assistant index and a similar opening prefix,
+        // so the old halt otherwise matches and the running command shows "stopped"
+        // (red) until it settles. Gated on !A.userStopped so a real Stop that is
+        // still settling (isGenerating can lag true for a beat) is NEVER cleared.
+        const regenerating = !A.userStopped && (
+          (item === P.lastAssistant() && P.isGenerating()) ||
+          (A.running && A.toolItem === item)
+        );
+        if (regenerating) { delete item.dataset.zStopped; forgetHalted(item); }
+        const stopped = !regenerating && (
+          item.dataset.zStopped === "1" ||
+          (A.userStopped && item === P.lastAssistant()) ||
+          isRememberedHalted(item, txt));
+        // Self-heal: a site re-render that swapped this turn's node wiped the
+        // dataset marker - re-stamp it so the stop survives the next wipe of
+        // the A.userStopped latch (a fresh user message clears it by design).
+        if (stopped && item.dataset.zStopped !== "1") {
+          item.dataset.zStopped = "1";
+          diag("chip.rehalt", { name: ZSParse.toolNameFromText(txt) });
+        }
+        // The loop already SETTLED this very call (tool finished, we're waiting
+        // for the model's next turn) but the site swapped the turn's DOM node,
+        // wiping the chip, the zloop ownership AND the __zsChip opts. Without
+        // this, the fresh node re-classifies as a spinning "run" chip (A.running
+        // is still true) on an already-executed call. Re-own it with the settled
+        // outcome. The count guard skips this once the model's NEXT turn exists,
+        // so a follow-up call to the same tool still classifies live.
+        if (!stopped && A.running && !A.toolRunning && A.toolSettle &&
+            // Same TURN check. Node identity when available (virtualization-proof:
+            // on Qwen the count doesn't grow for a new turn, and a back-to-back
+            // call to the same tool defeats the name guard - the old outcome then
+            // repainted the STREAMING next turn's chip as done/err). Falls back to
+            // the count guard for providers without lastAssistantId.
+            (A.toolSettle.id !== undefined && P.lastAssistantId
+              ? P.lastAssistantId() === A.toolSettle.id
+              : A.toolSettle.count === P.assistantCount()) &&
+            item === P.lastAssistant() &&
+            ZSParse.toolNameFromText(txt) === A.toolName) {
+          diag("chip.reown", { name: A.toolName, phase: A.toolSettle.phase });
+          this.toolBox(item, A.toolName, A.toolSettle.phase, A.toolSettle.detail,
+            true, A.toolSettle.body, A.toolSettle.category);
+          return;
+        }
+        // Is this command turn the IN-FLIGHT call - the one a running loop or the
+        // bootstrap is about to own? The tell: it has NO injected result turn after
+        // it yet. Every ALREADY-EXECUTED command turn is followed by its injected
+        // result (a user turn matching isInjectedFeedback), so keying off that,
+        // rather than item === lastAssistant(), robustly separates the in-flight
+        // turn from settled history. This gives us the best of both:
+        //  - The Kimi/bootstrap flash fix: while a loop/bootstrap is active, the
+        //    in-flight turn stays "run" in the window between generation ending and
+        //    the loop painting its own chip, WITHOUT depending on the flickery
+        //    lastAssistant() (Kimi's Vue swaps the node) - no premature green flash.
+        //  - No re-spin on REVISIT: when a started chat is re-opened and the loop
+        //    or bootstrap runs again, every PAST command turn already has its result
+        //    below it, so it settles to "done" instead of every old chip re-loading
+        //    to a blue spinner (the Arena "all chips restarted loading" report).
+        const resultAfter = next && P.isUserItem(next) &&
+          ZSParse.isInjectedFeedback(P.classifyText(next, ".zs-chip"));
+        const inFlight = (A.running || A.starting) && !resultAfter;
+        // Regenerate grace: keep the freshly-regenerated command turn "run" in the
+        // gap between regenResume clearing the stop latch and the watchdog starting
+        // the loop, so it never flashes a premature ✓ "done" (see regenResume). The
+        // anchor slides with generation and expires ~2.5s after it truly stops.
+        const resumeGrace = A.resumeArmed && item === P.lastAssistant() &&
+          Date.now() - (A.resumeArmedAt || 0) < 2500;
+        const live = !stopped && (
+          inFlight || resumeGrace || (item === P.lastAssistant() && P.isGenerating())
+        );
+        // Orphaned command: a COMPLETE command turn that is the last assistant with
+        // NO result below it, not live and not loop-owned, whose generation is now
+        // stale (typically the page/extension was reloaded while this command sat
+        // un-executed). The auto-resume watchdog deliberately refuses to run a
+        // reload-restored generation (the "execute_luau leaked into the new chat"
+        // leak guard - same lastGenAt staleness test used here), so it will NEVER
+        // execute. Painting it a green ✓ "done" falsely implies the tool ran and
+        // succeeded; show a neutral, greyed "not run" state instead (cosmetic only -
+        // we intentionally do NOT auto-execute it).
+        // A command turn we have no evidence ever executed: not loop-owned, no
+        // injected result below it, and not in the off-DOM executed memory (the
+        // memory keeps this virtualization-safe - a scrolled-back turn whose result
+        // detached is still known-executed and never mislabelled).
+        const neverRun = !item.dataset.zloop && !resultAfter &&
+          !isRememberedExecuted(item, txt);
+        // Superseded orphan: abandoned command - a NEWER assistant turn exists below
+        // it yet it never ran (e.g. stopped then regenerated into a fresh turn on
+        // Qwen). It will never execute, so it must show neither a green ✓ "done" NOR
+        // a live spinner. inFlight is not turn-specific: with the loop running the
+        // NEW turn, this old no-result turn would otherwise also read as "run" - the
+        // "both the old and the new chip spinning at once" seen live.
+        const supersededOrphan = neverRun && item !== P.lastAssistant();
+        // Reload orphan: the LAST command turn, not live, whose generation is stale -
+        // the page/extension was reloaded while it sat un-executed and the watchdog
+        // refuses to run a reload-restored generation (leak guard). Also never a
+        // false green ✓; show a neutral, greyed "not run" (we do NOT auto-execute it).
+        const staleLastOrphan = neverRun && item === P.lastAssistant() && !live &&
+          Date.now() - A.lastGenAt > 8000;
+        const orphanPending = !stopped && (supersededOrphan || staleLastOrphan);
+        // Handoff window: a JUST-finished last-assistant command with no result yet
+        // that the loop has not taken over (A.running not yet true, so `live` is
+        // false). Without this it flashes a premature ✓ "done" for the frames
+        // between generation ending and the loop starting, THEN re-spins when the
+        // loop paints its own chip - most visible on the instant virtual commands
+        // (list_mcp_servers/list_commands). Keep it spinning instead; staleLastOrphan
+        // takes over after 8s if the loop genuinely never runs it.
+        const pendingExec = !stopped && !orphanPending && !live &&
+          neverRun && item === P.lastAssistant() && Date.now() - A.lastGenAt <= 8000;
+        let phase = stopped ? "err" : (orphanPending ? "idle" : ((live || pendingExec) ? "run" : "done"));
+        let detail = stopped ? "stopped" : (orphanPending ? "not run" : "");
+        // Error-aware settle: a command whose injected result RIGHT BELOW is an
+        // ERROR must never wear a green ✓. The loop paints this correctly while
+        // it owns the turn, but a revisited conversation (or a node swap that
+        // dropped ownership) re-derives the phase here - from the conversation
+        // itself, so it stays correct without any loop state.
+        if (phase === "done" && next && P.isUserItem(next)) {
+          const nt = P.classifyText(next, ".zs-chip");
+          // feedbackIsError also catches an MCP tool's in-body error (the result
+          // reads "Output of '…': Error executing code…", which our ERROR prefix
+          // test would miss - the Blender case), so a revisited conversation
+          // re-settles it red, matching what the loop painted live.
+          if (ZSParse.isInjectedFeedback(nt) && feedbackIsError(nt)) {
+            phase = "err"; detail = "error";
+            if (item.dataset.zphase !== "err") diag("chip.errSettle", { name: ZSParse.toolNameFromText(txt) });
+          }
+        }
+        // A command block that is VISIBLE right now (its hide classes live on
+        // child nodes that sites like Gemini re-create on every update, and the
+        // block may render only AFTER the chip was first placed mid-stream).
+        // Excludes the reasoning area (P.thinkingSel) like ensureOwnedChip:
+        // thinking-quoted commands otherwise keep this true forever, and the
+        // forced repaint recomputes `live` each sweep - the chip then FLAPS
+        // done→run→done with the generation flicker (seen live as a settled
+        // green chip blinking back to a blue spinner).
+        const rawVisible = [...item.querySelectorAll("pre, p, [class*='code'], .cm-line")].some(
+          (e) => !e.classList.contains("zs-tool-hide") && !e.closest(".zs-tool-hide") &&
+                 !e.closest(".zs-chip") && !(P.thinkingSel && e.closest(P.thinkingSel)) &&
+                 // see ensureOwnedChip's matching guard: a bare outer <pre>
+                 // wrapping a hidden child wrapper otherwise reads as visible
+                 // forever (Arena code-block markup).
+                 !e.querySelector(".zs-tool-hide") &&
+                 ZSParse.hasCommandShape(e.textContent || ""));
+        // A tool learned to return images gets the "screen" chip even though its
+        // name alone wouldn't reveal it (parity with Roblox screen_capture). The
+        // fact can land AFTER this turn first settled (imageTools loads from
+        // storage async, or the result turn below is classified later the same
+        // pass), so repaint when the current chip's category is stale too - the
+        // phase-only guard would otherwise freeze it on the generic wrench.
+        const nm = ZSParse.toolNameFromText(txt);
+        const cat = A.imageTools.has(bareToolName(nm)) ? "screen" : undefined;
+        const chipNow = item.querySelector(".zs-chip");
+        const catStale = cat === "screen" && chipNow && !chipNow.classList.contains("cat-screen");
+        // Chip drift for chipAppend providers (Kimi): the RUN chip is painted by
+        // the SWEEP (owned=false, no zloop) until the loop takes over at
+        // tool.start ~2s later, so ensureOwnedChip's drift fix (zloop-only) does
+        // NOT run during that window. Meanwhile Vue mounts the copy/regenerate
+        // toolbar (chipTrailRef) and inserts it ABOVE our chip node, flashing the
+        // action buttons over the chip until something repaints it. Detect that
+        // drift here too so the sweep re-seats the chip (chip() re-anchors before
+        // trailRef) without waiting for the loop. Mirrors ensureOwnedChip.
+        let drifted = false;
+        if (P.chipAtItemLevel && P.chipAppend && chipNow) {
+          const anchor = (P.chipAnchor && P.chipAnchor(item)) || item;
+          const trailRef = P.chipTrailRef ? P.chipTrailRef(item) : null;
+          drifted = chipNow.parentElement === anchor && chipNow.nextElementSibling !== trailRef;
+        }
+        if (item.dataset.zphase !== phase || chipGone || rawVisible || catStale || drifted) {
+          // Tracker: WHY the sweep chose this phase (only when it changes -
+          // chipGone/rawVisible repaints of the same phase stay silent).
+          if (item.dataset.zphase !== phase) {
+            // Extra suspicion flag: a command that settled ✓ done while it is
+            // still the LAST assistant with NO injected result below it - the
+            // exact shape of the "chip shows done but the model is still writing"
+            // report. genDebug() (if the provider exposes it) breaks isGenerating
+            // into its sub-signals so we can see WHICH one flickered false.
+            const suspectDone = phase === "done" &&
+              item === P.lastAssistant() && !resultAfter;
+            diag("chip.why", {
+              name: nm, to: phase,
+              stopped, live, inFlight, resumeGrace, pendingExec,
+              isLast: item === P.lastAssistant(), resultAfter,
+              gen: P.isGenerating(), run: A.running, starting: A.starting,
+              zStopped: item.dataset.zStopped === "1",
+              remembered: isRememberedHalted(item, txt),
+              lastGenAgoMs: Date.now() - A.lastGenAt,
+              suspectDone,
+              ...(P.genDebug ? { g: P.genDebug() } : {}),
+            });
+          }
+          this.toolBox(item, nm, phase, detail, false, undefined, cat);
+        }
+        return;
+      }
+
+      // A user-halted turn whose CONTENT the site cleared. Arena's native stop
+      // (which our Stop button clicks) empties the turn's .prose and shows
+      // "Generation stopped" - so the command JSON vanishes, branch 3's command
+      // shape no longer matches, and the empty-text guard just below would bail
+      // every sweep, freezing a spinning "run" chip forever. Settle any lingering
+      // run chip to "stopped" right here, BEFORE that guard. Idempotent: skips
+      // once already at the err phase.
+      const haltedTurn =
+        item.dataset.zStopped === "1" ||
+        (A.userStopped && item === P.lastAssistant());
+      if (haltedTurn && P.isAssistantItem(item) && item.dataset.zphase !== "err"
+          && item.querySelector(".zs-chip")) {
+        const tx = item.querySelector(".zs-chip-tx");
+        const name = ZSParse.toolNameFromText(txt) || (tx && tx.textContent) || "tool";
+        this.toolBox(item, name, "err", "stopped", false);
+        return;
+      }
+
+      // Transient empty render (Angular swaps a turn's subtree before refilling
+      // it): the text vanishes for a frame. Never strip a decorated turn on
+      // that - the next sweep re-evaluates it with real content.
+      if (!txt.trim() && (item.dataset.zphase || item.dataset.zs)) return;
+
+      // 4. Plain text turn. If this node still wears decoration (a recycled
+      //    virtualized node), strip it so we never hide genuine content.
+      if (item.dataset.zs || item.dataset.zphase || item.querySelector(".zs-chip")) {
+        // Tracker: a decorated node re-classified as PLAIN TEXT (virtualized
+        // node recycled, or the turn's command text vanished) - its decoration
+        // (chip + zStopped marker) is stripped here. If a chip "un-settles"
+        // mysteriously, this is the smoking gun to look for.
+        diag("chip.reset", { was: item.dataset.zphase || item.dataset.zs || "chip-only" });
+        resetDecoration(item);
+      }
+    },
+
+    sweep() {
+      // ChatGPT reconciles its message nodes aggressively. Even harmless-looking
+      // bookkeeping attributes (data-zphase/data-zloop) can cause it to rebuild
+      // a live CodeMirror block and alter a command while we are reading it.
+      // The EverLua bar is the sole ChatGPT UI surface; never decorate or mutate
+      // its conversation turns.
+      if (P.id === "chatgpt") return;
+      // Pass each turn's FOLLOWING turn too: a command chip needs it to know
+      // whether its injected result was an ERROR (error-aware settle above).
+      const items = P.allItems();
+      for (let i = 0; i < items.length; i++) this.classify(items[i], items[i + 1] || null);
+      // Safety net for stopped turns whose chip lives OUTSIDE the enumerated
+      // message list. On Arena an A/B comparison renders each candidate as a
+      // slide in the carousel's OWN nested <ol>, not the main flex-col-reverse
+      // list - so allItems()/classify never see that node and a "run" spinner
+      // left by a Stop would spin forever. zStopped is only ever set on a
+      // deliberate halt, so settling any run-phase chip under such a node is
+      // safe wherever it lives. Idempotent: skips once at the err phase.
+      for (const chip of document.querySelectorAll(".zs-chip.run")) {
+        let item = chip.parentElement;
+        while (item && !(item.dataset && item.dataset.zStopped)) item = item.parentElement;
+        if (item && item.dataset.zphase !== "err") {
+          const tx = chip.querySelector(".zs-chip-tx");
+          this.toolBox(item, (tx && tx.textContent) || "tool", "err", "stopped", false);
+        }
+      }
+    },
+  };
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  UI  (control panel, onboarding, stop button, banners, toast, input cover)
+  // ════════════════════════════════════════════════════════════════════════
+  const ui = (() => {
+    let root, bar, dot, brandEl, stateEl, actionBtn, stopBtn, uiBuilderBtn, switchBtn, discordEl, menuEl, unstableEl;
+    let approvalEl = null, approvalResolve = null, planExecutionApproved = false;
+    let menuVariant = "main";
+    let cover, coverRaf, barRaf;
+    let openMenuFn = null; // set by build(); lets the popup force the panel open via runtime message
+    let bridgeOk = false, studioDown = false, placeDown = false, appDown = false, addonOk = false, studioProcUp = false;
+    let wasConnected = false, bridgeBannerEl = null;
+
+    function build() {
+      root = document.createElement("div");
+      root.id = "zs-root";
+      // One consolidated status bar, anchored just above the site's composer
+      // (positioned every frame by placeBar). It carries everything: live status,
+      // the primary action (Start / Stop) and a "more"
+      // menu (other AI sites, custom prompt, support, Discord). No floating panel,
+      // no overlay on the input - the composer stays fully usable for plain chat.
+      root.innerHTML = `
+        <div id="zs-bar">
+          <span id="zs-dot" class="off" title=""></span>
+          <span id="zs-brand"><img class="zs-brand-icon" src="${chrome.runtime.getURL("icon.png")}" alt="" />EverLua <span class="zs-free">v${EXT_VERSION}</span></span>
+          <span id="zs-state"></span>
+          <button id="zs-ui-kits" aria-label="Open UI Kits" title="Open UI Kits">UI</button>
+          <span id="zs-bar-spacer" aria-hidden="true"></span>
+          <button id="zs-action"></button>
+          <button id="zs-stop" hidden>■ Stop</button>
+          <a id="zs-discord" href="https://discord.gg/f6QhDBSTZa" target="_blank" rel="noopener" title="Need help? Join our Discord"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg></a>
+          <button id="zs-switch" aria-label="Switch AI and options" title="Switch AI, custom prompt, support"><span id="zs-switch-name"></span><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+        </div>
+        <div id="zs-menu" hidden></div>
+        ${P.unstableWarning ? `<button id="zs-unstable" aria-label="Provider may be unstable" hidden>⚠ unstable</button>` : ""}
+      `;
+      document.documentElement.appendChild(root);
+      bar = root.querySelector("#zs-bar");
+      dot = root.querySelector("#zs-dot");
+      brandEl = root.querySelector("#zs-brand");
+      stateEl = root.querySelector("#zs-state");
+      actionBtn = root.querySelector("#zs-action");
+      stopBtn = root.querySelector("#zs-stop");
+      uiBuilderBtn = root.querySelector("#zs-ui-kits");
+      switchBtn = root.querySelector("#zs-switch");
+      discordEl = root.querySelector("#zs-discord");
+      const swName = root.querySelector("#zs-switch-name");
+      if (swName) swName.textContent = P.displayName || P.id;
+      menuEl = root.querySelector("#zs-menu");
+      bar.classList.add(`zs-prov-${P.id}`); // lets CSS tune per-site (e.g. font)
+      // Provider hook on <html> so overlay.css can tune site-specific CHIP layout
+      // (not just the bar). Meta's turn root is full-width with the reply in a
+      // nested centered column, so whole-turn chips (result/sys) need re-centering.
+      document.documentElement.classList.add(`zs-site-${P.id}`);
+
+      actionBtn.addEventListener("click", onActionClick);
+      stopBtn.addEventListener("click", stopLoop);
+      unstableEl = root.querySelector("#zs-unstable");
+      if (unstableEl) {
+        // Set the native tooltip via PROPERTY, not the HTML template: the warning
+        // text may contain double quotes (e.g. GLM's "No response…"), which would
+        // terminate a title="..." attribute early and truncate the tooltip.
+        unstableEl.title = P.unstableWarning;
+        unstableEl.addEventListener("click", (e) => { e.stopPropagation(); toast(P.unstableWarning); });
+      }
+      buildMenu();
+      // The provider button opens the main settings panel; UI has its own card
+      // picker so templates are available without opening DeepSeek first.
+      const toggleMenu = (toSupport) => {
+        if (!menuEl.hidden && menuVariant !== "main") menuEl.hidden = true;
+        menuEl.hidden = !menuEl.hidden;
+        if (!menuEl.hidden) {
+          // Rebuild on every open, not just once at page load: the initial
+          // buildMenu() call runs before the bridge status (server list/health)
+          // has arrived, so the very first render always shows an empty/stale
+          // MCP servers section otherwise - nothing ever refreshed it after.
+          buildMenu();
+          syncMenuPrompt();
+          // On a FRESH open, menuEl has no max-height yet - that's only applied by
+          // placeBar()'s positioning pass, which runs on the next rAF tick (it's a
+          // separate loop, not synchronous with this click). Without it the panel
+          // has no overflow yet, so scrollHeight === clientHeight and setting
+          // scrollTop here is a no-op - the "jump to Support" silently failed on
+          // the very first open (reported live on Arena). Deferring one frame lets
+          // placeBar's already-queued tick clip the box first, so there's real
+          // scroll room by the time we set scrollTop.
+          requestAnimationFrame(() => {
+            if (!menuEl.hidden) menuEl.scrollTop = toSupport ? menuEl.scrollHeight : 0;
+          });
+        }
+      };
+      const toggleUiMenu = () => {
+        const closing = !menuEl.hidden && menuVariant === "ui";
+        menuEl.hidden = closing;
+        if (!closing) {
+          buildUiMenu();
+          requestAnimationFrame(() => { if (!menuEl.hidden) menuEl.scrollTop = 0; });
+        }
+        uiBuilderBtn.classList.toggle("is-open", !closing);
+      };
+      switchBtn.addEventListener("click", (e) => { e.stopPropagation(); toggleMenu(false); });
+      uiBuilderBtn.addEventListener("click", (e) => { e.stopPropagation(); toggleUiMenu(); });
+      openMenuFn = (toSupport) => { if (menuEl.hidden) toggleMenu(toSupport); };
+      document.addEventListener("click", (e) => {
+        if (menuEl.hidden) return;
+        if (!menuEl.contains(e.target) && !switchBtn.contains(e.target) && !uiBuilderBtn.contains(e.target)) {
+          menuEl.hidden = true;
+          uiBuilderBtn.classList.remove("is-open");
+        }
+      }, true);
+
+      applyTheme();
+      setInterval(applyTheme, 2000); // follow the host page toggling its theme
+      renderBar();
+      placeBar(); // start the per-frame anchoring loop
+    }
+
+    // The primary button does different things depending on the current state
+    // (set by renderBar via actionBtn.dataset.kind).
+    function onActionClick() {
+      const kind = actionBtn.dataset.kind;
+      if (kind === "start" || kind === "start-degraded") startSession();
+    }
+
+    // ── Custom prompt (persisted) ───────────────────────────────────────────
+    // The user's extra instructions, persisted in chrome.storage.local and
+    // appended UNDER the system prompt at session start. Cached here so
+    // startSession can read it synchronously.
+    let customPrompt = "";
+    try {
+      chrome.storage.local.get("zsCustomPrompt", (r) => {
+        if (r && typeof r.zsCustomPrompt === "string") {
+          customPrompt = r.zsCustomPrompt;
+          syncMenuPrompt();
+        }
+      });
+    } catch {}
+    function getCustomPrompt() { return customPrompt; }
+    // Reflect the saved value back into the menu textarea (unless being edited).
+    function syncMenuPrompt() {
+      const ta = root && root.querySelector("#zs-set-text");
+      if (ta && document.activeElement !== ta) ta.value = customPrompt;
+    }
+
+    const AGENT_MODES = {
+      chat: { label: "Chat", detail: "Answers only. Studio tools stay off." },
+      manual: { label: "Manual", detail: "Approve every tool before it runs." },
+      automatic: { label: "Automatic", detail: "Runs one approved agent step at a time." },
+      plan: { label: "Plan", detail: "Creates a plan before execution is enabled." },
+    };
+    const UI_TEMPLATES = ["", "Main Menu", "Inventory", "Shop", "Settings", "Quest Log", "Dialogue Box", "Health HUD"];
+    const UI_THEMES = ["", "Studio UI", "Simulator", "Anime Battler", "Shooting"];
+    let agentMode = "automatic";
+    let uiTemplate = "";
+    let uiTheme = "";
+    let completionSounds = false;
+    let soundContext = null;
+    try {
+      chrome.storage.local.get(["zsAgentMode", "zsUiTemplate", "zsUiTheme", "zsCompletionSounds"], (r) => {
+        if (r && AGENT_MODES[r.zsAgentMode]) agentMode = r.zsAgentMode;
+        if (r && UI_TEMPLATES.includes(r.zsUiTemplate)) uiTemplate = r.zsUiTemplate;
+        if (r && UI_THEMES.includes(r.zsUiTheme)) uiTheme = r.zsUiTheme;
+        if (r && typeof r.zsCompletionSounds === "boolean") completionSounds = r.zsCompletionSounds;
+        renderBar();
+      });
+    } catch {}
+    function getAgentMode() { return agentMode; }
+    function getUiTemplate() { return uiTemplate; }
+    function getUiTheme() { return uiTheme; }
+    function playCompletionSound(kind) {
+      if (!completionSounds) return;
+      try {
+        soundContext ||= new (window.AudioContext || window.webkitAudioContext)();
+        soundContext.resume();
+        const now = soundContext.currentTime;
+        const notes = kind === "error" ? [190, 145] : [660, 880];
+        notes.forEach((frequency, index) => {
+          const osc = soundContext.createOscillator();
+          const gain = soundContext.createGain();
+          osc.type = kind === "error" ? "sawtooth" : "sine";
+          osc.frequency.setValueAtTime(frequency, now + index * .13);
+          gain.gain.setValueAtTime(.0001, now + index * .13);
+          gain.gain.exponentialRampToValueAtTime(.075, now + index * .13 + .015);
+          gain.gain.exponentialRampToValueAtTime(.0001, now + index * .13 + .16);
+          osc.connect(gain).connect(soundContext.destination);
+          osc.start(now + index * .13); osc.stop(now + index * .13 + .18);
+        });
+      } catch {}
+    }
+    function setCompletionSounds(enabled) {
+      completionSounds = !!enabled;
+      try { chrome.storage.local.set({ zsCompletionSounds: completionSounds }); } catch {}
+      if (completionSounds) playCompletionSound("success");
+      buildMenu();
+    }
+    function setAgentMode(mode) {
+      if (!AGENT_MODES[mode]) return;
+      if (A.running || A.starting) {
+        toast("Finish the current EverLua step before changing modes.");
+        return;
+      }
+      agentMode = mode;
+      planExecutionApproved = false;
+      try { chrome.storage.local.set({ zsAgentMode: mode }); } catch {}
+      buildMenu(); renderBar();
+      if (A.started) {
+        toast(`Switching this chat to ${AGENT_MODES[mode].label} mode…`);
+        void syncActiveModeChange(mode);
+      } else {
+        toast(`${AGENT_MODES[mode].label} mode selected.`);
+      }
+    }
+    function setUiTemplate(template) {
+      if (!UI_TEMPLATES.includes(template)) return;
+      if (template === uiTemplate) return;
+      uiTemplate = template;
+      try { chrome.storage.local.set({ zsUiTemplate: template }); } catch {}
+      if (menuVariant === "ui") buildUiMenu(); else buildMenu();
+      if (A.started) {
+        A.pendingUiKit = template;
+        A.uiKitRetryAt = 0;
+        A.pendingUiTheme = uiTheme;
+        void flushUiDesignChange();
+      } else {
+        toast(template ? `${template} kit selected.` : "UI kit cleared.");
+      }
+    }
+    function setUiTheme(theme) {
+      if (!UI_THEMES.includes(theme)) return;
+      if (theme === uiTheme) return;
+      uiTheme = theme;
+      try { chrome.storage.local.set({ zsUiTheme: theme }); } catch {}
+      if (menuVariant === "ui") buildUiMenu(); else buildMenu();
+      if (A.started) {
+        A.pendingUiKit = uiTemplate;
+        A.pendingUiTheme = theme;
+        A.uiKitRetryAt = 0;
+        void flushUiDesignChange();
+      } else {
+        toast(theme ? `${theme} theme selected.` : "Roblox theme cleared.");
+      }
+    }
+
+    function resolveApproval(ok) {
+      if (approvalResolve) approvalResolve(!!ok);
+      approvalResolve = null;
+      if (approvalEl) { approvalEl.remove(); approvalEl = null; }
+    }
+    function requestToolApproval(call) {
+      if (!root) return Promise.resolve(false);
+      resolveApproval(false);
+      approvalEl = document.createElement("aside");
+      approvalEl.id = "zs-approval";
+      approvalEl.innerHTML = `<div class="zs-approval-eyebrow">Manual approval</div><div class="zs-approval-title">Run ${String(call.tool || "this tool")}</div><div class="zs-approval-detail">${String(argSummary(call) || "No parameters")}</div><div class="zs-approval-actions"><button data-a="skip">Skip</button><button data-a="run">Run tool</button></div>`;
+      root.appendChild(approvalEl);
+      approvalEl.querySelector('[data-a="skip"]').addEventListener("click", () => resolveApproval(false));
+      approvalEl.querySelector('[data-a="run"]').addEventListener("click", () => resolveApproval(true));
+      return new Promise((resolve) => { approvalResolve = resolve; });
+    }
+    function setPlanReady() {
+      if (agentMode !== "plan" || !root || planExecutionApproved) return;
+      if (approvalEl) approvalEl.remove();
+      approvalEl = document.createElement("aside");
+      approvalEl.id = "zs-approval";
+      approvalEl.innerHTML = `<div class="zs-approval-eyebrow">Plan ready</div><div class="zs-approval-title">Review the plan in chat</div><div class="zs-approval-detail">Enable execution when you want EverLua to begin using Studio tools.</div><div class="zs-approval-actions"><button data-a="skip">Keep planning</button><button data-a="run">Enable execution</button></div>`;
+      root.appendChild(approvalEl);
+      approvalEl.querySelector('[data-a="skip"]').addEventListener("click", () => { if (approvalEl) { approvalEl.remove(); approvalEl = null; } });
+      approvalEl.querySelector('[data-a="run"]').addEventListener("click", () => {
+        planExecutionApproved = true;
+        resolveApproval(true);
+        toast("Plan approved. EverLua is starting execution.");
+        renderBar();
+        // The plan was already written in ChatGPT. Continue from that exact
+        // conversation state instead of making the user re-send their request.
+        setTimeout(() => { void executeApprovedPlan(); }, 100);
+      });
+    }
+
+    // ── Custom MCP servers (addons) ─────────────────────────────────────────
+    // User-added MCP servers shown at the very bottom of the menu. These are
+    // ADDONS: the Roblox server stays primary and is never in this list. Each
+    // entry is { id, name, command } - `command` is the raw string the user
+    // typed (split into command+args when sent to the bridge). The bridge writes
+    // them to config.json and restarts to load them; this local list only drives
+    // the menu UI and is kept in sync with the bridge's server health.
+    let customMcpServers = [];
+    try {
+      chrome.storage.local.get("zsCustomMcpServers", (r) => {
+        if (r && Array.isArray(r.zsCustomMcpServers)) {
+          customMcpServers = r.zsCustomMcpServers;
+          if (!menuEl.hidden) buildMenu();
+        }
+      });
+    } catch {}
+    function getCustomMcpServers() { return customMcpServers; }
+    function saveCustomMcpServers() {
+      try { chrome.storage.local.set({ zsCustomMcpServers: customMcpServers }); } catch {}
+    }
+    // The bridge (config.json + live health) is the SOURCE OF TRUTH for which
+    // addon servers actually exist - chrome.storage.local is just a display-name
+    // cache, and the two CAN drift (e.g. storage cleared, or config.json edited
+    // by hand). Rendering from the bridge's live list means an addon never
+    // "disappears" from the menu while still running - and self-heals the local
+    // cache the moment we see a server it didn't know about.
+    function mergedMcpServers() {
+      const live = ((A.bridge && A.bridge.servers) || []).filter((sv) => sv.id !== "roblox");
+      const byId = new Map(customMcpServers.map((s) => [s.id, s]));
+      const merged = live.map((sv) => {
+        const cached = byId.get(sv.id);
+        return {
+          id: sv.id, name: (cached && cached.name) || sv.id, command: cached && cached.command,
+          alive: sv.alive, tools: sv.tools,
+        };
+      });
+      // Self-heal: cache didn't know about a server the bridge actually has.
+      let healed = false;
+      for (const sv of live) {
+        if (!byId.has(sv.id)) { customMcpServers.push({ id: sv.id, name: sv.id }); healed = true; }
+      }
+      if (healed) saveCustomMcpServers();
+      // A server we just added/removed but the bridge hasn't reported back on
+      // yet (mid-restart) - still show it, health unknown, so it doesn't blink
+      // out of the list during the few seconds the bridge is restarting.
+      for (const s of customMcpServers) {
+        if (!merged.some((m) => m.id === s.id)) merged.push({ ...s, alive: undefined, tools: undefined });
+      }
+      return merged;
+    }
+    // Derive a config-safe server id from a display name (roblox is reserved).
+    function mcpSlug(name) {
+      let s = String(name || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+      if (!s || s === "roblox") s = `addon-${s || "server"}`;
+      let id = s, n = 2;
+      while (customMcpServers.some((x) => x.id === id)) id = `${s}-${n++}`;
+      return id;
+    }
+    // Split a raw "command with args" string into command + args (shell-lite:
+    // whitespace-separated, honouring "double" and 'single' quotes).
+    function splitCommand(raw) {
+      const parts = String(raw || "").match(/"[^"]*"|'[^']*'|\S+/g) || [];
+      const clean = parts.map((p) => p.replace(/^["']|["']$/g, ""));
+      return { command: clean[0] || "", args: clean.slice(1) };
+    }
+    // Wait for the bridge to come back after its restart (config reload). Resolves
+    // true once reconnected (optionally once `id` shows up in server health).
+    async function waitForBridgeBack(id, timeoutMs = 15000) {
+      const t0 = Date.now();
+      // Give the bridge a moment to actually drop before we start polling, so we
+      // don't instantly match the pre-restart "connected" state.
+      await new Promise((r) => setTimeout(r, 1200));
+      while (Date.now() - t0 < timeoutMs) {
+        const s = await bg({ type: "status" });
+        if (s && s.connected) {
+          if (!id || (Array.isArray(s.servers) && s.servers.some((x) => x.id === id))) return true;
+        }
+        await new Promise((r) => setTimeout(r, 700));
+      }
+      return false;
+    }
+
+    // ── The "more" menu (⋯) ─────────────────────────────────────────────────
+    // One popover holding every secondary control: other AI sites, the custom
+    // prompt and provider controls. Opens above the bar.
+    function buildMenu() {
+      menuVariant = "main";
+      if (uiBuilderBtn) uiBuilderBtn.classList.remove("is-open");
+      const here = (P.displayName || "").toLowerCase();
+      const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return ""; } };
+      let sites = "";
+      for (const s of AI_SITES) {
+        const current = s.name.toLowerCase() === here;
+        const label = `<span class="zs-site-name"><span>${s.name}</span><span class="zs-site-host">${hostOf(s.url)}</span></span>`;
+        sites += current
+          ? `<div class="zs-site-opt zs-site-here">${label}<span class="zs-site-badge">active</span></div>`
+          : `<button class="zs-site-opt" data-u="${s.url}">${label}<span class="zs-site-go">&rarr;</span></button>`;
+      }
+      const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      const mergedServers = mergedMcpServers();
+      // Roblox always heads the list - greyed out, no health dot (its own status
+      // is already the main EverLua dot elsewhere) and no remove button (it's
+      // the primary server, protected bridge-side too).
+      let mcpList =
+        `<div class="zs-mcp-item zs-mcp-item-primary"><div class="zs-mcp-info"><span class="zs-mcp-name">Roblox Studio</span><span class="zs-mcp-url">primary - always connected</span></div></div>`;
+      mergedServers.forEach((s, i) => {
+        // alive === undefined -> the bridge hasn't reported this server's health
+        // yet (just added/removed, still restarting) - shown neutral, not red.
+        const healthClass = s.alive === true ? "on" : s.alive === false ? "off" : "unknown";
+        const healthTitle = s.alive === true ? `${s.tools || 0} tools available` : s.alive === false ? "offline" : "status unknown";
+        mcpList += `<div class="zs-mcp-item"><span class="zs-mcp-health zs-mcp-health-${healthClass}" title="${healthTitle}"></span><div class="zs-mcp-info"><span class="zs-mcp-name">${esc(s.name)}</span><span class="zs-mcp-url">${esc(s.command || s.id)}</span></div><button class="zs-mcp-remove" data-id="${esc(s.id)}" title="Remove">✕</button></div>`;
+      });
+      menuEl.innerHTML =
+        `<div class="zs-menu-head"><span class="zs-menu-logo"><img class="zs-menu-icon" src="${chrome.runtime.getURL("icon.png")}" alt="" />EverLua</span><span class="zs-menu-tag">v${EXT_VERSION}</span></div>
+         <section class="zs-menu-sec">
+           <div class="zs-sec-label"><span>Agent mode</span></div>
+           <div class="zs-mode-grid">${Object.entries(AGENT_MODES).map(([id, m]) => `<button class="zs-mode-opt ${id === agentMode ? "is-active" : ""}" data-mode="${id}"><span>${m.label}</span><small>${m.detail}</small></button>`).join("")}</div>
+           <div class="zs-menu-note">Choose a mode before starting a new EverLua session.</div>
+         </section>
+         <section class="zs-menu-sec">
+           <div class="zs-sec-label"><span>Sounds</span></div>
+           <label class="zs-setting-toggle"><span><strong>Completion sounds</strong><small>Play a sound when EverLua finishes or hits an error.</small></span><input id="zs-completion-sounds" type="checkbox" ${completionSounds ? "checked" : ""} /><i aria-hidden="true"></i></label>
+         </section>
+         <section class="zs-menu-sec">
+           <div class="zs-sec-label"><span>Switch AI</span></div>
+           ${sites}
+         </section>
+         <section class="zs-menu-sec">
+           <div class="zs-sec-label"><span>Custom prompt</span></div>
+           <div class="zs-menu-note">Applied as strict project rules on every new session. State what to do, what not to do, and any non-negotiable format or style.</div>
+           <textarea id="zs-set-text" rows="4" placeholder="e.g. Use small modular scripts. Do NOT change existing UI unless asked. Ask before deleting anything."></textarea>
+           <div class="zs-set-row"><button id="zs-set-save">Save</button><span id="zs-set-status"></span></div>
+         </section>
+         <section class="zs-menu-sec">
+           <div class="zs-sec-label"><span>MCP servers</span></div>
+           <div class="zs-menu-note">Roblox Studio is always connected (primary). Add another MCP server (e.g. Blender, Sketchfab) as an addon - the bridge restarts briefly to load it. Experimental.</div>
+           ${mcpList}
+           <div class="zs-mcp-sep"></div>
+           <input id="zs-mcp-name" class="zs-mcp-field" placeholder="Name, e.g. Blender" />
+           <input id="zs-mcp-url" class="zs-mcp-field" placeholder="Start command, e.g. npx -y @some/mcp-server" />
+           <div class="zs-set-row"><button id="zs-mcp-add">Add server</button><span id="zs-mcp-status"></span></div>
+         </section>`;
+      const open = (url) => { try { window.open(url, "_blank", "noopener"); } catch {} menuEl.hidden = true; };
+      menuEl.querySelectorAll("button.zs-site-opt, .zs-tip-opt").forEach((b) =>
+        b.addEventListener("click", () => open(b.dataset.u)));
+      menuEl.querySelectorAll(".zs-mode-opt").forEach((b) => b.addEventListener("click", () => setAgentMode(b.dataset.mode)));
+      const soundToggle = menuEl.querySelector("#zs-completion-sounds");
+      if (soundToggle) soundToggle.addEventListener("change", () => setCompletionSounds(soundToggle.checked));
+      const ta = menuEl.querySelector("#zs-set-text");
+      const saveBtn = menuEl.querySelector("#zs-set-save");
+      const status = menuEl.querySelector("#zs-set-status");
+      ta.value = customPrompt;
+      saveBtn.addEventListener("click", () => {
+        customPrompt = ta.value;
+        try { chrome.storage.local.set({ zsCustomPrompt: customPrompt }); } catch {}
+        status.textContent = "Saved ✓";
+        setTimeout(() => { status.textContent = ""; }, 1600);
+      });
+      const mcpNameEl = menuEl.querySelector("#zs-mcp-name");
+      const mcpUrlEl = menuEl.querySelector("#zs-mcp-url");
+      const mcpStatus = menuEl.querySelector("#zs-mcp-status");
+      const mcpAddBtn = menuEl.querySelector("#zs-mcp-add");
+      // Disable every add/remove control and show the restart spinner. Adding or
+      // removing a server rewrites config.json and restarts the whole bridge, so
+      // no other server edit may run until it is back.
+      let mcpBusy = false;
+      function setMcpBusy(on, label) {
+        mcpBusy = on;
+        mcpAddBtn.disabled = on;
+        menuEl.querySelectorAll(".zs-mcp-remove").forEach((b) => (b.disabled = on));
+        mcpStatus.innerHTML = on
+          ? `<span class="zs-mcp-spin-row"><span class="zs-mcp-spin"></span>${label || "Restarting bridge…"}</span>`
+          : "";
+      }
+
+      menuEl.querySelectorAll(".zs-mcp-remove").forEach((b) =>
+        b.addEventListener("click", async () => {
+          if (mcpBusy) return;
+          const id = b.dataset.id;
+          if (!id) return;
+          setMcpBusy(true, "Restarting bridge…");
+          const r = await bg({ type: "remove_server", server_id: id });
+          if (!r || !r.ok) {
+            setMcpBusy(false);
+            mcpStatus.textContent = (r && r.error) || "Couldn't remove server";
+            setTimeout(() => { if (!mcpBusy) mcpStatus.textContent = ""; }, 2400);
+            return;
+          }
+          customMcpServers = customMcpServers.filter((s) => s.id !== id);
+          saveCustomMcpServers();
+          await waitForBridgeBack(null);
+          buildMenu(); // rebuilds with the spinner cleared
+        }));
+
+      mcpAddBtn.addEventListener("click", async () => {
+        if (mcpBusy) return;
+        const name = mcpNameEl.value.trim();
+        const command = mcpUrlEl.value.trim();
+        if (!name || !command) {
+          mcpStatus.textContent = "Name and command required";
+          setTimeout(() => { if (!mcpBusy) mcpStatus.textContent = ""; }, 1800);
+          return;
+        }
+        const id = mcpSlug(name);
+        const { command: cmd, args } = splitCommand(command);
+        setMcpBusy(true, "Restarting bridge…");
+        const r = await bg({ type: "add_server", server_id: id, command: cmd, args });
+        if (!r || !r.ok) {
+          setMcpBusy(false);
+          mcpStatus.textContent = (r && r.error) || "Couldn't add server";
+          setTimeout(() => { if (!mcpBusy) mcpStatus.textContent = ""; }, 2400);
+          return;
+        }
+        customMcpServers.push({ id, name, command });
+        saveCustomMcpServers();
+        await waitForBridgeBack(id);
+        buildMenu(); // rebuilds with the new server listed + spinner cleared
+      });
+    }
+
+    // ── First-time onboarding card (bridge missing) ─────────────────────────
+    const UI_TEMPLATE_CARDS = [
+      { id: "", icon: "×", name: "No UI kit", detail: "Use the game's existing style and only the user's request." },
+      { id: "Main Menu", icon: "⌂", name: "Main Menu", detail: "A strong title screen with play, settings, and clean navigation." },
+      { id: "Inventory", icon: "▦", name: "Inventory", detail: "Item slots, categories, selected-item details, and capacity." },
+      { id: "Shop", icon: "▣", name: "Shop", detail: "Product cards, prices, currency display, and purchase buttons." },
+      { id: "Settings", icon: "⚙", name: "Settings", detail: "Organised audio, graphics, controls, and toggle preferences." },
+      { id: "Quest Log", icon: "✓", name: "Quest Log", detail: "Quest list, objective progress, rewards, and tracked goals." },
+      { id: "Dialogue Box", icon: "✦", name: "Dialogue Box", detail: "Character portrait, readable dialogue, and choice buttons." },
+      { id: "Health HUD", icon: "♥", name: "Health HUD", detail: "Health, stamina, and status bars designed for moment-to-moment play." },
+    ];
+    function buildLegacyUiMenu() {
+      menuVariant = "ui";
+      const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      menuEl.innerHTML = `<div class="zs-menu-head zs-ui-head"><span class="zs-menu-logo"><img class="zs-menu-icon" src="${chrome.runtime.getURL("icon.png")}" alt="" />EverLua UI Kits</span><span class="zs-menu-tag">EverLua</span></div><section class="zs-menu-sec zs-ui-sec"><div class="zs-ui-explainer"><strong>What is this?</strong><span>Choose a kit to tell EverLua what kind of Roblox interface you want. It does not build anything by itself—when you next ask EverLua to make or improve UI, it uses this kit for the layout, features, and style.</span><small>Works immediately in this chat and stays selected until you change it.</small></div><div class="zs-sec-label"><span>Choose a UI starter</span></div><div class="zs-ui-grid">${UI_TEMPLATE_CARDS.map((t) => `<button class="zs-ui-card ${t.id === uiTemplate ? "is-active" : ""}" data-template="${esc(t.id)}"><span class="zs-ui-card-icon" aria-hidden="true">${t.icon}</span><span class="zs-ui-card-copy"><strong>${esc(t.name)}</strong><small>${esc(t.detail)}</small></span><span class="zs-ui-card-check" aria-hidden="true">${t.id === uiTemplate ? "✓" : ""}</span></button>`).join("")}</div><div class="zs-menu-note">Pick <b>No UI kit</b> whenever you want EverLua to use only your request and the game’s existing style.</div></section>`;
+      menuEl.querySelectorAll(".zs-ui-card").forEach((b) => b.addEventListener("click", () => setUiTemplate(b.dataset.template)));
+    }
+
+    const UI_THEME_CARDS = [
+      { id: "", name: "No Theme", detail: "Use the game's existing style only.", image: "assets/ui-themes/01-no-theme.png" },
+      { id: "Studio UI", name: "Studio UI", detail: "Classic Roblox Studio-style utility UI.", image: "assets/ui-themes/02-stud-ui.png" },
+      { id: "Simulator", name: "Simulator", detail: "Bright, rounded, friendly progression UI.", image: "assets/ui-themes/03-simulator.png" },
+      { id: "Anime Battler", name: "Anime Battler", detail: "Punchy action UI with bold energy.", image: "assets/ui-themes/04-anime-battler.png" },
+      { id: "Shooting", name: "Shooting", detail: "Tactical, modern UI for fast play.", image: "assets/ui-themes/05-shooting.png" },
+    ];
+
+    function buildUiMenu() {
+      menuVariant = "ui";
+      const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      const themeCards = UI_THEME_CARDS.map((t) => `<button class="zs-ui-theme-card ${t.id === uiTheme ? "is-active" : ""}" data-theme="${esc(t.id)}" aria-pressed="${t.id === uiTheme}"><span class="zs-ui-theme-preview" aria-hidden="true"><img src="${chrome.runtime.getURL(t.image)}" alt="" /></span><strong>${esc(t.name)}</strong><small>${esc(t.detail)}</small><span class="zs-ui-theme-check" aria-hidden="true">${t.id === uiTheme ? "&#10003;" : ""}</span></button>`).join("");
+      const kitCards = UI_TEMPLATE_CARDS.map((t) => `<button class="zs-ui-card ${t.id === uiTemplate ? "is-active" : ""}" data-template="${esc(t.id)}" aria-pressed="${t.id === uiTemplate}"><span class="zs-ui-card-icon" aria-hidden="true">${t.icon}</span><span class="zs-ui-card-copy"><strong>${esc(t.name)}</strong><small>${esc(t.detail)}</small></span><span class="zs-ui-card-check" aria-hidden="true">${t.id === uiTemplate ? "&#10003;" : ""}</span></button>`).join("");
+      menuEl.innerHTML = `<div class="zs-menu-head zs-ui-head"><span class="zs-menu-logo"><img class="zs-menu-icon" src="${chrome.runtime.getURL("icon.png")}" alt="" />EverLua UI Kits</span><span class="zs-menu-tag">EverLua</span></div><section class="zs-menu-sec zs-ui-sec"><div class="zs-ui-explainer"><strong>What is this?</strong><span>Choose a UI kit and a Roblox theme for your interface. EverLua uses both as style direction for your next UI request; it does not build anything when you select them.</span><small>Works immediately in this chat and stays selected until you change it.</small></div><div class="zs-sec-label zs-ui-theme-label"><span>Choose a Roblox theme</span><button class="zs-ui-info" type="button" title="Themes affect the visual style of future UI requests. No Theme keeps the game's existing style." aria-label="About Roblox themes">i</button></div><div class="zs-ui-theme-row">${themeCards}</div><div class="zs-sec-label"><span>Choose a UI starter</span></div><div class="zs-ui-grid">${kitCards}</div><div class="zs-menu-note">Pick <b>No UI kit</b> or <b>No Theme</b> whenever you want EverLua to use only your request and the game's existing style.</div></section>`;
+      menuEl.querySelectorAll(".zs-ui-card").forEach((b) => b.addEventListener("click", () => setUiTemplate(b.dataset.template)));
+      menuEl.querySelectorAll(".zs-ui-theme-card").forEach((b) => b.addEventListener("click", () => setUiTheme(b.dataset.theme)));
+    }
+
+    let setupCard = null, setupSeen = false, setupRaf = null;
+    try {
+      chrome.storage.local.get("zsSetupSeen", (r) => {
+        if (r && r.zsSetupSeen) setupSeen = true;
+      });
+    } catch {}
+
+    function buildSetup() {
+      setupCard = document.createElement("div");
+      setupCard.id = "zs-setup";
+      setupCard.hidden = true;
+      setupCard.innerHTML =
+        `<div id="zs-setup-head"><span id="zs-setup-logo">EverLua</span><span id="zs-setup-tag">Setup</span></div>` +
+        `<div id="zs-setup-sub">The <b>Bridge</b> is what connects this chat to Roblox Studio. Three steps and you're running.</div>` +
+        `<ol id="zs-setup-steps">` +
+          `<li>Download the Bridge from GitHub</li>` +
+          `<li>Run <code>start.bat</code></li>` +
+          `<li>Back here, click <b>Start Roblox agent</b></li>` +
+        `</ol>` +
+        `<div class="zs-setup-copy-row">` +
+          `<input type="text" id="zs-setup-link" readonly value="${GITHUB_URL}">` +
+          `<button id="zs-setup-copy">Copy</button>` +
+        `</div>` +
+        `<button id="zs-setup-dismiss">Got it</button>`;
+      document.documentElement.appendChild(setupCard);
+
+      setupCard.querySelector("#zs-setup-copy").addEventListener("click", () => {
+        try { navigator.clipboard.writeText(GITHUB_URL); } catch {
+          const inp = setupCard.querySelector("#zs-setup-link");
+          inp.select(); try { document.execCommand("copy"); } catch {}
+        }
+        const btn = setupCard.querySelector("#zs-setup-copy");
+        btn.textContent = "Copied!";
+        setTimeout(() => { btn.textContent = "Copy"; }, 1600);
+      });
+
+      setupCard.querySelector("#zs-setup-dismiss").addEventListener("click", () => {
+        setupSeen = true;
+        try { chrome.storage.local.set({ zsSetupSeen: true }); } catch {}
+        hideSetup();
+      });
+    }
+
+    // The onboarding card is pinned to the top-right corner (via CSS), out of the
+    // way of the composer; nothing to reposition per frame.
+    function placeSetup() {}
+
+    function showSetup() {
+      if (!setupCard) buildSetup();
+      if (setupCard.hidden) {
+        setupCard.hidden = false;
+        cancelAnimationFrame(setupRaf);
+        placeSetup();
+      }
+    }
+
+    function hideSetup() {
+      if (setupCard) setupCard.hidden = true;
+      cancelAnimationFrame(setupRaf);
+    }
+
+    function refreshSetup(bridgeConnected) {
+      if (setupSeen || bridgeConnected) { hideSetup(); return; }
+      // Bridge is down, but if the user is just READING an existing
+      // conversation with no EverLua session (the "No agent here" state),
+      // a "bridge down" onboarding popup is pure noise - they may not want an
+      // agent here at all (user request). Keep it for the states where the
+      // bridge actually matters: a fresh/empty chat (the Start affordance is
+      // showing) or a conversation with a live/starting session.
+      if (!A.started && !A.starting && !P.chatIsEmpty()) { hideSetup(); return; }
+      showSetup();
+    }
+
+    // The single source of truth for the bar's content. Decides the dot tone,
+    // the state line and the primary action from the live state:
+    //  • starting        → spinner, "Starting the Roblox agent…"
+    //  • session active   → live dot, "Agent active · N tools" (no action)
+    //  • fresh blank chat → "Standby…" (or a bridge/Studio warning), action = Start
+    //  • existing chat    → "No agent in this chat" (informs only, no action)
+    function renderBar() {
+      if (!bar) return;
+      // indicator = an optional leading dot/spinner; msg = the wrappable text.
+      let toneClass = "standby", indicator = "", msg = "", label = "", kind = "", disabled = false, warn = false;
+      // Show "Starting…" for the whole bootstrap. If the user actually leaves for
+      // a new (empty) chat, syncSessionState clears A.starting, so this naturally
+      // falls back to that chat's own state - no fragile per-key check here (fresh
+      // chats share a key, and the conversation id only appears mid-bootstrap).
+      if (A.starting) {
+        toneClass = "starting";
+        indicator = `<span class="zs-spin"></span>`;
+        msg = `Starting the Roblox agent…`;
+        label = "Starting…"; kind = "starting"; disabled = true;
+      } else if (A.started) {
+        // Prefer the ADVERTISED list length (A.toolList - the AGGREGATE catalogue
+        // across every connected MCP server, already filtered by the vision/blocked
+        // gate so it matches what the model actually has: e.g. screen_capture is
+        // absent on non-vision providers like Kimi). After a page reload A.toolList
+        // is empty until the next list_tools, so fall back to the sum of every
+        // server's per-server health count (Roblox + addons like Blender) - NOT the
+        // Roblox-only count, which made the total drop to just 27 after a reload.
+        const healthTotal = A.bridge &&
+          (A.bridge.servers || []).reduce((n, x) => n + (x.tools || 0), 0);
+        const tools = A.toolList.length || healthTotal || (A.bridge && A.bridge.tools) || 0;
+        // "N tools" only means StudioMCP itself is up - it advertises its full
+        // catalogue even with no Studio/place attached (see probe_studio() in
+        // bridge.py), so showing it while Studio/place isn't actually usable
+        // reads as "everything's fine" when tool calls will just fail. Surface
+        // the real blocker instead in that case.
+        if (A.bridge && A.bridge.connected === false) {
+          // placeDown/appDown/studioDown are all false in this case (they're
+          // only computed when the bridge IS connected - see setStatus), so
+          // without this check the bridge dropping fell through to the
+          // stale "N tools" text below, reading as if nothing was wrong.
+          toneClass = "warn"; warn = true;
+          msg = `<b>Agent active</b> · bridge offline, run start.bat`;
+        } else if ((placeDown || appDown || studioDown) && addonOk) {
+          // DEGRADED session by CHOICE: the user started the agent with Roblox
+          // down but other MCP server(s) alive (the "Start agent (Roblox
+          // offline)" path) - they may only want the addon tools (e.g. Blender).
+          // Keep the YELLOW dot as the honest health signal, but do NOT keep the
+          // red imperative "open Roblox Studio" nag on screen for the whole
+          // session (warn=false → no zs-state-warn red text). The full nag
+          // still shows when NO server is usable (the branches below).
+          toneClass = "warn";
+          msg = `<b>Agent active</b>${tools ? ` · ${tools} tools` : ""} · Roblox offline`;
+        } else if (placeDown) {
+          toneClass = "warn"; warn = true;
+          msg = `<b>Agent active</b> · open a place in Roblox Studio`;
+        } else if (appDown || studioDown) {
+          toneClass = "warn"; warn = true;
+          msg = studioProcUp
+            ? `<b>Agent active</b> · Studio is open but not connected - open <b>Assistant Settings &gt; MCP Servers</b> in Studio`
+            : `<b>Agent active</b> · open Roblox Studio & enable its MCP server`;
+        } else {
+          toneClass = "active";
+          // No inline dot here: the leading status dot already shows green, two
+          // dots side by side looked cluttered. The green "Agent active" text
+          // carries it.
+          msg = `<b>${AGENT_MODES[agentMode].label} mode</b>${tools ? ` · ${tools} tools` : ""}`;
+        }
+      } else if (P.isFreshChat() || P.chatIsEmpty()) {
+        // Treat ANY empty chat (no turns yet) as the standby/start case - not just
+        // the strict fresh-chat match. isFreshChat() also requires an exact root
+        // path AND the editor already mounted; on a cold load (e.g. arriving from a
+        // search-engine link) the SPA can show pathname/editor before they settle,
+        // which used to drop into the discouraging "No agent here" branch on a page
+        // that is actually empty and startable. "No agent here" is only correct for
+        // an EXISTING conversation (one that has turns) we did not start.
+        if (agentMode === "chat" || agentMode === "plan") {
+          toneClass = "standby";
+          msg = agentMode === "chat" ? "Chat mode is ready. Studio tools are off." : "Plan mode is ready. Review a plan before connecting tools.";
+          label = agentMode === "chat" ? "Start chat" : "Create plan"; kind = "start";
+        } else if (bridgeOk) {
+          toneClass = "standby";
+          msg = `Ready in ${AGENT_MODES[agentMode].label} mode.`;
+          label = agentMode === "chat" ? "Start chat" : agentMode === "plan" ? "Create plan" : "Start agent"; kind = "start";
+        } else if (addonOk) {
+          // Roblox is down but another MCP server is live: allow a DEGRADED start
+          // (yellow). The agent runs on the other server(s); Roblox tools stay
+          // unavailable until Studio is back. Button enabled, but visibly warned.
+          toneClass = "warn"; warn = true;
+          msg = !A.bridge.connected
+            ? `Run <b>start.bat</b> on your PC.`
+            : studioProcUp
+              ? `<b>Studio open but not connected</b> - open <b>Assistant Settings &gt; MCP Servers</b> in Studio, or start without it.`
+              : `<b>Roblox Studio offline</b> - start with your other MCP server(s).`;
+          label = "▶ Start agent (Roblox offline)"; kind = "start-degraded";
+        } else {
+          toneClass = "warn"; warn = true;
+          msg = !A.bridge.connected
+            ? `Run <b>start.bat</b> on your PC.`
+            : placeDown
+              ? `Open a <b>place</b> in Roblox Studio.`
+              : (appDown || studioDown) && studioProcUp
+                ? `Studio is open but not connected - open <b>Assistant Settings &gt; MCP Servers</b> in Studio.`
+                : appDown
+                  ? `Open <b>Roblox Studio</b> &amp; enable its MCP server.`
+                  : studioDown
+                    ? `Open <b>Roblox Studio</b> &amp; enable its MCP server.`
+                    : `Open <b>Roblox Studio</b> for the tools.`;
+          label = "▶ Start Roblox agent"; kind = "start";
+        }
+        disabled = !bridgeOk && !addonOk;
+      } else {
+        toneClass = "noagent";
+        msg = `No agent here. Open a new chat to start one.`;
+      }
+      // Parked on visibility: the loop is alive but deliberately frozen because
+      // this tab is not the foreground tab of its window. Say so explicitly -
+      // otherwise the bar keeps claiming "Agent active" while nothing advances,
+      // which reads as a hang (and is what users reported as "it died in the
+      // background"). No red warn tone: this is a normal, recoverable pause.
+      if (A.parked && (A.running || A.starting)) {
+        toneClass = "warn"; warn = false;
+        msg = `<b>Paused</b> · bring this tab to the front to continue`;
+      }
+      // Provider mode guard: some sites (e.g. Arena) only work in one chat mode.
+      // When the provider reports the current mode is unsupported, override the
+      // bar into a visible warning and disable Start until the user switches back.
+      // Skipped once a session is started/starting (the mode is fixed for the
+      // conversation by then). Reactive: renderBar runs on every sweep, so the
+      // warning appears/clears the instant the user changes the mode dropdown.
+      if (!A.started && !A.starting && P.modeWarning) {
+        const modeWarn = P.modeWarning();
+        if (modeWarn) {
+          toneClass = "warn"; warn = true; msg = modeWarn;
+          if (kind === "start" || kind === "start-degraded") disabled = true;
+        }
+      }
+      // Only touch the DOM when something actually changed. renderBar runs on
+      // every sweep; rewriting stateEl.innerHTML each time recreated the spinner
+      // <span> and RESTARTED its CSS animation, so "Starting…" appeared to stutter.
+      const busy = !stopBtn.hidden;
+      // Before a session is started, the bar stays minimal: only the Start action
+      // + Discord (help). The AI selector and the tips/support menu appear once the
+      // agent is actually running - so the pre-start bar isn't cluttered with
+      // options that only matter mid-session. (A.started is ambiguous with `warn`
+      // tone - which occurs both started-with-bridge-down and standby-with-bridge-
+      // down - so it's tracked explicitly in the signature.)
+      const showExtras = !!A.started;
+      const sig = [toneClass, indicator, msg, label, kind, disabled, warn, busy, showExtras].join("|");
+      if (sig === lastBarSig) return;
+      lastBarSig = sig;
+      // Set the tone WITHOUT clobbering other classes (e.g. zs-bar-inline, which
+      // placeBar adds for the in-flow mount - overwriting className broke the
+      // layout, making the bar fall back to fixed positioning and overlap).
+      bar.classList.remove("tone-standby", "tone-active", "tone-warn", "tone-noagent", "tone-starting");
+      bar.classList.add(`tone-${toneClass}`);
+      stateEl.innerHTML = indicator + `<span class="zs-state-txt">${msg}</span>`;
+      stateEl.classList.toggle("zs-state-warn", warn);
+      actionBtn.textContent = label;
+      actionBtn.dataset.kind = kind;
+      actionBtn.disabled = disabled;
+      // The Stop button replaces the action button while the agent is busy.
+      // With no kind (e.g. agent active, or an existing chat) there's no primary
+      // action to offer, so the button is hidden entirely.
+      actionBtn.style.display = (busy || !kind) ? "none" : "";
+      // AI selector + tips/support: only once a session is live. Discord stays
+      // visible in every state (it's the help link).
+      if (switchBtn) switchBtn.style.display = showExtras ? "" : "none";
+      if (uiBuilderBtn) uiBuilderBtn.style.display = showExtras ? "" : "none";
+    }
+    let lastBarSig = "";
+
+    // Thin wrappers kept for the core's call sites; the decision lives in renderBar.
+    function setStarted() { renderBar(); }
+    function setStarting() { renderBar(); }
+
+    function setStatus(s) {
+      A.bridge = s;
+      if (!dot) return;
+      const servers = s.servers || [];
+      // EverLua status tracks ONLY the primary Roblox MCP server. Every other
+      // server is an addon and must NEVER make the dot/gate look connected while
+      // Roblox itself is down. Old bridges don't send per-server health, so fall
+      // back to the aggregate signals they do send (mcpAlive / total tools).
+      const roblox = servers.find((x) => x.id === "roblox");
+      const mcpUp = roblox ? !!roblox.alive : (!!s.mcpAlive || servers.some((x) => x.alive));
+      // Roblox-only count drives the connectivity gate (the dot must never look
+      // green off an addon while Roblox itself is down)...
+      const robloxTools = roblox ? (roblox.tools || 0) : (s.tools || 0);
+      const mcpOk = s.connected && (mcpUp || robloxTools > 0);
+      // ...but the DISPLAYED count is the aggregate across every server (Roblox +
+      // addons like Blender), so it stays consistent with the bar and doesn't
+      // under-report when addon servers are loaded.
+      const totalTools = servers.reduce((n, x) => n + (x.tools || 0), 0) || s.tools || robloxTools;
+      // studio === false means the MCP server answered but the Studio is not USABLE
+      // (no place loaded). studioApp tells the two sub-cases apart:
+      //   studioApp === false → no Studio connected at all (app closed OR its MCP
+      //                         server option is disabled - indistinguishable).
+      //   studioApp === true  → Studio open but no place loaded (home screen / place
+      //                         closed mid-session). THIS is the case that used to
+      //                         wrongly read "Connected".
+      // null/undefined = unknown (old bridge / probe busy) → don't degrade.
+      const studioOff = mcpOk && s.studio === false;
+      const noApp = studioOff && s.studioApp === false;
+      const noPlace = studioOff && s.studioApp === true;
+      const ok = mcpOk && !studioOff;
+      dot.className = s.connected ? (ok ? "on" : "warn") : "off";
+      // Studio PROCESS running on the machine (bridge-side tasklist check).
+      // Splits noApp into its two truly different situations: Studio not
+      // launched at all vs Studio OPEN but its MCP plugin never registered
+      // with the bridge. The plugin only attempts to register ONCE (at Studio
+      // boot or on a panel/toggle interaction) and never retries by itself,
+      // so for the second case "open Roblox Studio" is dead-end advice - the
+      // action that actually works (validated live 3x, 2026-07-11) is opening
+      // Assistant Settings > MCP Servers inside the already-open Studio.
+      const procUp = s.studioProc === true;
+      let txt;
+      if (!s.connected) txt = "Bridge offline, run start.bat";
+      else if (!mcpOk) txt = "Bridge OK, open Roblox Studio";
+      else if (noPlace) txt = "Roblox Studio is open but no place is loaded - open a place";
+      else if (noApp) txt = procUp
+        ? "Studio is open but not connected - in Studio, open Assistant Settings > MCP Servers (or toggle its MCP server off/on)"
+        : "Roblox Studio not connected - open it and enable its MCP server";
+      else if (studioOff) txt = "Studio not connected, enable the MCP server in Roblox Studio";
+      else txt = `Connected · ${totalTools} tools ready`;
+      dot.title = txt; // full bridge detail on hover over the status dot
+      bridgeOk = ok;
+      studioDown = studioOff;
+      placeDown = noPlace;
+      appDown = noApp;
+      studioProcUp = procUp;
+      // A non-Roblox MCP (Blender, Sketchfab, ...) that is actually alive. When
+      // Roblox itself is down but such a server is present, the session can still
+      // start in a DEGRADED mode - the agent just can't touch Roblox until Studio
+      // is back. Gated on s.connected so a dropped bridge never reads as usable.
+      addonOk = !!s.connected && servers.some((x) => x.id !== "roblox" && x.alive && (x.tools || 0) > 0);
+      // Bridge-drop alert: a clear, persistent red banner the moment a
+      // previously-connected bridge goes offline. Clears on reconnect.
+      if (wasConnected && !s.connected) bridgeAlert(true);
+      if (s.connected) bridgeAlert(false);
+      wasConnected = s.connected;
+      // Once the bridge has connected at least once, onboarding is done: never
+      // resurface the "download the bridge" setup card again (otherwise, if the
+      // bridge later drops, it would reappear on top of the bridge-lost banner).
+      if (s.connected && !setupSeen) {
+        setupSeen = true;
+        try { chrome.storage.local.set({ zsSetupSeen: true }); } catch {}
+      }
+      renderBar();
+      refreshSetup(s.connected);
+    }
+
+    // Show (on=true) / clear (on=false) the bridge-disconnected red banner.
+    function bridgeAlert(on) {
+      if (!on) {
+        if (bridgeBannerEl) { bridgeBannerEl.remove(); bridgeBannerEl = null; }
+        return;
+      }
+      if (bridgeBannerEl) return; // already shown
+      const b = document.createElement("div");
+      b.className = "zs-banner limit";
+      b.innerHTML = `<div class="zs-banner-t">⚠ Lost connection to EverLua</div>
+        <div class="zs-banner-m">The EverLua bridge stopped on your PC. Restart it (run start.bat and keep Roblox Studio open): the agent will reconnect automatically as soon as it is detected again.</div>
+        <div class="zs-banner-acts"><button class="zs-banner-x">Close</button></div>`;
+      b.querySelector(".zs-banner-x").addEventListener("click", () => { b.remove(); if (bridgeBannerEl === b) bridgeBannerEl = null; });
+      root.appendChild(b);
+      bridgeBannerEl = b;
+    }
+
+    // Show (v=true) / hide the "■ Stop" button while the agent is busy. The
+    // primary action button swaps out for it (handled in renderBar via busy).
+    // Forced hidden during bootstrap (A.starting) so the bar stays on "Starting…"
+    // (else it flickers Starting → Stop → Starting as generation toggles). The
+    // caller decides the rest, including native-stop de-duplication.
+    function showStop(v) {
+      if (!stopBtn) return;
+      // Stay visible while winding down (A.stopping), so the button doesn't blink
+      // off when the live generation signal toggles as the loop drains.
+      const allow = (v || A.stopping) && !A.starting;
+      const was = stopBtn.hidden;
+      stopBtn.hidden = !allow;
+      // Restore the normal, clickable Stop look whenever we're shown for a fresh
+      // active turn (not a stop-in-progress).
+      if (allow && !A.stopping && stopBtn.dataset.state === "stopping") {
+        stopBtn.disabled = false;
+        stopBtn.textContent = "■ Stop";
+        delete stopBtn.dataset.state;
+      }
+      if (was !== stopBtn.hidden) renderBar(); // reflect the action/stop swap
+    }
+
+    // Instant feedback the moment the user clicks Stop: lock the button into a
+    // disabled "⏳ Stopping…" state so they see it registered, even though the
+    // loop takes a beat to actually wind down (finish the in-flight tool/await).
+    function markStopping() {
+      if (!stopBtn) return;
+      stopBtn.hidden = false;
+      stopBtn.disabled = true;
+      stopBtn.dataset.state = "stopping";
+      stopBtn.textContent = "⏳ Stopping…";
+      renderBar();
+    }
+
+    // A gentle, one-time nudge: the user typed on a fresh chat without starting
+    // the agent. We do NOT block the send (plain chat is fine) - we just point at
+    // the Start button so they discover how to enable Roblox control.
+    let nudged = false;
+    function nudgeStart() {
+      if (A.started || !P.isFreshChat()) return;
+      if (!nudged) {
+        nudged = true;
+        toast("Tip: click “▶ Start Roblox agent” to let the AI control Roblox Studio.");
+      }
+      if (!actionBtn) return;
+      actionBtn.classList.add("zs-flash");
+      setTimeout(() => actionBtn.classList.remove("zs-flash"), 1200);
+    }
+
+    // ── Theme auto-detection (light / dark) ─────────────────────────────────
+    // The panel and the in-conversation chips are dark-themed by default. On a
+    // LIGHT host page the chips' light text on a near-transparent tint becomes
+    // invisible, so we detect the page's effective background luminance and add
+    // `.zs-light` to <html>; overlay.css then flips to readable light colours.
+    // Most chat sites declare their theme EXPLICITLY (a `dark`/`light` class on
+    // <html>/<body>, a data-theme attribute, or CSS color-scheme) - far more
+    // reliable than luminance, since many (e.g. z.ai) leave <html>/<body> with a
+    // transparent background and paint the theme on a deeper container. Returns
+    // "light" | "dark" | null (no explicit signal).
+    function pageThemeHint() {
+      const de = document.documentElement, b = document.body;
+      const cls = (de.className + " " + (b ? b.className : "")).toLowerCase();
+      if (/\bdark\b/.test(cls)) return "dark";
+      if (/\blight\b/.test(cls)) return "light";
+      const attr = (de.getAttribute("data-theme") || de.getAttribute("data-color-mode") ||
+                    de.getAttribute("data-color-scheme") || "").toLowerCase();
+      if (/dark/.test(attr)) return "dark";
+      if (/light/.test(attr)) return "light";
+      const cs = (getComputedStyle(de).colorScheme || "").toLowerCase();
+      if (/dark/.test(cs) && !/light/.test(cs)) return "dark";
+      if (/light/.test(cs) && !/dark/.test(cs)) return "light";
+      return null;
+    }
+    // Fallback only: luminance of the first opaque background up the tree.
+    function effectiveBg() {
+      let n = document.body;
+      while (n && n !== document.documentElement) {
+        const c = getComputedStyle(n).backgroundColor;
+        if (c && !/(transparent)/.test(c) && !/,\s*0\s*\)$/.test(c)) return c;
+        n = n.parentElement;
+      }
+      return getComputedStyle(document.documentElement).backgroundColor || "rgb(255,255,255)";
+    }
+    function applyTheme() {
+      let light;
+      const hint = pageThemeHint();
+      if (hint) {
+        light = hint === "light";
+      } else {
+        const m = (effectiveBg().match(/\d+(?:\.\d+)?/g) || []).map(Number);
+        if (m.length < 3) return;
+        light = 0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2] > 140;
+      }
+      document.documentElement.classList.toggle("zs-light", light);
+    }
+
+    // Where the bar lives INSIDE the site's composer. We insert it as a real,
+    // in-flow DOM node (between the model tabs and the input on DeepSeek), so it
+    // takes the full composer width and never overlaps the site's own controls.
+    // The mount point is derived from each provider's composerFrame()+getEditor(),
+    // or a provider can override it via barMount(). Returns {parent, before}.
+    // The provider decides the exact mount (it knows which element is the input
+    // box and where a child reflows cleanly). If a provider doesn't supply one,
+    // we fall back to the floating bar rather than risk overlapping its layout.
+    function computeBarMount() {
+      if (!P.barMount) return null;
+      const m = P.barMount();
+      return (m && m.parent && m.parent.isConnected) ? m : null;
+    }
+
+    // Floating fallback geometry (used only when no inline mount is available).
+    const BAR_MAX_W = 560, BAR_GAP = 8;
+
+    // Anchored mode bookkeeping: the composer element whose top padding we are
+    // borrowing to seat the bar (see the anchored branch below). Cleared when we
+    // leave anchored mode so the site's composer returns to its normal layout.
+    let anchorPadEl = null;
+    function clearAnchorPad() {
+      if (anchorPadEl) { try { anchorPadEl.style.paddingTop = ""; } catch {} anchorPadEl = null; }
+    }
+
+    // Position the floating "⚠ unstable" pill just above the bar's left edge.
+    function placeUnstable() {
+      const u = unstableEl;
+      if (!u) return;
+      if (!bar || bar.style.display === "none") { if (!u.hidden) u.hidden = true; return; }
+      const br = bar.getBoundingClientRect();
+      if (!br.width) { if (!u.hidden) u.hidden = true; return; }
+      if (u.hidden) u.hidden = false;
+      const uh = u.offsetHeight || 20;
+      u.style.left = Math.round(br.left) + "px";
+      u.style.top = Math.round(Math.max(4, br.top - uh - 5)) + "px";
+    }
+
+    function placeBar() {
+      barRaf = requestAnimationFrame(placeBar);
+      if (!bar) return;
+
+      // Self-heal: a SPA navigation or a full re-render on the host (seen on Arena
+      // when the message frame jumps/teleports to the bottom) can detach our whole
+      // #zs-root from <html>, taking the bar with it - and nothing re-adds it, so
+      // the panel just vanishes. Re-append it whenever it's been detached; this
+      // rAF loop is resilient (its next frame is scheduled before any body code),
+      // so the panel reappears on the very next frame.
+      if (root && !root.isConnected) {
+        try { document.documentElement.appendChild(root); } catch {}
+      }
+
+      // The instability warning floats just ABOVE the bar (not inside it), so it
+      // never crowds the row on narrow composers like Gemini. Positioned from the
+      // bar's current rect every frame - works in all bar modes since it only
+      // reads where the bar ended up. One frame of lag is imperceptible.
+      placeUnstable();
+
+      // While a bot-check challenge OR a blocking modal (login / consent) is on
+      // screen, get fully out of the way: the (often transparent) anchored bar is
+      // a real full-width element over the composer's top edge and would silently
+      // intercept clicks on the challenge's / modal's buttons (e.g. "Continue with
+      // Google" at sign-in). Hide the bar and drop the reserved padding strip; it
+      // reappears on the next frame once the overlay clears.
+      if (
+        (P.captchaPresent && P.captchaPresent()) ||
+        (P.overlayBlocking && P.overlayBlocking())
+      ) {
+        bar.style.display = "none";
+        clearAnchorPad();
+        if (menuEl) menuEl.hidden = true;
+        return;
+      }
+
+      // Preferred: in-flow mount inside the composer (no overlap, full width).
+      const mount = computeBarMount();
+      if (mount) {
+        clearAnchorPad();
+        if (bar.parentElement !== mount.parent || bar.nextElementSibling !== mount.before) {
+          try { mount.parent.insertBefore(bar, mount.before || null); } catch {}
+        }
+        if (!bar.classList.contains("zs-bar-inline")) {
+          bar.classList.add("zs-bar-inline");
+          bar.style.cssText = ""; // drop any leftover float positioning
+        }
+        // Transparent (blends in) when mounted INSIDE the input box; surface card
+        // when mounted ABOVE it. The provider's barMount() signals which via .inside.
+        bar.classList.toggle("zs-bar-inside", !!mount.inside);
+        bar.style.display = "flex";
+        if (menuEl && !menuEl.hidden) {
+          const br = bar.getBoundingClientRect();
+          menuEl.style.right = Math.round(window.innerWidth - br.right) + "px";
+          menuEl.style.bottom = Math.round(window.innerHeight - br.top + 6) + "px";
+          menuEl.style.maxHeight = Math.max(140, Math.round(br.top - 16)) + "px";
+        }
+        return;
+      }
+
+      // Anchored mode: the provider wants the integrated, in-composer LOOK but
+      // its composer is a framework-reconciled subtree we must NOT insert our
+      // node into (e.g. Kimi's Vue tree - inserting #zs-bar there makes Vue's
+      // next diff reuse the bar node as a host and nest the editor inside it).
+      // So we keep the bar in our own #zs-root, position it (position:fixed) to
+      // hug the composer's top edge at full width, and RESERVE that strip with
+      // padding-top on the composer so it reads as in-flow without ever becoming
+      // a child of the framework's DOM. barAnchor() returns the element to hug.
+      const anchorEl = (P.barAnchor && P.barAnchor()) || null;
+      if (anchorEl && anchorEl.isConnected) {
+        bar.classList.remove("zs-bar-inline", "zs-bar-inside");
+        bar.classList.add("zs-bar-anchored");
+        if (root && bar.parentElement !== root) root.appendChild(bar);
+        const r = anchorEl.getBoundingClientRect();
+        if (!r.width) { bar.style.display = "none"; clearAnchorPad(); if (menuEl) menuEl.hidden = true; return; }
+        bar.style.display = "flex";
+        const bh = bar.offsetHeight || 34;
+        if (anchorPadEl && anchorPadEl !== anchorEl) clearAnchorPad();
+        anchorPadEl = anchorEl;
+        anchorEl.style.paddingTop = (bh + 6) + "px"; // reserve the strip the bar sits in (+gap)
+        bar.style.left = Math.round(r.left) + "px";
+        bar.style.top = Math.round(r.top) + "px";
+        bar.style.width = Math.round(r.width) + "px";
+        if (menuEl && !menuEl.hidden) {
+          bar.classList.remove("zs-bar-inline"); // ensure fixed geometry for menu math
+          menuEl.style.right = Math.round(window.innerWidth - (r.left + r.width)) + "px";
+          menuEl.style.bottom = Math.round(window.innerHeight - r.top + 6) + "px";
+          menuEl.style.maxHeight = Math.max(140, Math.round(r.top - 16)) + "px";
+        }
+        return;
+      }
+      bar.classList.remove("zs-bar-anchored");
+      clearAnchorPad();
+
+      // Fallback: float just above the editor (fixed positioning), for sites
+      // where no clean inline mount could be resolved.
+      if (bar.classList.contains("zs-bar-inline")) {
+        bar.classList.remove("zs-bar-inline");
+        if (root && bar.parentElement !== root) root.appendChild(bar);
+      }
+      const f = (P.getEditor && P.getEditor()) || (P.composerFrame && P.composerFrame());
+      if (!f) { bar.style.display = "none"; if (menuEl) menuEl.hidden = true; return; }
+      bar.style.display = "flex";
+      const r = f.getBoundingClientRect();
+      if (!r.width) { bar.style.display = "none"; return; }
+      const w = Math.min(r.width, BAR_MAX_W);
+      const left = Math.round(r.left + (r.width - w) / 2);
+      const bh = bar.offsetHeight || 40;
+      const top = Math.max(4, Math.round(r.top - bh - BAR_GAP));
+      bar.style.width = w + "px";
+      bar.style.left = left + "px";
+      bar.style.top = top + "px";
+      // Keep the open "more" menu anchored to the bar, opening upward.
+      if (menuEl && !menuEl.hidden) {
+        const br = bar.getBoundingClientRect();
+        menuEl.style.right = Math.round(window.innerWidth - br.right) + "px";
+        menuEl.style.bottom = Math.round(window.innerHeight - br.top + 6) + "px";
+        menuEl.style.maxHeight = Math.max(140, Math.round(br.top - 16)) + "px";
+      }
+    }
+
+    // Called by the core's sweep + after state changes: refresh the bar content.
+    // (Positioning runs continuously in placeBar; this only updates what's shown.)
+    function updateStartGate() { renderBar(); }
+
+    // Masks the input box while the extension types/sends, so the copied text
+    // and the submit aren't visible to the user.
+    // Returns a FULLY OPAQUE colour that matches what is VISUALLY behind the cover.
+    // The cover must hide the typed text, so it can't be translucent - but simply
+    // returning the first solid ancestor is wrong when the composer surface itself
+    // is translucent: Meta's card is rgba(56,56,56,0.8) over a dark page, so its
+    // real on-screen colour is a BLEND (~rgb(50,50,50)), lighter than the bare page
+    // (rgb(24,24,25)). Filling the cover with the page colour made it visibly
+    // darker than the composer. So collect the background layers from `el` up to
+    // the first opaque ancestor and FLATTEN them (alpha compositing) into one solid
+    // colour that reproduces the composer's actual appearance.
+    function opaqueBg(el) {
+      const layers = [];
+      let n = el;
+      while (n && n !== document.documentElement) {
+        const c = parseColor(getComputedStyle(n).backgroundColor);
+        if (c && c.a > 0) {
+          layers.push(c);
+          if (c.a >= 0.999) break; // opaque base reached - nothing behind matters
+        }
+        n = n.parentElement;
+      }
+      // Guarantee an opaque base at the bottom of the stack.
+      if (!layers.length || layers[layers.length - 1].a < 0.999) {
+        const base = parseColor(getComputedStyle(document.body).backgroundColor) ||
+                     { r: 255, g: 255, b: 255, a: 1 };
+        layers.push({ r: base.r, g: base.g, b: base.b, a: 1 });
+      }
+      // We collected top-most (el) first, so composite from the opaque base (last)
+      // upward toward el (first).
+      let out = layers[layers.length - 1];
+      for (let i = layers.length - 2; i >= 0; i--) out = blendOver(layers[i], out);
+      return `rgb(${Math.round(out.r)}, ${Math.round(out.g)}, ${Math.round(out.b)})`;
+    }
+    // Parse an rgb()/rgba() computed colour into {r,g,b,a}. Returns null for
+    // "transparent"/unparseable. getComputedStyle always yields rgb/rgba form.
+    function parseColor(c) {
+      if (!c || c === "transparent") return null;
+      const m = c.match(/rgba?\(([^)]+)\)/i);
+      if (!m) return null;
+      const p = m[1].split(",").map((x) => parseFloat(x));
+      return { r: p[0], g: p[1], b: p[2], a: p.length >= 4 ? p[3] : 1 };
+    }
+    // Source-over compositing of a (possibly translucent) fg onto an opaque bg.
+    function blendOver(fg, bg) {
+      const a = fg.a;
+      return {
+        r: fg.r * a + bg.r * (1 - a),
+        g: fg.g * a + bg.g * (1 - a),
+        b: fg.b * a + bg.b * (1 - a),
+        a: 1,
+      };
+    }
+
+    function inputCover(on) {
+      const ed = P.getEditor();
+      if (!on) {
+        if (cover) { cover.style.display = "none"; cover.dataset.on = ""; }
+        if (ed) ed.classList.remove("zs-typing");
+        cancelAnimationFrame(coverRaf);
+        return;
+      }
+      if (!ed) return;
+      ed.classList.add("zs-typing"); // make the typed text itself invisible
+      if (!cover) {
+        cover = document.createElement("div");
+        cover.id = "zs-input-cover";
+        cover.innerHTML = `<span>Agent is working…</span>`;
+        document.documentElement.appendChild(cover);
+      }
+      cover.dataset.on = "1"; // intent flag: keep the place() loop alive while set
+      cover.style.display = "flex";
+      const place = () => {
+        // Loop runs while the cover is INTENDED on (dataset.on), not while it's
+        // visible - so we can hide it for an overlay and still restore it after.
+        if (!cover || cover.dataset.on !== "1") return;
+        const e = P.getEditor();
+        if (!e) { coverRaf = requestAnimationFrame(place); return; }
+        // Re-assert the typing mask on the CURRENT editor node: sites that
+        // recreate the editor on each inject/clear (Kimi's Vue) drop the class,
+        // which would un-hide the raw text and un-cap its height. Cheap idempotent
+        // add every frame keeps the mask + height cap glued to the live node.
+        if (!e.classList.contains("zs-typing")) e.classList.add("zs-typing");
+        // The cover is SIZED to coverTarget() when a provider supplies one, else
+        // to the editor node itself. Some composers (Meta AI) make the editable a
+        // tiny line inside a much larger rounded card - covering only the editor
+        // left the rest of the card exposed and CLICKABLE (a careful click focused
+        // the editor and let the user type behind the cover). Meta returns its
+        // whole composer card so the cover blankets the entire input band and its
+        // pointer-events:auto blocks every click. The typing mask above still lives
+        // on the real editor node `e`.
+        const covNode = (P.coverTarget && P.coverTarget()) || e;
+        // While a blocking modal (login / consent) or bot-check is up, hide the
+        // cover so it doesn't sit on top of the modal; it reappears once the
+        // overlay clears (the loop keeps running).
+        if (
+          (P.overlayBlocking && P.overlayBlocking()) ||
+          (P.captchaPresent && P.captchaPresent())
+        ) {
+          cover.style.display = "none";
+          coverRaf = requestAnimationFrame(place);
+          return;
+        }
+        cover.style.display = "flex";
+        let r = covNode.getBoundingClientRect();
+        // Clip the cover to the composer's VISIBLE band. Some composers grow the
+        // inner editor node past a scrolling ancestor that clips it (Kimi's Vue
+        // RECREATES .chat-input-editor on every inject/clear, dropping the
+        // .zs-typing height cap, so the editor balloons to ~1500px while its
+        // .chat-input-editor-container caps the visible box via overflow:auto).
+        // Measuring the raw editor then centres the cover on the giant editor's
+        // midpoint - far below the visible input - so it "vanishes" off the box.
+        // Intersect with the nearest clipping ancestor to track what's on screen.
+        for (let a = covNode.parentElement, i = 0; a && a !== document.body && i < 8; a = a.parentElement, i++) {
+          const ov = getComputedStyle(a).overflowY;
+          if (ov === "auto" || ov === "scroll" || ov === "hidden") {
+            const ar = a.getBoundingClientRect();
+            const top = Math.max(r.top, ar.top);
+            const bottom = Math.min(r.bottom, ar.bottom);
+            if (bottom > top) r = new DOMRect(r.left, top, r.width, bottom - top);
+            break;
+          }
+        }
+        // Optionally overshoot the editor box by PAD px on every side. Some
+        // composers (Gemini's Quill) keep typed text near rounded corners, so a
+        // cover sized EXACTLY to the editor leaves slivers of text peeking; those
+        // providers set coverPad to bleed past the edges. A native <textarea>
+        // (DeepSeek) needs none - overshooting there just makes the cover overflow
+        // the composer, so it defaults to 0.
+        const PAD = P.coverPad || 0;
+        // Optional vertical nudge: some composers (Gemini's Quill) report an
+        // editor rect that sits a few px below the visual input box centre, so
+        // the centred "Agent is working…" text looks low. A provider can shift it.
+        const OFFY = P.coverOffsetY || 0;
+        // Height is at least MIN_H so the label is readable even over a
+        // single-line composer. CENTER the cover on the editor's vertical middle
+        // rather than anchoring its TOP to the editor top: a short (e.g. 20px)
+        // textarea bumped to 36px would otherwise grow only DOWNWARD, leaving the
+        // "Agent is working…" label sitting high in the composer's input band
+        // (seen on Cloudflare's 1-line textarea). For a composer already taller
+        // than MIN_H the maths reduces to the old `r.top - PAD`, so DeepSeek/Gemini
+        // are unchanged.
+        // Hard ceiling: even though .zs-typing caps the editor's visual height
+        // (see overlay.css), belt-and-suspenders clamp the cover so a composer
+        // whose growing element escapes that CSS cap on some provider can never
+        // turn the "Agent is working…" cover into a full-page white slab.
+        const MAXH = P.coverMaxH || 200;
+        const h = Math.min(Math.max(r.height + PAD * 2, 36), MAXH);
+        const centerY = r.top + r.height / 2 + OFFY;
+        cover.style.left = (r.left - PAD) + "px";
+        cover.style.top = (centerY - h / 2) + "px";
+        cover.style.width = (r.width + PAD * 2) + "px";
+        cover.style.height = h + "px";
+        // Composite the surface BEHIND the cover target so the fill matches what
+        // the user sees (a translucent composer card blends over the page).
+        cover.style.background = opaqueBg(covNode);
+        // When the cover blankets a whole composer card (coverTarget), match its
+        // corner radius so the cover's square corners don't poke past the card's
+        // rounded ones. Editor-sized covers keep the CSS default.
+        if (P.coverTarget) cover.style.borderRadius = getComputedStyle(covNode).borderRadius;
+        coverRaf = requestAnimationFrame(place);
+      };
+      place();
+    }
+
+    function toast(msg) {
+      const t = document.createElement("div");
+      t.className = "zs-toast";
+      t.textContent = msg;
+      root.appendChild(t);
+      setTimeout(() => t.classList.add("show"), 10);
+      setTimeout(() => { t.classList.remove("show"); setTimeout(() => t.remove(), 300); }, 3500);
+    }
+
+    function banner(kind, title, msg) {
+      const b = document.createElement("div");
+      b.className = `zs-banner ${kind}`;
+      b.innerHTML = `<div class="zs-banner-t"></div><div class="zs-banner-m"></div>
+        <div class="zs-banner-acts">
+          <button class="zs-banner-x">Close</button>
+        </div>`;
+      b.querySelector(".zs-banner-t").textContent = title;
+      b.querySelector(".zs-banner-m").textContent = msg;
+      b.querySelector(".zs-banner-x").addEventListener("click", () => b.remove());
+      root.appendChild(b);
+    }
+
+    // Left-hand EverLua popup showing the latest screen_capture. Fed from the
+    // in-memory base64 (a data: URL always renders), so it works identically on
+    // every provider and never touches the site's DOM. Only the most recent
+    // capture is kept - a new one replaces the old.
+    function showImages(images, toolName) {
+      root.querySelectorAll(".zs-shot").forEach((e) => e.remove());
+      const wrap = document.createElement("div");
+      wrap.className = "zs-shot";
+      const hdr = document.createElement("div");
+      hdr.className = "zs-shot-hdr";
+      const ttl = document.createElement("span");
+      ttl.className = "zs-shot-ttl";
+      ttl.textContent = `${toolName} · ${images.length} image${images.length > 1 ? "s" : ""}`;
+      const close = document.createElement("button");
+      close.className = "zs-shot-x";
+      close.textContent = "✕";
+      close.addEventListener("click", () => wrap.remove());
+      hdr.appendChild(ttl);
+      hdr.appendChild(close);
+      wrap.appendChild(hdr);
+      const body = document.createElement("div");
+      body.className = "zs-shot-body";
+      for (const img of images) {
+        const el = document.createElement("img");
+        el.className = "zs-shot-img";
+        el.src = `data:${img.mimeType || "image/jpeg"};base64,${img.data}`;
+        body.appendChild(el);
+      }
+      wrap.appendChild(body);
+      root.appendChild(wrap);
+    }
+
+    build();
+    return { setStatus, setStarted, setStarting, showStop, markStopping, inputCover, toast, banner, showImages, nudgeStart, updateStartGate, refreshSetup, getCustomPrompt, getCustomMcpServers, getAgentMode, getUiTemplate, getUiTheme, playCompletionSound, requestToolApproval, clearApproval: () => resolveApproval(false), setPlanReady, isPlanExecutionApproved: () => planExecutionApproved, resetPlanApproval: () => { planExecutionApproved = false; resolveApproval(false); }, openMenu: (toSupport) => openMenuFn && openMenuFn(toSupport) };
+  })();
+
+  // ── Live token + timer, shown ONLY on a tool call's chip detail. The
+  //    elapsed-time ANCHOR is stored on the chip's DOM node (dataset) so the
+  //    timer survives re-renders / conversation switches. ────────────────────
+  const TOKEN_CHARS = 4;
+
+  // 0-999 as-is; 1000+ compacted to 1k/1.1k/99k/1M... (one decimal below 10 of
+  // the unit, none at/above it, trailing ".0" dropped) so a live token count
+  // doesn't grow into a wide, jumpy number as the reply streams in.
+  function formatCount(n) {
+    if (n < 1000) return String(n);
+    const units = [[1e9, "B"], [1e6, "M"], [1e3, "k"]];
+    for (const [div, suf] of units) {
+      if (n >= div) {
+        const v = n / div;
+        const rounded = v < 10 ? Math.round(v * 10) / 10 : Math.round(v);
+        return rounded + suf;
+      }
+    }
+    return String(n);
+  }
+
+  function setChipDetail(item, text) {
+    const dt = item && item.querySelector(".zs-chip .zs-chip-dt");
+    if (dt) dt.textContent = text;
+  }
+
+  // Update ONLY the chip's label text (no innerHTML rebuild), so live-correcting
+  // the name mid-stream doesn't restart the spinner or wipe the token meter.
+  function setChipLabel(item, text) {
+    const tx = item && item.querySelector(".zs-chip .zs-chip-tx");
+    if (tx && tx.textContent !== text) tx.textContent = text;
+  }
+
+  // Elapsed seconds since a per-item anchor (persisted on the node).
+  function elapsedOn(item, key, fallbackStart) {
+    if (!item) return 0;
+    let t0 = Number(item.dataset[key] || 0);
+    if (!t0) { t0 = fallbackStart || Date.now(); item.dataset[key] = String(t0); }
+    return (Date.now() - t0) / 1000;
+  }
+
+  // Timestamp of the user's last REAL click on the site (trusted event, outside
+  // EverLua's own UI). A genuine "regenerate ↻" is always such a click;
+  // DeepSeek's post-stop phantom generations and stop-button re-mount flickers
+  // never are - this is what tells them apart (seen live: two false regenResume
+  // fired 8s/2s after a Stop with no user action, un-stopping the halted turn).
+  let _userClickAt = 0;
+  document.addEventListener("click", (e) => {
+    if (e.isTrusted && !(e.target && e.target.closest && e.target.closest("#zs-root"))) {
+      _userClickAt = Date.now();
+    }
+  }, true);
+
+  let _prevHardGen = null, _prevSoftGen = null;
+  setInterval(() => {
+    const gen = P.isGenerating(); // growth-tolerant: used for the live token meter
+    // Watchdog freshness clock. Growth-tolerant (not just the hard stop-button
+    // signal): a SHORT command after a long reasoning phase shows its stop
+    // square for only a frame or two - too briefly for this 200ms sampler.
+    if (gen) A.lastGenAt = Date.now();
+    // High-water mark of the newest turn id seen this session (virtualization-
+    // safe). The auto-resume watchdog uses it to IGNORE a scrolled-back OLD turn:
+    // on a virtualized list lastAssistant() is the last RENDERED turn, which when
+    // scrolled up is old, and its injected-result row is off-screen/unrendered so
+    // the "result below" guard can't see it. A numeric provider id (DeepSeek's
+    // data-virtual-list-item-key) is monotonic per turn, so the max only grows at
+    // the live bottom and a scrolled-back turn reads strictly below it.
+    if (P.itemKey && P.lastAssistantId) {
+      const nk = Number(P.lastAssistantId());
+      if (Number.isFinite(nk) && (A.maxTurnId == null || nk > A.maxTurnId)) A.maxTurnId = nk;
+    }
+    // Slide the regenerate grace anchor while generation is still (intermittently)
+    // active, so the chip stays "run" across gen-false blips right up to the moment
+    // the watchdog re-owns the tool (see regenResume).
+    if (A.resumeArmed && gen) A.resumeArmedAt = Date.now();
+    const hardGen = A.started && P.isHardGenerating();
+
+    // Regenerate-as-resume: after a manual stop (A.userStopped) the agent stays
+    // dormant until fresh user intent. Typing a message or the native Continue
+    // clears the latch, but clicking the site's "regenerate ↻" does not - and on
+    // Qwen that control is unlabeled and indistinguishable from copy/like, so we
+    // can't hook the button reliably. Detect the EFFECT instead: a brand-new
+    // generation (gen false→true) while we are stopped and otherwise idle can only
+    // come from a user action (there is no spontaneous generation). Treat it as
+    // resume - clear the stop latch and drop the turn's stopped/no-resume markers
+    // so the auto-resume watchdog can pick the regenerated reply's tool back up.
+    // Providers with NO native "regenerate" control (e.g. ReidChat) can opt out
+    // via hasRegenerate:false - for them a gen false→true blip while stopped is
+    // only abort/caret churn, never a real regenerate, so honouring it would
+    // spuriously clear the manual-stop latch and auto-resume against the user.
+    // HARD edge only: the growth-tolerant `gen` blips false→true when the site
+    // re-renders the HALTED turn after a stop (adding its "Stopped" marker grows
+    // streamText, which counts as growth for 800ms) - that blip falsely cleared
+    // the latch, repainted the stopped chip ✓ green and re-armed auto-resume. A
+    // real regenerate always raises the site's stop control, so require it; on
+    // DeepSeek (no stop control during reasoning) this merely delays the resume
+    // to the answer phase, after which the watchdog acts anyway.
+    // Tracker: a soft (growth-only) blip in the stopped-idle state - exactly the
+    // false trigger the hard-edge gate above filters out. Log it so live tests
+    // can SEE the old bug firing and being ignored.
+    if (A.started && A.userStopped && !A.running && !A.injecting && !A.stopping &&
+        gen && _prevSoftGen === false && !hardGen) {
+      diag("regenBlip.ignored");
+    }
+    if (P.hasRegenerate !== false &&
+        A.started && A.userStopped && !A.running && !A.injecting && !A.stopping &&
+        hardGen && _prevHardGen === false) {
+      // Gate on ACTUAL user intent: a real regenerate is always a trusted click
+      // moments before the new generation, and never the Stop click itself.
+      // Distinguish the two by ORDER, not a fixed delay: require the latest
+      // trusted click to fall clearly AFTER the Stop (clickAfterStop). A native
+      // stop click lands ~at A.stopAt, so it fails this and can't self-resume;
+      // the extension's own "■ Stop" is inside #zs-root and never updates
+      // _userClickAt at all, so only the later regenerate qualifies. This
+      // replaces the old absolute `stopAge > 3000` grace, which also blocked a
+      // user who regenerated quickly (~1.5s) after Stop - the real bug seen live.
+      // DeepSeek's post-stop phantom generations carry no fresh trusted click,
+      // so they still fail the gate.
+      const clickAge = Date.now() - _userClickAt;
+      const stopAge = Date.now() - (A.stopAt || 0);
+      const clickAfterStop = _userClickAt - (A.stopAt || 0);
+      if (clickAge < 2500 && clickAfterStop > 400) {
+        A.userStopped = false;
+        const it = P.lastAssistant();
+        if (it) {
+          delete it.dataset.zStopped; delete it.dataset.zResume;
+          delete it.dataset.zResumeLen; delete it.dataset.zloop;
+          forgetHalted(it);
+          // Strip the OLD command's chip immediately. The regenerate reuses this
+          // turn node, and without this the previous execute_luau chip (with its
+          // spinner/settled state) lingers for ~200ms until the sweep repaints the
+          // node - the visible "it keeps running the old call for a beat before
+          // restarting" flash reported on Kimi. resetDecoration clears the chip and
+          // every marker so the regenerated reply classifies fresh.
+          resetDecoration(it);
+          // Kimi (and other node-reusing sites) leave the OLD command text in the
+          // reply DOM for ~2s after regenerate starts, before wiping it and
+          // streaming the new reply. resetDecoration only removes OUR chip - the
+          // sweep then re-derives a fresh "run" chip from that stale old command
+          // (old token count and all) until the content is replaced: the "red
+          // stopped chip turns into a grey spinner on the OLD call" flash reported
+          // live. Capture the old text length so the sweep can tell the DOM still
+          // holds the stale command and keep the coherent red "stopped" look until
+          // Kimi actually replaces it (see the zRegenLen guard in classify).
+          try {
+            it.dataset.zRegenLen = String(P.classifyText(it, ".zs-chip").length);
+            it.dataset.zRegenAt = String(Date.now());
+          } catch {}
+        }
+        // Bridge the gap until the auto-resume watchdog (1s interval) re-owns the
+        // tool: regenResume only CLEARS the stop latch, it does not start the loop
+        // (the regenerated command hasn't finished streaming yet, so there's
+        // nothing to dispatch). In that ~1s window A.running is still false and
+        // Gemini's generation signal blips false between reasoning and command
+        // settle, so the sweep painted the chip a premature ✓ "done" before the
+        // real execution began. Arm a grace anchor the sweep honours as "live"; it
+        // slides while generation blips (refreshed in the meter loop) and expires
+        // shortly after generation truly stops, by which point the watchdog has
+        // taken over (A.running) or the reply was plain text with no tool.
+        A.resumeArmed = true;
+        A.resumeArmedAt = Date.now();
+        diag("regenResume", { clickAge, stopAge, clickAfterStop });
+      } else {
+        diag("regenEdge.ignored", { clickAge, stopAge, clickAfterStop });
+      }
+    }
+    _prevHardGen = hardGen;
+    _prevSoftGen = gen;
+    // Our "■ Stop" button stays visible for the WHOLE active turn (generation,
+    // reasoning, or a tool/wait running on the bridge). It is complete on its own
+    // - stopLoop both halts our loop AND clicks the site's native stop - and the
+    // site's native stop likewise halts our loop via onNativeStop, so either one
+    // fully stops everything. Two stop buttons at once is fine.
+    // The bare isHardGenerating() term is gated on a live EverLua session: on
+    // a plain chat with no session, a user's own message makes the site generate,
+    // and we must NOT briefly flash our Stop button over that.
+    // Self-heal a stuck "Stopping…": if we flagged stopping but nothing is
+    // actually busy anymore (the loop's finally never ran because the Stop landed
+    // before a loop started, or a pending start was cancelled), release it so the
+    // button doesn't freeze on "Stopping…". While the site is STILL streaming,
+    // re-click its native stop (throttled) instead of releasing: the first click
+    // sometimes gets swallowed by a re-render, and handing back a clickable
+    // "■ Stop" the user has to press again is exactly the bounce we're killing.
+    if (A.stopping && !A.running && !A.toolRunning) {
+      if (A.started && P.isHardGenerating()) {
+        // CRITICAL: only re-click the native stop if the reply has ACTUALLY kept
+        // growing since the last stop click. On Gemini (and GLM) the stop button
+        // WEDGES visible for up to ~10s after a successful stop, so the old
+        // unconditional retry clicked a stop with NO live stream behind it -
+        // and Gemini queues that stray abort against the conversation, then
+        // KILLS THE NEXT reply the instant it starts ("Vous avez interrompu
+        // cette réponse" on a message the user never stopped - validated live,
+        // 2026-07: two stray stop.retry clicks after a ZS Stop made the next
+        // two user turns die instantly; with no stray clicks the same flow
+        // worked). A swallowed first click - the case this retry exists for -
+        // always shows up as the stream STILL writing, i.e. growth past the
+        // baseline captured at stop time (A.stopStreamLen, set in stopLoop /
+        // onNativeStop and re-based after each retry so every retry needs
+        // fresh growth of its own).
+        const grown = (P.streamLen ? P.streamLen() : 0) > (A.stopStreamLen || 0) + 24;
+        if (grown && Date.now() - (A.stopRetryAt || 0) > 800) {
+          A.stopRetryAt = Date.now();
+          A.stopStreamLen = P.streamLen ? P.streamLen() : 0;
+          try { P.stopGeneration(); } catch {}
+          diag("stop.retry");
+        } else if (!grown && Date.now() - (A.stopAt || 0) > 2500) {
+          // Wedged stop button on a dead stream (text frozen since the stop):
+          // the site is effectively quiet - release "Stopping…" instead of
+          // holding it for the whole wedge window.
+          A.stopping = false;
+          diag("stop.quiet", { wedged: true });
+        }
+      } else {
+        A.stopping = false;
+        diag("stop.quiet"); // drain over: site quiet, Stopping… released
+      }
+    }
+    ui.showStop(A.running || A.toolRunning || A.stopping || (A.started && P.isHardGenerating()));
+
+    // Tool is executing on the MCP → timer on its chip.
+    if (A.toolRunning && A.toolItem) {
+      const s = elapsedOn(A.toolItem, "zsToolT0", A.toolStart).toFixed(1);
+      setChipDetail(A.toolItem, (A.toolArg ? A.toolArg + " · " : "") + `${s}s`);
+      return;
+    }
+    // The site is streaming a tool call → token count + timer on its chip.
+    if (gen) {
+      const item = P.lastAssistant();
+      const reply = item ? P.itemText(item) : ""; // non-thinking only
+      const zphase = item && item.dataset.zphase;
+      // Skip items already settled (done/err) - don't overwrite the finished chip.
+      if (item && zphase !== "done" && zphase !== "err" && ZSParse.hasToolSignature(reply)) {
+        // Live-correct the label as soon as the real name streams in.
+        const name = ZSParse.toolNameFromText(reply);
+        if (name && name !== "command") setChipLabel(item, name);
+        const tokens = Math.floor(reply.length / TOKEN_CHARS);
+        const s = Math.round(elapsedOn(item, "zsGenT0"));
+        setChipDetail(item, `~${formatCount(tokens)} tokens · ${s}s`);
+        return;
+      }
+    }
+  }, 200);
+
+  // ════════════════════════════════════════════════════════════════════════
+  //  WIRING
+  // ════════════════════════════════════════════════════════════════════════
+
+  chrome.runtime.onMessage.addListener((msg) => {
+    if (msg && msg.type === "zs-status") {
+      ui.setStatus({ connected: msg.connected, mcpAlive: msg.mcpAlive, studio: msg.studio, studioApp: msg.studioApp, studioProc: msg.studioProc, tools: msg.tools, servers: msg.servers });
+    }
+    if (msg && msg.type === "zs-open-menu") {
+      ui.openMenu(false); // from the popup's Settings button — opens at the top (Switch AI / custom prompt)
+    }
+  });
+
+  bg({ type: "status" }).then((s) => s && ui.setStatus(s));
+  setInterval(() => bg({ type: "status" }).then((s) => s && ui.setStatus(s)), 5000);
+
+  // Session state is derived from the ACTUAL chat, but sites VIRTUALIZE their
+  // message lists: the system-prompt turn is dropped from the DOM once it
+  // scrolls out of the window. So we key "started" by conversation
+  // (P.conversationKey()): once we have seen the marker for a key, we remember
+  // it (persisted so it survives reloads). We never flip while busy.
+  const startedSessions = new Set();
+  let lastSyncPath = null;
+  function rememberSession(path) {
+    // A falsy key = a TRANSIENT conversation URL (e.g. Gemini's /app before an
+    // id is assigned). Remembering it would mark every future fresh chat as
+    // "already started" and kill the Start gate. The real key is remembered by
+    // the next sync once the site assigns the conversation its id.
+    if (!path) return;
+    if (startedSessions.has(path)) return;
+    startedSessions.add(path);
+    try { chrome.storage.local.set({ zsStartedSessions: [...startedSessions].slice(-300) }); } catch {}
+  }
+  // Load the persisted set once, then re-sync.
+  try {
+    chrome.storage.local.get("zsStartedSessions", (r) => {
+      if (r && Array.isArray(r.zsStartedSessions)) {
+        for (const p of r.zsStartedSessions) startedSessions.add(p);
+        syncSessionState();
+      }
+    });
+  } catch {}
+  // A conversation IS a EverLua session if any rendered turn carries a
+  // telltale artefact: the system-prompt marker, an injected tool-result /
+  // system-note turn, or a EverLua command an assistant wrote. Works even
+  // after a full cold start and regardless of scroll position.
+  function domHasZsSignal() {
+    for (const it of P.allItems()) {
+      const txt = it.textContent || "";
+      if (txt.includes(ZS.SYS_MARKER)) return true;
+      if (/(^|\n)\s*Output of '[^']+':/.test(txt) || txt.includes("(System note:")) return true;
+      // Deliberately NO bare command-shape test here. An assistant turn that
+      // merely CONTAINS {"command":...} / ###LUA### is NOT proof of a session:
+      // in a plain, never-started chat the model can simply EXPLAIN the format
+      // (docs, examples, the user pasting our README) - that false positive
+      // flipped A.started on, which armed the auto-resume watchdog, EXECUTED
+      // the quoted JSON as a real command and injected its result into a chat
+      // that had no agent at all (user-reported). A command only counts as a
+      // session signal once it was actually RUN - and an executed command is
+      // always followed by our injected "Output of '...'" feedback turn, which
+      // the test above already catches. Virtualization (the marker turns
+      // scrolling out of the DOM) is covered by the persisted per-conversation
+      // key set (startedSessions / zsStartedSessions in rememberSession), not
+      // by this heuristic.
+    }
+    return false;
+  }
+  function syncSessionState() {
+    // While a bootstrap runs, track its conversation. The bootstrap chat gets a
+    // real id only AFTER the prompt lands (fresh "/app" → "/app/<id>"), so we pin
+    // the id the first time the chat has content. A change to a DIFFERENT, EMPTY
+    // chat means the user opened a new conversation → abort: bump the generation
+    // (the in-flight startSession bails at its next checkpoint) and clear state so
+    // the new chat shows its own status instead of a stale "Starting…".
+    if (A.starting) {
+      const key = P.conversationKey();
+      if (A.startingKey == null) {
+        if (key && !P.chatIsEmpty()) A.startingKey = key; // pin the stable id
+      } else if (key !== A.startingKey && P.chatIsEmpty()) {
+        A.startGen++;
+        A.starting = false;
+        A.startingKey = null;
+        P.setInputLock(false);
+        ui.setStarting(false);
+        // CRITICAL: startSession's own finally is gated on `alive()` (this abandon
+        // just invalidated it via startGen++), so it will NEVER run and never
+        // lift the "Agent is working…" cover. Without this line the cover was
+        // stuck forever on the fresh chat whenever the user opened a new,
+        // empty conversation WHILE the bootstrap's tool call (list_commands) was
+        // still in flight - validated live 2026-07 on Cloudflare AI Playground.
+        ui.inputCover(false);
+      }
+    }
+    // Same idea for a RUNNING loop: if the user opens a NEW, empty conversation
+    // via the SITE's own new-chat (not EverLua's button), the loop is bound to
+    // a chat the user left, so abandon it. Otherwise A.running keeps this function
+    // early-returning below and the stale "Agent active" / Stop button lingers on
+    // the fresh chat instead of "Start Roblox agent". The "/app" → "/app/<id>" id
+    // assignment of the SAME chat is not a move (loopKey is pinned only once the
+    // chat has both an id and content), so a normal session is never disturbed.
+    if (A.running) {
+      const key = P.conversationKey();
+      if (A.loopKey == null) {
+        if (key && !P.chatIsEmpty()) A.loopKey = key; // pin the loop's conversation
+      } else if (key !== A.loopKey && P.chatIsEmpty()) {
+        diag("loop.abandonedNewChat", { from: A.loopKey, to: key });
+        A.stop = true;       // the loop breaks at its next checkpoint; its finally
+        A.loopKey = null;    // resets A.running / cover / lock, then state recomputes
+      }
+    }
+    if (A.starting || A.injecting || A.running) return;
+    const path = P.conversationKey();
+    const markerInDom = domHasZsSignal();
+    if (markerInDom) rememberSession(path);
+    let has;
+    if (path && path === lastSyncPath) {
+      // SAME, REAL conversation: never downgrade a known-started session just
+      // because virtualization scrolled the marker out of the DOM. "started" is
+      // sticky until the key actually changes (a different conversation).
+      // NOTE: a falsy key ("" = a transient/fresh chat with no id yet) is NEVER
+      // sticky - every fresh chat shares "", so a brief transient sweep during
+      // navigation would otherwise PIN lastSyncPath="" with has=true and then keep
+      // "Agent active" forever on the next empty chat (it would never recompute).
+      has = A.started || markerInDom || (!!path && startedSessions.has(path));
+    } else {
+      // Different conversation → recompute from scratch.
+      has = markerInDom || (!!path && startedSessions.has(path));
+      lastSyncPath = path;
+    }
+    if (has !== A.started) {
+      A.started = has;
+      ui.setStarted(has);
+    }
+  }
+
+  // Schedule a debounced sweep. requestAnimationFrame is PAUSED in a background
+  // tab, so when hidden we fall back to a timer (throttled, but it runs).
+  let sweepScheduled = false;
+  function scheduleSweep() {
+    if (sweepScheduled) return;
+    sweepScheduled = true;
+    const run = () => {
+      sweepScheduled = false;
+      syncSessionState();
+      P.enforceComposer();  // keep the composer in the provider's required modes
+      ui.updateStartGate(); // block the input until a session is started
+      decorate.sweep();
+    };
+    if (document.hidden) setTimeout(run, 100);
+    else requestAnimationFrame(run);
+  }
+  // Synchronous pre-hide: MutationObserver callbacks run as a microtask BEFORE
+  // the browser paints, but the debounced sweep above waits one extra rAF -
+  // long enough for a freshly-sent system-prompt/injected-feedback turn's raw
+  // text to paint for a single frame before decorate.sweep() builds its chip
+  // and hides it (seen live on DeepSeek: "Starting Up" flashed the raw prompt
+  // for an instant). Do the cheap whole-item hide test right here, synchronously,
+  // so the class lands before that first paint; the full sweep still runs after
+  // to build the actual chip.
+  function preHideWholeItems() {
+    // ChatGPT's React tree is sensitive to any mutations inside message turns.
+    // Its command text must remain untouched until parsing and execution are
+    // complete; the dedicated EverLua bar still reports connection and mode.
+    if (P.id === "chatgpt") return;
+    const items = P.allItems();
+    // Optimistic pre-hide of a freshly injected result turn (armed in
+    // submitAndGetBase). The text-based match below can only fire once the
+    // "Output of '…'" caption has rendered, but the turn's NODE appears first
+    // (with its attached image) and the caption fills a tick later - so the raw
+    // output would flash until a post-send sweep nudge. We know the newest user
+    // turn in this window is ours: hide it on sight (blank, no raw text), and let
+    // the normal sweep swap in the real "· result" chip when the caption lands.
+    if (A.injectHideUntil && Date.now() < A.injectHideUntil) {
+      const users = items.filter((it) => P.isUserItem(it));
+      const last = users[users.length - 1];
+      if (last && !last.classList.contains("zs-hidden") &&
+          users.length > (A.injectPreUser || 0)) {
+        last.classList.add("zs-hidden");
+        A.injectHideUntil = 0; // one-shot: this turn is now masked
+        diag("result.prehide", { users: users.length });
+      }
+    }
+    for (const item of items) {
+      if (item.classList.contains("zs-hidden")) continue;
+      const txt = P.classifyText(item, ".zs-chip");
+      if (txt.includes(ZS.SYS_MARKER) ||
+          (P.isUserItem(item) && ZSParse.isInjectedFeedback(txt))) {
+        item.classList.add("zs-hidden");
+      }
+    }
+  }
+  const mo = new MutationObserver(() => {
+    preHideWholeItems();
+    scheduleSweep();
+  });
+  mo.observe(document.documentElement, { childList: true, subtree: true });
+  // Belt-and-braces: a low-frequency sweep regardless of tab visibility or
+  // mutation timing, so camouflage always converges.
+  setInterval(scheduleSweep, 1500);
+  // When the user returns to the tab, immediately refresh camouflage/state.
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) scheduleSweep(); });
+
+  syncSessionState();
+
+  // User-send interception: the provider wires the site's composer events to
+  // these callbacks.
+  P.installSendHooks({
+    isBlocked: () => A.injecting || A.running || A.starting,
+    isStarted: () => A.started,
+    onBlockedAttempt: () => ui.nudgeStart(),
+    onUserMessage: (base) => {
+      // A fresh user message = fresh intent: clear any previous manual stop so
+      // the loop is allowed to run again.
+      A.userStopped = false;
+      // It is also an explicit request to leave any stale visual stop state.
+      // Without this, ChatGPT could show “Stopping…” forever and ignore the
+      // next instruction even though no loop or tool was still running.
+      A.stopping = false;
+      A.stop = false;
+      A.goalActive = ui.getAgentMode() === "automatic";
+      A.goalContinuations = 0;
+      ui.setStarted();
+      ui.showStop(false);
+      captureSendToken(); // identity of the assistant turn before this reply
+      // A Stop clicked during this 300ms window sets A.userStopped → honor it and
+      // do NOT start the loop (otherwise the stop is silently ignored and the
+      // freshly-started loop strands the "Stopping…" flag).
+      setTimeout(() => { if (!A.running && !A.userStopped) agentLoop(base); }, 300);
+    },
+    onBlockedUserMessage: (base) => {
+      // A real user can send during the few milliseconds while the preceding
+      // loop is winding down. Preserve that intent and start it as soon as the
+      // current loop releases ownership; only our own injected feedback is
+      // ignored here.
+      if (A.injecting || A.starting) return;
+      A.userStopped = false;
+      A.stopping = false;
+      A.stop = false;
+      A.goalActive = ui.getAgentMode() === "automatic";
+      A.goalContinuations = 0;
+      ui.setStarted();
+      captureSendToken();
+      const waitForHandoff = () => {
+        if (A.userStopped) return;
+        if (!A.running && !A.injecting && !A.starting) { agentLoop(base); return; }
+        setTimeout(waitForHandoff, 150);
+      };
+      setTimeout(waitForHandoff, 150);
+    },
+    onNativeStop: () => {
+      // A click on the site's own stop = a deliberate manual stop → suppress
+      // auto-resume.
+      A.userStopped = true;
+      A.stop = true;
+      A.resumeArmed = false; // a stop overrides any pending regenerate grace
+      A.stopAt = Date.now(); // grace anchor for the regenerate-as-resume gates
+      // Same growth baseline as stopLoop: the stop-retry self-heal must only
+      // re-click if the stream keeps writing past this point (see stop.retry).
+      A.stopStreamLen = P.streamLen ? P.streamLen() : 0;
+      // If our loop is live, mirror the same "Stopping…" feedback as our own
+      // Stop button so the bar reflects the wind-down instead of flickering.
+      if (A.running && !A.stopping) { A.stopping = true; ui.markStopping(); }
+      markStoppedTurn();
+      diag("nativeStop");
+    },
+    onNativeContinue: () => {
+      // The site's "Continue" button = a clear intent to RESUME after a stop/
+      // truncation. Clear the manual-stop latch so auto-resume can pick the
+      // (resumed) turn's tool call back up cleanly.
+      A.userStopped = false;
+      A.stop = false;
+      const it = P.lastAssistant();   // a real resume → drop the stopped marker
+      if (it) { delete it.dataset.zStopped; forgetHalted(it); }
+      diag("nativeContinue");
+    },
+  });
+
+  // Auto-resume watchdog - the safety net that keeps the agentic loop alive when
+  // a tool call finished AFTER the loop finalized early (huge multi_edit, tab
+  // returning from background). It must NEVER fire on a tool call merely
+  // PRESENT in the DOM without a fresh live generation. Guards:
+  //   • A.userStopped - the user halted; never relaunch against their intent.
+  //   • lastGenAt recency - only resume a turn from a generation in the last
+  //     few seconds; a turn rendered by load/scroll has no recent generation.
+  //   • turnHalted - the turn itself carries the site's "stopped" marker.
+  // Each turn is still resumed at most once (zResume marker).
+  const RESUME_FRESH_MS = 8000;
+  // Handles a design change selected while the provider was generating or a
+  // tool was running. It never sends until flushUiDesignChange's idle guards pass.
+  setInterval(() => { void flushUiDesignChange(); }, 750);
+  setInterval(() => {
+    if (!A.started || A.running || A.starting || A.injecting) return;
+    if (document.hidden) return;                         // AI tab not foreground → don't parse/exec off-screen (agentLoop gates too)
+    if (A.userStopped) return;                          // user halted → never relaunch
+    if (P.isGenerating()) return;
+    if (Date.now() - A.lastGenAt > RESUME_FRESH_MS) return; // not a fresh live turn
+    const item = P.lastAssistant();
+    if (!item || item.dataset.zloop) return;
+    // Never resume the turn that already existed when this session started - it is
+    // a reload-restored generation, not a reply to one of our sends (see
+    // A.bootBaselineId). Guards the "execute_luau leaked into the new chat" bug.
+    if (A.bootBaselineId && P.lastAssistantId && P.lastAssistantId() === A.bootBaselineId) return;
+    if (P.turnHalted(item)) return;                     // this turn was stopped → leave it
+    // Scrolled-back OLD turn guard (virtualization). lastAssistant() is the last
+    // RENDERED turn; scrolling up makes it an old command whose id is below the
+    // session's high-water mark. Its result row may be off-screen (unrendered), so
+    // the result-below guard alone can miss it - this catches it directly. Only
+    // applies when the provider exposes a numeric monotonic id (DeepSeek).
+    const curId = P.itemKey ? Number(P.itemKey(item)) : NaN;
+    if (Number.isFinite(curId) && A.maxTurnId != null && curId < A.maxTurnId) {
+      // Log once per distinct turn, not every 1s tick while the user stays up.
+      if (A._skipOldId !== curId) { A._skipOldId = curId; diag("resume.skipOld", { curId, maxTurnId: A.maxTurnId }); }
+      return;
+    }
+    // Settled-history guard (survives a page reload, unlike the executed map).
+    // A genuine resume target is a command whose tool NEVER produced a result;
+    // it has NO injected-feedback turn after it. Every ALREADY-EXECUTED command
+    // is followed by its injected result. On a virtualized list, scrolling up
+    // makes lastAssistant() an OLD command turn AND flickers isGenerating() true
+    // (sampleStream resets on the node change), refreshing lastGenAt - so the
+    // freshness guard alone doesn't stop it, and after a reload the executed map
+    // is empty. Keying off the result-below turn robustly separates the in-flight
+    // command from settled history: a scrolled-back tool with its result already
+    // present is never re-fired. (Confirmed live: same-conv reload + scroll up
+    // re-executed a historical command.)
+    const all = P.allItems();
+    const after = all[all.indexOf(item) + 1];
+    if (after && P.isUserItem(after) &&
+        ZSParse.isInjectedFeedback(P.classifyText(after, ".zs-chip"))) return;
+    const txt = P.itemText(item);
+    if (!ZSParse.hasToolSignature(txt)) return;
+    // Node-independent dedupe: this turn's command was already dispatched (by the
+    // loop or a prior resume). The dataset guards below are wiped when the site
+    // recreates the node on scroll, so without this off-DOM check the watchdog
+    // re-runs a historical tool with no live generation. See the `executed` map.
+    if (isRememberedExecuted(item, txt)) return;
+    // Resume only when a COMPLETE, parseable command is present - and re-attempt
+    // if the turn has GROWN since our last try.
+    if (!ZSParse.parseToolCalls(txt).length) return;
+    const len = txt.length;
+    if (item.dataset.zResume && Number(item.dataset.zResumeLen || 0) >= len) return;
+    item.dataset.zResume = "1";
+    item.dataset.zResumeLen = String(len);
+    rememberExecuted(item);
+    diag("autoResume", { len });
+    // The reply turn is ALREADY present - act on it immediately. Null token makes
+    // the identity-based newReply test unconditionally true (any current id != null).
+    A.sendToken = null;
+    agentLoop(P.assistantCount() - 1);
+  }, 1000);
+
+  log(`EverLua content script ready (provider: ${P.id})`);
+})();

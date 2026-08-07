@@ -3,3 +3,4 @@ logs/
 __pycache__/
 dist/
 .codex-remote-attachments/
+EVERLUA-HANDOFF.md

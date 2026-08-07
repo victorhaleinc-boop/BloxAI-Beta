@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# SPDX-License-Identifier: LicenseRef-EverLua-Proprietary
+# SPDX-License-Identifier: GPL-3.0-only
 # MacOS_Start.command
 # ---------------------------------------------------------------------------
 #  Self-contained macOS/Linux launcher for the EverLua bridge.

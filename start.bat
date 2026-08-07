@@ -1,4 +1,4 @@
-:: SPDX-License-Identifier: LicenseRef-EverLua-Proprietary
+:: SPDX-License-Identifier: GPL-3.0-only
 @echo off
 setlocal enabledelayedexpansion
 chcp 65001 >nul
