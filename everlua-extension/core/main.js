@@ -152,6 +152,9 @@
     // A user task stays active until the model explicitly marks it complete.
     goalActive: false,
     goalContinuations: 0,
+    // A goal check is a single follow-up message, never a retryable batch.
+    // ChatGPT can delay its DOM acknowledgement after accepting a send.
+    goalCheckPending: false,
     // The latest UI-kit/theme choice waiting to be safely injected into an
     // already active AI conversation. `undefined` means nothing is waiting;
     // an empty string deliberately means "clear this preference".
@@ -293,7 +296,10 @@
       // feedback to be sent several times. Send ONLY while visible.
       let tries = 0;
       let messageSent = false;
-      while (!messageSent && !landed() && tries < 4 && !A.stop) {
+      // A click on the provider's enabled Send button is the one safe send.
+      // Do not click it again merely because the provider was slow to update
+      // its DOM; doing so duplicated injected goal checks in the conversation.
+      while (!messageSent && !landed() && tries < 1 && !A.stop) {
         if (document.hidden) {
           diag("send.waitVisible", { tries });
           if (!(await waitVisible()) || A.stop) break; // park (no cap) until foreground; break only on user stop
@@ -1211,6 +1217,10 @@
         let res = await waitForResponse(base);
         res = await recoverChatGPTCommand(res);
         diag("response", { kind: res.kind });
+        if (A.goalCheckPending) {
+          A.goalCheckPending = false;
+          diag("goal.checkReply", { kind: res.kind });
+        }
         if (A.stop || res.kind === "stopped") break;
 
         if (res.kind === "context_limit") {
@@ -1310,10 +1320,11 @@
             /^\s*(?:done|completed|finished)\b/i.test(latestGoalReply);
           const executionEnabled = ui.getAgentMode() === "automatic" ||
             (ui.getAgentMode() === "plan" && ui.isPlanExecutionApproved());
-          const canContinueGoal = A.goalActive && executionEnabled &&
+          const canContinueGoal = A.goalActive && executionEnabled && !A.goalCheckPending &&
             !goalComplete && A.goalContinuations < 8;
           if (canContinueGoal) {
             A.goalContinuations++;
+            A.goalCheckPending = true;
             ui.setStarted();
             diag("goal.continue", { attempt: A.goalContinuations });
             base = await submitAndGetBase(
@@ -1323,6 +1334,7 @@
           }
           A.goalActive = false;
           A.goalContinuations = 0;
+          A.goalCheckPending = false;
           ui.setStarted();
           completedNormally = true;
           break;
@@ -1678,6 +1690,7 @@
     if (!A.started || A.running || A.starting) return;
     A.goalActive = false;
     A.goalContinuations = 0;
+    A.goalCheckPending = false;
     try {
       await submitAndGetBase(modeChangeInstruction(mode));
       ui.toast(`${mode === "plan" ? "Plan" : mode[0].toUpperCase() + mode.slice(1)} mode is active in this chat.`);
@@ -1716,6 +1729,7 @@
     if (!A.started || A.running || A.starting) return;
     A.goalActive = true;
     A.goalContinuations = 0;
+    A.goalCheckPending = false;
     ui.setStarted();
     try {
       const base = await submitAndGetBase(
@@ -4251,6 +4265,7 @@
       A.stop = false;
       A.goalActive = ui.getAgentMode() === "automatic";
       A.goalContinuations = 0;
+      A.goalCheckPending = false;
       ui.setStarted();
       ui.showStop(false);
       captureSendToken(); // identity of the assistant turn before this reply
@@ -4270,6 +4285,7 @@
       A.stop = false;
       A.goalActive = ui.getAgentMode() === "automatic";
       A.goalContinuations = 0;
+      A.goalCheckPending = false;
       ui.setStarted();
       captureSendToken();
       const waitForHandoff = () => {
